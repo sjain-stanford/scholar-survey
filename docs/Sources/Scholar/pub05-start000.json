@@ -1,0 +1,655 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cites": "11063097314330123367",
+    "hl": "en",
+    "num": 20,
+    "start": 0,
+    "filter": 0,
+    "as_vis": 0,
+    "as_sdt": 7
+  },
+  "accessed_at_utc": "2026-10-07T12:39:31.869078+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63d83fbe53b4e7bfd6744",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/aNQc_Glb7UXaC8g3lLOhZeA5SyWnd5Te4bpBZCPJ1ek/6ac63d83fbe53b4e7bfd6744.json",
+      "markdown_endpoint": "https://serpapi.com/searches/aNQc_Glb7UXaC8g3lLOhZeA5SyWnd5Te4bpBZCPJ1ek/6ac63d83fbe53b4e7bfd6744.md",
+      "created_at": "2026-10-07 12:39:31 UTC",
+      "processed_at": "2026-10-07 12:39:31 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cites=11063097314330123367&hl=en&start=0&num=21&filter=0&as_sdt=7&as_vis=0&scipsc=1",
+      "raw_html_file": "https://serpapi.com/searches/aNQc_Glb7UXaC8g3lLOhZeA5SyWnd5Te4bpBZCPJ1ek/6ac63d83fbe53b4e7bfd6744.html",
+      "total_time_taken": 0.22
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cites": "11063097314330123367",
+      "hl": "en",
+      "start": 0,
+      "num": "20",
+      "filter": "0",
+      "as_sdt": "7",
+      "as_vis": "0"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 13,
+      "time_taken_displayed": 0.03
+    },
+    "citations_per_year": [
+      {
+        "year": 2020,
+        "citations": 4
+      },
+      {
+        "year": 2022,
+        "citations": 3
+      },
+      {
+        "year": 2023,
+        "citations": 3
+      },
+      {
+        "year": 2024,
+        "citations": 2
+      },
+      {
+        "year": 2025,
+        "citations": 1
+      }
+    ],
+    "profiles": {
+      "link": "https://scholar.google.com/scholar?cluster=11063097314330123367&hl=en&num=20&as_sdt=2007&sciodt=2007",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Towards machine learning-based fpga backend flow: Challenges and opportunities",
+        "result_id": "iYa0KfRNLNUJ",
+        "type": "Html",
+        "link": "https://www.mdpi.com/2079-9292/12/4/935",
+        "snippet": "Field-Programmable Gate Array (FPGA) is at the core of System on Chip (SoC) design across various Industry 5.0 digital systems—healthcare devices, farming equipment …",
+        "publication_info": {
+          "summary": "I Taj, U Farooq - Electronics, 2023 - mdpi.com",
+          "authors": [
+            {
+              "name": "I Taj"
+            },
+            {
+              "name": "U Farooq",
+              "link": "https://scholar.google.com/citations?user=odeGp9UAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "odeGp9UAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=odeGp9UAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "HTML",
+            "link": null
+          },
+          {
+            "title": "mdpi.com",
+            "file_format": "HTML",
+            "link": "https://www.mdpi.com/2079-9292/12/4/935"
+          },
+          {
+            "title": "Full View",
+            "link": "https://scholar.google.com/scholar?output=instlink&q=info:iYa0KfRNLNUJ:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007&scillfp=7775571885853250976&oi=lle"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=iYa0KfRNLNUJ",
+          "html_version": "https://www.mdpi.com/2079-9292/12/4/935",
+          "cited_by": {
+            "total": 27,
+            "link": "https://scholar.google.com/scholar?cites=15360738140120974985&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "15360738140120974985",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=15360738140120974985&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:iYa0KfRNLNUJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=11063097314330123367&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AiYa0KfRNLNUJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 9,
+            "link": "https://scholar.google.com/scholar?cluster=15360738140120974985&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "15360738140120974985",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=15360738140120974985&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:iYa0KfRNLNUJ:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007"
+        }
+      },
+      {
+        "position": 2,
+        "title": "Towards machine learning for placement and routing in chip design: a methodological overview",
+        "result_id": "6BybiSwWZY0J",
+        "link": "https://arxiv.org/abs/2202.13564",
+        "snippet": "Placement and routing are two indispensable and challenging (NP-hard) tasks in modern chip design flows. Compared with traditional solvers using heuristics or expert-well …",
+        "publication_info": {
+          "summary": "J Yan, X Lyu, R Cheng, Y Lin - arXiv preprint arXiv:2202.13564, 2022 - arxiv.org",
+          "authors": [
+            {
+              "name": "J Yan",
+              "link": "https://scholar.google.com/citations?user=ga230VoAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "ga230VoAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ga230VoAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "X Lyu"
+            },
+            {
+              "name": "R Cheng",
+              "link": "https://scholar.google.com/citations?user=G3Wy2N4AAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "G3Wy2N4AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=G3Wy2N4AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "Y Lin",
+              "link": "https://scholar.google.com/citations?user=155hQCcAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "155hQCcAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=155hQCcAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2202.13564"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=6BybiSwWZY0J",
+          "cited_by": {
+            "total": 27,
+            "link": "https://scholar.google.com/scholar?cites=10188574112538631400&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "10188574112538631400",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10188574112538631400&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:6BybiSwWZY0J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=11063097314330123367&engine=google_scholar&filter=0&hl=en&num=20&q=related%3A6BybiSwWZY0J%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=10188574112538631400&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "10188574112538631400",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=10188574112538631400&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:6BybiSwWZY0J:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007"
+        }
+      },
+      {
+        "position": 3,
+        "title": "A survey on machine learning-based routing for VLSI physical design",
+        "result_id": "lGRT7LbCJJ8J",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0167926022000542",
+        "snippet": "Routing is one of the most important and time-consuming stages of physical design. As the process node of semiconductors keeps scaling down, the routing process faces increasing …",
+        "publication_info": {
+          "summary": "L Li, Y Cai, Q Zhou - Integration, 2022 - Elsevier",
+          "authors": [
+            {
+              "name": "L Li"
+            },
+            {
+              "name": "Y Cai"
+            },
+            {
+              "name": "Q Zhou"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=lGRT7LbCJJ8J",
+          "cited_by": {
+            "total": 24,
+            "link": "https://scholar.google.com/scholar?cites=11467504642096850068&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "11467504642096850068",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=11467504642096850068&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:lGRT7LbCJJ8J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=11063097314330123367&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AlGRT7LbCJJ8J%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=11467504642096850068&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "11467504642096850068",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=11467504642096850068&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 4,
+        "title": "Machine learning for congestion management and routability prediction within FPGA placement",
+        "result_id": "AgRjrfh5MIYJ",
+        "link": "https://dl.acm.org/doi/abs/10.1145/3373269",
+        "snippet": "Placement for Field Programmable Gate Arrays (FPGAs) is one of the most important but time-consuming steps for achieving design closure. This article proposes the integration of …",
+        "publication_info": {
+          "summary": "H Szentimrey, A Al-Hyari, J Foxcroft, T Martin… - ACM Transactions on …, 2020 - dl.acm.org",
+          "authors": [
+            {
+              "name": "H Szentimrey",
+              "link": "https://scholar.google.com/citations?user=otogLNEAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "otogLNEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=otogLNEAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "A Al-Hyari",
+              "link": "https://scholar.google.com/citations?user=sEuMQeQAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "sEuMQeQAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=sEuMQeQAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "J Foxcroft",
+              "link": "https://scholar.google.com/citations?user=hz7Vj8EAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "hz7Vj8EAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=hz7Vj8EAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "T Martin"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "acm.org",
+            "file_format": "PDF",
+            "link": "https://dl.acm.org/doi/pdf/10.1145/3373269"
+          },
+          {
+            "title": "Full View",
+            "link": "https://scholar.google.com/scholar?output=instlink&q=info:AgRjrfh5MIYJ:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007&scillfp=12670324014480142862&oi=lle"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=AgRjrfh5MIYJ",
+          "cited_by": {
+            "total": 28,
+            "link": "https://scholar.google.com/scholar?cites=9669362508932252674&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "9669362508932252674",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9669362508932252674&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:AgRjrfh5MIYJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=11063097314330123367&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AAgRjrfh5MIYJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cluster=9669362508932252674&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "9669362508932252674",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=9669362508932252674&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 5,
+        "title": "Multiterminal pathfinding in practical VLSI systems with deep neural networks",
+        "result_id": "WbELSGOJ7z4J",
+        "link": "https://dl.acm.org/doi/abs/10.1145/3564930",
+        "snippet": "A multiterminal obstacle-avoiding pathfinding approach is proposed. The approach is inspired by deep image learning. The key idea is based on training a conditional generative …",
+        "publication_info": {
+          "summary": "D Utyamishev, I Partin-Vaisband - ACM Transactions on Design …, 2023 - dl.acm.org",
+          "authors": [
+            {
+              "name": "D Utyamishev",
+              "link": "https://scholar.google.com/citations?user=acQrpwoAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "acQrpwoAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=acQrpwoAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "I Partin-Vaisband",
+              "link": "https://scholar.google.com/citations?user=visXuWkAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "visXuWkAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=visXuWkAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "acm.org",
+            "file_format": "PDF",
+            "link": "https://dl.acm.org/doi/pdf/10.1145/3564930"
+          },
+          {
+            "title": "Full View",
+            "link": "https://scholar.google.com/scholar?output=instlink&q=info:WbELSGOJ7z4J:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007&scillfp=8698158891851728193&oi=lle"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=WbELSGOJ7z4J",
+          "cited_by": {
+            "total": 13,
+            "link": "https://scholar.google.com/scholar?cites=4534994409288872281&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "4534994409288872281",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4534994409288872281&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:WbELSGOJ7z4J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=11063097314330123367&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AWbELSGOJ7z4J%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 6,
+            "link": "https://scholar.google.com/scholar?cluster=4534994409288872281&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "4534994409288872281",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=4534994409288872281&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 6,
+        "title": "Enhancing FPGA CAD Flow with AI-Powered Solutions",
+        "result_id": "RXmJXUN2EkwJ",
+        "link": "https://link.springer.com/chapter/10.1007/978-3-031-71436-8_7",
+        "snippet": "FPGA, short for Field-Programmable Gate Array, is a type of integrated circuit that can be programmed and configured by users or designers after manufacturing. Due to its …",
+        "publication_info": {
+          "summary": "C Lin, Y Yi - AI-Enabled Electronic Circuit and System Design: From …, 2024 - Springer",
+          "authors": [
+            {
+              "name": "C Lin",
+              "link": "https://scholar.google.com/citations?user=kewMZ0wAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "kewMZ0wAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=kewMZ0wAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "Y Yi",
+              "link": "https://scholar.google.com/citations?user=ceRq6DEAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "ceRq6DEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ceRq6DEAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=RXmJXUN2EkwJ",
+          "cited_by": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cites=5481573728167491909&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "5481573728167491909",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=5481573728167491909&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:RXmJXUN2EkwJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=11063097314330123367&engine=google_scholar&filter=0&hl=en&num=20&q=related%3ARXmJXUN2EkwJ%3Ascholar.google.com%2F&start=0"
+        }
+      },
+      {
+        "position": 7,
+        "title": "Application of machine learning to physical design",
+        "result_id": "O_14v-khpB4J",
+        "type": "Pdf",
+        "link": "https://scholarworks.calstate.edu/downloads/vx021n292",
+        "snippet": "The special features we may put in SoCs are no longer primarily constrained by chip space limitations because of Moore's law's exponential increase in transistor density. Instead, the …",
+        "publication_info": {
+          "summary": "VB Pawar - San Francisco State University, 2022 - scholarworks.calstate.edu",
+          "authors": [
+            {
+              "name": "VB Pawar"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "calstate.edu",
+            "file_format": "PDF",
+            "link": "https://scholarworks.calstate.edu/downloads/vx021n292"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=O_14v-khpB4J",
+          "cited_by": {
+            "total": 5,
+            "link": "https://scholar.google.com/scholar?cites=2207927005141859643&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "2207927005141859643",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=2207927005141859643&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:O_14v-khpB4J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=11063097314330123367&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AO_14v-khpB4J%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cluster=2207927005141859643&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "2207927005141859643",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=2207927005141859643&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:O_14v-khpB4J:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007"
+        }
+      },
+      {
+        "position": 8,
+        "title": "Global routing under a congestion-aware reinforcement learning model",
+        "result_id": "fvNLWggb5EQJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10218371/",
+        "snippet": "As one of the challenging problems in VLSI physical design, global routing is facing increasing difficulties and more and more algorithms attempt to introduce machine learning …",
+        "publication_info": {
+          "summary": "L Li, Y Cai, Q Zhou - 2023 International Symposium of …, 2023 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "L Li"
+            },
+            {
+              "name": "Y Cai"
+            },
+            {
+              "name": "Q Zhou"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=fvNLWggb5EQJ",
+          "cited_by": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cites=4964122411957744510&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "4964122411957744510",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4964122411957744510&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:fvNLWggb5EQJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=11063097314330123367&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AfvNLWggb5EQJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=4964122411957744510&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "4964122411957744510",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=4964122411957744510&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 9,
+        "title": "Constructing Rectilinear Steiner Minimum Tree with Conditional Generative Adversarial Network",
+        "result_id": "NmXx37JQJ0cJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10900628/",
+        "snippet": "Given n points in the 2D plane which are the pins of a net, a Rectilinear Steiner Minimum Tree (RSMT) which consists only of vertical and horizontal line segments is the shortest …",
+        "publication_info": {
+          "summary": "K Saha, P Banerjee, S Sur-Kolay - 2025 38th International …, 2025 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "K Saha",
+              "link": "https://scholar.google.com/citations?user=sgk3RWIAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "sgk3RWIAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=sgk3RWIAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "P Banerjee"
+            },
+            {
+              "name": "S Sur-Kolay",
+              "link": "https://scholar.google.com/citations?user=KjdkL_8AAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "KjdkL_8AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KjdkL_8AAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=NmXx37JQJ0cJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:NmXx37JQJ0cJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=11063097314330123367&engine=google_scholar&filter=0&hl=en&num=20&q=related%3ANmXx37JQJ0cJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=5127155429976139062&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "5127155429976139062",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=5127155429976139062&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 10,
+        "title": "P2CTS-3D IC: an efficient placement aware partitioning and clock tree synthesis in 3D-integrated circuits",
+        "result_id": "aP7dzO7vJtIJ",
+        "link": "https://ph02.tci-thaijo.org/index.php/ijast/article/view/242308",
+        "snippet": "The three dimensional integration of electronic circuits (3D-ICs) is one of the most promising approaches to encounter eternally increasing demands of functionality, performance, and …",
+        "publication_info": {
+          "summary": "RKR Nair, S Pothiraj, R Nagarajan - Applied Science and …, 2020 - ph02.tci-thaijo.org",
+          "authors": [
+            {
+              "name": "RKR Nair"
+            },
+            {
+              "name": "S Pothiraj",
+              "link": "https://scholar.google.com/citations?user=dxoQiKoAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "dxoQiKoAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dxoQiKoAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "R Nagarajan"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=aP7dzO7vJtIJ",
+          "cited_by": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cites=15143054605998227048&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "15143054605998227048",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=15143054605998227048&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:aP7dzO7vJtIJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=11063097314330123367&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AaP7dzO7vJtIJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=15143054605998227048&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "15143054605998227048",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=15143054605998227048&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:aP7dzO7vJtIJ:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007"
+        }
+      },
+      {
+        "position": 11,
+        "title": "Enabling Supervised and Unsupervised Learning for EDA and Cybersecurity in VLSI Systems",
+        "result_id": "PfbQu0s0ZpIJ",
+        "link": "https://search.proquest.com/openview/43d5e9d7623fffdc9ac21c1f9c1bb092/1?pq-origsite=gscholar&cbl=18750&diss=y",
+        "snippet": "Modern integrated circuits (ICs) comprise billions (eg, in a single CPU processor) to trillions (eg, in a state-of-the-art wafer-scale Cerebras accelerator) of transistors on a single chip. To …",
+        "publication_info": {
+          "summary": "D Utyamishev - 2024 - search.proquest.com",
+          "authors": [
+            {
+              "name": "D Utyamishev",
+              "link": "https://scholar.google.com/citations?user=acQrpwoAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "acQrpwoAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=acQrpwoAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "uic.edu",
+            "file_format": "PDF",
+            "link": "https://indigo.uic.edu/articles/thesis/Enabling_Supervised_and_Unsupervised_Learning_for_EDA_and_Cybersecurity_in_VLSI_Systems/26110117/1/files/47261107.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=PfbQu0s0ZpIJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:PfbQu0s0ZpIJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=11063097314330123367&engine=google_scholar&filter=0&hl=en&num=20&q=related%3APfbQu0s0ZpIJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cluster=10549176677040191037&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "10549176677040191037",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=10549176677040191037&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 12,
+        "title": "Enhancing FPGA Placement Quality via Machine Learning",
+        "result_id": "qTO-WShlLlMJ",
+        "type": "Pdf",
+        "link": "https://atrium.lib.uoguelph.ca/bitstreams/78f5604a-5090-4a94-95b9-9d7b6c050ed0/download",
+        "snippet": "Placement is one of the most important steps in the Field Programmable Gate Array (FPGA) design flow. However, placement is an NP-hard problem and time-consuming, therefore …",
+        "publication_info": {
+          "summary": "H Szentimrey - 2020 - atrium.lib.uoguelph.ca",
+          "authors": [
+            {
+              "name": "H Szentimrey",
+              "link": "https://scholar.google.com/citations?user=otogLNEAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "otogLNEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=otogLNEAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "uoguelph.ca",
+            "file_format": "PDF",
+            "link": "https://atrium.lib.uoguelph.ca/bitstreams/78f5604a-5090-4a94-95b9-9d7b6c050ed0/download"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=qTO-WShlLlMJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:qTO-WShlLlMJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=11063097314330123367&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AqTO-WShlLlMJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cluster=5993839378055443369&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "5993839378055443369",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=5993839378055443369&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:qTO-WShlLlMJ:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007"
+        }
+      },
+      {
+        "position": 13,
+        "title": "SINAİ MÜLKİYETİN GELECEĞİNDE YAPAY ZEKÂ VE BÜYÜK VERİ'NİN YERİ",
+        "result_id": "YwtJfXE1RY0J",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+          "summary": "S KAYA",
+          "authors": [
+            {
+              "name": "S KAYA"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=YwtJfXE1RY0J",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:YwtJfXE1RY0J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=11063097314330123367&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AYwtJfXE1RY0J%3Ascholar.google.com%2F&start=0"
+        }
+      }
+    ]
+  }
+}

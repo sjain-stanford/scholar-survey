@@ -1,0 +1,2340 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Autonomous+University+of+Madrid",
+  "http_status": 200,
+  "query": "Autonomous University of Madrid",
+  "data": {
+    "number_of_results": 35575,
+    "time_taken": 43,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uam.es"
+        ],
+        "established": 1968,
+        "external_ids": [
+          {
+            "all": [
+              "501100004593"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.5515.4"
+            ],
+            "preferred": "grid.5515.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 1957 8126"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q788091"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01cby8j38",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uam.es"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Autonomous_University_of_Madrid"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Madrid",
+              "lat": 40.4165,
+              "lng": -3.70256,
+              "name": "Madrid"
+            },
+            "geonames_id": 3117735
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Autonomous University of Madrid"
+          },
+          {
+            "lang": "eu",
+            "types": [
+              "label"
+            ],
+            "value": "Madrilgo Unibertsitate Autonomoa"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UAM"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "ror_display"
+            ],
+            "value": "Universidad Autónoma de Madrid"
+          },
+          {
+            "lang": "gl",
+            "types": [
+              "label"
+            ],
+            "value": "Universidade Autónoma de Madrid"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "label"
+            ],
+            "value": "Universitat Autònoma de Madrid"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Instituto de Investigaciones Biomédicas Sols-Morreale",
+            "type": "child",
+            "id": "https://ror.org/00ha1f767"
+          },
+          {
+            "label": "Instituto de Física Teórica",
+            "type": "child",
+            "id": "https://ror.org/022r8mj40"
+          },
+          {
+            "label": "Instituto de Investigación en Ciencias de la Alimentación",
+            "type": "child",
+            "id": "https://ror.org/04dgb8y52"
+          },
+          {
+            "label": "ORFEO-CINQA Research Network",
+            "type": "child",
+            "id": "https://ror.org/03xw5ev35"
+          },
+          {
+            "label": "Centro de Física Teórica y Matemáticas",
+            "type": "child",
+            "id": "https://ror.org/025x8qw35"
+          },
+          {
+            "label": "Instituto Interuniversitario de Investigación Avanzada sobre Evaluación de la Ciencia y la Universidad",
+            "type": "child",
+            "id": "https://ror.org/004aqbt71"
+          },
+          {
+            "label": "Centro de Micro-Análisis de Materiales",
+            "type": "child",
+            "id": "https://ror.org/03egs4e35"
+          },
+          {
+            "label": "Centro de Biología Molecular Severo Ochoa",
+            "type": "related",
+            "id": "https://ror.org/03v9e8t09"
+          },
+          {
+            "label": "Hospital Infantil Universitario Niño Jesús",
+            "type": "related",
+            "id": "https://ror.org/028brk668"
+          },
+          {
+            "label": "Hospital Universitario Fundación Jiménez Díaz",
+            "type": "related",
+            "id": "https://ror.org/049nvyb15"
+          },
+          {
+            "label": "Hospital Universitario Puerta de Hierro Majadahonda",
+            "type": "related",
+            "id": "https://ror.org/01e57nb43"
+          },
+          {
+            "label": "Hospital Universitario de La Princesa",
+            "type": "related",
+            "id": "https://ror.org/03cg5md32"
+          },
+          {
+            "label": "Red Española de Supercomputación",
+            "type": "related",
+            "id": "https://ror.org/02x2fbb57"
+          },
+          {
+            "label": "Instituto de Investigación Sanitaria del Hospital Universitario de La Princesa",
+            "type": "related",
+            "id": "https://ror.org/02zx68e15"
+          },
+          {
+            "label": "Hospital Universitario La Paz",
+            "type": "related",
+            "id": "https://ror.org/01s1q0w69"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-05",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "fuam.es"
+        ],
+        "established": 1991,
+        "external_ids": [
+          {
+            "all": [
+              "501100022756"
+            ],
+            "preferred": "501100022756",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/021swvv53",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://fuam.es"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Madrid",
+              "lat": 40.4165,
+              "lng": -3.70256,
+              "name": "Madrid"
+            },
+            "geonames_id": 3117735
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "FUAM"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Foundation of the Autonomous University of Madrid"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "Fundación UAM"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "Fundación Universidad Autónoma de Madrid"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Fundación de la Universidad Autónoma de Madrid"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-06-02",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "upm.es"
+        ],
+        "established": 1971,
+        "external_ids": [
+          {
+            "all": [
+              "501100003759",
+              "501100023545"
+            ],
+            "preferred": "501100003759",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.5690.a"
+            ],
+            "preferred": "grid.5690.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2151 2978"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q25864",
+              "Q5838945"
+            ],
+            "preferred": "Q25864",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03n6nwv02",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.upm.es"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Technical_University_of_Madrid"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Madrid",
+              "lat": 40.4165,
+              "lng": -3.70256,
+              "name": "Madrid"
+            },
+            "geonames_id": 3117735
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Polytechnic University of Madrid"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Technical University of Madrid"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UPM"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universidad Politécnica de Madrid"
+          },
+          {
+            "lang": "gl",
+            "types": [
+              "label"
+            ],
+            "value": "Universidade Politécnica de Madrid"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "label"
+            ],
+            "value": "Universitat Politècnica de Madrid"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Centre for Automation and Robotics",
+            "type": "child",
+            "id": "https://ror.org/02wh02235"
+          },
+          {
+            "label": "Reference Center for Research, Development and Innovation in ATM",
+            "type": "child",
+            "id": "https://ror.org/01vhjs264"
+          },
+          {
+            "label": "Banco de Germoplasma Vegetal de la UPM \"César Gómez Campo\"",
+            "type": "child",
+            "id": "https://ror.org/04rbss527"
+          },
+          {
+            "label": "Information Processing and Telecommunications Center",
+            "type": "child",
+            "id": "https://ror.org/00hcf7151"
+          },
+          {
+            "label": "Centre for Plant Biotechnology and Genomics",
+            "type": "related",
+            "id": "https://ror.org/04mfzb702"
+          },
+          {
+            "label": "Joint Evaluated Fission and Fusion",
+            "type": "related",
+            "id": "https://ror.org/03g57ef97"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ucm.es"
+        ],
+        "established": 1293,
+        "external_ids": [
+          {
+            "all": [
+              "501100002911"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.4795.f"
+            ],
+            "preferred": "grid.4795.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2157 7667"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q219694"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02p0gd045",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ucm.es"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Complutense_University_of_Madrid"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Madrid",
+              "lat": 40.4165,
+              "lng": -3.70256,
+              "name": "Madrid"
+            },
+            "geonames_id": 3117735
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Complutense University of Madrid"
+          },
+          {
+            "lang": "eu",
+            "types": [
+              "label"
+            ],
+            "value": "Madrilgo Complutense Unibertsitatea"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UCM"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universidad Complutense de Madrid"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "Universidad de Madrid"
+          },
+          {
+            "lang": "gl",
+            "types": [
+              "label"
+            ],
+            "value": "Universidade Complutense de Madrid"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "ORFEO-CINQA Research Network",
+            "type": "child",
+            "id": "https://ror.org/03xw5ev35"
+          },
+          {
+            "label": "Hospital Clínico San Carlos",
+            "type": "related",
+            "id": "https://ror.org/04d0ybj29"
+          },
+          {
+            "label": "Hospital General Universitario Gregorio Marañón",
+            "type": "related",
+            "id": "https://ror.org/0111es613"
+          },
+          {
+            "label": "Hospital Universitario 12 De Octubre",
+            "type": "related",
+            "id": "https://ror.org/00qyh5r35"
+          },
+          {
+            "label": "MAGIC Telescopes",
+            "type": "related",
+            "id": "https://ror.org/02w0r2764"
+          },
+          {
+            "label": "Asociación de Astrónomos Aficionados de la Universidad Complutense de Madrid",
+            "type": "related",
+            "id": "https://ror.org/05pqgjz53"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1906,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449497.3"
+            ],
+            "preferred": "grid.449497.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q14715871"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03gbd4842",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.suffolk.edu/madrid-campus"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Suffolk_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Madrid",
+              "lat": 40.4165,
+              "lng": -3.70256,
+              "name": "Madrid"
+            },
+            "geonames_id": 3117735
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Suffolk University Madrid"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Suffolk University Madrid Campus"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Suffolk Madrid"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1992,
+        "external_ids": [
+          {
+            "all": [
+              "grid.441365.1"
+            ],
+            "preferred": "grid.441365.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1763 9855"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6156357"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04wd2n987",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://uad.mx/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Universidad_Autónoma_de_Durango"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "MX",
+              "country_name": "Mexico",
+              "country_subdivision_code": "DUR",
+              "country_subdivision_name": "Durango",
+              "lat": 24.02032,
+              "lng": -104.65756,
+              "name": "Durango"
+            },
+            "geonames_id": 4011743
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Autonomous University of Durango"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UAD"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Autónoma de Durango"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1985,
+        "external_ids": [
+          {
+            "all": [
+              "grid.441395.e"
+            ],
+            "preferred": "grid.441395.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0483 9006"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q29127589"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/039emag51",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://uaf.edu.mx/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "MX",
+              "country_name": "Mexico",
+              "country_subdivision_code": "ZAC",
+              "country_subdivision_name": "Zacatecas",
+              "lat": 23.18126,
+              "lng": -102.87136,
+              "name": "Fresnillo"
+            },
+            "geonames_id": 4006163
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Autonomous University of Fresnillo"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UAF"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universidad Autónoma de Fresnillo"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1979,
+        "external_ids": [
+          {
+            "all": [
+              "grid.441739.c"
+            ],
+            "preferred": "grid.441739.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0486 2919"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q27766479"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00jfare13",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.autonoma.edu.co/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "CO",
+              "country_name": "Colombia",
+              "country_subdivision_code": "CAL",
+              "country_subdivision_name": "Caldas Department",
+              "lat": 5.06889,
+              "lng": -75.51738,
+              "name": "Manizales"
+            },
+            "geonames_id": 3675443
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Autonomous University of Manizales"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UAM"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universidad Autonoma de Manizales"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1978,
+        "external_ids": [
+          {
+            "all": [
+              "grid.442270.7"
+            ],
+            "preferred": "grid.442270.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9080 0466"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q549311"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04dvk9y30",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uaa.edu.py/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Asunci%C3%B3n_(university)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "PY",
+              "country_name": "Paraguay",
+              "country_subdivision_code": "ASU",
+              "country_subdivision_name": "Asunción",
+              "lat": -25.28646,
+              "lng": -57.647,
+              "name": "Asunción"
+            },
+            "geonames_id": 3439389
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Autonomous University of Asuncion"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UAA"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universidad Autónoma de Asunción"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uan.edu.mx"
+        ],
+        "established": 1969,
+        "external_ids": [
+          {
+            "all": [
+              "501100008746"
+            ],
+            "preferred": "501100008746",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412858.2"
+            ],
+            "preferred": "grid.412858.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2164 1788"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4826833"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0576q1t15",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://uan.edu.mx"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Autonomous_University_of_Nayarit"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "MX",
+              "country_name": "Mexico",
+              "country_subdivision_code": "NAY",
+              "country_subdivision_name": "Nayarit",
+              "lat": 21.50951,
+              "lng": -104.89569,
+              "name": "Tepic"
+            },
+            "geonames_id": 3981941
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Autonomous University of Nayarit"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UAN"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Universidad Autónoma de Nayarit"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Unidad Académica del Norte del Estado de Nayarit",
+            "type": "child",
+            "id": "https://ror.org/02d31v873"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1922,
+        "external_ids": [
+          {
+            "all": [
+              "501100003095",
+              "501100009834"
+            ],
+            "preferred": "501100009834",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412864.d"
+            ],
+            "preferred": "grid.412864.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2188 7788"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2684607"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/032p1n739",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.uady.mx/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Yucat%C3%A1n"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "MX",
+              "country_name": "Mexico",
+              "country_subdivision_code": "YUC",
+              "country_subdivision_name": "Yucatán",
+              "lat": 20.97537,
+              "lng": -89.61696,
+              "name": "Mérida"
+            },
+            "geonames_id": 3523349
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Autonomous University of Yucatán"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UADY"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Autónoma de Yucatán"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1973,
+        "external_ids": [
+          {
+            "all": [
+              "100019357"
+            ],
+            "preferred": "100019357",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412851.b"
+            ],
+            "preferred": "grid.412851.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2296 5119"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4826820"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03ec8vy26",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.uaa.mx/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Autonomous_University_of_Aguascalientes"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "MX",
+              "country_name": "Mexico",
+              "country_subdivision_code": "AGU",
+              "country_subdivision_name": "Aguascalientes",
+              "lat": 21.88234,
+              "lng": -102.28259,
+              "name": "Aguascalientes"
+            },
+            "geonames_id": 4019233
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Autonomous University of Aguascalientes"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UAA"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Autónoma de Aguascalientes"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2022-03-17",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2014,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 6418 3221"
+            ],
+            "preferred": "0000 0004 6418 3221",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/00bqrh472",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.autonomadeica.edu.pe/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "PE",
+              "country_name": "Peru",
+              "country_subdivision_code": "ICA",
+              "country_subdivision_name": "Ica",
+              "lat": -13.40985,
+              "lng": -76.13235,
+              "name": "Chincha Alta"
+            },
+            "geonames_id": 3943789
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Autonomous University of Ica"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UAI"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universidad Autónoma de Ica"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "unacar.mx"
+        ],
+        "established": 1967,
+        "external_ids": [
+          {
+            "all": [
+              "501100004483"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.449264.9"
+            ],
+            "preferred": "grid.449264.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0484 1114"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q16835981"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01npab275",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.unacar.mx"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Autonomous_University_of_Carmen"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "MX",
+              "country_name": "Mexico",
+              "country_subdivision_code": "CAM",
+              "country_subdivision_name": "Campeche",
+              "lat": 18.64592,
+              "lng": -91.82991,
+              "name": "Ciudad del Carmen"
+            },
+            "geonames_id": 3530599
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Autonomous University of Carmen"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "acronym"
+            ],
+            "value": "UNACAR"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Universidad Autónoma del Carmen"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uaz.edu.mx"
+        ],
+        "established": 1959,
+        "external_ids": [
+          {
+            "all": [
+              "501100007506"
+            ],
+            "preferred": "501100007506",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412865.c"
+            ],
+            "preferred": "grid.412865.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2105 1788"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1266514"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01m296r74",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uaz.edu.mx"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Autonomous_University_of_Zacatecas"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "MX",
+              "country_name": "Mexico",
+              "country_subdivision_code": "ZAC",
+              "country_subdivision_name": "Zacatecas",
+              "lat": 22.76843,
+              "lng": -102.58141,
+              "name": "Zacatecas City"
+            },
+            "geonames_id": 3979844
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Autonomous University of Zacatecas"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UAZ"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Autónoma de Zacatecas"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Universidad Autónoma de Zacatecas \"Francisco García Salinas\""
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-05-05",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uagro.mx"
+        ],
+        "established": 1960,
+        "external_ids": [
+          {
+            "all": [
+              "grid.412856.c"
+            ],
+            "preferred": "grid.412856.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0699 2934"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6156359"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/054tbkd46",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uagro.mx"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Autonomous_University_of_Guerrero"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "MX",
+              "country_name": "Mexico",
+              "country_subdivision_code": "GRO",
+              "country_subdivision_name": "Guerrero",
+              "lat": 17.55228,
+              "lng": -99.50124,
+              "name": "Chilpancingo"
+            },
+            "geonames_id": 3530870
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Autonomous University of Guerrero"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UAGro"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Universidad Autónoma de Guerrero"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-06-02",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uatx.mx"
+        ],
+        "established": 1976,
+        "external_ids": [
+          {
+            "all": [
+              "501100004849"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.104887.2"
+            ],
+            "preferred": "grid.104887.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2177 6156"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2495682"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/021vseb03",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://uatx.mx"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Autonomous_University_of_Tlaxcala"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "MX",
+              "country_name": "Mexico",
+              "country_subdivision_code": "TLA",
+              "country_subdivision_name": "Tlaxcala",
+              "lat": 19.31777,
+              "lng": -98.23846,
+              "name": "Tlaxcala City"
+            },
+            "geonames_id": 3815415
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Autonomous University of Tlaxcala"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UATX"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Universidad Autónoma de Tlaxcala"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-10-28",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "autonoma.pt"
+        ],
+        "established": 1985,
+        "external_ids": [
+          {
+            "all": [
+              "grid.410916.b"
+            ],
+            "preferred": "grid.410916.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2288 3105"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q168458"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01ryrwk91",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://autonoma.pt"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Universidade_Aut%C3%B3noma_de_Lisboa"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "PT",
+              "country_name": "Portugal",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Lisbon",
+              "lat": 38.72509,
+              "lng": -9.1498,
+              "name": "Lisbon"
+            },
+            "geonames_id": 2267057
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Autonomous University of Lisbon"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UAL"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "label"
+            ],
+            "value": "Universidade Autónoma de Lisboa"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Centro de Estudos de Arquitetura Cidade e Território",
+            "type": "child",
+            "id": "https://ror.org/00xtxt091"
+          },
+          {
+            "label": "Centro de Investigação e Desenvolvimento em Ciências Jurídicas Ratio Legis",
+            "type": "child",
+            "id": "https://ror.org/05sd8gr95"
+          },
+          {
+            "label": "Centro de Investigação em Ciências Históricas",
+            "type": "child",
+            "id": "https://ror.org/05s5t4n42"
+          },
+          {
+            "label": "echLab Centro de Investigação em Tecnologias",
+            "type": "child",
+            "id": "https://ror.org/0466t8w27"
+          },
+          {
+            "label": "Centro de Investigação em Psicologia",
+            "type": "child",
+            "id": "https://ror.org/0540dcv15"
+          },
+          {
+            "label": "Observatório de Relações Exteriores",
+            "type": "child",
+            "id": "https://ror.org/05w0yf696"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-08-07",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uas.edu.mx"
+        ],
+        "established": 1873,
+        "external_ids": [
+          {
+            "all": [
+              "501100016234"
+            ],
+            "preferred": "501100016234",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412863.a"
+            ],
+            "preferred": "grid.412863.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2192 9271"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4826834"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05g1mh260",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uas.edu.mx"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Autonomous_University_of_Sinaloa"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "MX",
+              "country_name": "Mexico",
+              "country_subdivision_code": "SIN",
+              "country_subdivision_name": "Sinaloa",
+              "lat": 24.80209,
+              "lng": -107.39421,
+              "name": "Culiacán"
+            },
+            "geonames_id": 4012176
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Autonomous University of Sinaloa"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UAS"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Universidad Autónoma de Sinaloa"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Centro de Innovación y Desarrollo Educativo",
+            "type": "child",
+            "id": "https://ror.org/04f921w28"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-05-05",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uadec.mx"
+        ],
+        "established": 1957,
+        "external_ids": [
+          {
+            "all": [
+              "100020451"
+            ],
+            "preferred": "100020451",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.441492.e"
+            ],
+            "preferred": "grid.441492.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2228 1833"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4826832",
+              "Q40211735"
+            ],
+            "preferred": "Q4826832",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00dpnh189",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uadec.mx"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Autonomous_University_of_Coahuila"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "MX",
+              "country_name": "Mexico",
+              "country_subdivision_code": "COA",
+              "country_subdivision_name": "Coahuila",
+              "lat": 25.42321,
+              "lng": -101.0053,
+              "name": "Saltillo"
+            },
+            "geonames_id": 3988086
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Autonomous University of Coahuila"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UAdeC"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Universidad Autónoma de Coahuila"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 17869
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 9015
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 4727
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 3957
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 3557
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2268
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2033
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 773
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 415
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 6015
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 4086
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2348
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2117
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1581
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 943
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 868
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 836
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 799
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 764
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 15107
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 9660
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 7273
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1991
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 949
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 596
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 35575
+        }
+      ]
+    }
+  }
+}

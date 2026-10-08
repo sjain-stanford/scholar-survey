@@ -1,0 +1,2132 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Northwestern+University",
+  "http_status": 200,
+  "query": "Northwestern University",
+  "data": {
+    "number_of_results": 14708,
+    "time_taken": 21,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "northwestern.edu"
+        ],
+        "established": 1851,
+        "external_ids": [
+          {
+            "all": [
+              "100007059",
+              "100008250",
+              "100013826",
+              "100011755",
+              "100011764",
+              "100017796",
+              "100016199"
+            ],
+            "preferred": "100007059",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.16753.36"
+            ],
+            "preferred": "grid.16753.36",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2299 3507"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q309350"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/000e0be47",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.northwestern.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Northwestern_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 42.04114,
+              "lng": -87.69006,
+              "name": "Evanston"
+            },
+            "geonames_id": 4891382
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Northwestern University"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Center for Light Energy Activated Redox Processes",
+            "type": "child",
+            "id": "https://ror.org/004x7d471"
+          },
+          {
+            "label": "International Institute for Nanotechnology",
+            "type": "child",
+            "id": "https://ror.org/00rncr820"
+          },
+          {
+            "label": "Chan Zuckerberg Biohub Chicago",
+            "type": "child",
+            "id": "https://ror.org/014nxkk19"
+          },
+          {
+            "label": "Central DuPage Hospital",
+            "type": "related",
+            "id": "https://ror.org/00g1rc256"
+          },
+          {
+            "label": "Jesse Brown VA Medical Center",
+            "type": "related",
+            "id": "https://ror.org/049qtwc86"
+          },
+          {
+            "label": "John H. Stroger, Jr. Hospital of Cook County",
+            "type": "related",
+            "id": "https://ror.org/05626m728"
+          },
+          {
+            "label": "Lurie Children's Hospital",
+            "type": "related",
+            "id": "https://ror.org/03a6zw892"
+          },
+          {
+            "label": "Northwestern Medicine Lake Forest Hospital",
+            "type": "related",
+            "id": "https://ror.org/03fhrtz10"
+          },
+          {
+            "label": "Northwestern Memorial Hospital",
+            "type": "related",
+            "id": "https://ror.org/009543z50"
+          },
+          {
+            "label": "Shirley Ryan AbilityLab",
+            "type": "related",
+            "id": "https://ror.org/02ja0m249"
+          },
+          {
+            "label": "Northwestern University in Qatar",
+            "type": "related",
+            "id": "https://ror.org/006m74d95"
+          },
+          {
+            "label": "Northwestern Medicine",
+            "type": "related",
+            "id": "https://ror.org/04fzwnh64"
+          },
+          {
+            "label": "Robert H. Lurie Comprehensive Cancer Center of Northwestern University",
+            "type": "related",
+            "id": "https://ror.org/02p4far57"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nwu.edu.ph"
+        ],
+        "established": 1932,
+        "external_ids": [
+          {
+            "all": [
+              "100011176",
+              "100020950"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.443107.5"
+            ],
+            "preferred": "grid.443107.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1762 4194"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q13565107"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00m6w7z96",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.nwu.edu.ph/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Northwestern_University_(Philippines)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "PH",
+              "country_name": "Philippines",
+              "country_subdivision_code": "01",
+              "country_subdivision_name": "Ilocos",
+              "lat": 18.1978,
+              "lng": 120.5957,
+              "name": "Laoag"
+            },
+            "geonames_id": 1707404
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NU"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NWU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Northwestern University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Northwestern University Laoag City"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1884,
+        "external_ids": [
+          {
+            "all": [
+              "grid.261192.f"
+            ],
+            "preferred": "grid.261192.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1936 869X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2001231"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/049ams583",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.nsula.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Northwestern_State_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "LA",
+              "country_subdivision_name": "Louisiana",
+              "lat": 31.76072,
+              "lng": -93.08627,
+              "name": "Natchitoches"
+            },
+            "geonames_id": 4334720
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Louisiana State Normal School"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NSU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Northwestern State University"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université d'État northwestern"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Louisiana System",
+            "type": "parent",
+            "id": "https://ror.org/02sqt9870"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1969,
+        "external_ids": [
+          {
+            "all": [
+              "grid.443033.3"
+            ],
+            "preferred": "grid.443033.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 4690 3416"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6707236"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03xfjma97",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://lyceum.edu.ph/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Lyceum-Northwestern_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "PH",
+              "country_name": "Philippines",
+              "country_subdivision_code": "02",
+              "country_subdivision_name": "Cagayan Valley",
+              "lat": 17.70039,
+              "lng": 121.50448,
+              "name": "Dagupan"
+            },
+            "geonames_id": 1716192
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "L-NU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Lyceum-Northwestern University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1902,
+        "external_ids": [
+          {
+            "all": [
+              "grid.462972.c"
+            ],
+            "preferred": "grid.462972.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0466 9414"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7060296"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/019t2rq07",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.unwsp.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Northwestern_%E2%80%93_St._Paul"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MN",
+              "country_subdivision_name": "Minnesota",
+              "lat": 44.94441,
+              "lng": -93.09327,
+              "name": "Saint Paul"
+            },
+            "geonames_id": 5045360
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UNW"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Northwestern"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nwpu.edu.cn"
+        ],
+        "established": 1938,
+        "external_ids": [
+          {
+            "all": [
+              "501100002663"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.440588.5"
+            ],
+            "preferred": "grid.440588.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0307 1240"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q832550"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01y0j0j86",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.nwpu.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Northwestern_Polytechnical_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SN",
+              "country_subdivision_name": "Shaanxi",
+              "lat": 34.25833,
+              "lng": 108.92861,
+              "name": "Xi'an"
+            },
+            "geonames_id": 1790630
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NPU"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NWPU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Northwestern Polytechnical University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "State Northwest Institute of Engineering"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Xīběi Gōngyè Dàxué"
+          },
+          {
+            "lang": "ru",
+            "types": [
+              "alias"
+            ],
+            "value": "Северо-западный политехнический университет"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "西北工业大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "State Key Laboratory of Solidification Processing",
+            "type": "child",
+            "id": "https://ror.org/024dcqa50"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "npu.edu"
+        ],
+        "established": 1984,
+        "external_ids": [
+          {
+            "all": [
+              "grid.469127.f"
+            ],
+            "preferred": "grid.469127.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0634 0794"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q498451"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05wn69s11",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.sfbu.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/San_Francisco_Bay_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 37.54827,
+              "lng": -121.98857,
+              "name": "Fremont"
+            },
+            "geonames_id": 5350734
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "NPU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Northwestern Polytechnic University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "SFBU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "San Francisco Bay University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.429781.1"
+            ],
+            "preferred": "grid.429781.1",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/022mm5v69",
+        "links": [],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 41.85003,
+              "lng": -87.65005,
+              "name": "Chicago"
+            },
+            "geonames_id": 4887398
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Northwestern University Settlement Association"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1897,
+        "external_ids": [
+          {
+            "all": [
+              "grid.469123.b"
+            ],
+            "preferred": "grid.469123.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0425 2713"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7060359"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02mr7vz40",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.nwosu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Northwestern_Oklahoma_State_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "OK",
+              "country_subdivision_name": "Oklahoma",
+              "lat": 36.80499,
+              "lng": -98.66718,
+              "name": "Alva"
+            },
+            "geonames_id": 4529308
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NWOSU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Northwestern Oklahoma State University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Northwestern Oklahoma Teachers College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Northwestern Territorial Normal School"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1920,
+        "external_ids": [
+          {
+            "all": [
+              "grid.469259.5"
+            ],
+            "preferred": "grid.469259.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0633 7544"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7895989"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02x2gpf88",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.unoh.edu/#"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Northwestern_Ohio"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "OH",
+              "country_subdivision_name": "Ohio",
+              "lat": 40.74255,
+              "lng": -84.10523,
+              "name": "Lima"
+            },
+            "geonames_id": 5160783
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Racers"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UNOH"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Northwestern Ohio"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2008,
+        "external_ids": [
+          {
+            "all": [
+              "grid.452115.6"
+            ],
+            "preferred": "grid.452115.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0548 1261",
+              "0000 0004 9474 7403"
+            ],
+            "preferred": "0000 0004 0548 1261",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q890759"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/006m74d95",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.qatar.northwestern.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Northwestern_University_in_Qatar"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "QA",
+              "country_name": "Qatar",
+              "country_subdivision_code": "DA",
+              "country_subdivision_name": "Baladīyat ad Dawḩah",
+              "lat": 25.28545,
+              "lng": 51.53096,
+              "name": "Doha"
+            },
+            "geonames_id": 290030
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NU-Q"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Northwestern University in Qatar"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad del noroeste"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Northwestern University",
+            "type": "related",
+            "id": "https://ror.org/000e0be47"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-01-29",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nwhealth.edu"
+        ],
+        "established": 1941,
+        "external_ids": [
+          {
+            "all": [
+              "grid.283086.7"
+            ],
+            "preferred": "grid.283086.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0098 0932"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7060311"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00186jw56",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.nwhealth.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Northwestern_Health_Sciences_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MN",
+              "country_subdivision_name": "Minnesota",
+              "lat": 44.8408,
+              "lng": -93.29828,
+              "name": "Bloomington"
+            },
+            "geonames_id": 5018739
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NWHSU "
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Northwestern Health Sciences University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-08-25",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-08-26",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nmsc.edu.ph"
+        ],
+        "established": 1971,
+        "external_ids": [
+          {
+            "all": [
+              "Q7060346"
+            ],
+            "preferred": "Q7060346",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04xqc3e23",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.nmsc.edu.ph"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Northwestern_Mindanao_State_College_of_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "PH",
+              "country_name": "Philippines",
+              "country_subdivision_code": "10",
+              "country_subdivision_name": "Northern Mindanao",
+              "lat": 8.0618,
+              "lng": 123.7477,
+              "name": "Tangub"
+            },
+            "geonames_id": 1683116
+          }
+        ],
+        "names": [
+          {
+            "lang": "tl",
+            "types": [
+              "label"
+            ],
+            "value": "Kolehiyong Pampamahalaan sa Agham at Teknolohiya ng Hilaga-Kanluraning Mindanao"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Northwestern Mindanao State College of Science and Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Tangub Agro-Industrial School"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "UNM"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Northwestern Mindanao"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1966,
+        "external_ids": [
+          {
+            "all": [
+              "100011789"
+            ],
+            "preferred": "100011789",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.420458.f"
+            ],
+            "preferred": "grid.420458.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9604 6468"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5595336"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/022nw7z78",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.nwpolytech.ca"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Grande_Prairie_Regional_College"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "AB",
+              "country_subdivision_name": "Alberta",
+              "lat": 55.16667,
+              "lng": -118.80271,
+              "name": "Grande Prairie"
+            },
+            "geonames_id": 5964347
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "GPRC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Grande Prairie Regional College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Northwestern Polytechnic"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-01-29",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nwciowa.edu"
+        ],
+        "established": 1882,
+        "external_ids": [
+          {
+            "all": [
+              "grid.447304.0"
+            ],
+            "preferred": "grid.447304.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0447 4449"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2288251"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05x31d492",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://nwciowa.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Northwestern_College_(Iowa)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IA",
+              "country_subdivision_name": "Iowa",
+              "lat": 43.00721,
+              "lng": -96.05835,
+              "name": "Orange City"
+            },
+            "geonames_id": 4870083
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NWC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Northwestern College - Iowa"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Northwestern Iowa"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nm.org"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.490348.2"
+            ],
+            "preferred": "grid.490348.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 4683 9645"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q50036890"
+            ],
+            "preferred": "Q50036890",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04fzwnh64",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.nm.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 41.85003,
+              "lng": -87.65005,
+              "name": "Chicago"
+            },
+            "geonames_id": 4887398
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Northwestern Medicine"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Northwestern Memorial HealthCare"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Central DuPage Hospital",
+            "type": "child",
+            "id": "https://ror.org/00g1rc256"
+          },
+          {
+            "label": "LivingWell Cancer Resource Center",
+            "type": "child",
+            "id": "https://ror.org/007nfvg13"
+          },
+          {
+            "label": "Marianjoy Rehabilitation Hospital",
+            "type": "child",
+            "id": "https://ror.org/03m5bv793"
+          },
+          {
+            "label": "Northwestern Medicine Lake Forest Hospital",
+            "type": "child",
+            "id": "https://ror.org/03fhrtz10"
+          },
+          {
+            "label": "Northwestern Memorial Hospital",
+            "type": "child",
+            "id": "https://ror.org/009543z50"
+          },
+          {
+            "label": "Robert H. Lurie Comprehensive Cancer Center of Northwestern University",
+            "type": "child",
+            "id": "https://ror.org/02p4far57"
+          },
+          {
+            "label": "Northwestern University",
+            "type": "related",
+            "id": "https://ror.org/000e0be47"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1966,
+        "external_ids": [
+          {
+            "all": [
+              "grid.416565.5"
+            ],
+            "preferred": "grid.416565.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0491 7842"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7060339"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/009543z50",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.nm.org/location/northwestern-memorial-hospital"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Northwestern_Memorial_Hospital"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 41.85003,
+              "lng": -87.65005,
+              "name": "Chicago"
+            },
+            "geonames_id": 4887398
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NMH"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Northwestern Memorial Hospital"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Northwestern Medicine",
+            "type": "parent",
+            "id": "https://ror.org/04fzwnh64"
+          },
+          {
+            "label": "Northwestern University",
+            "type": "related",
+            "id": "https://ror.org/000e0be47"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1902,
+        "external_ids": [
+          {
+            "all": [
+              "grid.431170.0"
+            ],
+            "preferred": "grid.431170.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0531 8149"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7060295"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05ngeh012",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.nc.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Northwestern_College_(Illinois)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 41.75003,
+              "lng": -87.80422,
+              "name": "Bridgeview"
+            },
+            "geonames_id": 4885573
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NC"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NWBC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Northwestern College - Illinois"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1951,
+        "external_ids": [
+          {
+            "all": [
+              "grid.431172.2"
+            ],
+            "preferred": "grid.431172.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2220 5451"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7060343"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/025e3bx20",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.nmc.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Northwestern_Michigan_College"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MI",
+              "country_subdivision_name": "Michigan",
+              "lat": 44.76306,
+              "lng": -85.62063,
+              "name": "Traverse City"
+            },
+            "geonames_id": 5012495
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NMC "
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Northwestern Michigan College"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-06-14",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-06-23",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1981,
+        "external_ids": [
+          {
+            "all": [
+              "100012230"
+            ],
+            "preferred": "100012230",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/005y42r37",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.nm.org/about-us/foundation"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 41.85003,
+              "lng": -87.65005,
+              "name": "Chicago"
+            },
+            "geonames_id": 4887398
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Northwestern Memorial Foundation"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 12905
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 4154
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 1231
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 310
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 124
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 75
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 32
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 30
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 13
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 1994
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 1589
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 1001
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 836
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 467
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 443
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 443
+        },
+        {
+          "id": "ph",
+          "title": "Philippines",
+          "count": 386
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 382
+        },
+        {
+          "id": "ir",
+          "title": "Iran",
+          "count": 354
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 7413
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 3011
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 2503
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1151
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 530
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 100
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 14708
+        }
+      ]
+    }
+  }
+}

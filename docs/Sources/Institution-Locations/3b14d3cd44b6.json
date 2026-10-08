@@ -1,0 +1,1945 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=University+of+Toronto",
+  "http_status": 200,
+  "query": "University of Toronto",
+  "data": {
+    "number_of_results": 35487,
+    "time_taken": 74,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "utoronto.ca"
+        ],
+        "established": 1827,
+        "external_ids": [
+          {
+            "all": [
+              "501100003579",
+              "501100000154",
+              "501100000086",
+              "501100000064",
+              "100008386",
+              "501100007921",
+              "501100008097",
+              "501100007224",
+              "501100000181",
+              "501100002827",
+              "501100003474",
+              "501100006151",
+              "501100022101",
+              "501100020895",
+              "100015070",
+              "501100009227",
+              "100023476",
+              "501100016197",
+              "501100014131"
+            ],
+            "preferred": "501100003579",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.17063.33"
+            ],
+            "preferred": "grid.17063.33",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2157 2938"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q180865",
+              "Q6120110",
+              "Q3551675"
+            ],
+            "preferred": "Q180865",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03dbr7087",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.utoronto.ca"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Toronto"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Toronto"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de Toronto"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Canadian Institute for Theoretical Astrophysics",
+            "type": "child",
+            "id": "https://ror.org/0265wc016"
+          },
+          {
+            "label": "Fields Institute for Research in Mathematical Sciences",
+            "type": "child",
+            "id": "https://ror.org/03zzj3f20"
+          },
+          {
+            "label": "Ted Rogers Centre for Heart Research",
+            "type": "child",
+            "id": "https://ror.org/00cgnj660"
+          },
+          {
+            "label": "AGE-WELL",
+            "type": "child",
+            "id": "https://ror.org/037dt7852"
+          },
+          {
+            "label": "Sunnybrook Research Institute",
+            "type": "child",
+            "id": "https://ror.org/05n0tzs53"
+          },
+          {
+            "label": "University of Toronto Scarborough",
+            "type": "child",
+            "id": "https://ror.org/05k33q843"
+          },
+          {
+            "label": "Baycrest Hospital",
+            "type": "related",
+            "id": "https://ror.org/03gp5b411"
+          },
+          {
+            "label": "Campbellford Memorial Hospital",
+            "type": "related",
+            "id": "https://ror.org/022ave037"
+          },
+          {
+            "label": "Centre for Addiction and Mental Health",
+            "type": "related",
+            "id": "https://ror.org/03e71c577"
+          },
+          {
+            "label": "Creative Destruction Lab",
+            "type": "related",
+            "id": "https://ror.org/02p6a3b37"
+          },
+          {
+            "label": "Holland Bloorview Kids Rehabilitation Hospital",
+            "type": "related",
+            "id": "https://ror.org/03qea8398"
+          },
+          {
+            "label": "Hospital for Sick Children",
+            "type": "related",
+            "id": "https://ror.org/057q4rt57"
+          },
+          {
+            "label": "Humber River Regional Hospital",
+            "type": "related",
+            "id": "https://ror.org/02gj19t78"
+          },
+          {
+            "label": "Institute for Circumpolar Health Research",
+            "type": "related",
+            "id": "https://ror.org/0390kp681"
+          },
+          {
+            "label": "Lunenfeld-Tanenbaum Research Institute",
+            "type": "related",
+            "id": "https://ror.org/01s5axj25"
+          },
+          {
+            "label": "Mount Sinai Hospital",
+            "type": "related",
+            "id": "https://ror.org/05deks119"
+          },
+          {
+            "label": "North York General Hospital",
+            "type": "related",
+            "id": "https://ror.org/05b3hqn14"
+          },
+          {
+            "label": "St. Michael's Hospital",
+            "type": "related",
+            "id": "https://ror.org/04skqfp25"
+          },
+          {
+            "label": "Sunnybrook Health Science Centre",
+            "type": "related",
+            "id": "https://ror.org/03wefcv03"
+          },
+          {
+            "label": "Sunnybrook Hospital",
+            "type": "related",
+            "id": "https://ror.org/008kn1a71"
+          },
+          {
+            "label": "Surrey Place Centre",
+            "type": "related",
+            "id": "https://ror.org/01tw7ew41"
+          },
+          {
+            "label": "Scarborough Health Network",
+            "type": "related",
+            "id": "https://ror.org/04pzgb662"
+          },
+          {
+            "label": "Toronto East General Hospital",
+            "type": "related",
+            "id": "https://ror.org/03sm16s30"
+          },
+          {
+            "label": "Trillium Health Centre",
+            "type": "related",
+            "id": "https://ror.org/03v6a2j28"
+          },
+          {
+            "label": "University Health Network",
+            "type": "related",
+            "id": "https://ror.org/042xt5161"
+          },
+          {
+            "label": "Waypoint Centre for Mental Health Care",
+            "type": "related",
+            "id": "https://ror.org/0548x8e24"
+          },
+          {
+            "label": "West Park Healthcare Centre",
+            "type": "related",
+            "id": "https://ror.org/037y13578"
+          },
+          {
+            "label": "Women's College Hospital",
+            "type": "related",
+            "id": "https://ror.org/03cw63y62"
+          },
+          {
+            "label": "Beaufort Lagoon Ecosystems Long Term Ecological Research Network",
+            "type": "related",
+            "id": "https://ror.org/055a54548"
+          },
+          {
+            "label": "Baycrest Centre for Geriatric Care",
+            "type": "related",
+            "id": "https://ror.org/00vd0rf02"
+          },
+          {
+            "label": "Scarborough Health Network Research Institute",
+            "type": "related",
+            "id": "https://ror.org/0411a0y97"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-24",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "utsc.utoronto.ca"
+        ],
+        "established": 1964,
+        "external_ids": [
+          {
+            "all": [
+              "501100004730"
+            ],
+            "preferred": "501100004730",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "Q3137221"
+            ],
+            "preferred": "Q3137221",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05k33q843",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.utsc.utoronto.ca"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.77223,
+              "lng": -79.25666,
+              "name": "Scarborough"
+            },
+            "geonames_id": 6948711
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "U of T Scarborough"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "UT Scarborough"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "UTSC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "University of Toronto Scarborough"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de Toronto à Scarborough"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Toronto",
+            "type": "parent",
+            "id": "https://ror.org/03dbr7087"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "torontomu.ca"
+        ],
+        "established": 1948,
+        "external_ids": [
+          {
+            "all": [
+              "100007891",
+              "100007892",
+              "501100024256",
+              "100017508"
+            ],
+            "preferred": "501100024256",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.68312.3e"
+            ],
+            "preferred": "grid.68312.3e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1936 9422",
+              "0000 0005 2465 4460"
+            ],
+            "preferred": "0000 0005 2465 4460",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q611723"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05g13zd79",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.torontomu.ca"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Toronto_Metropolitan_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Ryerson Polytechnic University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Ryerson University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Toronto Metropolitan University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-06",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "toronto.ca"
+        ],
+        "established": 1834,
+        "external_ids": [
+          {
+            "all": [
+              "100032204"
+            ],
+            "preferred": "100032204",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/044mryv04",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.toronto.ca"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "City of Toronto"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1998,
+        "external_ids": [
+          {
+            "all": [
+              "501100002202"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.415526.1"
+            ],
+            "preferred": "grid.415526.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0692 494X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7826496"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00mxe0976",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.torontorehabfoundation.com/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Toronto_Rehabilitation_Institute"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Toronto Rehab"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Toronto Rehabilitation Institute"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "KITE Research Institute",
+            "type": "child",
+            "id": "https://ror.org/0055b3j94"
+          },
+          {
+            "label": "University Health Network",
+            "type": "parent",
+            "id": "https://ror.org/042xt5161"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2020-07-06",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1974,
+        "external_ids": [
+          {
+            "all": [
+              "grid.507770.2"
+            ],
+            "preferred": "grid.507770.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0698 6008"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q741395"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04et42c10",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.torontozoo.com/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Toronto_Zoo"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Toronto Zoo"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-03",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-03",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "hqtoronto.ca"
+        ],
+        "established": 2021,
+        "external_ids": [],
+        "id": "https://ror.org/05e8sfg08",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://hqtoronto.ca"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "HQ Toronto"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-01-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-01-15",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "torontograce.org"
+        ],
+        "established": 1905,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0001 0767 3281"
+            ],
+            "preferred": "0000 0001 0767 3281",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7826397"
+            ],
+            "preferred": "Q7826397",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/008r6cv15",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.torontograce.org"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Toronto_Grace_Health_Centre"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "TGHC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "The Salvation Army Toronto Grace Health Centre"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Toronto Grace"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Toronto Grace Health Centre"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1983,
+        "external_ids": [
+          {
+            "all": [
+              "grid.422204.2"
+            ],
+            "preferred": "grid.422204.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0554 6326"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/03r0xxt78",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.actoronto.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ACT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "AIDS Committee of Toronto"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1990,
+        "external_ids": [
+          {
+            "all": [
+              "grid.474080.f"
+            ],
+            "preferred": "grid.474080.f",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/04y96wg46",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.imperialcollege.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.65421,
+              "lng": -79.56711,
+              "name": "Etobicoke"
+            },
+            "geonames_id": 5950267
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ICT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Imperial College of Toronto"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-19",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ymcagta.org"
+        ],
+        "established": 1853,
+        "external_ids": [
+          {
+            "all": [
+              "Q24191945"
+            ],
+            "preferred": "Q24191945",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/033n4dx86",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ymcagta.org"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "YMCA of Greater Toronto"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "YMCA of Metropolitan Toronto"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-05",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "unitedwaygt.org"
+        ],
+        "established": 1956,
+        "external_ids": [
+          {
+            "all": [
+              "100023486"
+            ],
+            "preferred": "100023486",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/00fgmra65",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.unitedwaygt.org"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UWGT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "United Way Greater Toronto"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "United Way of Greater Toronto"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1995,
+        "external_ids": [
+          {
+            "all": [
+              "grid.440006.6"
+            ],
+            "preferred": "grid.440006.6",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/01q7nv767",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.torontoartsfoundation.org/home"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Toronto Arts Foundation"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1998,
+        "external_ids": [
+          {
+            "all": [
+              "grid.417191.b"
+            ],
+            "preferred": "grid.417191.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0420 3866"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7826480"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/010g03x11",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=a253ba2ae8b1e310VgnVCM10000071d60f89RCRD"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Toronto_Public_Health"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Toronto Public Health"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1812,
+        "external_ids": [
+          {
+            "all": [
+              "grid.417184.f"
+            ],
+            "preferred": "grid.417184.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0661 1177"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2444359"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/026pg9j08",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.uhn.ca/corporate/AboutUHN/OurHospitals/TGH"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Toronto_General_Hospital"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TGH"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Toronto General Hospital"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Toronto General Hospital Research Institute",
+            "type": "child",
+            "id": "https://ror.org/04cm2y595"
+          },
+          {
+            "label": "University Health Network",
+            "type": "parent",
+            "id": "https://ror.org/042xt5161"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1895,
+        "external_ids": [
+          {
+            "all": [
+              "grid.417188.3"
+            ],
+            "preferred": "grid.417188.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0012 4167"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7826568"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03qv8yq19",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.uhn.ca/corporate/AboutUHN/OurHospitals/TWH"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Toronto_Western_Hospital"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TWH"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Toronto Western Hospital"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Krembil Research Institute",
+            "type": "child",
+            "id": "https://ror.org/01f6jys10"
+          },
+          {
+            "label": "University Health Network",
+            "type": "parent",
+            "id": "https://ror.org/042xt5161"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1974,
+        "external_ids": [
+          {
+            "all": [
+              "501100000100"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.453950.e"
+            ],
+            "preferred": "grid.453950.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 5907 5170"
+            ],
+            "preferred": "0000 0004 5907 5170",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/00pyr0344",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.torontoartscouncil.org/home"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TAC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Toronto Arts Council"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1961,
+        "external_ids": [
+          {
+            "all": [
+              "grid.498743.5"
+            ],
+            "preferred": "grid.498743.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0689 2343"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/04akwha08",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ppt.on.ca/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PPT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Planned Parenthood Toronto"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Planned Parenthood Toronto Health Services"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-09-23",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.511827.8"
+            ],
+            "preferred": "grid.511827.8",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/04th0dc64",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://tlccure.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Toronto Liver Centre"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.489382.c"
+            ],
+            "preferred": "grid.489382.c",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/00m4xrb97",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.torontosleep.ca/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Toronto Sleep Institute"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 17809
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 9011
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 4723
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 3946
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 3557
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2267
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2031
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 771
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 408
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 6010
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 4070
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2348
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2061
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1577
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 942
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 866
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 836
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 799
+        },
+        {
+          "id": "ca",
+          "title": "Canada",
+          "count": 772
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 15033
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 9630
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 7291
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1991
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 949
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 594
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 35487
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "q": "Bringing AI to edge From deep learning perspective Liu",
+    "hl": "en",
+    "num": 10
+  },
+  "accessed_at_utc": "2026-10-07T12:42:33.836219+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63e39fd5991c434620ad8",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/Ldpu2ZgNLFyPLSYP7u2PIRujfWnyTgG65WJ2T6lxv-g/6ac63e39fd5991c434620ad8.json",
+      "markdown_endpoint": "https://serpapi.com/searches/Ldpu2ZgNLFyPLSYP7u2PIRujfWnyTgG65WJ2T6lxv-g/6ac63e39fd5991c434620ad8.md",
+      "created_at": "2026-10-07 12:42:33 UTC",
+      "processed_at": "2026-10-07 12:42:33 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?q=Bringing+AI+to+edge+From+deep+learning+perspective+Liu&hl=en&num=10",
+      "raw_html_file": "https://serpapi.com/searches/Ldpu2ZgNLFyPLSYP7u2PIRujfWnyTgG65WJ2T6lxv-g/6ac63e39fd5991c434620ad8.html",
+      "total_time_taken": 1.01
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "q": "Bringing AI to edge From deep learning perspective Liu",
+      "hl": "en",
+      "num": "10"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "query_displayed": "Bringing AI to edge From deep learning perspective Liu"
+    },
+    "profiles": {
+      "link": "https://scholar.google.com/scholar?lookup=0&q=Bringing+AI+to+edge+From+deep+learning+perspective+Liu&hl=en&as_sdt=0,44",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=Bringing+AI+to+edge+From+deep+learning+perspective+Liu"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Bringing AI to edge: From deep learning's perspective",
+        "result_id": "xG3kTPM2dMkJ",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0925231221016428",
+        "snippet": "Edge computing and artificial intelligence (AI), especially deep learning algorithms, are gradually intersecting to build the novel system, namely edge intelligence. However, the development of edge intelligence systems encounters several challenges, and one of these challenges is the computational gap between computation-intensive deep learning algorithms and less-capable edge systems. Due to the computational gap, many edge intelligence systems cannot meet the expected performance requirements. To bridge the gap, a plethora of new techniques and optimization methods were proposed in the past years: lightweight deep learning models, network compression, and efficient neural architecture search. Although some reviews or surveys have partially covered this large body of literature, we lack a systematic and comprehensive review to discuss all aspects of these deep learning techniques which are critical for edge intelligence implementation. As various and diverse methods, applicable to edge systems, are proposed, a holistic review would enable edge computing engineers and the community to understand the state-of-the-art deep learning techniques that are instrumental for edge intelligence and to facilitate the development of edge intelligence systems. This paper surveys the representative and latest deep learning techniques that are useful for edge intelligence systems, including hand-crafted models, model compression, hardware-aware neural architecture search, and adaptive deep learning models. Finally, based on observations and simple experiments we conducted, we discuss some future directions.",
+        "publication_info": {
+          "summary": "D Liu, H Kong, X Luo, W Liu, R SubramaniamNeurocomputing, 2022•Elsevier",
+          "authors": [
+            {
+              "name": "D Liu",
+              "link": "https://scholar.google.com/citations?user=3e9kkccAAAAJ&hl=en&oi=sra",
+              "author_id": "3e9kkccAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3e9kkccAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "H Kong",
+              "link": "https://scholar.google.com/citations?user=CBLdvP4AAAAJ&hl=en&oi=sra",
+              "author_id": "CBLdvP4AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=CBLdvP4AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "X Luo",
+              "link": "https://scholar.google.com/citations?user=gWH7imoAAAAJ&hl=en&oi=sra",
+              "author_id": "gWH7imoAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gWH7imoAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "W Liu",
+              "link": "https://scholar.google.com/citations?user=UozjxW8AAAAJ&hl=en&oi=sra",
+              "author_id": "UozjxW8AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=UozjxW8AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "R Subramaniam"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2011.14808"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=xG3kTPM2dMkJ",
+          "cited_by": {
+            "total": 247,
+            "link": "https://scholar.google.com/scholar?cites=14516287917516942788&as_sdt=5,44&sciodt=0,44&hl=en",
+            "cites_id": "14516287917516942788",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14516287917516942788&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:xG3kTPM2dMkJ:scholar.google.com/&scioq=Bringing+AI+to+edge+From+deep+learning+perspective+Liu&hl=en&as_sdt=0,44",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C44&engine=google_scholar&hl=en&num=10&q=related%3AxG3kTPM2dMkJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 9,
+            "link": "https://scholar.google.com/scholar?cluster=14516287917516942788&hl=en&as_sdt=0,44",
+            "cluster_id": "14516287917516942788",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C44&cluster=14516287917516942788&engine=google_scholar&hl=en"
+          }
+        }
+      }
+    ]
+  }
+}

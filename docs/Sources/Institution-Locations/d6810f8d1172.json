@@ -1,0 +1,2131 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Tennessee+Technological+University",
+  "http_status": 200,
+  "query": "Tennessee Technological University",
+  "data": {
+    "number_of_results": 14890,
+    "time_taken": 42,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "tntech.edu"
+        ],
+        "established": 1915,
+        "external_ids": [
+          {
+            "all": [
+              "100020190"
+            ],
+            "preferred": "100020190",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.264737.3"
+            ],
+            "preferred": "grid.264737.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2231 819X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7700206"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05drmrq39",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.tntech.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Tennessee_Technological_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TN",
+              "country_subdivision_name": "Tennessee",
+              "lat": 36.16284,
+              "lng": -85.50164,
+              "name": "Cookeville"
+            },
+            "geonames_id": 4615145
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TTU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Tennessee Tech"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Tennessee Technological University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1946,
+        "external_ids": [
+          {
+            "all": [
+              "grid.441646.5"
+            ],
+            "preferred": "grid.441646.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0387 490X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7700214"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04hdj2902",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.tntemple.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Tennessee_Temple_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TN",
+              "country_subdivision_name": "Tennessee",
+              "lat": 35.04563,
+              "lng": -85.30968,
+              "name": "Chattanooga"
+            },
+            "geonames_id": 4612862
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TTU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Tennessee Temple University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1857,
+        "external_ids": [
+          {
+            "all": [
+              "grid.438636.c"
+            ],
+            "preferred": "grid.438636.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2231 8325"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7700242"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0563nxn44",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.tnwesleyan.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Tennessee_Wesleyan_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TN",
+              "country_subdivision_name": "Tennessee",
+              "lat": 35.44285,
+              "lng": -84.59299,
+              "name": "Athens"
+            },
+            "geonames_id": 4603284
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TWU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Tennessee Wesleyan College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Tennessee Wesleyan University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "tnstate.edu"
+        ],
+        "established": 1912,
+        "external_ids": [
+          {
+            "all": [
+              "grid.280741.8"
+            ],
+            "preferred": "grid.280741.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2284 9820"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1782948"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01fpczx89",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.tnstate.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Tennessee_State_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TN",
+              "country_subdivision_name": "Tennessee",
+              "lat": 36.16589,
+              "lng": -86.78444,
+              "name": "Nashville"
+            },
+            "geonames_id": 4644585
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TSU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Tennessee State University"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université d'État du tennessee"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "utk.edu"
+        ],
+        "established": 1794,
+        "external_ids": [
+          {
+            "all": [
+              "100008526",
+              "100009260",
+              "100011135",
+              "100014455",
+              "100009774",
+              "100011413",
+              "100011642",
+              "100018320"
+            ],
+            "preferred": "100014455",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.411461.7"
+            ],
+            "preferred": "grid.411461.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2315 1184"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1150105"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/020f3ap87",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.utk.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Tennessee"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TN",
+              "country_subdivision_name": "Tennessee",
+              "lat": 35.96064,
+              "lng": -83.92074,
+              "name": "Knoxville"
+            },
+            "geonames_id": 4634946
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UT"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UTK"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Tennessee"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Tennessee at Knoxville"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Joint Institute for Computational Sciences",
+            "type": "child",
+            "id": "https://ror.org/05277x335"
+          },
+          {
+            "label": "University of Tennessee System",
+            "type": "parent",
+            "id": "https://ror.org/00xzqjh13"
+          },
+          {
+            "label": "University of Tennessee Medical Center",
+            "type": "related",
+            "id": "https://ror.org/0277n1841"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1870,
+        "external_ids": [
+          {
+            "all": [
+              "grid.462503.6"
+            ],
+            "preferred": "grid.462503.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0588 5477"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6776185"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/032agg760",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://utsouthern.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Tennessee_Southern"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TN",
+              "country_subdivision_name": "Tennessee",
+              "lat": 35.1998,
+              "lng": -87.03084,
+              "name": "Pulaski"
+            },
+            "geonames_id": 4651648
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Martin Methodist College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "UT Southern"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Tennessee Southern"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Tennessee System",
+            "type": "parent",
+            "id": "https://ror.org/00xzqjh13"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "rhodes.edu"
+        ],
+        "established": 1848,
+        "external_ids": [
+          {
+            "all": [
+              "100016442"
+            ],
+            "preferred": "100016442",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.262541.6"
+            ],
+            "preferred": "grid.262541.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9617 4320"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1321046"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/049xfwy04",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.rhodes.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Rhodes_College"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TN",
+              "country_subdivision_name": "Tennessee",
+              "lat": 35.14953,
+              "lng": -90.04898,
+              "name": "Memphis"
+            },
+            "geonames_id": 4641239
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Masonic University of Tennessee"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Rhodes College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Southwestern Presbyterian University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Stewart College"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-06-02",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1968,
+        "external_ids": [
+          {
+            "all": [
+              "100007135",
+              "100021081"
+            ],
+            "preferred": "100007135",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.267305.5"
+            ],
+            "preferred": "grid.267305.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0709 8272"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2495917"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00xzqjh13",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://tennessee.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Tennessee_system"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TN",
+              "country_subdivision_name": "Tennessee",
+              "lat": 35.96064,
+              "lng": -83.92074,
+              "name": "Knoxville"
+            },
+            "geonames_id": 4634946
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "UT System"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de Tennessee"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Tennessee System"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université du Tennessee"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Tennessee Health Science Center",
+            "type": "child",
+            "id": "https://ror.org/0011qv509"
+          },
+          {
+            "label": "University of Tennessee at Chattanooga",
+            "type": "child",
+            "id": "https://ror.org/00nqb1v70"
+          },
+          {
+            "label": "University of Tennessee at Knoxville",
+            "type": "child",
+            "id": "https://ror.org/020f3ap87"
+          },
+          {
+            "label": "University of Tennessee at Martin",
+            "type": "child",
+            "id": "https://ror.org/01244fm76"
+          },
+          {
+            "label": "University of Tennessee Southern",
+            "type": "child",
+            "id": "https://ror.org/032agg760"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "mtsu.edu"
+        ],
+        "established": 1911,
+        "external_ids": [
+          {
+            "all": [
+              "100008555",
+              "100021634",
+              "100021639",
+              "100023016",
+              "100023028",
+              "100023034",
+              "100023047"
+            ],
+            "preferred": "100008555",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.260001.5"
+            ],
+            "preferred": "grid.260001.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2111 6385"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1784748"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02n1hzn07",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.mtsu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Middle_Tennessee_State_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TN",
+              "country_subdivision_name": "Tennessee",
+              "lat": 35.84562,
+              "lng": -86.39027,
+              "name": "Murfreesboro"
+            },
+            "geonames_id": 4644312
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MT"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MTSU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Middle Tennessee State University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "etsu.edu"
+        ],
+        "established": 1911,
+        "external_ids": [
+          {
+            "all": [
+              "100006514",
+              "100015538"
+            ],
+            "preferred": "100006514",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.255381.8"
+            ],
+            "preferred": "grid.255381.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2180 1673"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q634669"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05rfqv493",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.etsu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/East_Tennessee_State_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TN",
+              "country_subdivision_name": "Tennessee",
+              "lat": 36.31344,
+              "lng": -82.35347,
+              "name": "Johnson City"
+            },
+            "geonames_id": 4633419
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ETSU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "East Tennessee State University"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Mountain Home VA Healthcare System",
+            "type": "related",
+            "id": "https://ror.org/02z87mf86"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1924,
+        "external_ids": [
+          {
+            "all": [
+              "grid.444730.0"
+            ],
+            "preferred": "grid.444730.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 6781 1051"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q8048626"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/008pxsf13",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ytu.edu.mm/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Yangon_Technological_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MM",
+              "country_name": "Myanmar",
+              "country_subdivision_code": "06",
+              "country_subdivision_name": "Yangon",
+              "lat": 16.80528,
+              "lng": 96.15611,
+              "name": "Yangon"
+            },
+            "geonames_id": 1298824
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "RIT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Rangoon Institute of Technology"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "YTU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Yangon Technological University"
+          },
+          {
+            "lang": "my",
+            "types": [
+              "label"
+            ],
+            "value": "ရန်ကုန်နည်းပညာတက္ကသိုလ်"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Technological University Mawlamyaing",
+            "type": "related",
+            "id": "https://ror.org/02sw73p72"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2007,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449968.e"
+            ],
+            "preferred": "grid.449968.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q7692491"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04mr67481",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://kyauksetu.edu.mm/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Technological_University,_Kyaukse"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MM",
+              "country_name": "Myanmar",
+              "country_subdivision_code": "04",
+              "country_subdivision_name": "Mandalay Region",
+              "lat": 21.6056,
+              "lng": 96.13508,
+              "name": "Kyaukse"
+            },
+            "geonames_id": 1316703
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "Kyaukse TU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Technological University Kyaukse"
+          },
+          {
+            "lang": "my",
+            "types": [
+              "label"
+            ],
+            "value": "ကျောက်ဆည် နည်းပညာတက္ကသိုလ်"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2007,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449979.e"
+            ],
+            "preferred": "grid.449979.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q16901375"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04e5g4k17",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://tumka.moe-st.gov.mm"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Technological_University,_Myitkyina"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MM",
+              "country_name": "Myanmar",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Kachin State",
+              "lat": 25.38327,
+              "lng": 97.39637,
+              "name": "Myitkyina"
+            },
+            "geonames_id": 1307741
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Government Technical High School"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Government Technical Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Government Technological College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Technological University Myitkyina"
+          },
+          {
+            "lang": "my",
+            "types": [
+              "label"
+            ],
+            "value": "နည်းပညာတက္ကသိုလ် (မြစ်ကြီးနား)"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2007,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449980.8"
+            ],
+            "preferred": "grid.449980.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q7692502"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/010h1b677",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://tupku.edu.mm/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Technological_University,_Pakokku"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MM",
+              "country_name": "Myanmar",
+              "country_subdivision_code": "03",
+              "country_subdivision_name": "Magway",
+              "lat": 21.33489,
+              "lng": 95.08438,
+              "name": "Pakokku"
+            },
+            "geonames_id": 1302439
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Technological University Pakokku"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1932,
+        "external_ids": [
+          {
+            "all": [
+              "grid.258979.8"
+            ],
+            "preferred": "grid.258979.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2229 6138"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6504630"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04d52ej85",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ltu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Lawrence_Technological_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MI",
+              "country_subdivision_name": "Michigan",
+              "lat": 42.47337,
+              "lng": -83.22187,
+              "name": "Southfield"
+            },
+            "geonames_id": 5010636
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "LTU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Lawrence Tech"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Lawrence Technological University"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université technologique lawrence"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1969,
+        "external_ids": [
+          {
+            "all": [
+              "grid.443140.6"
+            ],
+            "preferred": "grid.443140.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0462 1779"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3547651"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/011vbeg19",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.rtu.edu.ph/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Rizal_Technological_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "PH",
+              "country_name": "Philippines",
+              "country_subdivision_code": "00",
+              "country_subdivision_name": "National Capital Region",
+              "lat": 14.5832,
+              "lng": 121.0409,
+              "name": "Mandaluyong"
+            },
+            "geonames_id": 1701966
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "College of Rizal"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "RTU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Rizal Technological College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Rizal Technological University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1991,
+        "external_ids": [
+          {
+            "all": [
+              "grid.444615.6"
+            ],
+            "preferred": "grid.444615.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 6471 3755"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6747771"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01gwmqw64",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://mtu.moe.edu.mm//"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Mandalay_Technological_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MM",
+              "country_name": "Myanmar",
+              "country_subdivision_code": "04",
+              "country_subdivision_name": "Mandalay Region",
+              "lat": 21.97473,
+              "lng": 96.08359,
+              "name": "Mandalay"
+            },
+            "geonames_id": 1311874
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MTU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Mandalay Institute of Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Mandalay Technological University"
+          },
+          {
+            "lang": "my",
+            "types": [
+              "label"
+            ],
+            "value": "မန္တလေးနည်းပညာတက္ကသိုလ်"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1999,
+        "external_ids": [
+          {
+            "all": [
+              "grid.440501.4"
+            ],
+            "preferred": "grid.440501.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q7262886"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03cgbtn12",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://ptu.moe.edu.mm"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Pyay_Technological_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MM",
+              "country_name": "Myanmar",
+              "country_subdivision_code": "02",
+              "country_subdivision_name": "Bago Region",
+              "lat": 18.81996,
+              "lng": 95.21562,
+              "name": "Prome"
+            },
+            "geonames_id": 1299154
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PTU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Pyay Technological University"
+          },
+          {
+            "lang": "my",
+            "types": [
+              "label"
+            ],
+            "value": "ပြည်နည်းပညာတက္ကသိုလ်"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2003,
+        "external_ids": [
+          {
+            "all": [
+              "grid.472361.5"
+            ],
+            "preferred": "grid.472361.5",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/02sw73p72",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.most.gov.mm/mawlamyaingtu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Technological_University,_Mawlamyaing"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MM",
+              "country_name": "Myanmar",
+              "country_subdivision_code": "15",
+              "country_subdivision_name": "Mon",
+              "lat": 16.49051,
+              "lng": 97.62825,
+              "name": "Mawlamyine"
+            },
+            "geonames_id": 1308465
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Technological University Mawlamyaing"
+          },
+          {
+            "lang": "my",
+            "types": [
+              "label"
+            ],
+            "value": "နည်းပညာ တက္ကသိုလ် (မော်လမြိုင်)"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Yangon Technological University",
+            "type": "related",
+            "id": "https://ror.org/008pxsf13"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2004,
+        "external_ids": [
+          {
+            "all": [
+              "grid.472363.7"
+            ],
+            "preferred": "grid.472363.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q7692503"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/004g74051",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://tupln.moe-st.gov.mm/?p=1088"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Technological_University,_Panglong"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MM",
+              "country_name": "Myanmar",
+              "country_subdivision_code": "17",
+              "country_subdivision_name": "Shan State",
+              "lat": 21.31359,
+              "lng": 97.92655,
+              "name": "Loilem District"
+            },
+            "geonames_id": 8238776
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Technological University Panglong"
+          },
+          {
+            "lang": "my",
+            "types": [
+              "label"
+            ],
+            "value": "နည်းပညာတက္ကသိုလ်(ပင်လုံ)"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 12954
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 4185
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 1237
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 349
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 149
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 89
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 63
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 34
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 24
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 2027
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 1597
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 1007
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 841
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 467
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 460
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 443
+        },
+        {
+          "id": "ph",
+          "title": "Philippines",
+          "count": 391
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 384
+        },
+        {
+          "id": "ir",
+          "title": "Iran",
+          "count": 354
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 7451
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 3078
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 2551
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1161
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 548
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 101
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 14890
+        }
+      ]
+    }
+  }
+}

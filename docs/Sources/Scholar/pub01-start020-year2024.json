@@ -1,0 +1,1020 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cites": "1211587708316162333",
+    "hl": "en",
+    "num": 20,
+    "start": 20,
+    "as_ylo": 2024,
+    "as_yhi": 2024
+  },
+  "accessed_at_utc": "2026-10-07T13:03:49.339327+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac6433577e3d96a0ba1afd8",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/dtK58I68b79oIVd5xxJe4LgXhXdCiwGEjYpnqCLpWiY/6ac6433577e3d96a0ba1afd8.json",
+      "markdown_endpoint": "https://serpapi.com/searches/dtK58I68b79oIVd5xxJe4LgXhXdCiwGEjYpnqCLpWiY/6ac6433577e3d96a0ba1afd8.md",
+      "created_at": "2026-10-07 13:03:49 UTC",
+      "processed_at": "2026-10-07 13:03:49 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cites=1211587708316162333&hl=en&start=20&num=21&as_ylo=2024&as_yhi=2024&scipsc=1",
+      "raw_html_file": "https://serpapi.com/searches/dtK58I68b79oIVd5xxJe4LgXhXdCiwGEjYpnqCLpWiY/6ac6433577e3d96a0ba1afd8.html",
+      "total_time_taken": 0.41
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cites": "1211587708316162333",
+      "hl": "en",
+      "start": 20,
+      "num": "20",
+      "as_ylo": "2024",
+      "as_yhi": "2024"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 39,
+      "page_number": 2,
+      "time_taken_displayed": 0.03
+    },
+    "citations_per_year": [
+      {
+        "year": 2019,
+        "citations": 1
+      },
+      {
+        "year": 2020,
+        "citations": 10
+      },
+      {
+        "year": 2021,
+        "citations": 43
+      },
+      {
+        "year": 2022,
+        "citations": 55
+      },
+      {
+        "year": 2023,
+        "citations": 33
+      },
+      {
+        "year": 2024,
+        "citations": 39
+      },
+      {
+        "year": 2025,
+        "citations": 31
+      },
+      {
+        "year": 2026,
+        "citations": 14
+      }
+    ],
+    "profiles": {
+      "link": "https://scholar.google.com/scholar?cluster=1211587708316162333&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "FlowPrecision: Advancing FPGA-based real-time fluid flow estimation with linear quantization",
+        "result_id": "989Pu7Zmh9gJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10503436/",
+        "snippet": "In industrial and environmental monitoring, achieving real-time and precise fluid flow measurement remains a critical challenge. This study applies linear quantization in FPGA …",
+        "publication_info": {
+          "summary": "T Ling, J Hoever, C Qian… - 2024 IEEE International …, 2024 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "T Ling",
+              "link": "https://scholar.google.com/citations?user=zRbjpFgAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "zRbjpFgAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=zRbjpFgAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "J Hoever"
+            },
+            {
+              "name": "C Qian",
+              "link": "https://scholar.google.com/citations?user=Ur1bMRoAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "Ur1bMRoAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Ur1bMRoAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2403.01922"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=989Pu7Zmh9gJ",
+          "cited_by": {
+            "total": 11,
+            "link": "https://scholar.google.com/scholar?cites=15602552369061023735&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+            "cites_id": "15602552369061023735",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=15602552369061023735&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:989Pu7Zmh9gJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cites=1211587708316162333&engine=google_scholar&hl=en&num=20&q=related%3A989Pu7Zmh9gJ%3Ascholar.google.com%2F&start=20",
+          "versions": {
+            "total": 6,
+            "link": "https://scholar.google.com/scholar?cluster=15602552369061023735&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+            "cluster_id": "15602552369061023735",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cluster=15602552369061023735&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 2,
+        "title": "An sram compute-in-memory macro based on direct coupling sar adc and dac reuse",
+        "result_id": "hMiW0LS5xikJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10558176/",
+        "snippet": "Deep neural networks (DNNs) can be implemented in low-power, small-area systems using compute-in-memory (CIM). This study proposes a CIM MAC macro based on 8T SRAM and …",
+        "publication_info": {
+          "summary": "Y Ma, X Yu, Z Tan, L Zhao - 2024 IEEE International …, 2024 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "Y Ma"
+            },
+            {
+              "name": "X Yu"
+            },
+            {
+              "name": "Z Tan"
+            },
+            {
+              "name": "L Zhao",
+              "link": "https://scholar.google.com/citations?user=A_g86msAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "A_g86msAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_g86msAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=hMiW0LS5xikJ",
+          "cited_by": {
+            "total": 8,
+            "link": "https://scholar.google.com/scholar?cites=3010297587188549764&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+            "cites_id": "3010297587188549764",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=3010297587188549764&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:hMiW0LS5xikJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cites=1211587708316162333&engine=google_scholar&hl=en&num=20&q=related%3AhMiW0LS5xikJ%3Ascholar.google.com%2F&start=20",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=3010297587188549764&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+            "cluster_id": "3010297587188549764",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cluster=3010297587188549764&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 3,
+        "title": "On the quantization of neural models for speaker verification",
+        "result_id": "LErv86V_IK4J",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10684732/",
+        "snippet": "This paper addresses the sub-optimality of current post-training quantization (PTQ) and quantization-aware training (QAT) methods for state-of-the-art speaker verification (SV) …",
+        "publication_info": {
+          "summary": "V Kumar, V Abrol, MM Doss - IEEE/ACM Transactions on Audio …, 2024 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "V Kumar",
+              "link": "https://scholar.google.com/citations?user=bgnTNvAAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "bgnTNvAAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=bgnTNvAAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "V Abrol",
+              "link": "https://scholar.google.com/citations?user=13e0zscAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "13e0zscAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=13e0zscAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "MM Doss"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=LErv86V_IK4J",
+          "cited_by": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cites=12547168912593078828&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+            "cites_id": "12547168912593078828",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12547168912593078828&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:LErv86V_IK4J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cites=1211587708316162333&engine=google_scholar&hl=en&num=20&q=related%3ALErv86V_IK4J%3Ascholar.google.com%2F&start=20",
+          "versions": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cluster=12547168912593078828&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+            "cluster_id": "12547168912593078828",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cluster=12547168912593078828&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 4,
+        "title": "Selective focus: investigating semantics sensitivity in post-training quantization for lane detection",
+        "result_id": "sJqOaCUAIxcJ",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/29080",
+        "snippet": "Lane detection (LD) plays a crucial role in enhancing the L2+ capabilities of autonomous driving, capturing widespread attention. The Post-Processing Quantization (PTQ) could …",
+        "publication_info": {
+          "summary": "Y Fan, X Wei, R Gong, Y Ma, X Zhang… - Proceedings of the …, 2024 - ojs.aaai.org",
+          "authors": [
+            {
+              "name": "Y Fan",
+              "link": "https://scholar.google.com/citations?user=pGF-oWQAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "pGF-oWQAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pGF-oWQAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "X Wei"
+            },
+            {
+              "name": "R Gong",
+              "link": "https://scholar.google.com/citations?user=8i7Z15kAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "8i7Z15kAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8i7Z15kAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "Y Ma",
+              "link": "https://scholar.google.com/citations?user=wWBVpyEAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "wWBVpyEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wWBVpyEAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "X Zhang",
+              "link": "https://scholar.google.com/citations?user=Rto6qmsAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "Rto6qmsAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Rto6qmsAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "aaai.org",
+            "file_format": "PDF",
+            "link": "https://ojs.aaai.org/index.php/AAAI/article/view/29080/30043"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=sJqOaCUAIxcJ",
+          "cited_by": {
+            "total": 6,
+            "link": "https://scholar.google.com/scholar?cites=1667176447725181616&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+            "cites_id": "1667176447725181616",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1667176447725181616&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:sJqOaCUAIxcJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cites=1211587708316162333&engine=google_scholar&hl=en&num=20&q=related%3AsJqOaCUAIxcJ%3Ascholar.google.com%2F&start=20",
+          "versions": {
+            "total": 6,
+            "link": "https://scholar.google.com/scholar?cluster=1667176447725181616&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+            "cluster_id": "1667176447725181616",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cluster=1667176447725181616&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:sJqOaCUAIxcJ:scholar.google.com/&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024"
+        }
+      },
+      {
+        "position": 5,
+        "title": "Hardware-Software Co-Design for Energy-Efficient Neural Network Inference at the Extreme Edge",
+        "result_id": "qMCjXd6An6AJ",
+        "type": "Pdf",
+        "link": "https://www.research-collection.ethz.ch/bitstreams/857341db-7df5-4056-8e4b-3af428866cf1/download",
+        "snippet": "Since the breakthrough success of AlexNet in the ILSVRC image recognition challenge in 2012, Deep Neural Networks (DNNs), and in particular Convolutional Neural Networks …",
+        "publication_info": {
+          "summary": "M Scherer - 2024 - research-collection.ethz.ch",
+          "authors": [
+            {
+              "name": "M Scherer",
+              "link": "https://scholar.google.com/citations?user=PqOdtJ4AAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "PqOdtJ4AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PqOdtJ4AAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "ethz.ch",
+            "file_format": "PDF",
+            "link": "https://www.research-collection.ethz.ch/bitstreams/857341db-7df5-4056-8e4b-3af428866cf1/download"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=qMCjXd6An6AJ",
+          "cited_by": {
+            "total": 6,
+            "link": "https://scholar.google.com/scholar?cites=11574111259907571880&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+            "cites_id": "11574111259907571880",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=11574111259907571880&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:qMCjXd6An6AJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cites=1211587708316162333&engine=google_scholar&hl=en&num=20&q=related%3AqMCjXd6An6AJ%3Ascholar.google.com%2F&start=20",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=11574111259907571880&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+            "cluster_id": "11574111259907571880",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cluster=11574111259907571880&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:qMCjXd6An6AJ:scholar.google.com/&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024"
+        }
+      },
+      {
+        "position": 6,
+        "title": "HQOD: harmonious quantization for object detection",
+        "result_id": "viFZN68HU7oJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10687589/",
+        "snippet": "Task inharmony problem commonly occurs in modern object detectors, leading to inconsistent qualities between classification and regression tasks. The predicted boxes with …",
+        "publication_info": {
+          "summary": "L Huang, Z Dong, SL Chen, R Zhang… - … on Multimedia and …, 2024 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "L Huang"
+            },
+            {
+              "name": "Z Dong",
+              "link": "https://scholar.google.com/citations?user=RFJ4DuYAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "RFJ4DuYAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=RFJ4DuYAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "SL Chen",
+              "link": "https://scholar.google.com/citations?user=EaNG7sMAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "EaNG7sMAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=EaNG7sMAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "R Zhang"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2408.02561"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=viFZN68HU7oJ",
+          "cited_by": {
+            "total": 5,
+            "link": "https://scholar.google.com/scholar?cites=13426083363250839998&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+            "cites_id": "13426083363250839998",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=13426083363250839998&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:viFZN68HU7oJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cites=1211587708316162333&engine=google_scholar&hl=en&num=20&q=related%3AviFZN68HU7oJ%3Ascholar.google.com%2F&start=20",
+          "versions": {
+            "total": 5,
+            "link": "https://scholar.google.com/scholar?cluster=13426083363250839998&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+            "cluster_id": "13426083363250839998",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cluster=13426083363250839998&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 7,
+        "title": "SFC: achieve accurate fast convolution under low-precision arithmetic",
+        "result_id": "fGi_0vWjjeIJ",
+        "link": "https://arxiv.org/abs/2407.02913",
+        "snippet": "Fast convolution algorithms, including Winograd and FFT, can efficiently accelerate convolution operations in deep models. However, these algorithms depend on high …",
+        "publication_info": {
+          "summary": "L He, Y Zhao, R Gao, Y Du, L Du - arXiv preprint arXiv:2407.02913, 2024 - arxiv.org",
+          "authors": [
+            {
+              "name": "L He"
+            },
+            {
+              "name": "Y Zhao"
+            },
+            {
+              "name": "R Gao"
+            },
+            {
+              "name": "Y Du",
+              "link": "https://scholar.google.com/citations?user=llkNsDAAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "llkNsDAAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=llkNsDAAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "L Du",
+              "link": "https://scholar.google.com/citations?user=MkUBI9YAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "MkUBI9YAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MkUBI9YAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2407.02913"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=fGi_0vWjjeIJ",
+          "cited_by": {
+            "total": 5,
+            "link": "https://scholar.google.com/scholar?cites=16324884500485990524&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+            "cites_id": "16324884500485990524",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=16324884500485990524&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:fGi_0vWjjeIJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cites=1211587708316162333&engine=google_scholar&hl=en&num=20&q=related%3AfGi_0vWjjeIJ%3Ascholar.google.com%2F&start=20",
+          "versions": {
+            "total": 6,
+            "link": "https://scholar.google.com/scholar?cluster=16324884500485990524&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+            "cluster_id": "16324884500485990524",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cluster=16324884500485990524&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:fGi_0vWjjeIJ:scholar.google.com/&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024"
+        }
+      },
+      {
+        "position": 8,
+        "title": "CANET: Quantized neural network inference with 8-bit carry-aware accumulator",
+        "result_id": "VyOV2ou4V2UJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10445180/",
+        "snippet": "Neural network quantization represents weights and activations with few bits, greatly reducing the overhead of multiplications. However, due to the recursive accumulation …",
+        "publication_info": {
+          "summary": "J Yang, X Wang, Y Jiang - IEEE Access, 2024 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "J Yang"
+            },
+            {
+              "name": "X Wang"
+            },
+            {
+              "name": "Y Jiang"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "ieee.org",
+            "file_format": "PDF",
+            "link": "https://ieeexplore.ieee.org/iel7/6287639/6514899/10445180.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=VyOV2ou4V2UJ",
+          "cited_by": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cites=7302508231611720535&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+            "cites_id": "7302508231611720535",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7302508231611720535&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:VyOV2ou4V2UJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cites=1211587708316162333&engine=google_scholar&hl=en&num=20&q=related%3AVyOV2ou4V2UJ%3Ascholar.google.com%2F&start=20",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=7302508231611720535&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+            "cluster_id": "7302508231611720535",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cluster=7302508231611720535&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 9,
+        "title": "On the implementation of neural network-based OFDM receivers",
+        "result_id": "iqAC0CcbAgYJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10683574/",
+        "snippet": "Neural network (NN)-based receivers for orthogonal frequency division multiplex (OFDM) excel through promising performance and benefits in their applicability. In this paper we …",
+        "publication_info": {
+          "summary": "MB Fischer, S Dörner, T Shimizu… - 2024 IEEE 99th …, 2024 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "MB Fischer"
+            },
+            {
+              "name": "S Dörner",
+              "link": "https://scholar.google.com/citations?user=5MhdrRsAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "5MhdrRsAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5MhdrRsAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "T Shimizu",
+              "link": "https://scholar.google.com/citations?user=Ju9hwUwAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "Ju9hwUwAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Ju9hwUwAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=iqAC0CcbAgYJ",
+          "cited_by": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cites=432938371988496522&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+            "cites_id": "432938371988496522",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=432938371988496522&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:iqAC0CcbAgYJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cites=1211587708316162333&engine=google_scholar&hl=en&num=20&q=related%3AiqAC0CcbAgYJ%3Ascholar.google.com%2F&start=20",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=432938371988496522&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+            "cluster_id": "432938371988496522",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cluster=432938371988496522&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 10,
+        "title": "Dedicated inference engine and binary-weight neural networks for lightweight instance segmentation",
+        "result_id": "n4ty6C1hCYIJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10678505/",
+        "snippet": "Binary-weight Neural Networks (BNNs), in which weights are binarized and activations are quantized, are employed to reduce computational costs of various kinds of applications. In …",
+        "publication_info": {
+          "summary": "TW Chen, W Tao, D Zhao, K Mima, T Ito… - 2024 IEEE/CVF …, 2024 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "TW Chen",
+              "link": "https://scholar.google.com/citations?user=eBTQFN0AAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "eBTQFN0AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=eBTQFN0AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "W Tao"
+            },
+            {
+              "name": "D Zhao"
+            },
+            {
+              "name": "K Mima"
+            },
+            {
+              "name": "T Ito"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2501.01841"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=n4ty6C1hCYIJ",
+          "cited_by": {
+            "total": 1,
+            "link": "https://scholar.google.com/scholar?cites=9370127349522271135&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+            "cites_id": "9370127349522271135",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9370127349522271135&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:n4ty6C1hCYIJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cites=1211587708316162333&engine=google_scholar&hl=en&num=20&q=related%3An4ty6C1hCYIJ%3Ascholar.google.com%2F&start=20",
+          "versions": {
+            "total": 5,
+            "link": "https://scholar.google.com/scholar?cluster=9370127349522271135&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+            "cluster_id": "9370127349522271135",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cluster=9370127349522271135&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 11,
+        "title": "On the Impact of White-box Deployment Strategies for Edge AI on Latency and Model Performance",
+        "result_id": "k6L9OY94_EgJ",
+        "link": "https://arxiv.org/abs/2411.00907",
+        "snippet": "To help MLOps engineers decide which operator to use in which deployment scenario, this study aims to empirically assess the accuracy vs latency trade-off of white-box (training …",
+        "publication_info": {
+          "summary": "J Singh, B Adams, AE Hassan - arXiv preprint arXiv:2411.00907, 2024 - arxiv.org",
+          "authors": [
+            {
+              "name": "J Singh"
+            },
+            {
+              "name": "B Adams",
+              "link": "https://scholar.google.com/citations?user=XS9QH_UAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "XS9QH_UAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=XS9QH_UAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "AE Hassan",
+              "link": "https://scholar.google.com/citations?user=9hwXx34AAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "9hwXx34AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9hwXx34AAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=k6L9OY94_EgJ",
+          "cited_by": {
+            "total": 1,
+            "link": "https://scholar.google.com/scholar?cites=5259211021410476691&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+            "cites_id": "5259211021410476691",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=5259211021410476691&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:k6L9OY94_EgJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cites=1211587708316162333&engine=google_scholar&hl=en&num=20&q=related%3Ak6L9OY94_EgJ%3Ascholar.google.com%2F&start=20",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=5259211021410476691&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+            "cluster_id": "5259211021410476691",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cluster=5259211021410476691&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:k6L9OY94_EgJ:scholar.google.com/&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024"
+        }
+      },
+      {
+        "position": 12,
+        "title": "Rand: Robustness Aware Norm Decay for Quantized Neural Networks",
+        "result_id": "mToyh4zbcE8J",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10832205/",
+        "snippet": "With the rapid increase in the size of neural networks, model compression has become an important area of research. Quantization is an effective technique for decreasing the size …",
+        "publication_info": {
+          "summary": "D Qiu, D Rim, S Ding, O Rybakov… - 2024 IEEE Spoken …, 2024 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "D Qiu",
+              "link": "https://scholar.google.com/citations?user=udbUhcUAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "udbUhcUAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=udbUhcUAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "D Rim"
+            },
+            {
+              "name": "S Ding",
+              "link": "https://scholar.google.com/citations?user=voJpdYYAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "voJpdYYAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=voJpdYYAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "O Rybakov",
+              "link": "https://scholar.google.com/citations?user=3qb7uO4AAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "3qb7uO4AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3qb7uO4AAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=mToyh4zbcE8J",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:mToyh4zbcE8J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cites=1211587708316162333&engine=google_scholar&hl=en&num=20&q=related%3AmToyh4zbcE8J%3Ascholar.google.com%2F&start=20",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=5724316522998020761&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+            "cluster_id": "5724316522998020761",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cluster=5724316522998020761&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 13,
+        "title": "Accessible foundation models: Systems, algorithms, and science",
+        "result_id": "hsZpaXAMD6MJ",
+        "type": "Book",
+        "link": "https://search.proquest.com/openview/6c8dd68b06a47574c371e521806504a7/1?pq-origsite=gscholar&cbl=18750&diss=y",
+        "snippet": "The ever-increasing scale of foundation models, such as ChatGPT and AlphaFold, has revolutionized AI and science more generally. However, increasing scale also steadily …",
+        "publication_info": {
+          "summary": "T Dettmers - 2024 - search.proquest.com",
+          "authors": [
+            {
+              "name": "T Dettmers",
+              "link": "https://scholar.google.com/citations?user=lHI3w5kAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "lHI3w5kAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=lHI3w5kAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "washington.edu",
+            "file_format": "PDF",
+            "link": "https://digital.lib.washington.edu/bitstreams/63e54e0c-bcaa-42e8-b164-5a8e4db7a715/download"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=hsZpaXAMD6MJ",
+          "cited_by": {
+            "total": 1,
+            "link": "https://scholar.google.com/scholar?cites=11749623629777323654&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+            "cites_id": "11749623629777323654",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=11749623629777323654&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:hsZpaXAMD6MJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cites=1211587708316162333&engine=google_scholar&hl=en&num=20&q=related%3AhsZpaXAMD6MJ%3Ascholar.google.com%2F&start=20",
+          "versions": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cluster=11749623629777323654&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+            "cluster_id": "11749623629777323654",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cluster=11749623629777323654&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 14,
+        "title": "Empirical evaluation of edge ai deployment strategies involving black-box and white-box operators",
+        "result_id": "IqiFJFnnRZ0J",
+        "type": "Book",
+        "link": "https://search.proquest.com/openview/8ad0f5851d3a3333aa5e2d7cc678ec51/1?pq-origsite=gscholar&cbl=18750&diss=y",
+        "snippet": "Edge AI enables deploying models across Mobile, Edge, and Cloud (MEC) tiers using a wide range of ML model transformation operators. Despite the wide range of operators …",
+        "publication_info": {
+          "summary": "J Singh - 2024 - search.proquest.com",
+          "authors": [
+            {
+              "name": "J Singh"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "scholaris.ca",
+            "file_format": "PDF",
+            "link": "https://queensu.scholaris.ca/server/api/core/bitstreams/d328232f-84f6-4815-a2d4-e2dc8db152fe/content"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=IqiFJFnnRZ0J",
+          "cited_by": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cites=11332718407398565922&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+            "cites_id": "11332718407398565922",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=11332718407398565922&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:IqiFJFnnRZ0J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cites=1211587708316162333&engine=google_scholar&hl=en&num=20&q=related%3AIqiFJFnnRZ0J%3Ascholar.google.com%2F&start=20",
+          "versions": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cluster=11332718407398565922&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+            "cluster_id": "11332718407398565922",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cluster=11332718407398565922&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 15,
+        "title": "Agile and Efficient Inference of Quantized Neural Networks",
+        "result_id": "rPWn_VOIrp8J",
+        "link": "https://www.research-collection.ethz.ch/items/ca1e92d2-9585-43cd-81ac-6abbfba87f0f",
+        "snippet": "The rapid proliferation of the internet of things (IoT) has coincided with a revolution in machine learning, driven by deep learning-based algorithms. At the intersection of these …",
+        "publication_info": {
+          "summary": "G Rutishauser - 2024 - research-collection.ethz.ch",
+          "authors": [
+            {
+              "name": "G Rutishauser",
+              "link": "https://scholar.google.com/citations?user=lkVy1RQAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "lkVy1RQAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=lkVy1RQAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "ethz.ch",
+            "file_format": "PDF",
+            "link": "https://www.research-collection.ethz.ch/bitstreams/7cdd8f20-2c7c-4a37-a369-ac6cededf3ab/download"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=rPWn_VOIrp8J",
+          "cited_by": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cites=11506283992297502124&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+            "cites_id": "11506283992297502124",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=11506283992297502124&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:rPWn_VOIrp8J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cites=1211587708316162333&engine=google_scholar&hl=en&num=20&q=related%3ArPWn_VOIrp8J%3Ascholar.google.com%2F&start=20",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=11506283992297502124&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+            "cluster_id": "11506283992297502124",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cluster=11506283992297502124&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:rPWn_VOIrp8J:scholar.google.com/&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024"
+        }
+      },
+      {
+        "position": 16,
+        "title": "Neural network quantization methods for FPGA on-board processing of satellite images",
+        "result_id": "XSeeZ2xRBGEJ",
+        "link": "https://theses.hal.science/tel-04883343/",
+        "snippet": "Deep learning is starting to be successfully applied to various space applications. However, due to its memory footprint and computational intensity, inference of many models is still …",
+        "publication_info": {
+          "summary": "C Gernigon - 2024 - theses.hal.science",
+          "authors": [
+            {
+              "name": "C Gernigon"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "hal.science",
+            "file_format": "PDF",
+            "link": "https://theses.hal.science/tel-05216300/document"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=XSeeZ2xRBGEJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:XSeeZ2xRBGEJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cites=1211587708316162333&engine=google_scholar&hl=en&num=20&q=related%3AXSeeZ2xRBGEJ%3Ascholar.google.com%2F&start=20",
+          "versions": {
+            "total": 6,
+            "link": "https://scholar.google.com/scholar?cluster=6990802047622588253&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+            "cluster_id": "6990802047622588253",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cluster=6990802047622588253&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:XSeeZ2xRBGEJ:scholar.google.com/&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024"
+        }
+      },
+      {
+        "position": 17,
+        "title": "Efficient CNN inference acceleration on FPGAs: a pattern pruning-driven approach",
+        "result_id": "M7GFR2V-E5oJ",
+        "link": "https://theses.hal.science/tel-05021575/",
+        "snippet": "CNN-based deep learning models provide state-of-the-art performance in image and video processing tasks, particularly for image enhancement or classification. However, these …",
+        "publication_info": {
+          "summary": "L Pradels - 2024 - theses.hal.science",
+          "authors": [
+            {
+              "name": "L Pradels",
+              "link": "https://scholar.google.com/citations?user=BQBxVJsAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "BQBxVJsAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=BQBxVJsAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "hal.science",
+            "file_format": "PDF",
+            "link": "https://theses.hal.science/tel-05021575/file/PRADELS_Leo.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=M7GFR2V-E5oJ",
+          "cited_by": {
+            "total": 1,
+            "link": "https://scholar.google.com/scholar?cites=11102356479855145267&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+            "cites_id": "11102356479855145267",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=11102356479855145267&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:M7GFR2V-E5oJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cites=1211587708316162333&engine=google_scholar&hl=en&num=20&q=related%3AM7GFR2V-E5oJ%3Ascholar.google.com%2F&start=20",
+          "versions": {
+            "total": 7,
+            "link": "https://scholar.google.com/scholar?cluster=11102356479855145267&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+            "cluster_id": "11102356479855145267",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cluster=11102356479855145267&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:M7GFR2V-E5oJ:scholar.google.com/&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024"
+        }
+      },
+      {
+        "position": 18,
+        "title": "Post-Training Optimization of Cross-layer Approximate Computing for Edge Inference of Deep Learning Applications",
+        "result_id": "FCjfD-vkiToJ",
+        "link": "https://tud.qucosa.de/en/landing-page/https%3A%2F%2Ftud.qucosa.de%2Fapi%2Fqucosa%253A88978%2Fmets/",
+        "snippet": "Abstract (EN) Over the past decade, the rapid development of deep learning (DL) algorithms has enabled extraordinary advances in perception tasks throughout different fields, from …",
+        "publication_info": {
+          "summary": "CE De la Parra Aparicio - 2024 - tud.qucosa.de",
+          "authors": [
+            {
+              "name": "CE De la Parra Aparicio"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "qucosa.de",
+            "file_format": "PDF",
+            "link": "https://tud.qucosa.de/en/api/qucosa%3A88978/attachment/ATT-0/"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=FCjfD-vkiToJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:FCjfD-vkiToJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cites=1211587708316162333&engine=google_scholar&hl=en&num=20&q=related%3AFCjfD-vkiToJ%3Ascholar.google.com%2F&start=20",
+          "versions": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cluster=4218154224243910676&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+            "cluster_id": "4218154224243910676",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cluster=4218154224243910676&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:FCjfD-vkiToJ:scholar.google.com/&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024"
+        }
+      },
+      {
+        "position": 19,
+        "title": "A customized convolutional neural network structure design based on Field-Programmable Gate Array",
+        "result_id": "5FwylwMy5XIJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10695261/",
+        "snippet": "In this paper, different hardware deployment schemes are designed to accelerate the overall reasoning process of convolutional neural network according to the characteristics of large …",
+        "publication_info": {
+          "summary": "J Zhang, D Yin - 2024 7th International Conference on …, 2024 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "J Zhang"
+            },
+            {
+              "name": "D Yin"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=5FwylwMy5XIJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:5FwylwMy5XIJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cites=1211587708316162333&engine=google_scholar&hl=en&num=20&q=related%3A5FwylwMy5XIJ%3Ascholar.google.com%2F&start=20",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=8279078480993475812&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024",
+            "cluster_id": "8279078480993475812",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cluster=8279078480993475812&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      }
+    ],
+    "pagination": {
+      "current": 2,
+      "previous": "https://scholar.google.com/scholar?start=0&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024&cites=1211587708316162333&scipsc=1",
+      "next": null,
+      "other_pages": {
+        "1": "https://scholar.google.com/scholar?start=0&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2024&as_yhi=2024&cites=1211587708316162333&scipsc=1"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 2,
+      "previous_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cites=1211587708316162333&engine=google_scholar&hl=en&num=20&start=0",
+      "previous": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cites=1211587708316162333&engine=google_scholar&hl=en&num=20&start=0",
+      "other_pages": {
+        "1": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2024&as_ylo=2024&cites=1211587708316162333&engine=google_scholar&hl=en&num=20&start=0"
+      }
+    }
+  }
+}

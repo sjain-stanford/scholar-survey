@@ -1,0 +1,40 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cites": "4771408704216507266,20156749286290710",
+    "hl": "en",
+    "num": 20,
+    "start": 40,
+    "scisbd": 2,
+    "filter": 0
+  },
+  "accessed_at_utc": "2026-10-07T12:46:19.475423+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63f1b95a694b92630e787",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/3xs9dlA3l2mrRUTXBkqOj-NHyeLCHC6q0-F5fVD1hmk/6ac63f1b95a694b92630e787.json",
+      "markdown_endpoint": "https://serpapi.com/searches/3xs9dlA3l2mrRUTXBkqOj-NHyeLCHC6q0-F5fVD1hmk/6ac63f1b95a694b92630e787.md",
+      "created_at": "2026-10-07 12:46:19 UTC",
+      "processed_at": "2026-10-07 12:46:19 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cites=4771408704216507266,20156749286290710&hl=en&start=40&num=21&filter=0&scisbd=2&scipsc=1",
+      "raw_html_file": "https://serpapi.com/searches/3xs9dlA3l2mrRUTXBkqOj-NHyeLCHC6q0-F5fVD1hmk/6ac63f1b95a694b92630e787.html",
+      "total_time_taken": 1.42
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cites": "4771408704216507266,20156749286290710",
+      "hl": "en",
+      "start": 40,
+      "num": "20",
+      "filter": "0",
+      "scisbd": "2"
+    },
+    "search_information": {
+      "organic_results_state": "Fully empty"
+    },
+    "error": "Google hasn't returned any results for this query."
+  }
+}

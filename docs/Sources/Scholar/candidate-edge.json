@@ -1,0 +1,39 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "q": "intitle:\"Bringing AI to edge\" Liu",
+    "hl": "en",
+    "num": 10
+  },
+  "accessed_at_utc": "2026-10-07T12:40:01.745905+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63da100a7fbd37cfef7c7",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/4dGGCz6M-rgFTp4597UkbJTu7wS_wwDcF54R1mHIATg/6ac63da100a7fbd37cfef7c7.json",
+      "markdown_endpoint": "https://serpapi.com/searches/4dGGCz6M-rgFTp4597UkbJTu7wS_wwDcF54R1mHIATg/6ac63da100a7fbd37cfef7c7.md",
+      "created_at": "2026-10-07 12:40:01 UTC",
+      "processed_at": "2026-10-07 12:40:01 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?q=intitle%3A%22Bringing+AI+to+edge%22+Liu&hl=en&num=10",
+      "raw_html_file": "https://serpapi.com/searches/4dGGCz6M-rgFTp4597UkbJTu7wS_wwDcF54R1mHIATg/6ac63da100a7fbd37cfef7c7.html",
+      "total_time_taken": 1.06
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "q": "intitle:\"Bringing AI to edge\" Liu",
+      "hl": "en",
+      "num": "10"
+    },
+    "search_information": {
+      "organic_results_state": "Fully empty",
+      "query_displayed": "intitle:\"Bringing AI to edge\" Liu"
+    },
+    "error": "Google hasn't returned any results for this query.",
+    "profiles": {
+      "link": "https://www.google.com/search?hl=en&q=intitle:%22Bringing+AI+to+edge%22+Liu",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=intitle%3A%22Bringing+AI+to+edge%22+Liu"
+    }
+  }
+}

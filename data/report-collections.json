@@ -1,0 +1,28 @@
+{
+  "collections": [
+    {
+      "id": "substantive",
+      "title": "Substantive Citation Report",
+      "report": "Substantive-Citation-Report",
+      "link_report": true,
+      "selection_field": "a",
+      "description": "Eight articles selected by conference venue and/or citation count, documenting methodological adaptation, technical exposition, comparison and quantizer-design connections.",
+      "selection": "This report includes articles published in conferences rated ICORE2026 A* and/or carrying at least 100 Google Scholar citations in the saved snapshot. Counts belong to the citing articles' Scholar records or version clusters. Each entry identifies its reviewed publication version and the contribution supported by the source passage.",
+      "groups": [
+        {"title": "Substantive citations", "articles": [1, 2, 3, 4, 5, 6, 7, 8]}
+      ]
+    },
+    {
+      "id": "named",
+      "title": "Named Citation Report",
+      "report": "Named-Citation-Report",
+      "link_report": false,
+      "selection_field": "named",
+      "description": "Five articles naming Jain in technical discussion of methods, designs and research contributions.",
+      "selection": "This report includes articles that name Jain in substantive body discussion, with the corresponding coauthored work identified through the bibliography. Entries describe the specific adaptation, implementation, comparison or technical explanation supported by the source, retaining joint attribution where several methods are credited.",
+      "groups": [
+        {"title": "Named citations", "articles": [11, 13, 12, 9, 10]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2069 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=National+University+of+Defense+Technology",
+  "http_status": 200,
+  "query": "National University of Defense Technology",
+  "data": {
+    "number_of_results": 39685,
+    "time_taken": 173,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nudt.edu.cn"
+        ],
+        "established": 1953,
+        "external_ids": [
+          {
+            "all": [
+              "501100007085",
+              "501100014896"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412110.7"
+            ],
+            "preferred": "grid.412110.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9548 2110"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q831227"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05d2yfz11",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.nudt.edu.cn/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/National_University_of_Defense_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HN",
+              "country_subdivision_name": "Hunan",
+              "lat": 28.19874,
+              "lng": 112.97087,
+              "name": "Changsha"
+            },
+            "geonames_id": 1815577
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Guófáng Kēxuéjìshù Dàxué"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NUDT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National University of Defense Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中国人民解放军国防科学技术大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "State Key Laboratory of Complex Electromagnetic Environment Effects on Electronics and Information System",
+            "type": "child",
+            "id": "https://ror.org/012ajw921"
+          },
+          {
+            "label": "State Key Laboratory of Automatic Target Recognition",
+            "type": "child",
+            "id": "https://ror.org/052qsxn63"
+          },
+          {
+            "label": "State Key Laboratory of Pulsed Power Laser Technology",
+            "type": "child",
+            "id": "https://ror.org/00wv14x31"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-02-17",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1976,
+        "external_ids": [
+          {
+            "all": [
+              "grid.502007.0"
+            ],
+            "preferred": "grid.502007.0",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/01nmtfv20",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://ndu.edu.kh/en"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KH",
+              "country_name": "Cambodia",
+              "country_subdivision_code": "12",
+              "country_subdivision_name": "Phnom Penh",
+              "lat": 11.56245,
+              "lng": 104.91601,
+              "name": "Phnom Penh"
+            },
+            "geonames_id": 1821306
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NDU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Defense University"
+          },
+          {
+            "lang": "km",
+            "types": [
+              "label"
+            ],
+            "value": "សាកលវិទ្យាល័យការពារជាតិ"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2000,
+        "external_ids": [
+          {
+            "all": [
+              "501100006480"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.440380.b"
+            ],
+            "preferred": "grid.440380.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1798 1669"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q10927356"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00hkj1v53",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://eweb.ccit.ndu.edu.tw/bin/home.php"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/National_Defense_University_(Republic_of_China)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TW",
+              "country_name": "Taiwan",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Taiwan",
+              "lat": 24.99368,
+              "lng": 121.29696,
+              "name": "Taoyuan"
+            },
+            "geonames_id": 6696918
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Defense University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "國防大學"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-11-21",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-02-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "mndu.gov.mn"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 0449 5725"
+            ],
+            "preferred": "0000 0004 0449 5725",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/055vdfb51",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://mndu.gov.mn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MN",
+              "country_name": "Mongolia",
+              "country_subdivision_code": "1",
+              "country_subdivision_name": "Ulaanbaatar",
+              "lat": 47.90771,
+              "lng": 106.88324,
+              "name": "Ulaanbaatar"
+            },
+            "geonames_id": 2028462
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Mongolian National Defense University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Defense University"
+          },
+          {
+            "lang": "mn",
+            "types": [
+              "alias"
+            ],
+            "value": "ндэсний Батлан Хамгаалах Их Сургууль"
+          },
+          {
+            "lang": "mn",
+            "types": [
+              "label"
+            ],
+            "value": "Үндэсний Батлан Хамгаалах Их Сургууль"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "蒙古国防大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-02-26",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-02-26",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "mmu.edu.az"
+        ],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/05emvfn26",
+        "links": [],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "AZ",
+              "country_name": "Azerbaijan",
+              "country_subdivision_code": "BA",
+              "country_subdivision_name": "Baki",
+              "lat": 40.37767,
+              "lng": 49.89201,
+              "name": "Baku"
+            },
+            "geonames_id": 587084
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Azerbaijan National Defense University"
+          },
+          {
+            "lang": "az",
+            "types": [
+              "acronym"
+            ],
+            "value": "MMU"
+          },
+          {
+            "lang": "az",
+            "types": [
+              "alias"
+            ],
+            "value": "Milli Müdafiə Universiteti"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "National Defense University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-09-23",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-03-26",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "msu.edu.tr"
+        ],
+        "established": 2016,
+        "external_ids": [
+          {
+            "all": [
+              "grid.510982.7"
+            ],
+            "preferred": "grid.510982.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q28846425"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/010t24d82",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.msu.edu.tr"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/National_Defense_University_(Turkey)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TR",
+              "country_name": "Türkiye",
+              "country_subdivision_code": "34",
+              "country_subdivision_name": "Istanbul",
+              "lat": 41.01384,
+              "lng": 28.94966,
+              "name": "Istanbul"
+            },
+            "geonames_id": 745044
+          }
+        ],
+        "names": [
+          {
+            "lang": "tr",
+            "types": [
+              "acronym"
+            ],
+            "value": "MSU"
+          },
+          {
+            "lang": "tr",
+            "types": [
+              "acronym"
+            ],
+            "value": "MSÜ"
+          },
+          {
+            "lang": "tr",
+            "types": [
+              "alias"
+            ],
+            "value": "Milli Savunma Universitesi"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Milli Savunma University"
+          },
+          {
+            "lang": "tr",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Milli Savunma Üniversitesi"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "National Defense University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ndu.edu"
+        ],
+        "established": 1976,
+        "external_ids": [
+          {
+            "all": [
+              "100010453",
+              "100009904",
+              "100010211",
+              "100010214",
+              "100010452",
+              "100010213",
+              "100010212",
+              "100010454",
+              "100009908",
+              "100009909",
+              "100010215",
+              "100010455",
+              "100009905",
+              "100009907",
+              "100009903",
+              "100010456",
+              "100010457"
+            ],
+            "preferred": "100009903",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.431364.7"
+            ],
+            "preferred": "grid.431364.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2176 6230"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1967074"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01nqk4x38",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ndu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/National_Defense_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "DC",
+              "country_subdivision_name": "District of Columbia",
+              "lat": 38.89511,
+              "lng": -77.03637,
+              "name": "Washington"
+            },
+            "geonames_id": 4140963
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NDU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Defense University"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Nacional de Defensa"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1955,
+        "external_ids": [
+          {
+            "all": [
+              "grid.448809.9"
+            ],
+            "preferred": "grid.448809.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 6012 9367"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2783799"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05t1bc854",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.kndu.ac.kr"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Korea_National_Defense_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KNDU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Korea National Defense University"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "국방대학교"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-21",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1985,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 0369 1150"
+            ],
+            "preferred": "0000 0004 0369 1150",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6147859"
+            ],
+            "preferred": "Q6147859",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02ak6qt26",
+        "links": [
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/People%27s_Liberation_Army_National_Defense_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Defense University of the Chinese People's Liberation Army"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "PLA NDU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "PLA National Defence University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "PLA National Defense University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "People's Liberation Army National Defense University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中国人民解放军国防大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "International College of Defence Studies",
+            "type": "child",
+            "id": "https://ror.org/02q4yjc78"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1974,
+        "external_ids": [
+          {
+            "all": [
+              "grid.436071.7"
+            ],
+            "preferred": "grid.436071.7",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/05y20sz16",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.defesa.pt/Paginas/Inicio.aspx"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "PT",
+              "country_name": "Portugal",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Lisbon",
+              "lat": 38.71667,
+              "lng": -9.13333,
+              "name": "Lisbon"
+            },
+            "geonames_id": 2267057
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MDN"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Ministry of National Defense"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Ministério da Defesa Nacional"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "National Defense Institute",
+            "type": "child",
+            "id": "https://ror.org/013spkf41"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1948,
+        "external_ids": [
+          {
+            "all": [
+              "501100003559"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.453392.a"
+            ],
+            "preferred": "grid.453392.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q488542"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05hfet039",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.mnd.go.kr/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Ministry_of_National_Defense_(South_Korea)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MND"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Ministry of National Defense"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "대한민국 국방부"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Military Manpower Administration",
+            "type": "child",
+            "id": "https://ror.org/01ckass20"
+          },
+          {
+            "label": "Korea Institute for Defense Analyses",
+            "type": "child",
+            "id": "https://ror.org/01em4e880"
+          },
+          {
+            "label": "Defense Acquisition Program Administration",
+            "type": "child",
+            "id": "https://ror.org/04bjg9m96"
+          },
+          {
+            "label": "Government of the Republic of Korea",
+            "type": "parent",
+            "id": "https://ror.org/019xm3p48"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-05-19",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-05-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "mnd.gov.tw"
+        ],
+        "established": 1946,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 0572 7663"
+            ],
+            "preferred": "0000 0004 0572 7663",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q697444"
+            ],
+            "preferred": "Q697444",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03ay56170",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.mnd.gov.tw"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Ministry_of_National_Defense_%28Republic_of_China%29"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TW",
+              "country_name": "Taiwan",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Taiwan",
+              "lat": 25.05306,
+              "lng": 121.52639,
+              "name": "Taipei"
+            },
+            "geonames_id": 1668341
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Ministry of National Defense"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Ministry of National Defense of Taiwan"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Ministry of National Defense of the Republic of China"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中華民國國防部"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Government of the Republic of China",
+            "type": "parent",
+            "id": "https://ror.org/05t0w3074"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-03-31",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nuczu.edu.ua"
+        ],
+        "established": 1928,
+        "external_ids": [
+          {
+            "all": [
+              "grid.445521.3"
+            ],
+            "preferred": "grid.445521.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q4315123"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04a4sww29",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://nuczu.edu.ua"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "UA",
+              "country_name": "Ukraine",
+              "country_subdivision_code": "71",
+              "country_subdivision_name": "Cherkasy",
+              "lat": 49.44452,
+              "lng": 32.05738,
+              "name": "Cherkasy"
+            },
+            "geonames_id": 710791
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National University of Civil Defense of Ukraine"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "National University of Civil Protection of Ukraine"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "НУЦЗУ"
+          },
+          {
+            "lang": "uk",
+            "types": [
+              "label"
+            ],
+            "value": "Національний університет цивільного захисту України"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-09-23",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nutech.edu.pk"
+        ],
+        "established": 2018,
+        "external_ids": [
+          {
+            "all": [
+              "grid.512654.1"
+            ],
+            "preferred": "grid.512654.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 7535 8904"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q60739850"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05e21fw44",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://nutech.edu.pk/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/National_University_of_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "PK",
+              "country_name": "Pakistan",
+              "country_subdivision_code": "IS",
+              "country_subdivision_name": "Islamabad",
+              "lat": 33.72148,
+              "lng": 73.04329,
+              "name": "Islamabad"
+            },
+            "geonames_id": 1176615
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NUTECH"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National University of Technology"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-03-09",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-03-17",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "defense-tech.or.jp"
+        ],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/00yvyj927",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.defense-tech.or.jp"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "13",
+              "country_subdivision_name": "Tokyo",
+              "lat": 35.6895,
+              "lng": 139.69171,
+              "name": "Tokyo"
+            },
+            "geonames_id": 1850147
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Defense Technology Foundation"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "一般財団法人防衛技術協会"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "alias"
+            ],
+            "value": "防衛技術協会"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1976,
+        "external_ids": [
+          {
+            "all": [
+              "grid.466783.8"
+            ],
+            "preferred": "grid.466783.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2375 6490"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/013spkf41",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.idn.gov.pt/English/index.php"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "PT",
+              "country_name": "Portugal",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Lisbon",
+              "lat": 38.71667,
+              "lng": -9.13333,
+              "name": "Lisbon"
+            },
+            "geonames_id": 2267057
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IDN"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "label"
+            ],
+            "value": "Instituto da Defesa Nacional"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Defense Institute"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Ministério da Defesa Nacional",
+            "type": "parent",
+            "id": "https://ror.org/05y20sz16"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-13",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ndcp.edu.ph"
+        ],
+        "established": 1963,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0000 9369 788X"
+            ],
+            "preferred": "0000 0000 9369 788X",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6972180"
+            ],
+            "preferred": "Q6972180",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05t0pk383",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ndcp.edu.ph"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "PH",
+              "country_name": "Philippines",
+              "country_subdivision_code": "00",
+              "country_subdivision_name": "National Capital Region",
+              "lat": 14.6488,
+              "lng": 121.0509,
+              "name": "Quezon City"
+            },
+            "geonames_id": 1692192
+          }
+        ],
+        "names": [
+          {
+            "lang": "tl",
+            "types": [
+              "label"
+            ],
+            "value": "Dalubhasaan ng Tanggulang Pambansa ng Pilipinas"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "NDCP"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Defense College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "National Defense College of the Philippines"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1952,
+        "external_ids": [
+          {
+            "all": [
+              "grid.260563.4"
+            ],
+            "preferred": "grid.260563.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0376 0080"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4115810"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05xszy717",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.mod.go.jp/nda/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/National_Defense_Academy_of_Japan"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "14",
+              "country_subdivision_name": "Kanagawa",
+              "lat": 35.28361,
+              "lng": 139.66722,
+              "name": "Yokosuka"
+            },
+            "geonames_id": 1848313
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Bōei Daigakkō"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NDA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Defense Academy of Japan"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "防衛大学校"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-11-08",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1821,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 0633 3105"
+            ],
+            "preferred": "0000 0004 0633 3105",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q179861"
+            ],
+            "preferred": "Q179861",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02z57sg23",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.gob.mx/sedena"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://es.wikipedia.org/wiki/Secretar%C3%ADa_de_la_Defensa_Nacional"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "MX",
+              "country_name": "Mexico",
+              "country_subdivision_code": "CMX",
+              "country_subdivision_name": "Mexico City",
+              "lat": 19.42847,
+              "lng": -99.12766,
+              "name": "Mexico City"
+            },
+            "geonames_id": 3530597
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Mexican Secretariat of National Defense"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SEDENA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Secretariat of National Defense Mexico"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Secretaría de la Defensa Nacional"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Hospital Militar Regional de Especialidades Guadalajara",
+            "type": "child",
+            "id": "https://ror.org/03vwm7722"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1902,
+        "external_ids": [
+          {
+            "all": [
+              "grid.445923.d"
+            ],
+            "preferred": "grid.445923.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q4331410"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05g6n4k07",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ontu.edu.ua"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Odessa_National_Academy_of_Food_Technologies"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "UA",
+              "country_name": "Ukraine",
+              "country_subdivision_code": "51",
+              "country_subdivision_name": "Odessa",
+              "lat": 46.48572,
+              "lng": 30.74383,
+              "name": "Odesa"
+            },
+            "geonames_id": 698740
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ONAFT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Odesa National University of Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Odessa National Academy of Food Technologies"
+          },
+          {
+            "lang": "ru",
+            "types": [
+              "label"
+            ],
+            "value": "Одесская национальная академия пищевых технологий"
+          },
+          {
+            "lang": "uk",
+            "types": [
+              "label"
+            ],
+            "value": "Одеська національна академія харчових технологій"
+          },
+          {
+            "lang": "uk",
+            "types": [
+              "label"
+            ],
+            "value": "Одеський національний технологічний університет"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 18065
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 10009
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 5506
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 4670
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 4294
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2536
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2337
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 1299
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 1016
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 7088
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 4524
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2846
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2187
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1603
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 1205
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 960
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 914
+        },
+        {
+          "id": "ca",
+          "title": "Canada",
+          "count": 864
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 864
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 16548
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 10738
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 8489
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 2244
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 1007
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 661
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 39685
+        }
+      ]
+    }
+  }
+}

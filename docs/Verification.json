@@ -1,0 +1,133 @@
+{
+  "snapshot_date": "2026-10-07",
+  "package": "docs",
+  "research_manifest": "https://github.com/sjain-stanford/scholar-survey/blob/main/provenance/Research-Manifest.csv",
+  "survey": {
+    "profile_citations": 354,
+    "scholar_records": 337,
+    "deduplicated_works": 323,
+    "mapped_works": 146,
+    "institution_locations": 157,
+    "countries_territories": 29,
+    "shortlist": 8,
+    "named": 5,
+    "selected_articles": 13,
+    "selected_unique_pages": 58
+  },
+  "report_pages": {
+    "substantive": 8,
+    "named": 7
+  },
+  "source_evidence_files_preserved": 385,
+  "checks": {
+    "source_hashes_preserved": true,
+    "marked_source_text_preserved": true,
+    "original_page_mapping_verified": true,
+    "marking_regions_reviewed": true,
+    "marking_review_articles": 13,
+    "portable_report_article_links": true,
+    "citation_counts_match_saved_scholar_records": true,
+    "article_presentation_synchronized": true,
+    "authorship_bibliography_pages_verified": true,
+    "group_marking_boxes_verified": true,
+    "list_a_article_links_verified": true,
+    "list_b_article_venues_verified": true,
+    "list_article_links_use_original_sources": true,
+    "complete_tqt_table_entries_boxed": 5,
+    "all_selected_occurrences_boxed": true,
+    "full_article_group_boxes": 61,
+    "packet_group_boxes": 61,
+    "packet_pages_match_articles": 58,
+    "packet_render_pages_verified": 58,
+    "full_article_hashes_preserved": true,
+    "report_membership_and_order_verified": true,
+    "report_selections_disjoint": true,
+    "packet_section_group_boxes": {
+      "substantive": 37,
+      "named": 24
+    },
+    "citation_map_pdf_site_url_verified": true
+  },
+  "source_documents": "Source snapshots and full marked articles retain the cited text and bibliography entries.",
+  "presentation_review": {
+    "date": "2026-10-08",
+    "source_snapshot_date": "2026-10-07",
+    "baseline_commit": "ac0156839f1c1b6973603bb9008a3ab41aafaa52",
+    "articles_reviewed": 13,
+    "report_pages": {
+      "substantive": 8,
+      "named": 7
+    },
+    "authorship_links": "Article authors and cited bibliography entries checked against the reviewed publications; author names follow the reviewed source versions.",
+    "source_preservation": "Captured sources, all 13 full marked articles and the 58-page discussion packet retain their baseline hashes.",
+    "research_data": "Citation counts, article membership, map affiliations and reviewed marking regions preserved; inventory review labels distinguish the two report selections.",
+    "formats": "JSON, CSV, HTML, Markdown and PDF synchronized; report PDFs include page numbers."
+  },
+  "marking_optimization": {
+    "articles": 13,
+    "full_article_pages": 229,
+    "packet_pages": 58,
+    "full_article_group_boxes": 61,
+    "packet_group_boxes": 61,
+    "validation": "Each reviewed marking group has one enclosing box. All 58 packet pages match their full-article pages in text, dimensions, marking boxes and rendered pixels; repeated optimization requires no changes."
+  },
+  "occurrence_audit": {
+    "articles": 13,
+    "full_article_pages": 229,
+    "ocr_pages": 229,
+    "packet_pages": 58,
+    "search_matches": 113,
+    "excluded_other_author_matches": 3,
+    "additional_reviewed_regions": 33,
+    "complete_tqt_table_entries": 5,
+    "generator": "scripts/audit_markings.py",
+    "scope": "Current selected discussion and reference pages; source-page and OCR review preserved.",
+    "unboxed_selected_matches": 0,
+    "full_article_group_boxes": 61,
+    "packet_group_boxes": 61,
+    "unique_selected_pages": 58
+  },
+  "source_evidence_scope": "All 385 retained files under Sources preserve their captured hashes. Archived retrieval and profile totals describe the saved source snapshot.",
+  "collections": {
+    "substantive": {
+      "articles": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "report_pages": 8,
+      "packet_pages": 36,
+      "packet_group_boxes": 37,
+      "packet_start": 1,
+      "packet_end": 36
+    },
+    "named": {
+      "articles": [
+        11,
+        13,
+        12,
+        9,
+        10
+      ],
+      "report_pages": 7,
+      "packet_pages": 22,
+      "packet_group_boxes": 24,
+      "packet_start": 37,
+      "packet_end": 58
+    }
+  },
+  "report_split": {
+    "article_numbering": "Shared article numbers 01–13 retained across both reports",
+    "validation": "Both reports and the marked packet follow their collection membership and article order. All 58 packet pages match full-article text, dimensions, marking boxes and rendered pixels. Full marked articles and source captures retain their baseline hashes."
+  },
+  "discussion_packet": {
+    "file": "Selected-Discussion-Pages.pdf",
+    "pages": 58,
+    "group_boxes": 61
+  }
+}

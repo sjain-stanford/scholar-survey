@@ -1,0 +1,2185 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Beijing+Forestry+University",
+  "http_status": 200,
+  "query": "Beijing Forestry University",
+  "data": {
+    "number_of_results": 15154,
+    "time_taken": 24,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "bjfu.edu.cn"
+        ],
+        "established": 1952,
+        "external_ids": [
+          {
+            "all": [
+              "501100012138"
+            ],
+            "preferred": "501100012138",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.66741.32"
+            ],
+            "preferred": "grid.66741.32",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 1456 856X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4881133"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04xv2pc41",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.bjfu.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Beijing_Forestry_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BFU"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BJFU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing Forestry University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京林业大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Ministry of Education of the People's Republic of China",
+            "type": "parent",
+            "id": "https://ror.org/01mv9t934"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1953,
+        "external_ids": [
+          {
+            "all": [
+              "grid.21510.37"
+            ],
+            "preferred": "grid.21510.37",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0387 5080"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7895441"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/033t8gt11",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ltu.bg"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Forestry,_Sofia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "BG",
+              "country_name": "Bulgaria",
+              "country_subdivision_code": "22",
+              "country_subdivision_name": "Sofia-Capital",
+              "lat": 42.69751,
+              "lng": 23.32415,
+              "name": "Sofia"
+            },
+            "geonames_id": 727011
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "LTU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Forestry"
+          },
+          {
+            "lang": "bg",
+            "types": [
+              "label"
+            ],
+            "value": "Лесотехнически университет"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nefu.edu.cn"
+        ],
+        "established": 1952,
+        "external_ids": [
+          {
+            "all": [
+              "501100002965"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412246.7"
+            ],
+            "preferred": "grid.412246.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1789 9091"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q10869592"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02yxnh564",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.nefu.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Northeast_Forestry_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HL",
+              "country_subdivision_name": "Heilongjiang",
+              "lat": 45.75,
+              "lng": 126.65,
+              "name": "Harbin"
+            },
+            "geonames_id": 2037013
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Dōngběi Línyè Dàxué"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NEFU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Northeast Forestry University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "东北林业大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "State Key Laboratory of Tree Genetics and Breeding",
+            "type": "child",
+            "id": "https://ror.org/03a1zvg88"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "zafu.edu.cn"
+        ],
+        "established": 1958,
+        "external_ids": [
+          {
+            "all": [
+              "501100008827",
+              "501100012672"
+            ],
+            "preferred": "501100008827",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.443483.c"
+            ],
+            "preferred": "grid.443483.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9152 7385"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q41715113",
+              "Q8070661"
+            ],
+            "preferred": "Q41715113",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02vj4rn06",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.zafu.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Zhejiang_A_%26_F_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "ZJ",
+              "country_subdivision_name": "Zhejiang",
+              "lat": 30.23333,
+              "lng": 119.71667,
+              "name": "Lin’an Shi"
+            },
+            "geonames_id": 1803593
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ZAFU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Zhejiang A & F University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Zhejiang Forestry University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "浙江农林大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "swfu.edu.cn"
+        ],
+        "established": 1939,
+        "external_ids": [
+          {
+            "all": [
+              "501100010627"
+            ],
+            "preferred": "501100010627",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412720.2"
+            ],
+            "preferred": "grid.412720.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1761 2943"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7571277"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03dfa9f06",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.swfu.edu.cn/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Southwest_Forestry_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "YN",
+              "country_subdivision_name": "Yunnan",
+              "lat": 25.03889,
+              "lng": 102.71833,
+              "name": "Kunming"
+            },
+            "geonames_id": 1804651
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SWFU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Southwest Forestry University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Xīnán Línxuéyuàn"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "西南林业大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "njfu.edu.cn"
+        ],
+        "established": 1902,
+        "external_ids": [
+          {
+            "all": [
+              "100010743",
+              "501100010019"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.410625.4"
+            ],
+            "preferred": "grid.410625.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2293 4910"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6963657"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03m96p165",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.njfu.edu.cn/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Nanjing_Forestry_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "JS",
+              "country_subdivision_name": "Jiangsu",
+              "lat": 32.06167,
+              "lng": 118.77778,
+              "name": "Nanjing"
+            },
+            "geonames_id": 1799962
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NFU"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NJFU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Nanjing Forestry College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Nanjing Forestry University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Nanjing Technological College of Forest Products"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Sanjiang Normal College"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "南京林业大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2020-12-21",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1958,
+        "external_ids": [
+          {
+            "all": [
+              "grid.509679.4"
+            ],
+            "preferred": "grid.509679.4",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/041ms9k93",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://bjljs.caf.ac.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Beijing Forestry Machinery Institute of National Forestry and Grassland Administration"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing Foresty Machinery Institute"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "国家林业和草原局北京林业机械研究所"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Chinese Academy of Forestry",
+            "type": "parent",
+            "id": "https://ror.org/0360dkv71"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "bwu.edu.cn"
+        ],
+        "established": 1980,
+        "external_ids": [
+          {
+            "all": [
+              "501100015256"
+            ],
+            "preferred": "501100015256",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.443259.d"
+            ],
+            "preferred": "grid.443259.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0632 4890"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4881219"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00bd1d647",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.bwu.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Beijing_Wuzi_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing Wuzi University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京物资学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "buu.edu.cn"
+        ],
+        "established": 1985,
+        "external_ids": [
+          {
+            "all": [
+              "501100004478"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.411618.b"
+            ],
+            "preferred": "grid.411618.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2214 9197"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4881203"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01hg31662",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.buu.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Beijing_Union_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BUU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing Union University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京联合大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "bcu.edu.cn"
+        ],
+        "established": 1984,
+        "external_ids": [
+          {
+            "all": [
+              "grid.461929.1"
+            ],
+            "preferred": "grid.461929.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1789 9518"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q10902145"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01jfjwr55",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.bcu.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Beijing_City_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BCU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing City University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京城市学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449398.b"
+            ],
+            "preferred": "grid.449398.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q4881135"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00jqszb68",
+        "links": [],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing Huajia University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-12-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-12-15",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "bpu.edu"
+        ],
+        "established": 1958,
+        "external_ids": [
+          {
+            "all": [
+              "Q55453818"
+            ],
+            "preferred": "Q55453818",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02caa1k19",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.bpu.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://zh.wikipedia.org/zh-tw/%E5%8C%97%E4%BA%AC%E7%A7%91%E6%8A%80%E8%81%8C%E4%B8%9A%E5%A4%A7%E5%AD%A6"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "BPU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Beijing Polytechnic University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "北京科技職業大學"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "bjpldx.edu.cn"
+        ],
+        "established": 1983,
+        "external_ids": [
+          {
+            "all": [
+              "Q7160917"
+            ],
+            "preferred": "Q7160917",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01j0ydd35",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.bjpldx.edu.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Beijing Bailie University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Beijing Peili Vocational Institute"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京培黎职业学院"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "培黎职业大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "bsu.edu.cn"
+        ],
+        "established": 1953,
+        "external_ids": [
+          {
+            "all": [
+              "grid.411614.7"
+            ],
+            "preferred": "grid.411614.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2223 5394"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3551745"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03w0k0x36",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://en.bsu.edu.cn/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Beijing_Sport_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BSU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing Sport University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Beijing University of Physical Education"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京体育大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1960,
+        "external_ids": [
+          {
+            "all": [
+              "grid.459376.a"
+            ],
+            "preferred": "grid.459376.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0224 1789"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/04pq2gg30",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.bjou.edu.cn/enbtvu/index.html"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BJOU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing Open University"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Beijing Chaoyang District Staff and Workers University",
+            "type": "related",
+            "id": "https://ror.org/049twms71"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "bnu.edu.cn"
+        ],
+        "established": 1902,
+        "external_ids": [
+          {
+            "all": [
+              "501100002726"
+            ],
+            "preferred": "501100002726",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.20513.35"
+            ],
+            "preferred": "grid.20513.35",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1789 9964"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1604022"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/022k4wk35",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.bnu.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Beijing_Normal_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BNU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing Normal University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Běijīng Shīfàn Dàxué"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京师范大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "State Key Laboratory of Cognitive Neuroscience and Learning",
+            "type": "child",
+            "id": "https://ror.org/059y0zb32"
+          },
+          {
+            "label": "State Key Laboratory of Earth Surface Processes and Resource Ecology",
+            "type": "child",
+            "id": "https://ror.org/050mxte83"
+          },
+          {
+            "label": "State Key Laboratory of Remote Sensing Science",
+            "type": "related",
+            "id": "https://ror.org/05wzjqa24"
+          },
+          {
+            "label": "Beijing Normal-Hong Kong Baptist University",
+            "type": "related",
+            "id": "https://ror.org/04snvc712"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "bjut.edu.cn"
+        ],
+        "established": 1960,
+        "external_ids": [
+          {
+            "all": [
+              "501100003444",
+              "501100011795"
+            ],
+            "preferred": "501100003444",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.28703.3e"
+            ],
+            "preferred": "grid.28703.3e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9040 3743"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1674548"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/037b1pp87",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.bjut.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Beijing_University_of_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Beijing Polytechnic University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing University of Technology"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Běijīng Gōngyè Dàxué"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京工业大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Beijing Institute of Big Data Research",
+            "type": "child",
+            "id": "https://ror.org/00s1sz824"
+          },
+          {
+            "label": "National Engineering Laboratory for Advanced Municipal Wastewater Treatment and Reuse Technology",
+            "type": "child",
+            "id": "https://ror.org/02b6kvy05"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "bjtu.edu.cn"
+        ],
+        "established": 1896,
+        "external_ids": [
+          {
+            "all": [
+              "501100005022",
+              "501100005086",
+              "501100005023"
+            ],
+            "preferred": "501100005022",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.181531.f"
+            ],
+            "preferred": "grid.181531.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1789 9622"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4587760"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01yj56c84",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://en.njtu.edu.cn/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Beijing_Jiaotong_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BJTU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing Jiaotong University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Northern Jiaotong University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京交通大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "State Key Laboratory of Rail Transit Control and Safety",
+            "type": "child",
+            "id": "https://ror.org/042mgk630"
+          },
+          {
+            "label": "Beijing Logistics Informatics Research Base",
+            "type": "related",
+            "id": "https://ror.org/03ywz4d08"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "baafs.net.cn"
+        ],
+        "established": 1958,
+        "external_ids": [
+          {
+            "all": [
+              "501100007934"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.418260.9"
+            ],
+            "preferred": "grid.418260.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0646 9053"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/04trzn023",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.baafs.net.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BAAFS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias",
+              "label",
+              "ror_display"
+            ],
+            "value": "Beijing Academy of Agriculture and Forestry Sciences"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京市农林科学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1874,
+        "external_ids": [
+          {
+            "all": [
+              "grid.445857.f"
+            ],
+            "preferred": "grid.445857.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q2058345"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00rwcdf75",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://nltu.edu.ua/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Ukrainian_National_Forestry_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "UA",
+              "country_name": "Ukraine",
+              "country_subdivision_code": "46",
+              "country_subdivision_name": "Lviv",
+              "lat": 49.83826,
+              "lng": 24.02324,
+              "name": "Lviv"
+            },
+            "geonames_id": 702550
+          }
+        ],
+        "names": [
+          {
+            "lang": "pl",
+            "types": [
+              "label"
+            ],
+            "value": "Narodowy Uniwersytet Leśnictwa Ukrainy"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "The National Forestry and Wood-Technology University of Ukraine"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Ukrainian National Forestry University"
+          },
+          {
+            "lang": "ru",
+            "types": [
+              "label"
+            ],
+            "value": "Национальный лесотехнический университет Украины"
+          },
+          {
+            "lang": "uk",
+            "types": [
+              "label"
+            ],
+            "value": "Національний лісотехнічний університет України"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 12961
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 4245
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 1264
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 460
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 159
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 113
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 95
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 82
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 36
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 1995
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 1891
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 1059
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 837
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 470
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 448
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 444
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 385
+        },
+        {
+          "id": "ph",
+          "title": "Philippines",
+          "count": 384
+        },
+        {
+          "id": "ir",
+          "title": "Iran",
+          "count": 354
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 7790
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 3050
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 2507
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1167
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 536
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 104
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 15154
+        }
+      ]
+    }
+  }
+}

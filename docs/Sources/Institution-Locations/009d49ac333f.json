@@ -1,0 +1,2043 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Nanyang+Technological+University",
+  "http_status": 200,
+  "query": "Nanyang Technological University",
+  "data": {
+    "number_of_results": 14856,
+    "time_taken": 21,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-11-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ntu.edu.sg"
+        ],
+        "established": 1991,
+        "external_ids": [
+          {
+            "all": [
+              "501100001475",
+              "501100006512",
+              "501100006124",
+              "501100011738",
+              "501100016998",
+              "501100017241",
+              "501100019693",
+              "501100021836"
+            ],
+            "preferred": "501100001475",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.59025.3b"
+            ],
+            "preferred": "grid.59025.3b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2224 0361"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q721064",
+              "Q6973642"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02e7b5302",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ntu.edu.sg"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Nanyang_Technological_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "SG",
+              "country_name": "Singapore",
+              "country_subdivision_code": null,
+              "country_subdivision_name": null,
+              "lat": 1.28967,
+              "lng": 103.85007,
+              "name": "Singapore"
+            },
+            "geonames_id": 1880252
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "NTU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Nanyang Technological University"
+          },
+          {
+            "lang": "ms",
+            "types": [
+              "label"
+            ],
+            "value": "Universiti Teknologi Nanyang"
+          },
+          {
+            "lang": "ta",
+            "types": [
+              "label"
+            ],
+            "value": "நன்யாங் தொழில்நுட்பப் பல்கலைக்கழகம்"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "南洋理工大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "UMI MajuLab",
+            "type": "child",
+            "id": "https://ror.org/027jrtw17"
+          },
+          {
+            "label": "National Institute of Education",
+            "type": "child",
+            "id": "https://ror.org/02fhgbp51"
+          },
+          {
+            "label": "Singapore-MIT Alliance for Research and Technology",
+            "type": "related",
+            "id": "https://ror.org/05yb3w112"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2000,
+        "external_ids": [
+          {
+            "all": [
+              "grid.495270.d"
+            ],
+            "preferred": "grid.495270.d",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/04zxtq045",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ny2000.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "FJ",
+              "country_subdivision_name": "Fujian",
+              "lat": 24.47979,
+              "lng": 118.08187,
+              "name": "Xiamen"
+            },
+            "geonames_id": 1790645
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Xiamen Nanyang College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Xiamen Nanyang University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Xiamen Nanyang Vocational College"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "厦门南洋学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nynu.edu.cn"
+        ],
+        "established": 1907,
+        "external_ids": [
+          {
+            "all": [
+              "501100004943"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.453722.5"
+            ],
+            "preferred": "grid.453722.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0632 3548"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/01f7yer47",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.nynu.edu.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HA",
+              "country_subdivision_name": "Henan",
+              "lat": 32.99472,
+              "lng": 112.53278,
+              "name": "Nanyang"
+            },
+            "geonames_id": 1799629
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Nanyang Normal University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "南阳师范学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1992,
+        "external_ids": [
+          {
+            "all": [
+              "501100023318"
+            ],
+            "preferred": "501100023318",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.458363.f"
+            ],
+            "preferred": "grid.458363.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9022 3419"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6964469"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04af7ga89",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.nyp.edu.sg/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Nanyang_Polytechnic"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "SG",
+              "country_name": "Singapore",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "SG.01",
+              "lat": 1.28967,
+              "lng": 103.85007,
+              "name": "Singapore"
+            },
+            "geonames_id": 1880252
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NYP"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Nanyang Polytechnic"
+          },
+          {
+            "lang": "ms",
+            "types": [
+              "alias"
+            ],
+            "value": "Politeknik Nanyang"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Ministry of Education",
+            "type": "parent",
+            "id": "https://ror.org/01kcva023"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nyist.edu.cn"
+        ],
+        "established": 1987,
+        "external_ids": [
+          {
+            "all": [
+              "501100017278"
+            ],
+            "preferred": "501100017278",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.464384.9"
+            ],
+            "preferred": "grid.464384.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1766 1446"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/0203c2755",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.nyist.edu.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HA",
+              "country_subdivision_name": "Henan",
+              "lat": 33.00524,
+              "lng": 112.54659,
+              "name": "Nanyang"
+            },
+            "geonames_id": 1799629
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Nanyang Institute of Technology"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Nanyang Polytechnic"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "南阳理工学院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "CNRS-International-NTU-Thales Research Alliance",
+            "type": "child",
+            "id": "https://ror.org/05hqw3605"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1924,
+        "external_ids": [
+          {
+            "all": [
+              "grid.444730.0"
+            ],
+            "preferred": "grid.444730.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 6781 1051"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q8048626"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/008pxsf13",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ytu.edu.mm/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Yangon_Technological_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MM",
+              "country_name": "Myanmar",
+              "country_subdivision_code": "06",
+              "country_subdivision_name": "Yangon",
+              "lat": 16.80528,
+              "lng": 96.15611,
+              "name": "Yangon"
+            },
+            "geonames_id": 1298824
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "RIT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Rangoon Institute of Technology"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "YTU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Yangon Technological University"
+          },
+          {
+            "lang": "my",
+            "types": [
+              "label"
+            ],
+            "value": "ရန်ကုန်နည်းပညာတက္ကသိုလ်"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Technological University Mawlamyaing",
+            "type": "related",
+            "id": "https://ror.org/02sw73p72"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2007,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449968.e"
+            ],
+            "preferred": "grid.449968.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q7692491"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04mr67481",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://kyauksetu.edu.mm/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Technological_University,_Kyaukse"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MM",
+              "country_name": "Myanmar",
+              "country_subdivision_code": "04",
+              "country_subdivision_name": "Mandalay Region",
+              "lat": 21.6056,
+              "lng": 96.13508,
+              "name": "Kyaukse"
+            },
+            "geonames_id": 1316703
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "Kyaukse TU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Technological University Kyaukse"
+          },
+          {
+            "lang": "my",
+            "types": [
+              "label"
+            ],
+            "value": "ကျောက်ဆည် နည်းပညာတက္ကသိုလ်"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2007,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449979.e"
+            ],
+            "preferred": "grid.449979.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q16901375"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04e5g4k17",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://tumka.moe-st.gov.mm"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Technological_University,_Myitkyina"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MM",
+              "country_name": "Myanmar",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Kachin State",
+              "lat": 25.38327,
+              "lng": 97.39637,
+              "name": "Myitkyina"
+            },
+            "geonames_id": 1307741
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Government Technical High School"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Government Technical Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Government Technological College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Technological University Myitkyina"
+          },
+          {
+            "lang": "my",
+            "types": [
+              "label"
+            ],
+            "value": "နည်းပညာတက္ကသိုလ် (မြစ်ကြီးနား)"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2007,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449980.8"
+            ],
+            "preferred": "grid.449980.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q7692502"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/010h1b677",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://tupku.edu.mm/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Technological_University,_Pakokku"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MM",
+              "country_name": "Myanmar",
+              "country_subdivision_code": "03",
+              "country_subdivision_name": "Magway",
+              "lat": 21.33489,
+              "lng": 95.08438,
+              "name": "Pakokku"
+            },
+            "geonames_id": 1302439
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Technological University Pakokku"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1932,
+        "external_ids": [
+          {
+            "all": [
+              "grid.258979.8"
+            ],
+            "preferred": "grid.258979.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2229 6138"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6504630"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04d52ej85",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ltu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Lawrence_Technological_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MI",
+              "country_subdivision_name": "Michigan",
+              "lat": 42.47337,
+              "lng": -83.22187,
+              "name": "Southfield"
+            },
+            "geonames_id": 5010636
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "LTU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Lawrence Tech"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Lawrence Technological University"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université technologique lawrence"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1969,
+        "external_ids": [
+          {
+            "all": [
+              "grid.443140.6"
+            ],
+            "preferred": "grid.443140.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0462 1779"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3547651"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/011vbeg19",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.rtu.edu.ph/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Rizal_Technological_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "PH",
+              "country_name": "Philippines",
+              "country_subdivision_code": "00",
+              "country_subdivision_name": "National Capital Region",
+              "lat": 14.5832,
+              "lng": 121.0409,
+              "name": "Mandaluyong"
+            },
+            "geonames_id": 1701966
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "College of Rizal"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "RTU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Rizal Technological College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Rizal Technological University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1991,
+        "external_ids": [
+          {
+            "all": [
+              "grid.444615.6"
+            ],
+            "preferred": "grid.444615.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 6471 3755"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6747771"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01gwmqw64",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://mtu.moe.edu.mm//"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Mandalay_Technological_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MM",
+              "country_name": "Myanmar",
+              "country_subdivision_code": "04",
+              "country_subdivision_name": "Mandalay Region",
+              "lat": 21.97473,
+              "lng": 96.08359,
+              "name": "Mandalay"
+            },
+            "geonames_id": 1311874
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MTU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Mandalay Institute of Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Mandalay Technological University"
+          },
+          {
+            "lang": "my",
+            "types": [
+              "label"
+            ],
+            "value": "မန္တလေးနည်းပညာတက္ကသိုလ်"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1999,
+        "external_ids": [
+          {
+            "all": [
+              "grid.440501.4"
+            ],
+            "preferred": "grid.440501.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q7262886"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03cgbtn12",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://ptu.moe.edu.mm"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Pyay_Technological_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MM",
+              "country_name": "Myanmar",
+              "country_subdivision_code": "02",
+              "country_subdivision_name": "Bago Region",
+              "lat": 18.81996,
+              "lng": 95.21562,
+              "name": "Prome"
+            },
+            "geonames_id": 1299154
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PTU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Pyay Technological University"
+          },
+          {
+            "lang": "my",
+            "types": [
+              "label"
+            ],
+            "value": "ပြည်နည်းပညာတက္ကသိုလ်"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2003,
+        "external_ids": [
+          {
+            "all": [
+              "grid.472361.5"
+            ],
+            "preferred": "grid.472361.5",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/02sw73p72",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.most.gov.mm/mawlamyaingtu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Technological_University,_Mawlamyaing"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MM",
+              "country_name": "Myanmar",
+              "country_subdivision_code": "15",
+              "country_subdivision_name": "Mon",
+              "lat": 16.49051,
+              "lng": 97.62825,
+              "name": "Mawlamyine"
+            },
+            "geonames_id": 1308465
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Technological University Mawlamyaing"
+          },
+          {
+            "lang": "my",
+            "types": [
+              "label"
+            ],
+            "value": "နည်းပညာ တက္ကသိုလ် (မော်လမြိုင်)"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Yangon Technological University",
+            "type": "related",
+            "id": "https://ror.org/008pxsf13"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2004,
+        "external_ids": [
+          {
+            "all": [
+              "grid.472363.7"
+            ],
+            "preferred": "grid.472363.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q7692503"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/004g74051",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://tupln.moe-st.gov.mm/?p=1088"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Technological_University,_Panglong"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MM",
+              "country_name": "Myanmar",
+              "country_subdivision_code": "17",
+              "country_subdivision_name": "Shan State",
+              "lat": 21.31359,
+              "lng": 97.92655,
+              "name": "Loilem District"
+            },
+            "geonames_id": 8238776
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Technological University Panglong"
+          },
+          {
+            "lang": "my",
+            "types": [
+              "label"
+            ],
+            "value": "နည်းပညာတက္ကသိုလ်(ပင်လုံ)"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1993,
+        "external_ids": [
+          {
+            "all": [
+              "grid.472368.c"
+            ],
+            "preferred": "grid.472368.c",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/0467sym95",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ttu.edu.mm/moodle/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Technological_University,_Thanlyin"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MM",
+              "country_name": "Myanmar",
+              "country_subdivision_code": "06",
+              "country_subdivision_name": "Yangon",
+              "lat": 16.76887,
+              "lng": 96.24503,
+              "name": "Syriam"
+            },
+            "geonames_id": 1295395
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Thanlyin Technological University"
+          },
+          {
+            "lang": "my",
+            "types": [
+              "label"
+            ],
+            "value": "နည်းပညာ တက္ကသိုလ် (သန်လျင်)"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1997,
+        "external_ids": [
+          {
+            "all": [
+              "grid.473363.6"
+            ],
+            "preferred": "grid.473363.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q4304300"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04sw4z761",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://mti-edu.com/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Moscow_Technological_Institute"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "RU",
+              "country_name": "Russia",
+              "country_subdivision_code": "MOW",
+              "country_subdivision_name": "Moscow",
+              "lat": 55.75222,
+              "lng": 37.61556,
+              "name": "Moscow"
+            },
+            "geonames_id": 524901
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MTI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Moscow Technological Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "World Technological University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-10-13",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "utleon.edu.mx"
+        ],
+        "established": 1995,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 0426 5858"
+            ],
+            "preferred": "0000 0004 0426 5858",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q21574124"
+            ],
+            "preferred": "Q21574124",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03w75z957",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.utleon.edu.mx"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://es.wikipedia.org/wiki/Universidad_Tecnol%C3%B3gica_de_Le%C3%B3n"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "MX",
+              "country_name": "Mexico",
+              "country_subdivision_code": "GUA",
+              "country_subdivision_name": "Guanajuato",
+              "lat": 21.09309,
+              "lng": -101.64501,
+              "name": "León"
+            },
+            "geonames_id": 8581914
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Leon Technological University"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "acronym"
+            ],
+            "value": "UTL"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "UTLeón"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Universidad Tecnológica de León"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "mtu.edu"
+        ],
+        "established": 1885,
+        "external_ids": [
+          {
+            "all": [
+              "100009953"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.259979.9"
+            ],
+            "preferred": "grid.259979.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0663 5937"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q12432"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0036rpn28",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.mtu.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Michigan_Technological_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MI",
+              "country_subdivision_name": "Michigan",
+              "lat": 47.12187,
+              "lng": -88.56901,
+              "name": "Houghton"
+            },
+            "geonames_id": 4996572
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MTU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Michigan Tech"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Michigan Technological University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "tudublin.ie"
+        ],
+        "established": 2019,
+        "external_ids": [
+          {
+            "all": [
+              "501100009246"
+            ],
+            "preferred": "501100009246",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.497880.a"
+            ],
+            "preferred": "grid.497880.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 9524 0153"
+            ],
+            "preferred": "0000 0004 9524 0153",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q55619051"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04t0qbt32",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.tudublin.ie/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Technological_University_Dublin"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IE",
+              "country_name": "Ireland",
+              "country_subdivision_code": "L",
+              "country_subdivision_name": "Leinster",
+              "lat": 53.33306,
+              "lng": -6.24889,
+              "name": "Dublin"
+            },
+            "geonames_id": 2964574
+          }
+        ],
+        "names": [
+          {
+            "lang": "ga",
+            "types": [
+              "label"
+            ],
+            "value": "Ollscoil Teicneolaíochta Bhaile Atha Cliath"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "TU Dublin"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Technological University Dublin"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Irish Research eLibrary",
+            "type": "related",
+            "id": "https://ror.org/05c347015"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 12960
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 4176
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 1228
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 348
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 141
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 82
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 53
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 33
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 21
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 1982
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 1606
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 1007
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 841
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 467
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 460
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 443
+        },
+        {
+          "id": "ph",
+          "title": "Philippines",
+          "count": 391
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 383
+        },
+        {
+          "id": "ir",
+          "title": "Iran",
+          "count": 354
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 7464
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 3076
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 2506
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1161
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 548
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 101
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 14856
+        }
+      ]
+    }
+  }
+}

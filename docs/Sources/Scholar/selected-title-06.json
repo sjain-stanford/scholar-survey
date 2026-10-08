@@ -1,0 +1,525 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "q": "\"Bringing AI to edge: From deep learning’s perspective\"",
+    "hl": "en",
+    "num": 10
+  },
+  "accessed_at_utc": "2026-10-07T12:39:09.231110+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63d6d1cff1906b4c7d307",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/HTpMW3jc514d5QKlBgPtVgJpbYTHXTYwSrAdj8lFo0c/6ac63d6d1cff1906b4c7d307.json",
+      "markdown_endpoint": "https://serpapi.com/searches/HTpMW3jc514d5QKlBgPtVgJpbYTHXTYwSrAdj8lFo0c/6ac63d6d1cff1906b4c7d307.md",
+      "created_at": "2026-10-07 12:39:09 UTC",
+      "processed_at": "2026-10-07 12:39:09 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?q=%22Bringing+AI+to+edge%3A+From+deep+learning%E2%80%99s+perspective%22&hl=en&num=10",
+      "raw_html_file": "https://serpapi.com/searches/HTpMW3jc514d5QKlBgPtVgJpbYTHXTYwSrAdj8lFo0c/6ac63d6d1cff1906b4c7d307.html",
+      "total_time_taken": 1.05
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "q": "\"Bringing AI to edge: From deep learning’s perspective\"",
+      "hl": "en",
+      "num": "10"
+    },
+    "search_information": {
+      "organic_results_state": "Showing results for exact spelling despite spelling suggestion",
+      "total_results": 63,
+      "time_taken_displayed": 0.45,
+      "query_displayed": "\"Bringing AI to edge: From deep learning’s perspective\"",
+      "spelling_fix": "learning"
+    },
+    "profiles": {
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,33&q=%22Bringing+AI+to+edge:+From+deep+learning+perspective%22",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=%22Bringing+AI+to+edge%3A+From+deep+learning%E2%80%99s+perspective%22"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Design and enhancement of a fog-enabled air quality monitoring and prediction system: An optimized lightweight deep learning model for a smart fog …",
+        "result_id": "Jqs_FC2ACCIJ",
+        "type": "Html",
+        "link": "https://www.mdpi.com/1424-8220/24/15/5069",
+        "snippet": "… , multi-step forecasting methods have been introduced to effectively capture the behavior of future hours air quality data and provide a more detailed and actionable view of future air …",
+        "publication_info": {
+          "summary": "DB Pazhanivel, AN Velu, BS Palaniappan - Sensors, 2024 - mdpi.com",
+          "authors": [
+            {
+              "name": "DB Pazhanivel"
+            },
+            {
+              "name": "AN Velu"
+            },
+            {
+              "name": "BS Palaniappan"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "HTML",
+            "link": null
+          },
+          {
+            "title": "mdpi.com",
+            "file_format": "HTML",
+            "link": "https://www.mdpi.com/1424-8220/24/15/5069"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Jqs_FC2ACCIJ",
+          "html_version": "https://www.mdpi.com/1424-8220/24/15/5069",
+          "cited_by": {
+            "total": 35,
+            "link": "https://scholar.google.com/scholar?cites=2452350928204835622&as_sdt=5,33&sciodt=0,33&hl=en",
+            "cites_id": "2452350928204835622",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=2452350928204835622&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:Jqs_FC2ACCIJ:scholar.google.com/&scioq=%22Bringing+AI+to+edge:+From+deep+learning%E2%80%99s+perspective%22&hl=en&as_sdt=0,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&num=10&q=related%3AJqs_FC2ACCIJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 8,
+            "link": "https://scholar.google.com/scholar?cluster=2452350928204835622&hl=en&as_sdt=0,33",
+            "cluster_id": "2452350928204835622",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=2452350928204835622&engine=google_scholar&hl=en"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Jqs_FC2ACCIJ:scholar.google.com/+%22Bringing+AI+to+edge:+From+deep+learning%E2%80%99s+perspective%22&hl=en&as_sdt=0,33"
+        }
+      },
+      {
+        "position": 2,
+        "title": "Efficient distributed training and inference based on data and feature map parallelism via leveraging edge clusters",
+        "result_id": "nk1tayiehzoJ",
+        "link": "https://link.springer.com/article/10.1007/s10586-026-06343-y",
+        "snippet": "… Compared to the local inference time, our approach can reduce the total inference time by … Compared with methods that only target static inference acceleration, our approach jointly …",
+        "publication_info": {
+          "summary": "H Guo, C Zhang, X Wang, J Fei, J Li, Y Du, J Cao - Cluster Computing, 2026 - Springer",
+          "authors": [
+            {
+              "name": "H Guo"
+            },
+            {
+              "name": "C Zhang"
+            },
+            {
+              "name": "X Wang"
+            },
+            {
+              "name": "J Fei"
+            },
+            {
+              "name": "J Li"
+            },
+            {
+              "name": "Y Du"
+            },
+            {
+              "name": "J Cao"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=nk1tayiehzoJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:nk1tayiehzoJ:scholar.google.com/&scioq=%22Bringing+AI+to+edge:+From+deep+learning%E2%80%99s+perspective%22&hl=en&as_sdt=0,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&num=10&q=related%3Ank1tayiehzoJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=4217513472493964702&hl=en&as_sdt=0,33",
+            "cluster_id": "4217513472493964702",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=4217513472493964702&engine=google_scholar&hl=en"
+          }
+        }
+      },
+      {
+        "position": 3,
+        "title": "Boost precision agriculture with unmanned aerial vehicle remote sensing and edge intelligence: A survey",
+        "result_id": "KylvVKmuc_wJ",
+        "type": "Html",
+        "link": "https://www.mdpi.com/2072-4292/13/21/4387",
+        "snippet": "… As a result, we discuss the relevant developments from the perspectives of model design and edge resources for the edge intelligence in PA with UAV RS in Section 4.3 and Section 4.4…",
+        "publication_info": {
+          "summary": "J Liu, J Xiang, Y Jin, R Liu, J Yan, L Wang - Remote Sensing, 2021 - mdpi.com",
+          "authors": [
+            {
+              "name": "J Liu"
+            },
+            {
+              "name": "J Xiang"
+            },
+            {
+              "name": "Y Jin"
+            },
+            {
+              "name": "R Liu"
+            },
+            {
+              "name": "J Yan"
+            },
+            {
+              "name": "L Wang"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "HTML",
+            "link": null
+          },
+          {
+            "title": "mdpi.com",
+            "file_format": "HTML",
+            "link": "https://www.mdpi.com/2072-4292/13/21/4387"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=KylvVKmuc_wJ",
+          "html_version": "https://www.mdpi.com/2072-4292/13/21/4387",
+          "cited_by": {
+            "total": 272,
+            "link": "https://scholar.google.com/scholar?cites=18191075362168842539&as_sdt=5,33&sciodt=0,33&hl=en",
+            "cites_id": "18191075362168842539",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=18191075362168842539&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:KylvVKmuc_wJ:scholar.google.com/&scioq=%22Bringing+AI+to+edge:+From+deep+learning%E2%80%99s+perspective%22&hl=en&as_sdt=0,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&num=10&q=related%3AKylvVKmuc_wJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 9,
+            "link": "https://scholar.google.com/scholar?cluster=18191075362168842539&hl=en&as_sdt=0,33",
+            "cluster_id": "18191075362168842539",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=18191075362168842539&engine=google_scholar&hl=en"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:KylvVKmuc_wJ:scholar.google.com/+%22Bringing+AI+to+edge:+From+deep+learning%E2%80%99s+perspective%22&hl=en&as_sdt=0,33"
+        }
+      },
+      {
+        "position": 4,
+        "title": "Optimizing edge AI solutions through hardware and software co-design",
+        "result_id": "Zoa2BloE11QJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10326392/",
+        "snippet": "This paper introduces Edge AI solutions powered by DEEPX’s Neural Processing Units (NPUs): DX-L1, L2, and M1. Our work focuses on two aspects: (1) the specialized NPU …",
+        "publication_info": {
+          "summary": "S Jeong, H Kim, LW Kim - 2023 IEEE International Conference …, 2023 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "S Jeong"
+            },
+            {
+              "name": "H Kim"
+            },
+            {
+              "name": "LW Kim"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Zoa2BloE11QJ",
+          "cited_by": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cites=6113359803884930662&as_sdt=5,33&sciodt=0,33&hl=en",
+            "cites_id": "6113359803884930662",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=6113359803884930662&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:Zoa2BloE11QJ:scholar.google.com/&scioq=%22Bringing+AI+to+edge:+From+deep+learning%E2%80%99s+perspective%22&hl=en&as_sdt=0,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&num=10&q=related%3AZoa2BloE11QJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cluster=6113359803884930662&hl=en&as_sdt=0,33",
+            "cluster_id": "6113359803884930662",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=6113359803884930662&engine=google_scholar&hl=en"
+          }
+        }
+      },
+      {
+        "position": 5,
+        "title": "Adaptive neural networks for edge intelligence",
+        "result_id": "oiUAva-AL1kJ",
+        "type": "Pdf",
+        "link": "https://dr.ntu.edu.sg/server/api/core/bitstreams/d5144962-9c83-4a2e-8fd8-8c8ef85ed719/content",
+        "snippet": "… Compared to the traditional training paradigm which trains a model with the same large image size throughout the whole training process, our approach significantly reduces the …",
+        "publication_info": {
+          "summary": "H Kong - 2023 - dr.ntu.edu.sg",
+          "authors": [
+            {
+              "name": "H Kong"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "ntu.edu.sg",
+            "file_format": "PDF",
+            "link": "https://dr.ntu.edu.sg/server/api/core/bitstreams/d5144962-9c83-4a2e-8fd8-8c8ef85ed719/content"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=oiUAva-AL1kJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:oiUAva-AL1kJ:scholar.google.com/&scioq=%22Bringing+AI+to+edge:+From+deep+learning%E2%80%99s+perspective%22&hl=en&as_sdt=0,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&num=10&q=related%3AoiUAva-AL1kJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=6426496685559522722&hl=en&as_sdt=0,33",
+            "cluster_id": "6426496685559522722",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=6426496685559522722&engine=google_scholar&hl=en"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:oiUAva-AL1kJ:scholar.google.com/+%22Bringing+AI+to+edge:+From+deep+learning%E2%80%99s+perspective%22&hl=en&as_sdt=0,33"
+        }
+      },
+      {
+        "position": 6,
+        "title": "Edge graph intelligence: Reciprocally empowering edge networks with graph intelligence",
+        "result_id": "au8tboUXctMJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10835104/",
+        "snippet": "… , we may rate EGI into six levels from their respective perspectives, as shown in Fig. 6. … This approach is applied to probabilistic solar irradiance prediction, using an undirected graph …",
+        "publication_info": {
+          "summary": "L Zeng, S Ye, X Chen, X Zhang, J Ren… - … Surveys & Tutorials, 2025 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "L Zeng"
+            },
+            {
+              "name": "S Ye"
+            },
+            {
+              "name": "X Chen"
+            },
+            {
+              "name": "X Zhang"
+            },
+            {
+              "name": "J Ren"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2407.15320?"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=au8tboUXctMJ",
+          "cited_by": {
+            "total": 52,
+            "link": "https://scholar.google.com/scholar?cites=15236266351194402666&as_sdt=5,33&sciodt=0,33&hl=en",
+            "cites_id": "15236266351194402666",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=15236266351194402666&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:au8tboUXctMJ:scholar.google.com/&scioq=%22Bringing+AI+to+edge:+From+deep+learning%E2%80%99s+perspective%22&hl=en&as_sdt=0,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&num=10&q=related%3Aau8tboUXctMJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cluster=15236266351194402666&hl=en&as_sdt=0,33",
+            "cluster_id": "15236266351194402666",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=15236266351194402666&engine=google_scholar&hl=en"
+          }
+        }
+      },
+      {
+        "position": 7,
+        "title": "Edge AI for Industry 5.0: Challenges and Opportunities",
+        "result_id": "KJg0C7ipGP8J",
+        "link": "https://link.springer.com/chapter/10.1007/978-3-032-04890-5_6",
+        "snippet": "… Model Pruning and Quantization: One approach is to reduce the size and complexity of AI models, making them more lightweight and faster to process without significantly …",
+        "publication_info": {
+          "summary": "M Medojević, M Tošić, B Bajić, A Rikalović - Conference on Information …, 2025 - Springer",
+          "authors": [
+            {
+              "name": "M Medojević"
+            },
+            {
+              "name": "M Tošić"
+            },
+            {
+              "name": "B Bajić"
+            },
+            {
+              "name": "A Rikalović"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=KJg0C7ipGP8J",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:KJg0C7ipGP8J:scholar.google.com/&scioq=%22Bringing+AI+to+edge:+From+deep+learning%E2%80%99s+perspective%22&hl=en&as_sdt=0,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&num=10&q=related%3AKJg0C7ipGP8J%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cluster=18381628487039752232&hl=en&as_sdt=0,33",
+            "cluster_id": "18381628487039752232",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=18381628487039752232&engine=google_scholar&hl=en"
+          }
+        }
+      },
+      {
+        "position": 8,
+        "title": "Edge AI or Offloading? A Multi-dimensional Evaluation of Object Detection Deployment",
+        "result_id": "FG9uK4t9ovsJ",
+        "link": "https://link.springer.com/chapter/10.1007/978-3-032-39904-5_2",
+        "snippet": "… To provide a more detailed view of execution cost, the measurement process is segmented into phases using hardware triggers captured by the ESP32. In the local setting, execution is …",
+        "publication_info": {
+          "summary": "L Pereira, G Barros, H Martins, L Rocha - Brazilian Conference on …, 2026 - Springer",
+          "authors": [
+            {
+              "name": "L Pereira"
+            },
+            {
+              "name": "G Barros"
+            },
+            {
+              "name": "H Martins"
+            },
+            {
+              "name": "L Rocha"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=FG9uK4t9ovsJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:FG9uK4t9ovsJ:scholar.google.com/&scioq=%22Bringing+AI+to+edge:+From+deep+learning%E2%80%99s+perspective%22&hl=en&as_sdt=0,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&num=10&q=related%3AFG9uK4t9ovsJ%3Ascholar.google.com%2F"
+        }
+      },
+      {
+        "position": 9,
+        "title": "Intrusion detection in IoT using traffic-to-image conversion and lightweight vision transformers",
+        "result_id": "wEjw-K6y6QEJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11474245/",
+        "snippet": "… The general research approach for the suggested framework is presented in this section. It begins by describing the dataset, followed by an overview of data preprocessing and data …",
+        "publication_info": {
+          "summary": "HJ Alatewish, H Shaari - … Multi-Conference on Smart Systems & …, 2025 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "HJ Alatewish"
+            },
+            {
+              "name": "H Shaari"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "researchgate.net",
+            "file_format": "PDF",
+            "link": "https://www.researchgate.net/profile/Hala-Shaari/publication/403901491_Intrusion_Detection_in_IoT_Using_Traffic-to-Image_Conversion_and_Lightweight_Vision_Transformers/links/6a02111ee48e8125fa388c43/Intrusion-Detection-in-IoT-Using-Traffic-to-Image-Conversion-and-Lightweight-Vision-Transformers.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=wEjw-K6y6QEJ",
+          "cited_by": {
+            "total": 1,
+            "link": "https://scholar.google.com/scholar?cites=137837728182061248&as_sdt=5,33&sciodt=0,33&hl=en",
+            "cites_id": "137837728182061248",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=137837728182061248&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:wEjw-K6y6QEJ:scholar.google.com/&scioq=%22Bringing+AI+to+edge:+From+deep+learning%E2%80%99s+perspective%22&hl=en&as_sdt=0,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&num=10&q=related%3AwEjw-K6y6QEJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cluster=137837728182061248&hl=en&as_sdt=0,33",
+            "cluster_id": "137837728182061248",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=137837728182061248&engine=google_scholar&hl=en"
+          }
+        }
+      },
+      {
+        "position": 10,
+        "title": "Attention-driven transfer learning model for improved IoT intrusion detection",
+        "result_id": "sfxIASjIL1sJ",
+        "type": "Html",
+        "link": "https://www.mdpi.com/2504-2289/8/9/116",
+        "snippet": "… This defense system audits network traffic and generates an alarm when suspicious behavior is detected. This security approach is important for boosting the continuity of IoT …",
+        "publication_info": {
+          "summary": "S Abdelhamid, I Hegazy, M Aref… - Big Data and Cognitive …, 2024 - mdpi.com",
+          "authors": [
+            {
+              "name": "S Abdelhamid"
+            },
+            {
+              "name": "I Hegazy"
+            },
+            {
+              "name": "M Aref"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "HTML",
+            "link": null
+          },
+          {
+            "title": "mdpi.com",
+            "file_format": "HTML",
+            "link": "https://www.mdpi.com/2504-2289/8/9/116"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=sfxIASjIL1sJ",
+          "html_version": "https://www.mdpi.com/2504-2289/8/9/116",
+          "cited_by": {
+            "total": 24,
+            "link": "https://scholar.google.com/scholar?cites=6570690455502650545&as_sdt=5,33&sciodt=0,33&hl=en",
+            "cites_id": "6570690455502650545",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=6570690455502650545&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:sfxIASjIL1sJ:scholar.google.com/&scioq=%22Bringing+AI+to+edge:+From+deep+learning%E2%80%99s+perspective%22&hl=en&as_sdt=0,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&num=10&q=related%3AsfxIASjIL1sJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cluster=6570690455502650545&hl=en&as_sdt=0,33",
+            "cluster_id": "6570690455502650545",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=6570690455502650545&engine=google_scholar&hl=en"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:sfxIASjIL1sJ:scholar.google.com/+%22Bringing+AI+to+edge:+From+deep+learning%E2%80%99s+perspective%22&hl=en&as_sdt=0,33"
+        }
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://scholar.google.com/scholar?start=10&q=%22Bringing+AI+to+edge:+From+deep+learning%E2%80%99s+perspective%22&hl=en&as_sdt=0,33",
+      "other_pages": {
+        "2": "https://scholar.google.com/scholar?start=10&q=%22Bringing+AI+to+edge:+From+deep+learning%E2%80%99s+perspective%22&hl=en&as_sdt=0,33",
+        "3": "https://scholar.google.com/scholar?start=20&q=%22Bringing+AI+to+edge:+From+deep+learning%E2%80%99s+perspective%22&hl=en&as_sdt=0,33",
+        "4": "https://scholar.google.com/scholar?start=30&q=%22Bringing+AI+to+edge:+From+deep+learning%E2%80%99s+perspective%22&hl=en&as_sdt=0,33",
+        "5": "https://scholar.google.com/scholar?start=40&q=%22Bringing+AI+to+edge:+From+deep+learning%E2%80%99s+perspective%22&hl=en&as_sdt=0,33",
+        "6": "https://scholar.google.com/scholar?start=50&q=%22Bringing+AI+to+edge:+From+deep+learning%E2%80%99s+perspective%22&hl=en&as_sdt=0,33",
+        "7": "https://scholar.google.com/scholar?start=60&q=%22Bringing+AI+to+edge:+From+deep+learning%E2%80%99s+perspective%22&hl=en&as_sdt=0,33"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&num=10&q=%22Bringing+AI+to+edge%3A+From+deep+learning%E2%80%99s+perspective%22&start=10",
+      "next": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&num=10&q=%22Bringing+AI+to+edge%3A+From+deep+learning%E2%80%99s+perspective%22&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&num=10&q=%22Bringing+AI+to+edge%3A+From+deep+learning%E2%80%99s+perspective%22&start=10",
+        "3": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&num=10&q=%22Bringing+AI+to+edge%3A+From+deep+learning%E2%80%99s+perspective%22&start=20",
+        "4": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&num=10&q=%22Bringing+AI+to+edge%3A+From+deep+learning%E2%80%99s+perspective%22&start=30",
+        "5": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&num=10&q=%22Bringing+AI+to+edge%3A+From+deep+learning%E2%80%99s+perspective%22&start=40",
+        "6": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&num=10&q=%22Bringing+AI+to+edge%3A+From+deep+learning%E2%80%99s+perspective%22&start=50",
+        "7": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&num=10&q=%22Bringing+AI+to+edge%3A+From+deep+learning%E2%80%99s+perspective%22&start=60"
+      }
+    }
+  }
+}

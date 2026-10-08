@@ -1,0 +1,816 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cites": "1310050738644832908",
+    "hl": "en",
+    "num": 20,
+    "start": 0,
+    "filter": 0,
+    "as_vis": 0,
+    "as_sdt": 7
+  },
+  "accessed_at_utc": "2026-10-07T12:39:29.091931+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63d8101289b6071e6a72d",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/JEN8zcUmLhpz9tYL_ZwLd5uaKnG7KHGT-2TteHYz7As/6ac63d8101289b6071e6a72d.json",
+      "markdown_endpoint": "https://serpapi.com/searches/JEN8zcUmLhpz9tYL_ZwLd5uaKnG7KHGT-2TteHYz7As/6ac63d8101289b6071e6a72d.md",
+      "created_at": "2026-10-07 12:39:29 UTC",
+      "processed_at": "2026-10-07 12:39:29 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cites=1310050738644832908&hl=en&start=0&num=21&filter=0&as_sdt=7&as_vis=0&scipsc=1",
+      "raw_html_file": "https://serpapi.com/searches/JEN8zcUmLhpz9tYL_ZwLd5uaKnG7KHGT-2TteHYz7As/6ac63d8101289b6071e6a72d.html",
+      "total_time_taken": 0.48
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cites": "1310050738644832908",
+      "hl": "en",
+      "start": 0,
+      "num": "20",
+      "filter": "0",
+      "as_sdt": "7",
+      "as_vis": "0"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 15,
+      "time_taken_displayed": 0.03
+    },
+    "citations_per_year": [
+      {
+        "year": 2016,
+        "citations": 5
+      },
+      {
+        "year": 2017,
+        "citations": 2
+      },
+      {
+        "year": 2019,
+        "citations": 1
+      },
+      {
+        "year": 2020,
+        "citations": 1
+      },
+      {
+        "year": 2021,
+        "citations": 2
+      },
+      {
+        "year": 2022,
+        "citations": 1
+      },
+      {
+        "year": 2023,
+        "citations": 1
+      },
+      {
+        "year": 2025,
+        "citations": 1
+      },
+      {
+        "year": 2026,
+        "citations": 1
+      }
+    ],
+    "profiles": {
+      "link": "https://scholar.google.com/scholar?cluster=1310050738644832908&hl=en&num=20&as_sdt=2007&sciodt=2007",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Highly antireflective AlGaN/GaN ultraviolet photodetectors using ZnO nanorod arrays on inverted pyramidal surfaces",
+        "result_id": "6MeMKNxPLK4J",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0169433217305123",
+        "snippet": "Highly antireflective heterostructured aluminum gallium nitride (AlGaN)/GaN ultraviolet (UV) photodetectors were demonstrated using a combination of inverted pyramidal surfaces and …",
+        "publication_info": {
+          "summary": "H So, J Lim, AJ Suria, DG Senesky - Applied Surface Science, 2017 - Elsevier",
+          "authors": [
+            {
+              "name": "H So",
+              "link": "https://scholar.google.com/citations?user=nTJgFaIAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "nTJgFaIAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nTJgFaIAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "J Lim",
+              "link": "https://scholar.google.com/citations?user=x3EW4bkAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "x3EW4bkAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=x3EW4bkAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "AJ Suria",
+              "link": "https://scholar.google.com/citations?user=Ig46FVcAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "Ig46FVcAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Ig46FVcAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "DG Senesky",
+              "link": "https://scholar.google.com/citations?user=SvjvDusAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "SvjvDusAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=SvjvDusAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=6MeMKNxPLK4J",
+          "cited_by": {
+            "total": 33,
+            "link": "https://scholar.google.com/scholar?cites=12550494068566444008&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "12550494068566444008",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12550494068566444008&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:6MeMKNxPLK4J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=1310050738644832908&engine=google_scholar&filter=0&hl=en&num=20&q=related%3A6MeMKNxPLK4J%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 5,
+            "link": "https://scholar.google.com/scholar?cluster=12550494068566444008&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "12550494068566444008",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=12550494068566444008&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 2,
+        "title": "Al2O3-Based a-IGZO Schottky Diodes for Temperature Sensing",
+        "result_id": "ctnNF0E5NjAJ",
+        "type": "Html",
+        "link": "https://www.mdpi.com/1424-8220/19/2/224",
+        "snippet": "High-temperature electronic devices and sensors that operate in harsh environments, especially high-temperature environments, have attracted widespread attention. An Al2O3 …",
+        "publication_info": {
+          "summary": "Q Guo, F Lu, Q Tan, T Zhou, J Xiong, W Zhang - Sensors, 2019 - mdpi.com",
+          "authors": [
+            {
+              "name": "Q Guo"
+            },
+            {
+              "name": "F Lu"
+            },
+            {
+              "name": "Q Tan"
+            },
+            {
+              "name": "T Zhou"
+            },
+            {
+              "name": "J Xiong"
+            },
+            {
+              "name": "W Zhang",
+              "link": "https://scholar.google.com/citations?user=0RnZWqwAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "0RnZWqwAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0RnZWqwAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "HTML",
+            "link": null
+          },
+          {
+            "title": "mdpi.com",
+            "file_format": "HTML",
+            "link": "https://www.mdpi.com/1424-8220/19/2/224"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ctnNF0E5NjAJ",
+          "html_version": "https://www.mdpi.com/1424-8220/19/2/224",
+          "cited_by": {
+            "total": 25,
+            "link": "https://scholar.google.com/scholar?cites=3474027114297940338&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "3474027114297940338",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=3474027114297940338&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:ctnNF0E5NjAJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=1310050738644832908&engine=google_scholar&filter=0&hl=en&num=20&q=related%3ActnNF0E5NjAJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 8,
+            "link": "https://scholar.google.com/scholar?cluster=3474027114297940338&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "3474027114297940338",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=3474027114297940338&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:ctnNF0E5NjAJ:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007"
+        }
+      },
+      {
+        "position": 3,
+        "title": "ZnO nanorod arrays and direct wire bonding on GaN surfaces for rapid fabrication of antireflective, high-temperature ultraviolet sensors",
+        "result_id": "sFfYpWPgRdAJ",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0169433216312053",
+        "snippet": "Rapid, cost-effective, and simple fabrication/packaging of microscale gallium nitride (GaN) ultraviolet (UV) sensors are demonstrated using zinc oxide nanorod arrays (ZnO NRAs) as …",
+        "publication_info": {
+          "summary": "H So, DG Senesky - Applied Surface Science, 2016 - Elsevier",
+          "authors": [
+            {
+              "name": "H So",
+              "link": "https://scholar.google.com/citations?user=nTJgFaIAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "nTJgFaIAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nTJgFaIAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "DG Senesky",
+              "link": "https://scholar.google.com/citations?user=SvjvDusAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "SvjvDusAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=SvjvDusAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "academia.edu",
+            "file_format": "PDF",
+            "link": "https://www.academia.edu/download/112669393/j.apsusc.2016.05.16620240323-1-jv8u.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=sFfYpWPgRdAJ",
+          "cited_by": {
+            "total": 41,
+            "link": "https://scholar.google.com/scholar?cites=15007648051870848944&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "15007648051870848944",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=15007648051870848944&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:sFfYpWPgRdAJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=1310050738644832908&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AsFfYpWPgRdAJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 5,
+            "link": "https://scholar.google.com/scholar?cluster=15007648051870848944&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "15007648051870848944",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=15007648051870848944&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 4,
+        "title": "A microfabricated sun sensor using GaN-on-sapphire ultraviolet photodetector arrays",
+        "result_id": "tgrEu9IJkyMJ",
+        "link": "https://pubs.aip.org/aip/rsi/article/87/9/095003/366015",
+        "snippet": "A miniature sensor for detecting the orientation of incident ultraviolet light was microfabricated using gallium nitride (GaN)-on-sapphire substrates and semi-transparent …",
+        "publication_info": {
+          "summary": "RA Miller, H So, HC Chiamori, AJ Suria… - Review of Scientific …, 2016 - pubs.aip.org",
+          "authors": [
+            {
+              "name": "RA Miller"
+            },
+            {
+              "name": "H So",
+              "link": "https://scholar.google.com/citations?user=nTJgFaIAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "nTJgFaIAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nTJgFaIAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "HC Chiamori"
+            },
+            {
+              "name": "AJ Suria",
+              "link": "https://scholar.google.com/citations?user=Ig46FVcAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "Ig46FVcAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Ig46FVcAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=tgrEu9IJkyMJ",
+          "cited_by": {
+            "total": 22,
+            "link": "https://scholar.google.com/scholar?cites=2563403413601913526&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "2563403413601913526",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=2563403413601913526&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:tgrEu9IJkyMJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=1310050738644832908&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AtgrEu9IJkyMJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 6,
+            "link": "https://scholar.google.com/scholar?cluster=2563403413601913526&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "2563403413601913526",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=2563403413601913526&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 5,
+        "title": "Effect of frost formation on operation of GaN ultraviolet photodetectors at low temperatures",
+        "result_id": "EkOlFQEcJpoJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/7939963/",
+        "snippet": "Effects of frost growth on the sensitivity of gallium nitride (GaN) photodetectors were investigated by characterizing electrical and optical properties under dark and 365-nm …",
+        "publication_info": {
+          "summary": "H So, DG Senesky - IEEE Sensors Journal, 2017 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "H So",
+              "link": "https://scholar.google.com/citations?user=nTJgFaIAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "nTJgFaIAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nTJgFaIAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "DG Senesky",
+              "link": "https://scholar.google.com/citations?user=SvjvDusAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "SvjvDusAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=SvjvDusAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=EkOlFQEcJpoJ",
+          "cited_by": {
+            "total": 22,
+            "link": "https://scholar.google.com/scholar?cites=11107596321939604242&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "11107596321939604242",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=11107596321939604242&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:EkOlFQEcJpoJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=1310050738644832908&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AEkOlFQEcJpoJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cluster=11107596321939604242&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "11107596321939604242",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=11107596321939604242&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 6,
+        "title": "Application of a Discrete AlGaN/GaN HEMT Sensor for In‐Situ Regenerative Soot Particulate Detection",
+        "result_id": "7fywQks9Da4J",
+        "link": "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/elan.202400221",
+        "snippet": "An in‐situ regenerative soot particulate matter sensor for automotive exhaust systems based on a discrete AlGaN/GaN high electron mobility transistor (HEMT) was developed and …",
+        "publication_info": {
+          "summary": "Z Gu, X He, B Miao, Z Xu, S Li, J Li - Electroanalysis, 2025 - Wiley Online Library",
+          "authors": [
+            {
+              "name": "Z Gu"
+            },
+            {
+              "name": "X He"
+            },
+            {
+              "name": "B Miao"
+            },
+            {
+              "name": "Z Xu"
+            },
+            {
+              "name": "S Li"
+            },
+            {
+              "name": "J Li"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=7fywQks9Da4J",
+          "cited_by": {
+            "total": 1,
+            "link": "https://scholar.google.com/scholar?cites=12541747930747436269&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "12541747930747436269",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12541747930747436269&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:7fywQks9Da4J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=1310050738644832908&engine=google_scholar&filter=0&hl=en&num=20&q=related%3A7fywQks9Da4J%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cluster=12541747930747436269&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "12541747930747436269",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=12541747930747436269&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 7,
+        "title": "Application of a gateless AlGaN/GaN HEMT sensor for diesel soot particulate detection",
+        "result_id": "NBhLqk0V0dIJ",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0925400521013794",
+        "snippet": "A particulate matter micro-sensor for automotive exhaust systems based on a gateless wide-bandgap AlGaN/GaN high electron mobility transistor was developed and tested. Soot …",
+        "publication_info": {
+          "summary": "R Sokolovskij, H Zheng, W Li, G Zhou, Q Wang… - Sensors and Actuators B …, 2021 - Elsevier",
+          "authors": [
+            {
+              "name": "R Sokolovskij"
+            },
+            {
+              "name": "H Zheng"
+            },
+            {
+              "name": "W Li",
+              "link": "https://scholar.google.com/citations?user=LF3SGAQAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "LF3SGAQAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=LF3SGAQAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "G Zhou"
+            },
+            {
+              "name": "Q Wang"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=NBhLqk0V0dIJ",
+          "cited_by": {
+            "total": 8,
+            "link": "https://scholar.google.com/scholar?cites=15190946441411106868&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "15190946441411106868",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=15190946441411106868&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:NBhLqk0V0dIJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=1310050738644832908&engine=google_scholar&filter=0&hl=en&num=20&q=related%3ANBhLqk0V0dIJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cluster=15190946441411106868&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "15190946441411106868",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=15190946441411106868&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 8,
+        "title": "Transport mechanisms and Fermi-level pinning at metal/(10–11) semipolar GaN interfaces with and without TMAH passivation",
+        "result_id": "JOTf4OFqJpYJ",
+        "link": "https://iopscience.iop.org/article/10.35848/1347-4065/ae70b2/meta",
+        "snippet": "This study investigates Fermi-level pinning (FLP) behavior and current transport mechanisms in metal/semipolar (10–11) n-GaN Schottky contacts. Ti, Cr, Au, and Pt contacts …",
+        "publication_info": {
+          "summary": "JY Kwon, KR Yun, DS Wuu, RH Horng… - Japanese Journal of …, 2026 - iopscience.iop.org",
+          "authors": [
+            {
+              "name": "JY Kwon"
+            },
+            {
+              "name": "KR Yun",
+              "link": "https://scholar.google.com/citations?user=AdOfywIAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "AdOfywIAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=AdOfywIAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "DS Wuu",
+              "link": "https://scholar.google.com/citations?user=QZ0UOvwAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "QZ0UOvwAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=QZ0UOvwAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "RH Horng",
+              "link": "https://scholar.google.com/citations?user=C-6_2nsAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "C-6_2nsAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=C-6_2nsAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=JOTf4OFqJpYJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:JOTf4OFqJpYJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=1310050738644832908&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AJOTf4OFqJpYJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cluster=10819452673177150500&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "10819452673177150500",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=10819452673177150500&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 9,
+        "title": "Direct and continuous liquid-level sensing using gallium nitride ultraviolet photodetectors",
+        "result_id": "FpSkvsmG7eoJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/9095305/",
+        "snippet": "A liquid-level sensor using a gallium nitride (GaN) ultraviolet (UV) photodetector was successfully demonstrated. As the liquid level was changed, the intensity of UV light on the …",
+        "publication_info": {
+          "summary": "J Sung, H So - IEEE Sensors Journal, 2020 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "J Sung"
+            },
+            {
+              "name": "H So",
+              "link": "https://scholar.google.com/citations?user=nTJgFaIAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "nTJgFaIAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nTJgFaIAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=FpSkvsmG7eoJ",
+          "cited_by": {
+            "total": 8,
+            "link": "https://scholar.google.com/scholar?cites=16928334775400567830&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "16928334775400567830",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=16928334775400567830&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:FpSkvsmG7eoJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=1310050738644832908&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AFpSkvsmG7eoJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cluster=16928334775400567830&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "16928334775400567830",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=16928334775400567830&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 10,
+        "title": "High‐Temperature Conductive Stability of ITO/Pt Bilayer‐Film Electrode for Applications in High‐Temperature SAW Devices",
+        "result_id": "c1uX6wsA1gIJ",
+        "link": "https://onlinelibrary.wiley.com/doi/abs/10.1155/2022/2599390",
+        "snippet": "Surface‐acoustic‐wave (SAW) devices have been widely investigated over many years as demand has grown for information sensing above 1000° C. At such high temperatures …",
+        "publication_info": {
+          "summary": "H Li, K Mou, B Peng, Y Deng, X Liu, S Ta… - Journal of …, 2022 - Wiley Online Library",
+          "authors": [
+            {
+              "name": "H Li"
+            },
+            {
+              "name": "K Mou"
+            },
+            {
+              "name": "B Peng"
+            },
+            {
+              "name": "Y Deng"
+            },
+            {
+              "name": "X Liu"
+            },
+            {
+              "name": "S Ta"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "wiley.com",
+            "file_format": "PDF",
+            "link": "https://onlinelibrary.wiley.com/doi/pdf/10.1155/2022/2599390"
+          },
+          {
+            "title": "Full View",
+            "link": "https://scholar.google.com/scholar?output=instlink&q=info:c1uX6wsA1gIJ:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007&scillfp=14546808584610690454&oi=lle"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=c1uX6wsA1gIJ",
+          "cited_by": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cites=204350884289141619&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "204350884289141619",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=204350884289141619&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:c1uX6wsA1gIJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=1310050738644832908&engine=google_scholar&filter=0&hl=en&num=20&q=related%3Ac1uX6wsA1gIJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cluster=204350884289141619&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "204350884289141619",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=204350884289141619&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 11,
+        "title": "2DEG-heated AlGaN/GaN micro-hotplates for high-temperature chemical sensing microsystems",
+        "result_id": "_HKpUttAr7MJ",
+        "type": "Pdf",
+        "link": "https://transducer-research-foundation.org/technical_digests/HiltonHead_2016/hh2016_0356.pdf",
+        "snippet": "ABSTRACT Fully-suspended AlGaN/GaN micro-hotplates that leverage self-heating of the two-dimensional electron gas (2DEG) have been modeled, micro-fabricated, and …",
+        "publication_info": {
+          "summary": "M Hou, AJ Suria, AS Yalamarthy… - Proc. Solid …, 2016 - transducer-research-foundation.org",
+          "authors": [
+            {
+              "name": "M Hou",
+              "link": "https://scholar.google.com/citations?user=TDWUh9MAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "TDWUh9MAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=TDWUh9MAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "AJ Suria",
+              "link": "https://scholar.google.com/citations?user=Ig46FVcAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "Ig46FVcAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Ig46FVcAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "AS Yalamarthy",
+              "link": "https://scholar.google.com/citations?user=QzSlVd4AAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "QzSlVd4AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=QzSlVd4AAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "transducer-research-foundation.org",
+            "file_format": "PDF",
+            "link": "https://transducer-research-foundation.org/technical_digests/HiltonHead_2016/hh2016_0356.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=_HKpUttAr7MJ",
+          "cited_by": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cites=12947638764442317564&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "12947638764442317564",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12947638764442317564&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:_HKpUttAr7MJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=1310050738644832908&engine=google_scholar&filter=0&hl=en&num=20&q=related%3A_HKpUttAr7MJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 6,
+            "link": "https://scholar.google.com/scholar?cluster=12947638764442317564&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "12947638764442317564",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=12947638764442317564&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:_HKpUttAr7MJ:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007"
+        }
+      },
+      {
+        "position": 12,
+        "title": "A self-regenerable soot sensor with a proton-conductive thin electrolyte and a nanostructured platinum sensing electrode",
+        "result_id": "OyOpQ9c5qHwJ",
+        "link": "https://www.nature.com/articles/srep37463",
+        "snippet": "In recent years, exhaust sensors have become increasingly attractive for use in energy and environmental technologies. Important issues regarding practical applications of these …",
+        "publication_info": {
+          "summary": "P Lv, T Ito, A Oogushi, K Nakashima, M Nagao… - Scientific Reports, 2016 - nature.com",
+          "authors": [
+            {
+              "name": "P Lv"
+            },
+            {
+              "name": "T Ito"
+            },
+            {
+              "name": "A Oogushi"
+            },
+            {
+              "name": "K Nakashima"
+            },
+            {
+              "name": "M Nagao"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "nature.com",
+            "file_format": "PDF",
+            "link": "https://www.nature.com/articles/srep37463.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=OyOpQ9c5qHwJ",
+          "cited_by": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cites=8982493053506364219&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "8982493053506364219",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=8982493053506364219&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:OyOpQ9c5qHwJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=1310050738644832908&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AOyOpQ9c5qHwJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 8,
+            "link": "https://scholar.google.com/scholar?cluster=8982493053506364219&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "8982493053506364219",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=8982493053506364219&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 13,
+        "title": "合成条件对In2O3 纳米线阵列结构 及气敏性能的影响.",
+        "result_id": "eMhcNutZyzcJ",
+        "link": "https://openurl.ebsco.com/contentitem/gcd:170955881?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:170955881&crl=c&jrnl=16715489",
+        "snippet": "用SBA-15 硬模板复制技术在不同温度下制备具有纳米线阵列结构的In2O3 系列样品. 利用X 射线衍射仪, 场扫描电子显微镜和紫外可见光光度计对样品的晶体结构, 晶粒尺寸, 晶胞参数 …",
+        "publication_info": {
+          "summary": "杨燕， 宫杰， 孙浩， 王新庆 - Journal of Jilin University (Science …, 2023 - openurl.ebsco.com",
+          "authors": [
+            {
+              "name": "杨燕， 宫杰， 孙浩， 王新庆"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=eMhcNutZyzcJ",
+          "cited_by": {
+            "total": 1,
+            "link": "https://scholar.google.com/scholar?cites=4020405959122536568&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "4020405959122536568",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4020405959122536568&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:eMhcNutZyzcJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=1310050738644832908&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AeMhcNutZyzcJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=4020405959122536568&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "4020405959122536568",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=4020405959122536568&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 14,
+        "title": "Study on the Characteristics of Schottky Temperature Detector Based on Metal/n-ZnO/n-Si Structures",
+        "result_id": "JzF9_Sk8L5sJ",
+        "link": "https://www.benthamdirect.com/content/journals/mns/10.2174/1876402912999200910165426",
+        "snippet": "Background: At present, the main problems of Micro-Electro-Mechanical Systems (MEMS) based temperature detector are the narrow range of temperature detection and difficulty in …",
+        "publication_info": {
+          "summary": "F Wang, J Wei, C Guo, T Ma, L Zhang… - Micro and …, 2021 - benthamdirect.com",
+          "authors": [
+            {
+              "name": "F Wang"
+            },
+            {
+              "name": "J Wei"
+            },
+            {
+              "name": "C Guo"
+            },
+            {
+              "name": "T Ma"
+            },
+            {
+              "name": "L Zhang"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=JzF9_Sk8L5sJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:JzF9_Sk8L5sJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=1310050738644832908&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AJzF9_Sk8L5sJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=11182222550828396839&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "11182222550828396839",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=11182222550828396839&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 15,
+        "title": "A Sensitive and Self-Regenerable Particulate Matter Sensor with a H3PO4-Modified BaZr0.8Y0.2O3-δ Electrolyte and an IrO2-Catalyzed Sensing Electrode",
+        "result_id": "uEBcBK-iT1gJ",
+        "link": "https://iopscience.iop.org/article/10.1149/2.1281614jes/meta",
+        "snippet": "There have been many attempts to develop solid-state sensor devices for detecting particulate matter (PM) in diesel exhaust; however, in most of these, the accumulated PM …",
+        "publication_info": {
+          "summary": "L Peiling, A Oogushi, K Nakashima… - Journal of The …, 2016 - iopscience.iop.org",
+          "authors": [
+            {
+              "name": "L Peiling"
+            },
+            {
+              "name": "A Oogushi"
+            },
+            {
+              "name": "K Nakashima"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "iop.org",
+            "file_format": "PDF",
+            "link": "https://iopscience.iop.org/article/10.1149/2.1281614jes/pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=uEBcBK-iT1gJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:uEBcBK-iT1gJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=1310050738644832908&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AuEBcBK-iT1gJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cluster=6363483671073931448&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "6363483671073931448",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=6363483671073931448&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      }
+    ]
+  }
+}

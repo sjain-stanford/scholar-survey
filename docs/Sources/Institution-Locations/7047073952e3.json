@@ -1,0 +1,2503 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=University+of+Western+Brittany+Brest",
+  "http_status": 200,
+  "query": "University of Western Brittany Brest",
+  "data": {
+    "number_of_results": 35631,
+    "time_taken": 45,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-05",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "quimper-bretagne-occidentale.bzh"
+        ],
+        "established": 2017,
+        "external_ids": [
+          {
+            "all": [
+              "100032223"
+            ],
+            "preferred": "100032223",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/05xahs715",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.quimper-bretagne-occidentale.bzh"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "FR",
+              "country_name": "France",
+              "country_subdivision_code": "BRE",
+              "country_subdivision_name": "Brittany",
+              "lat": 47.99597,
+              "lng": -4.09795,
+              "name": "Quimper"
+            },
+            "geonames_id": 2984701
+          }
+        ],
+        "names": [
+          {
+            "lang": "br",
+            "types": [
+              "alias"
+            ],
+            "value": "Kemper Breizh ar C'hornôg"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Quimper Bretagne Occidentale"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Quimper Western Brittany"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "univ-ubs.fr"
+        ],
+        "established": 1995,
+        "external_ids": [
+          {
+            "all": [
+              "100018280"
+            ],
+            "preferred": "100018280",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.267180.a"
+            ],
+            "preferred": "grid.267180.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2168 0285"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1125958"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04ed7fw48",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.univ-ubs.fr/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Southern_Brittany"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "FR",
+              "country_name": "France",
+              "country_subdivision_code": "BRE",
+              "country_subdivision_name": "Brittany",
+              "lat": 47.74817,
+              "lng": -3.37177,
+              "name": "Lorient"
+            },
+            "geonames_id": 2997577
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Southern Brittany"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Université de Bretagne Sud"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Institut de Recherche Dupuy de Lôme",
+            "type": "child",
+            "id": "https://ror.org/03011gg73"
+          },
+          {
+            "label": "Institut de Recherche en Informatique et Systèmes Aléatoires",
+            "type": "child",
+            "id": "https://ror.org/00myn0z94"
+          },
+          {
+            "label": "LabexMER",
+            "type": "child",
+            "id": "https://ror.org/003n95695"
+          },
+          {
+            "label": "Laboratoire de Biotechnologie et Chimie Marines",
+            "type": "child",
+            "id": "https://ror.org/00aytnh12"
+          },
+          {
+            "label": "Laboratoire de Mathématiques de Bretagne Atlantique",
+            "type": "child",
+            "id": "https://ror.org/02ght4n58"
+          },
+          {
+            "label": "Laboratoire de Psychologie : Cognition, Comportement, Communication",
+            "type": "child",
+            "id": "https://ror.org/03dgmxj03"
+          },
+          {
+            "label": "Laboratoire des Sciences et Techniques de l’Information de la Communication et de la Connaissance",
+            "type": "child",
+            "id": "https://ror.org/0266kfd37"
+          },
+          {
+            "label": "Laboratoire de Génie des Procédés – Environnement – Agro-alimentaire",
+            "type": "child",
+            "id": "https://ror.org/05ngxmx20"
+          },
+          {
+            "label": "Pôle de Recherche Francophonies, Interculturel, Communication, Sociolinguistique",
+            "type": "child",
+            "id": "https://ror.org/01pxcyx49"
+          },
+          {
+            "label": "Laboratoire d'études et de recherche en sociologie",
+            "type": "child",
+            "id": "https://ror.org/05ybd2c79"
+          },
+          {
+            "label": "Héritage et Création dans le Texte et l'Image",
+            "type": "child",
+            "id": "https://ror.org/05fa5kd53"
+          },
+          {
+            "label": "Laboratoire d’Économie et de Gestion de l'Ouest",
+            "type": "child",
+            "id": "https://ror.org/010rve435"
+          },
+          {
+            "label": "Laboratoire de recherche en droit",
+            "type": "child",
+            "id": "https://ror.org/036tyjs84"
+          },
+          {
+            "label": "Temps, Mondes, Sociétés",
+            "type": "child",
+            "id": "https://ror.org/01nhp3z94"
+          },
+          {
+            "label": "Geo-Ocean",
+            "type": "child",
+            "id": "https://ror.org/007dbrz84"
+          },
+          {
+            "label": "Maison des sciences humaines et sociales en Bretagne",
+            "type": "child",
+            "id": "https://ror.org/01jwwzm25"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-01-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "brsu.by"
+        ],
+        "established": 1945,
+        "external_ids": [
+          {
+            "all": [
+              "grid.444993.7"
+            ],
+            "preferred": "grid.444993.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q2638914"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01jn5wy42",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.brsu.by"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/A.S._Pushkin_Brest_State_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "BY",
+              "country_name": "Belarus",
+              "country_subdivision_code": "BR",
+              "country_subdivision_name": "Brest",
+              "lat": 52.09755,
+              "lng": 23.68775,
+              "name": "Brest"
+            },
+            "geonames_id": 629634
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "A.S. Pushkin Brest State University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "BrSU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "BrSU A.S. Pushkin"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "BrSU named after A.S. Pushkin"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Brest State A.S. Pushkin University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Brest State University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Brest State University A.S. Pushkin"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Brest State University named after A.S. Pushkin"
+          },
+          {
+            "lang": "ru",
+            "types": [
+              "acronym"
+            ],
+            "value": "БрГУ"
+          },
+          {
+            "lang": "ru",
+            "types": [
+              "alias"
+            ],
+            "value": "БрГУ имени А.С. Пушкина"
+          },
+          {
+            "lang": "be",
+            "types": [
+              "acronym"
+            ],
+            "value": "БрДУ"
+          },
+          {
+            "lang": "be",
+            "types": [
+              "alias"
+            ],
+            "value": "БрДУ імя А.С. Пушкіна"
+          },
+          {
+            "lang": "ru",
+            "types": [
+              "label"
+            ],
+            "value": "Брестский государственный университет имени А. С. Пушкина"
+          },
+          {
+            "lang": "be",
+            "types": [
+              "label"
+            ],
+            "value": "Брэсцкі дзяржаўны ўніверсітэт імя А. С. Пушкіна"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-05-04",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-05-05",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/04bztf893",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.brgm.fr/en/regional-agency/brittany"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "FR",
+              "country_name": "France",
+              "country_subdivision_code": "BRE",
+              "country_subdivision_name": "Brittany",
+              "lat": 48.11109,
+              "lng": -1.67431,
+              "name": "Rennes"
+            },
+            "geonames_id": 2983990
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "BRGM Bretagne"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "BRGM Brittany"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Bureau de Recherches Géologiques et Minières",
+            "type": "parent",
+            "id": "https://ror.org/05hnb7x64"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-06-02",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1941,
+        "external_ids": [
+          {
+            "all": [
+              "501100004584",
+              "501100011697"
+            ],
+            "preferred": "501100004584",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.468077.a"
+            ],
+            "preferred": "grid.468077.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2297 5966"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/05510z802",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.bretagne.bzh/jcms/JB080225_11542/fr/english"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Regional_Council_of_Brittany"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "FR",
+              "country_name": "France",
+              "country_subdivision_code": "BRE",
+              "country_subdivision_name": "Brittany",
+              "lat": 48.11109,
+              "lng": -1.67431,
+              "name": "Rennes"
+            },
+            "geonames_id": 2983990
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Conseil régional de Bretagne"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Regional Council of Brittany"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Neurinfo",
+            "type": "child",
+            "id": "https://ror.org/05twhbr06"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-11-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "bstu.by"
+        ],
+        "established": 1966,
+        "external_ids": [
+          {
+            "all": [
+              "grid.448577.d"
+            ],
+            "preferred": "grid.448577.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0550 8151"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1790193"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/007rxxd52",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.bstu.by/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Brest_State_Technical_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "BY",
+              "country_name": "Belarus",
+              "country_subdivision_code": "BR",
+              "country_subdivision_name": "Brest",
+              "lat": 52.10894,
+              "lng": 23.71749,
+              "name": "Brest"
+            },
+            "geonames_id": 629634
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BrSTU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Brest State Technical University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "БрГТУ"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "БрДТУ"
+          },
+          {
+            "lang": "ru",
+            "types": [
+              "label"
+            ],
+            "value": "Брестский государственный технический университет"
+          },
+          {
+            "lang": "be",
+            "types": [
+              "label"
+            ],
+            "value": "Брэсцкі дзяржаўны тэхнічны ўніверсітэт"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-07-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-07-15",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "brest-bs.com"
+        ],
+        "established": 1962,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0000 9270 6174"
+            ],
+            "preferred": "0000 0000 9270 6174",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3578429"
+            ],
+            "preferred": "Q3578429",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02wtzn374",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://brest-bs.com"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "FR",
+              "country_name": "France",
+              "country_subdivision_code": "BRE",
+              "country_subdivision_name": "Brittany",
+              "lat": 48.39029,
+              "lng": -4.48628,
+              "name": "Brest"
+            },
+            "geonames_id": 3030300
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "Brest BS"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Brest Business School"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-08-17",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1969,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0001 2294 7498"
+            ],
+            "preferred": "0000 0001 2294 7498",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2945394"
+            ],
+            "preferred": "Q2945394",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01qjd1497",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.univ-brest.fr/crbc/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "FR",
+              "country_name": "France",
+              "country_subdivision_code": "BRE",
+              "country_subdivision_name": "Brittany",
+              "lat": 48.39029,
+              "lng": -4.48628,
+              "name": "Brest"
+            },
+            "geonames_id": 3030300
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "CRBC Brest"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Centre de recherche bretonne et celtique"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "UAR 3554"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "UAR3554"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Université de Bretagne Occidentale",
+            "type": "parent",
+            "id": "https://ror.org/0372th171"
+          },
+          {
+            "label": "Centre National de la Recherche Scientifique",
+            "type": "parent",
+            "id": "https://ror.org/02feahw73"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2003,
+        "external_ids": [
+          {
+            "all": [
+              "grid.443228.b"
+            ],
+            "preferred": "grid.443228.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0452 9112"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30294451",
+              "Q25679947"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02agqkc58",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://westernuniversity.edu.kh/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KH",
+              "country_name": "Cambodia",
+              "country_subdivision_code": "12",
+              "country_subdivision_name": "Phnom Penh",
+              "lat": 11.56245,
+              "lng": 104.91601,
+              "name": "Phnom Penh"
+            },
+            "geonames_id": 1821306
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "WU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Western University"
+          },
+          {
+            "lang": "km",
+            "types": [
+              "label"
+            ],
+            "value": "សាកលវិទ្យាល័យវេស្ទើន"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "wu.edu.az"
+        ],
+        "established": 1991,
+        "external_ids": [
+          {
+            "all": [
+              "grid.442905.e"
+            ],
+            "preferred": "grid.442905.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0435 8106"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3916655"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05cgtjz78",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://wcu.edu.az/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Western_Caspian_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "AZ",
+              "country_name": "Azerbaijan",
+              "country_subdivision_code": "BA",
+              "country_subdivision_name": "Baki",
+              "lat": 40.37767,
+              "lng": 49.89201,
+              "name": "Baku"
+            },
+            "geonames_id": 587084
+          }
+        ],
+        "names": [
+          {
+            "lang": "az",
+            "types": [
+              "label"
+            ],
+            "value": "Qərbi Kaspi Universiteti"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Western Caspian University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Western University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uwo.ca"
+        ],
+        "established": 1878,
+        "external_ids": [
+          {
+            "all": [
+              "501100008093",
+              "501100004381"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.39381.30"
+            ],
+            "preferred": "grid.39381.30",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1936 8884"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1144262"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02grkyz14",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://uwo.ca"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Western_Ontario"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 42.98339,
+              "lng": -81.23304,
+              "name": "London"
+            },
+            "geonames_id": 6058560
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "The University of Western Ontario"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UWO"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Western Ontario"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Western University"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "King’s University College",
+            "type": "child",
+            "id": "https://ror.org/00h3d0p13"
+          },
+          {
+            "label": "Wind Engineering, Energy and Environment Research Institute",
+            "type": "child",
+            "id": "https://ror.org/05ja3tr06"
+          },
+          {
+            "label": "Ivey Business School",
+            "type": "child",
+            "id": "https://ror.org/05esnc164"
+          },
+          {
+            "label": "Fraunhofer Innovation Platform for Composites Research",
+            "type": "child",
+            "id": "https://ror.org/01ws25a19"
+          },
+          {
+            "label": "Robarts Research Institute",
+            "type": "child",
+            "id": "https://ror.org/01psf3m26"
+          },
+          {
+            "label": "Huron University",
+            "type": "child",
+            "id": "https://ror.org/00k98kg81"
+          },
+          {
+            "label": "London Health Sciences Centre",
+            "type": "related",
+            "id": "https://ror.org/037tz0e16"
+          },
+          {
+            "label": "St Joseph's Health Care",
+            "type": "related",
+            "id": "https://ror.org/05rj7xr73"
+          },
+          {
+            "label": "Victoria Hospital",
+            "type": "related",
+            "id": "https://ror.org/014tg6596"
+          },
+          {
+            "label": "Lawson Research Institute",
+            "type": "related",
+            "id": "https://ror.org/02rkgge26"
+          },
+          {
+            "label": "Children’s Health Research Institute",
+            "type": "related",
+            "id": "https://ror.org/038pa9k74"
+          },
+          {
+            "label": "London Health Sciences Centre Research Institute",
+            "type": "related",
+            "id": "https://ror.org/04m7cgp86"
+          },
+          {
+            "label": "Fowler Kennedy Sport Medicine Clinic",
+            "type": "related",
+            "id": "https://ror.org/03hf41361"
+          },
+          {
+            "label": "Institute for Catastrophic Loss Reduction",
+            "type": "related",
+            "id": "https://ror.org/03prrhh04"
+          },
+          {
+            "label": "Ontario Advanced Manufacturing Consortium",
+            "type": "related",
+            "id": "https://ror.org/01x8r0006"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-22",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "western.ac.th"
+        ],
+        "established": 1997,
+        "external_ids": [
+          {
+            "all": [
+              "Q13018833"
+            ],
+            "preferred": "Q13018833",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04148yz28",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.western.ac.th"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TH",
+              "country_name": "Thailand",
+              "country_subdivision_code": "71",
+              "country_subdivision_name": "Kanchanaburi",
+              "lat": 14.3275,
+              "lng": 99.66767,
+              "name": "Huai Krachao"
+            },
+            "geonames_id": 1157482
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Niwattana University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "WTU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Western University"
+          },
+          {
+            "lang": "th",
+            "types": [
+              "label"
+            ],
+            "value": "มหาวิทยาลัยเวสเทิร์น"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1904,
+        "external_ids": [
+          {
+            "all": [
+              "grid.267451.3"
+            ],
+            "preferred": "grid.267451.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0455 9493"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7896612"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03c8vvr84",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.uws.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Western_States"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "OR",
+              "country_subdivision_name": "Oregon",
+              "lat": 45.52345,
+              "lng": -122.67621,
+              "name": "Portland"
+            },
+            "geonames_id": 5746545
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UWS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Western States"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Western States Chiropractic College"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uowm.gr"
+        ],
+        "established": 2004,
+        "external_ids": [
+          {
+            "all": [
+              "100019672"
+            ],
+            "preferred": "100019672",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.184212.c"
+            ],
+            "preferred": "grid.184212.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9364 8877"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2665063"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00a5pe906",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uowm.gr"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Western_Macedonia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GR",
+              "country_name": "Greece",
+              "country_subdivision_code": "C",
+              "country_subdivision_name": "West Macedonia",
+              "lat": 40.30069,
+              "lng": 21.78896,
+              "name": "Kozani"
+            },
+            "geonames_id": 735563
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UOWM"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Western Macedonia"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de Macédoine-Occidentale"
+          },
+          {
+            "lang": "el",
+            "types": [
+              "label"
+            ],
+            "value": "Πανεπιστήμιο Δυτικής Μακεδονίας"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1893,
+        "external_ids": [
+          {
+            "all": [
+              "grid.451515.1"
+            ],
+            "preferred": "grid.451515.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0540 7299"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3551358"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04rr0m327",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.umwestern.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Montana_Western"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MT",
+              "country_subdivision_name": "Montana",
+              "lat": 45.21631,
+              "lng": -112.63752,
+              "name": "Dillon"
+            },
+            "geonames_id": 5648657
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Montana Western"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Montana University System",
+            "type": "parent",
+            "id": "https://ror.org/052msxy68"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uwa.edu.au"
+        ],
+        "established": 1911,
+        "external_ids": [
+          {
+            "all": [
+              "501100001801",
+              "501100004511",
+              "501100001197",
+              "501100001174",
+              "501100009317",
+              "501100016161"
+            ],
+            "preferred": "501100001801",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.1012.2"
+            ],
+            "preferred": "grid.1012.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1936 7910"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1517021"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/047272k79",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uwa.edu.au"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Western_Australia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "OC",
+              "continent_name": "Oceania",
+              "country_code": "AU",
+              "country_name": "Australia",
+              "country_subdivision_code": "WA",
+              "country_subdivision_name": "Western Australia",
+              "lat": -31.95224,
+              "lng": 115.8614,
+              "name": "Perth"
+            },
+            "geonames_id": 2063523
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "The University of Western Australia"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UWA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Western Australia"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "International Centre for Radio Astronomy Research",
+            "type": "child",
+            "id": "https://ror.org/05sd1pp77"
+          },
+          {
+            "label": "International Space Centre",
+            "type": "child",
+            "id": "https://ror.org/04yev3f93"
+          },
+          {
+            "label": "Oceans Institute",
+            "type": "child",
+            "id": "https://ror.org/028khat13"
+          },
+          {
+            "label": "Fremantle Hospital",
+            "type": "related",
+            "id": "https://ror.org/03yxgmm62"
+          },
+          {
+            "label": "Lions Eye Institute",
+            "type": "related",
+            "id": "https://ror.org/006vyay97"
+          },
+          {
+            "label": "Royal Perth Hospital",
+            "type": "related",
+            "id": "https://ror.org/00zc2xc51"
+          },
+          {
+            "label": "Sir Charles Gairdner Hospital",
+            "type": "related",
+            "id": "https://ror.org/01hhqsm59"
+          },
+          {
+            "label": "Women and Infants Research Foundation",
+            "type": "related",
+            "id": "https://ror.org/03j1avm36"
+          },
+          {
+            "label": "Digitisation Centre of Western Australia",
+            "type": "related",
+            "id": "https://ror.org/00jjz9s23"
+          },
+          {
+            "label": "Victor Chang Cardiac Research Institute",
+            "type": "related",
+            "id": "https://ror.org/03trvqr13"
+          },
+          {
+            "label": "Australian Centre for Excellence in Antarctic Science",
+            "type": "related",
+            "id": "https://ror.org/024jkkf40"
+          },
+          {
+            "label": "Centre for Social Impact",
+            "type": "related",
+            "id": "https://ror.org/04hwnke37"
+          },
+          {
+            "label": "Heart & Lung Research Institute Western Australia",
+            "type": "related",
+            "id": "https://ror.org/03rqkj291"
+          },
+          {
+            "label": "Fiona Stanley Hospital",
+            "type": "related",
+            "id": "https://ror.org/027p0bm56"
+          },
+          {
+            "label": "Queen Elizabeth II Medical Centre",
+            "type": "related",
+            "id": "https://ror.org/0071a2k97"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "westernsydney.edu.au"
+        ],
+        "established": 1891,
+        "external_ids": [
+          {
+            "all": [
+              "501100008342",
+              "501100001776",
+              "501100018822"
+            ],
+            "preferred": "501100018822",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.1029.a"
+            ],
+            "preferred": "grid.1029.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9939 5719"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1141452"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03t52dk35",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.westernsydney.edu.au/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Western_Sydney_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "OC",
+              "continent_name": "Oceania",
+              "country_code": "AU",
+              "country_name": "Australia",
+              "country_subdivision_code": "NSW",
+              "country_subdivision_name": "New South Wales",
+              "lat": -33.59956,
+              "lng": 150.75142,
+              "name": "Richmond"
+            },
+            "geonames_id": 2151650
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UWS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Western Sydney"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Western Sydney University"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "ARC Centre of Excellence for Plant Success in Nature and Agriculture",
+            "type": "child",
+            "id": "https://ror.org/058xdtn86"
+          },
+          {
+            "label": "Bankstown Lidcombe Hospital",
+            "type": "related",
+            "id": "https://ror.org/00qrpt643"
+          },
+          {
+            "label": "Blacktown & Mount Druitt Hospital",
+            "type": "related",
+            "id": "https://ror.org/017bddy38"
+          },
+          {
+            "label": "Camden and Campbelltown Hospitals",
+            "type": "related",
+            "id": "https://ror.org/04c318s33"
+          },
+          {
+            "label": "Liverpool Hospital",
+            "type": "related",
+            "id": "https://ror.org/03zzzks34"
+          },
+          {
+            "label": "Sydney College of Divinity",
+            "type": "related",
+            "id": "https://ror.org/00p6her27"
+          },
+          {
+            "label": "Fairfield Hospital",
+            "type": "related",
+            "id": "https://ror.org/04xx5ce35"
+          },
+          {
+            "label": "Lismore Base Hospital",
+            "type": "related",
+            "id": "https://ror.org/004kvma63"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-06-01",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-06-02",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "cbnbrest.com"
+        ],
+        "established": 1975,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0000 9261 8684"
+            ],
+            "preferred": "0000 0000 9261 8684",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2994486"
+            ],
+            "preferred": "Q2994486",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04xyegq63",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.cbnbrest.fr"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://fr.wikipedia.org/wiki/Conservatoire_botanique_national_de_Brest"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "FR",
+              "country_name": "France",
+              "country_subdivision_code": "BRE",
+              "country_subdivision_name": "Brittany",
+              "lat": 48.39029,
+              "lng": -4.48628,
+              "name": "Brest"
+            },
+            "geonames_id": 3030300
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "CBN de Brest"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "acronym"
+            ],
+            "value": "CBNB"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Conservatoire botanique national de Brest"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "National Botanical Conservatory of Brest"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-07-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "univ-brest.fr"
+        ],
+        "established": 2025,
+        "external_ids": [],
+        "id": "https://ror.org/0372th171",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.univ-brest.fr"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "FR",
+              "country_name": "France",
+              "country_subdivision_code": "BRE",
+              "country_subdivision_name": "Brittany",
+              "lat": 48.39029,
+              "lng": -4.48628,
+              "name": "Brest"
+            },
+            "geonames_id": 3030300
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "acronym"
+            ],
+            "value": "UBO"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de Brest"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Université de Bretagne Occidentale"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Institut Universitaire Européen de la Mer",
+            "type": "child",
+            "id": "https://ror.org/04pfr1b11"
+          },
+          {
+            "label": "Génétique, Génomique Fonctionnelle et Biotechnologies",
+            "type": "child",
+            "id": "https://ror.org/05xxb2f26"
+          },
+          {
+            "label": "Institut de Recherche Dupuy de Lôme",
+            "type": "child",
+            "id": "https://ror.org/03011gg73"
+          },
+          {
+            "label": "LabexMER",
+            "type": "child",
+            "id": "https://ror.org/003n95695"
+          },
+          {
+            "label": "Laboratoire Chimie Electrochimie Moléculaires et Chimie Analytique",
+            "type": "child",
+            "id": "https://ror.org/02bhhaf78"
+          },
+          {
+            "label": "Laboratoire de Mathématiques de Bretagne Atlantique",
+            "type": "child",
+            "id": "https://ror.org/02ght4n58"
+          },
+          {
+            "label": "Laboratoire de Psychologie : Cognition, Comportement, Communication",
+            "type": "child",
+            "id": "https://ror.org/03dgmxj03"
+          },
+          {
+            "label": "Laboratoire des Sciences de l'Environnement Marin",
+            "type": "child",
+            "id": "https://ror.org/05h929866"
+          },
+          {
+            "label": "Laboratoire des Sciences et Techniques de l’Information de la Communication et de la Connaissance",
+            "type": "child",
+            "id": "https://ror.org/0266kfd37"
+          },
+          {
+            "label": "Laboratory for Ocean Physics and Satellite Remote Sensing",
+            "type": "child",
+            "id": "https://ror.org/03rtw5049"
+          },
+          {
+            "label": "Centre de recherche sur l’éducation, les apprentissages et la didactique",
+            "type": "child",
+            "id": "https://ror.org/00psw8792"
+          },
+          {
+            "label": "Littoral, Environnement, Télédétection, Géomatique",
+            "type": "child",
+            "id": "https://ror.org/05sat2s07"
+          },
+          {
+            "label": "Recherches en Psychopathologie et Psychanalyse",
+            "type": "child",
+            "id": "https://ror.org/04fke6556"
+          },
+          {
+            "label": "Centre François Viète",
+            "type": "child",
+            "id": "https://ror.org/03mcrfa90"
+          },
+          {
+            "label": "Geo-Ocean",
+            "type": "child",
+            "id": "https://ror.org/007dbrz84"
+          },
+          {
+            "label": "Laboratoire d'études et de recherche en sociologie",
+            "type": "child",
+            "id": "https://ror.org/05ybd2c79"
+          },
+          {
+            "label": "Héritage et Création dans le Texte et l'Image",
+            "type": "child",
+            "id": "https://ror.org/05fa5kd53"
+          },
+          {
+            "label": "AMURE - Centre de droit et d'économie de la mer",
+            "type": "child",
+            "id": "https://ror.org/00ss0a232"
+          },
+          {
+            "label": "Centre de recherche bretonne et celtique",
+            "type": "child",
+            "id": "https://ror.org/01qjd1497"
+          },
+          {
+            "label": "Laboratoire d’Économie et de Gestion de l'Ouest",
+            "type": "child",
+            "id": "https://ror.org/010rve435"
+          },
+          {
+            "label": "Laboratoire de recherche en droit",
+            "type": "child",
+            "id": "https://ror.org/036tyjs84"
+          },
+          {
+            "label": "Géoarchitecture, Territoires, Urbanisation, Biodiversité, Environnement",
+            "type": "child",
+            "id": "https://ror.org/05yhtfv11"
+          },
+          {
+            "label": "Laboratoire de Biotechnologie et Chimie Marines",
+            "type": "child",
+            "id": "https://ror.org/00aytnh12"
+          },
+          {
+            "label": "Biologie et Ecologie des Ecosystèmes Marins Profonds",
+            "type": "child",
+            "id": "https://ror.org/04av83c71"
+          },
+          {
+            "label": "Maison des sciences humaines et sociales en Bretagne",
+            "type": "child",
+            "id": "https://ror.org/01jwwzm25"
+          },
+          {
+            "label": "Université de Bretagne Occidentale",
+            "type": "predecessor",
+            "id": "https://ror.org/01b8h3982"
+          },
+          {
+            "label": "Fédération de Recherche sur l'Energie Solaire",
+            "type": "related",
+            "id": "https://ror.org/0459fdx51"
+          },
+          {
+            "label": "Centre Hospitalier Régional Universitaire de Brest",
+            "type": "related",
+            "id": "https://ror.org/03evbwn87"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "chu-brest.fr"
+        ],
+        "established": 1506,
+        "external_ids": [
+          {
+            "all": [
+              "grid.411766.3"
+            ],
+            "preferred": "grid.411766.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0472 3249"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/03evbwn87",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.chu-brest.fr/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "FR",
+              "country_name": "France",
+              "country_subdivision_code": "BRE",
+              "country_subdivision_name": "Brittany",
+              "lat": 48.39029,
+              "lng": -4.48628,
+              "name": "Brest"
+            },
+            "geonames_id": 3030300
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "CHRU de Brest"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Centre Hospitalier Régional Universitaire de Brest"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "Centre Hospitalier Universitaire de Brest"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Génétique, Génomique Fonctionnelle et Biotechnologies",
+            "type": "child",
+            "id": "https://ror.org/05xxb2f26"
+          },
+          {
+            "label": "Laboratoire de Traitement de l'Information Médicale",
+            "type": "parent",
+            "id": "https://ror.org/05mqemx33"
+          },
+          {
+            "label": "Université de Bretagne Occidentale",
+            "type": "related",
+            "id": "https://ror.org/0372th171"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 17832
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 9039
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 4739
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 3969
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 3568
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2289
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2049
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 777
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 433
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 6090
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 4073
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2353
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2062
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1577
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 957
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 868
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 836
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 808
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 764
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 15054
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 9662
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 7357
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1995
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 951
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 613
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 35631
+        }
+      ]
+    }
+  }
+}

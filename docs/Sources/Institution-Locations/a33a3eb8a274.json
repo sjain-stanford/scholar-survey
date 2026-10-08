@@ -1,0 +1,2136 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=University+of+Macau",
+  "http_status": 200,
+  "query": "University of Macau",
+  "data": {
+    "number_of_results": 35466,
+    "time_taken": 40,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "um.edu.mo",
+          "umac.mo"
+        ],
+        "established": 1981,
+        "external_ids": [
+          {
+            "all": [
+              "501100004733",
+              "501100022657",
+              "501100016252"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.437123.0"
+            ],
+            "preferred": "grid.437123.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1794 8068"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1563050"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01r4q9n85",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.um.edu.mo"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Macau"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MO",
+              "country_name": "Macao",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Macau",
+              "lat": 22.20056,
+              "lng": 113.54611,
+              "name": "Macao"
+            },
+            "geonames_id": 1821274
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UM"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "label"
+            ],
+            "value": "Universidade de Macau"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of East Asia"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Macau"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Macau Advanced Research Institute in Hengqin",
+            "type": "child",
+            "id": "https://ror.org/00zrhxy58"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "cityu.edu.mo"
+        ],
+        "established": 1981,
+        "external_ids": [
+          {
+            "all": [
+              "grid.445020.7"
+            ],
+            "preferred": "grid.445020.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0385 9160"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5123484"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04gpd4q15",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.cityu.edu.mo"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/City_University_of_Macau"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MO",
+              "country_name": "Macao",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Macau",
+              "lat": 22.20056,
+              "lng": 113.54611,
+              "name": "Macao"
+            },
+            "geonames_id": 1821274
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Asia International Open University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "City University of Macau"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CityU"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "label"
+            ],
+            "value": "Universidade da Cidade de Macau"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of East Asia"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "澳門城市大學"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1996,
+        "external_ids": [
+          {
+            "all": [
+              "grid.445022.5"
+            ],
+            "preferred": "grid.445022.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0632 6909"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q986430"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01m6ap410",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.usj.edu.mo"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Saint_Joseph"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MO",
+              "country_name": "Macao",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Macau",
+              "lat": 22.20056,
+              "lng": 113.54611,
+              "name": "Macao"
+            },
+            "geonames_id": 1821274
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Macau Inter-University Institute"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "USJ"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "label"
+            ],
+            "value": "Universidade de São José"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Saint Joseph"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "聖若瑟大學"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-02-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "must.edu.mo"
+        ],
+        "established": 2000,
+        "external_ids": [
+          {
+            "all": [
+              "501100015260"
+            ],
+            "preferred": "501100015260",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.259384.1"
+            ],
+            "preferred": "grid.259384.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8945 4455"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q847993"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03jqs2n27",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.must.edu.mo"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Macau_University_of_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MO",
+              "country_name": "Macao",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Macau",
+              "lat": 22.20056,
+              "lng": 113.54611,
+              "name": "Macao"
+            },
+            "geonames_id": 1821274
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MUST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Macau University of Science and Technology"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "label"
+            ],
+            "value": "Universidade de Ciência e Tecnologia de Macau"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Guangdong-Hongkong-Macau Joint Laboratory of Collaborative Innovation for Environmental Quality",
+            "type": "child",
+            "id": "https://ror.org/02gwsx029"
+          },
+          {
+            "label": "National Observation and Research Station of Coastal Ecological Environments in Macao",
+            "type": "child",
+            "id": "https://ror.org/036b3b709"
+          },
+          {
+            "label": "Macau University of Science and Technology Foundation",
+            "type": "parent",
+            "id": "https://ror.org/02avx9m34"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-02-13",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2000,
+        "external_ids": [
+          {
+            "all": [
+              "501100011322"
+            ],
+            "preferred": "501100011322",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "0000 0004 7707 8826"
+            ],
+            "preferred": "0000 0004 7707 8826",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/02avx9m34",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.must.edu.mo/foundation"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MO",
+              "country_name": "Macao",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Nossa Senhora do Carmo",
+              "lat": 22.15583,
+              "lng": 113.55694,
+              "name": "Taipa"
+            },
+            "geonames_id": 1821263
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "MUST Foundation"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Macau University of Science and Technology Foundation"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "澳门科技大学基金会"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "科大基金會"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Macau University of Science and Technology",
+            "type": "child",
+            "id": "https://ror.org/03jqs2n27"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1982,
+        "external_ids": [
+          {
+            "all": [
+              "grid.467074.6"
+            ],
+            "preferred": "grid.467074.6",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/00snyqa86",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://portugues.tdm.com.mo/en/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/TDM_(Macau)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MO",
+              "country_name": "Macao",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Macau",
+              "lat": 22.20056,
+              "lng": 113.54611,
+              "name": "Macao"
+            },
+            "geonames_id": 1821274
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TDM"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Teledifusão de Macau"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "澳廣視"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-02-24",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-02-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ceem.must.edu.mo"
+        ],
+        "established": 2022,
+        "external_ids": [],
+        "id": "https://ror.org/036b3b709",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.must.edu.mo/imedia/expert-list/norsceem"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MO",
+              "country_name": "Macao",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Macau",
+              "lat": 22.20056,
+              "lng": 113.54611,
+              "name": "Macao"
+            },
+            "geonames_id": 1821274
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Macau Field Station"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "NORSCEEM"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "NSM"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "National Observation and Research Station of Coastal Ecological Environments in Macao"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "澳門海岸帶生態環境國家野外科學觀測研究站"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Macau University of Science and Technology",
+            "type": "parent",
+            "id": "https://ror.org/03jqs2n27"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-03-11",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-03-12",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "mmc.edu.mo"
+        ],
+        "established": 2001,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 0632 3775"
+            ],
+            "preferred": "0000 0004 0632 3775",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q103018959"
+            ],
+            "preferred": "Q103018959",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03sfsak65",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://mmc.edu.mo"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%A5%BF%E5%89%B5%E6%96%B0%E5%AD%B8%E9%99%A2"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MO",
+              "country_name": "Macao",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Macau",
+              "lat": 22.20056,
+              "lng": 113.54611,
+              "name": "Macao"
+            },
+            "geonames_id": 1821274
+          }
+        ],
+        "names": [
+          {
+            "lang": "pt",
+            "types": [
+              "alias"
+            ],
+            "value": "Instituto Milénio de Macau"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "MMC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Macau Millennium College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Sino-Western Innovation Academy"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中西創新學院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "mpu.edu.mo"
+        ],
+        "established": 1991,
+        "external_ids": [
+          {
+            "all": [
+              "501100004152"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.445017.3"
+            ],
+            "preferred": "grid.445017.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1794 7946"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q15662456"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02sf5td35",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.mpu.edu.mo"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Macau_Polytechnic_Institute"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MO",
+              "country_name": "Macao",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Macau",
+              "lat": 22.20056,
+              "lng": 113.54611,
+              "name": "Macao"
+            },
+            "geonames_id": 1821274
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IPM"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "alias"
+            ],
+            "value": "Instituto Politécnico de Macau"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MPI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Macao Polytechnic University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Macau Polytechnic Institute"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "label"
+            ],
+            "value": "Universidade Politécnica de Macau"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "澳門理工大學"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-04-14",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-04-14",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "umihq.com"
+        ],
+        "established": 2024,
+        "external_ids": [],
+        "id": "https://ror.org/00zrhxy58",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://umihq.com"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 22.11538,
+              "lng": 113.54312,
+              "name": "Hengqin"
+            },
+            "geonames_id": 6895574
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "HUMRI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Hengqin Research Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "University of Macau Advanced Research Institute in Hengqin"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "横琴澳门大学高等研究院"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "横琴粤澳深度合作区澳门大学高等研究院 (横琴澳门大学高等研究院)"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Macau",
+            "type": "parent",
+            "id": "https://ror.org/01r4q9n85"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1923,
+        "external_ids": [
+          {
+            "all": [
+              "grid.445015.1"
+            ],
+            "preferred": "grid.445015.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8755 5076"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30257176"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01mt0cc57",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www2.kwnc.edu.mo"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MO",
+              "country_name": "Macao",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Macau",
+              "lat": 22.20056,
+              "lng": 113.54611,
+              "name": "Macao"
+            },
+            "geonames_id": 1821274
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KWNC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Kiang Wu Nursing College of Macau"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Kiang Wu Nursing and Midwifery School"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "澳门江湖护理学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-05",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "idq.org.mo"
+        ],
+        "established": 1997,
+        "external_ids": [
+          {
+            "all": [
+              "501100025291"
+            ],
+            "preferred": "501100025291",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/027wyvv74",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.idq.org.mo"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MO",
+              "country_name": "Macao",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Nossa Senhora do Carmo",
+              "lat": 22.15583,
+              "lng": 113.55694,
+              "name": "Taipa"
+            },
+            "geonames_id": 1821263
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IDQ"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Institute for the Development and Quality, Macau"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "label"
+            ],
+            "value": "Instituto para o Desenvolvimento e Qualidade, Macau"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Macau Institute of Development and Quality"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "澳門發展及質量研究所"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "utm.edu.mo"
+        ],
+        "established": 1995,
+        "external_ids": [
+          {
+            "all": [
+              "grid.445016.2"
+            ],
+            "preferred": "grid.445016.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0605 0308"
+            ],
+            "preferred": "0000 0004 0605 0308",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q9289400"
+            ],
+            "preferred": "Q9289400",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00nx0vn86",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.utm.edu.mo"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Institute_for_Tourism_Studies"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MO",
+              "country_name": "Macao",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Macau",
+              "lat": 22.20056,
+              "lng": 113.54611,
+              "name": "Macao"
+            },
+            "geonames_id": 1821274
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "IFT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "IFTM"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Institute for Tourism Studies"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "alias"
+            ],
+            "value": "Instituto de Formação Turística"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Macao University of Tourism"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "acronym"
+            ],
+            "value": "UTM"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "label"
+            ],
+            "value": "Universidade de Turismo de Macau"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "旅遊學院"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "澳門旅遊大學"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-12-09",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "cccm.gov.pt"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0001 2226 1410"
+            ],
+            "preferred": "0000 0001 2226 1410",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q13582076"
+            ],
+            "preferred": "Q13582076",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04rjwcx28",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.cccm.gov.pt"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Macau_Scientific_and_Cultural_Centre"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "PT",
+              "country_name": "Portugal",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Lisbon",
+              "lat": 38.71667,
+              "lng": -9.13333,
+              "name": "Lisbon"
+            },
+            "geonames_id": 2267057
+          }
+        ],
+        "names": [
+          {
+            "lang": "pt",
+            "types": [
+              "acronym"
+            ],
+            "value": "CCCM"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Centro Científico e Cultural de Macau"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-09-23",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2016,
+        "external_ids": [
+          {
+            "all": [
+              "grid.511983.7"
+            ],
+            "preferred": "grid.511983.7",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/02gwsx029",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ecins.jnu.edu.cn/ygahjzlxtcxlhsys/list.htm"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ECI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Guangdong-Hongkong-Macau Joint Laboratory of Collaborative Innovation for Environmental Quality"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "粤港澳环境质量协同创新联合实验室"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Guangdong Provincial Academy of Environmental Science",
+            "type": "parent",
+            "id": "https://ror.org/03rjzr314"
+          },
+          {
+            "label": "Hong Kong University of Science and Technology",
+            "type": "parent",
+            "id": "https://ror.org/00q4vv597"
+          },
+          {
+            "label": "Jinan University",
+            "type": "parent",
+            "id": "https://ror.org/02xe5ns62"
+          },
+          {
+            "label": "Macau University of Science and Technology",
+            "type": "parent",
+            "id": "https://ror.org/03jqs2n27"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uvic-ucc.cat"
+        ],
+        "established": 1599,
+        "external_ids": [
+          {
+            "all": [
+              "grid.440820.a"
+            ],
+            "preferred": "grid.440820.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q935460"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/006zjws59",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://uvic-ucc.cat/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Vic_-_Central_University_of_Catalonia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "CT",
+              "country_subdivision_name": "Catalonia",
+              "lat": 41.93012,
+              "lng": 2.25486,
+              "name": "Vic"
+            },
+            "geonames_id": 3106050
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UVic-UCC"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "Universidad de Vic"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de Vic - Universidad Central de Catalunya"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "Universitat de Vic"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universitat de Vic - Universitat Central de Catalunya"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Vic"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Vic - Central University of Catalonia"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-02-17",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1957,
+        "external_ids": [
+          {
+            "all": [
+              "grid.501720.1"
+            ],
+            "preferred": "grid.501720.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q10829127"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04bm3wy68",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.dhsphue.edu.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": "26",
+              "country_subdivision_name": "Thừa Thiên Huế Province",
+              "lat": 16.4619,
+              "lng": 107.59546,
+              "name": "Huế"
+            },
+            "geonames_id": 1580240
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Hue University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Hue University of Education"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Hue University's College of Education"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label"
+            ],
+            "value": "Trường Đại học Sư phạm Huế"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Education, Hue University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-22",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "husc.edu.vn"
+        ],
+        "established": 1957,
+        "external_ids": [],
+        "id": "https://ror.org/00qpm2f14",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://husc.edu.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Thừa Thiên Huế Province",
+              "lat": 16.4619,
+              "lng": 107.59546,
+              "name": "Huế"
+            },
+            "geonames_id": 1580240
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "HUSC"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Trường Đại học Khoa học, Đại học Huế"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Sciences, Hue University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-22",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "hce.edu.vn"
+        ],
+        "established": 2002,
+        "external_ids": [],
+        "id": "https://ror.org/03x812s82",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://hce.edu.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Thừa Thiên Huế Province",
+              "lat": 16.4619,
+              "lng": 107.59546,
+              "name": "Huế"
+            },
+            "geonames_id": 1580240
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "HUE"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Trường Đại học Kinh tế, Đại học Huế"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Economics, Hue University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1964,
+        "external_ids": [
+          {
+            "all": [
+              "grid.7749.d"
+            ],
+            "preferred": "grid.7749.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0723 7738"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q719925"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/003vfy751",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ub.edu.bi/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Burundi"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "BI",
+              "country_name": "Burundi",
+              "country_subdivision_code": "BM",
+              "country_subdivision_name": "Bujumbura Mairie",
+              "lat": -3.38193,
+              "lng": 29.36142,
+              "name": "Bujumbura"
+            },
+            "geonames_id": 425378
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Burundi"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Université du Burundi"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 17809
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 9006
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 4721
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 3947
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 3551
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2255
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2030
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 770
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 408
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 6010
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 4070
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2348
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2061
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1577
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 942
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 866
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 836
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 799
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 764
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 15035
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 9631
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 7267
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1991
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 949
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 594
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 35466
+        }
+      ]
+    }
+  }
+}

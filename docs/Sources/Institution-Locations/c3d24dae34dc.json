@@ -1,0 +1,2179 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Georgia+Institute+of+Technology",
+  "http_status": 200,
+  "query": "Georgia Institute of Technology",
+  "data": {
+    "number_of_results": 35645,
+    "time_taken": 44,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "gatech.edu"
+        ],
+        "established": 1885,
+        "external_ids": [
+          {
+            "all": [
+              "100006778",
+              "100008268",
+              "100008267",
+              "100009523",
+              "100006783",
+              "100015126"
+            ],
+            "preferred": "100006778",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.213917.f"
+            ],
+            "preferred": "grid.213917.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2097 4943"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q864855",
+              "Q5545783"
+            ],
+            "preferred": "Q864855",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01zkghx44",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.gatech.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Georgia_Institute_of_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "GA",
+              "country_subdivision_name": "Georgia",
+              "lat": 33.749,
+              "lng": -84.38798,
+              "name": "Atlanta"
+            },
+            "geonames_id": 4180439
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "GT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Georgia Institute of Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Georgia Tech"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Instituto de Tecnología de Georgia"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Center for Translational Research in Neuroimaging and Data Science",
+            "type": "child",
+            "id": "https://ror.org/02qx6zf82"
+          },
+          {
+            "label": "Georgia Space Grant Consortium",
+            "type": "child",
+            "id": "https://ror.org/013b2jw60"
+          },
+          {
+            "label": "Georgia Tech-CNRS Laboratory",
+            "type": "child",
+            "id": "https://ror.org/00avmbz91"
+          },
+          {
+            "label": "The Wallace H. Coulter Department of Biomedical Engineering",
+            "type": "child",
+            "id": "https://ror.org/02j15s898"
+          },
+          {
+            "label": "Georgia Tech Research Institute",
+            "type": "child",
+            "id": "https://ror.org/04qfrh333"
+          },
+          {
+            "label": "University System of Georgia",
+            "type": "parent",
+            "id": "https://ror.org/017wcm924"
+          },
+          {
+            "label": "Georgia Tech-Europe",
+            "type": "related",
+            "id": "https://ror.org/02m5dy175"
+          },
+          {
+            "label": "Moorea Coral Reef Long Term Ecological Research",
+            "type": "related",
+            "id": "https://ror.org/017vyhs10"
+          },
+          {
+            "label": "Materials Science in Extreme Environments University Research Alliance",
+            "type": "related",
+            "id": "https://ror.org/04n07f274"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-06",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "gwri.gatech.edu"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "100013652"
+            ],
+            "preferred": "100013652",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/01t5s4419",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://gwri.gatech.edu"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "GA",
+              "country_subdivision_name": "Georgia",
+              "lat": 33.749,
+              "lng": -84.38798,
+              "name": "Atlanta"
+            },
+            "geonames_id": 4180439
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "GWRI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Georgia Water Resources Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Georgia Water Resources Institute, Georgia Institute of Technology"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-11-08",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0001 2230 613X"
+            ],
+            "preferred": "0000 0001 2230 613X",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5547834"
+            ],
+            "preferred": "Q5547834",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04qfrh333",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.gtri.gatech.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Georgia_Tech_Research_Institute"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "GA",
+              "country_subdivision_name": "Georgia",
+              "lat": 33.749,
+              "lng": -84.38798,
+              "name": "Atlanta"
+            },
+            "geonames_id": 4180439
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "GTRI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Georgia Institute of Technology Research Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Georgia Tech Research Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Georgia Technical Research Institute"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Georgia Institute of Technology",
+            "type": "parent",
+            "id": "https://ror.org/01zkghx44"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1992,
+        "external_ids": [
+          {
+            "all": [
+              "grid.444069.b"
+            ],
+            "preferred": "grid.444069.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0515 8704"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q17067534"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04mbnaz72",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ssu.edu.ge"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Georgian_Aviation_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "GE",
+              "country_name": "Georgia",
+              "country_subdivision_code": "TB",
+              "country_subdivision_name": "Tbilisi",
+              "lat": 41.69411,
+              "lng": 44.83368,
+              "name": "Tbilisi"
+            },
+            "geonames_id": 611717
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Aviation Institute of Georgia"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "GAU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Georgian Aviation University"
+          },
+          {
+            "lang": "ka",
+            "types": [
+              "label"
+            ],
+            "value": "საქართველოს საავიაციო უნივერსიტეტი"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ug.edu.ge"
+        ],
+        "established": 1785,
+        "external_ids": [
+          {
+            "all": [
+              "grid.264978.6"
+            ],
+            "preferred": "grid.264978.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9564 9822"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1509484"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02bjhwk41",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ug.edu.ge/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Georgia_(Tbilisi)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "GE",
+              "country_name": "Georgia",
+              "country_subdivision_code": "TB",
+              "country_subdivision_name": "Tbilisi",
+              "lat": 41.69411,
+              "lng": 44.83368,
+              "name": "Tbilisi"
+            },
+            "geonames_id": 611717
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UG"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Georgia"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-05",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "hog.org"
+        ],
+        "established": 1973,
+        "external_ids": [
+          {
+            "all": [
+              "100011918"
+            ],
+            "preferred": "100011918",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/04xykas17",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.hog.org"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "GA",
+              "country_subdivision_name": "Georgia",
+              "lat": 33.92427,
+              "lng": -84.37854,
+              "name": "Sandy Springs"
+            },
+            "geonames_id": 4221333
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Hemophilia of Georgia"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "HoG"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uga.edu"
+        ],
+        "established": 1785,
+        "external_ids": [
+          {
+            "all": [
+              "100007699",
+              "100011128",
+              "100010543",
+              "100008779",
+              "100008780",
+              "100007903",
+              "100018790",
+              "100011119",
+              "100020772"
+            ],
+            "preferred": "100007699",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.213876.9"
+            ],
+            "preferred": "grid.213876.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1936 738X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q761534"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00te3t702",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uga.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Georgia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "GA",
+              "country_subdivision_name": "Georgia",
+              "lat": 33.96095,
+              "lng": -83.37794,
+              "name": "Athens"
+            },
+            "geonames_id": 4180386
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Franklin College"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UGA"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de Georgia"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Georgia"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de géorgie"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Georgia Sea Grant",
+            "type": "child",
+            "id": "https://ror.org/0014w1417"
+          },
+          {
+            "label": "University of Georgia Research Foundation",
+            "type": "child",
+            "id": "https://ror.org/04sqkw483"
+          },
+          {
+            "label": "Skidaway Institute of Oceanography",
+            "type": "child",
+            "id": "https://ror.org/03hjqxp26"
+          },
+          {
+            "label": "University System of Georgia",
+            "type": "parent",
+            "id": "https://ror.org/017wcm924"
+          },
+          {
+            "label": "Georgia Coastal Ecosystems Long Term Ecological Research",
+            "type": "related",
+            "id": "https://ror.org/017bfx208"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2004,
+        "external_ids": [
+          {
+            "all": [
+              "grid.479279.6"
+            ],
+            "preferred": "grid.479279.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0625 4861"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/004nf4f47",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://gbpi.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Georgia_Budget_%26_Policy_Institute"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "GA",
+              "country_subdivision_name": "Georgia",
+              "lat": 33.749,
+              "lng": -84.38798,
+              "name": "Atlanta"
+            },
+            "geonames_id": 4180439
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "GBPI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Georgia Budget & Policy Institute"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1938,
+        "external_ids": [
+          {
+            "all": [
+              "grid.447526.6"
+            ],
+            "preferred": "grid.447526.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0562 0178"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7895456"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/003gx4r22",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ugapress.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Georgia_Press"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "GA",
+              "country_subdivision_name": "Georgia",
+              "lat": 33.96095,
+              "lng": -83.37794,
+              "name": "Athens"
+            },
+            "geonames_id": 4180386
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "UGA Press"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Georgia Press"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1911,
+        "external_ids": [
+          {
+            "all": [
+              "grid.454475.3"
+            ],
+            "preferred": "grid.454475.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0412 5070"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5547452"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04qysqs39",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://dol.georgia.gov/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Georgia_Department_of_Labor"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "GA",
+              "country_subdivision_name": "Georgia",
+              "lat": 33.749,
+              "lng": -84.38798,
+              "name": "Atlanta"
+            },
+            "geonames_id": 4180439
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "GDOL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Georgia Department of Labor"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1870,
+        "external_ids": [
+          {
+            "all": [
+              "grid.427081.8"
+            ],
+            "preferred": "grid.427081.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0566 6821"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5547450"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03x507n02",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.gadoe.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Georgia_Department_of_Education"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "GA",
+              "country_subdivision_name": "Georgia",
+              "lat": 33.749,
+              "lng": -84.38798,
+              "name": "Atlanta"
+            },
+            "geonames_id": 4180439
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "GaDOE"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Georgia Department of Education"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1931,
+        "external_ids": [
+          {
+            "all": [
+              "grid.298187.d"
+            ],
+            "preferred": "grid.298187.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0291 7507"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2495809"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/017wcm924",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.usg.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_System_of_Georgia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "GA",
+              "country_subdivision_name": "Georgia",
+              "lat": 33.749,
+              "lng": -84.38798,
+              "name": "Atlanta"
+            },
+            "geonames_id": 4180439
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "USG"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University System of Georgia"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Abraham Baldwin Agricultural College",
+            "type": "child",
+            "id": "https://ror.org/04089t965"
+          },
+          {
+            "label": "Atlanta Metropolitan State College",
+            "type": "child",
+            "id": "https://ror.org/0368f8s77"
+          },
+          {
+            "label": "Augusta University",
+            "type": "child",
+            "id": "https://ror.org/012mef835"
+          },
+          {
+            "label": "Clayton State University",
+            "type": "child",
+            "id": "https://ror.org/00t47w971"
+          },
+          {
+            "label": "College of Coastal Georgia",
+            "type": "child",
+            "id": "https://ror.org/01pnp3p28"
+          },
+          {
+            "label": "Darton State College",
+            "type": "child",
+            "id": "https://ror.org/01ym21515"
+          },
+          {
+            "label": "East Georgia State College",
+            "type": "child",
+            "id": "https://ror.org/023fgmp71"
+          },
+          {
+            "label": "Fort Valley State University",
+            "type": "child",
+            "id": "https://ror.org/05mpwj415"
+          },
+          {
+            "label": "Georgia Gwinnett College",
+            "type": "child",
+            "id": "https://ror.org/05vkmhj10"
+          },
+          {
+            "label": "Georgia Highlands College",
+            "type": "child",
+            "id": "https://ror.org/04d8byx33"
+          },
+          {
+            "label": "Georgia Institute of Technology",
+            "type": "child",
+            "id": "https://ror.org/01zkghx44"
+          },
+          {
+            "label": "Georgia Public Library Service",
+            "type": "child",
+            "id": "https://ror.org/02wwz7n17"
+          },
+          {
+            "label": "Georgia Southern University",
+            "type": "child",
+            "id": "https://ror.org/04agmb972"
+          },
+          {
+            "label": "Georgia Southwestern State University",
+            "type": "child",
+            "id": "https://ror.org/044pfy487"
+          },
+          {
+            "label": "Georgia State University",
+            "type": "child",
+            "id": "https://ror.org/03qt6ba18"
+          },
+          {
+            "label": "Gordon State College",
+            "type": "child",
+            "id": "https://ror.org/004gk0w56"
+          },
+          {
+            "label": "Kennesaw State University",
+            "type": "child",
+            "id": "https://ror.org/00jeqjx33"
+          },
+          {
+            "label": "Southern Polytechnic State University",
+            "type": "child",
+            "id": "https://ror.org/00cckeg37"
+          },
+          {
+            "label": "University of Georgia",
+            "type": "child",
+            "id": "https://ror.org/00te3t702"
+          },
+          {
+            "label": "University of North Georgia",
+            "type": "child",
+            "id": "https://ror.org/001pe5g24"
+          },
+          {
+            "label": "University of West Georgia",
+            "type": "child",
+            "id": "https://ror.org/01cqxk816"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1929,
+        "external_ids": [
+          {
+            "all": [
+              "grid.438732.9"
+            ],
+            "preferred": "grid.438732.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0394 9318"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/01mdqeh78",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.agruni.edu.ge/en"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "GE",
+              "country_name": "Georgia",
+              "country_subdivision_code": "TB",
+              "country_subdivision_name": "Tbilisi",
+              "lat": 41.69411,
+              "lng": 44.83368,
+              "name": "Tbilisi"
+            },
+            "geonames_id": 611717
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "AUG"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Agricultural University of Georgia"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1915,
+        "external_ids": [
+          {
+            "all": [
+              "grid.475344.5"
+            ],
+            "preferred": "grid.475344.5",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/02k3f4s48",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.gachamber.com/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Georgia_Chamber_of_Commerce"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "GA",
+              "country_subdivision_name": "Georgia",
+              "lat": 33.749,
+              "lng": -84.38798,
+              "name": "Atlanta"
+            },
+            "geonames_id": 4180439
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Associated Industries of Georgia"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Georgia Business and Industry Association"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Georgia Chamber of Commerce"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Georgia Manufacturing Association"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1991,
+        "external_ids": [
+          {
+            "all": [
+              "grid.477230.5"
+            ],
+            "preferred": "grid.477230.5",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/0129d8h54",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://earconsultants.us/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "GA",
+              "country_subdivision_name": "Georgia",
+              "lat": 33.92427,
+              "lng": -84.37854,
+              "name": "Sandy Springs"
+            },
+            "geonames_id": 4221333
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Ear Consultants of Georgia"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1993,
+        "external_ids": [
+          {
+            "all": [
+              "grid.466214.3"
+            ],
+            "preferred": "grid.466214.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0500 7447"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/0203q4h88",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.gcuniv.edu/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "GA",
+              "country_subdivision_name": "Georgia",
+              "lat": 33.749,
+              "lng": -84.38798,
+              "name": "Atlanta"
+            },
+            "geonames_id": 4180439
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "GCU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Georgia Christian University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Georgia School of Theology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Immanuel Original Bible Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "School of Theological Seminary"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1972,
+        "external_ids": [
+          {
+            "all": [
+              "100007664"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.467982.6"
+            ],
+            "preferred": "grid.467982.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0411 3360"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q944993"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00ktzqz45",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.dot.ga.gov/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Georgia_Department_of_Transportation"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "GA",
+              "country_subdivision_name": "Georgia",
+              "lat": 33.749,
+              "lng": -84.38798,
+              "name": "Atlanta"
+            },
+            "geonames_id": 4180439
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "GDOT"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Georgia DOT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Georgia Department of Transportation"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1961,
+        "external_ids": [
+          {
+            "all": [
+              "grid.468770.a"
+            ],
+            "preferred": "grid.468770.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0530 1937"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5146666"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01pnp3p28",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ccga.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/College_of_Coastal_Georgia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "GA",
+              "country_subdivision_name": "Georgia",
+              "lat": 31.14995,
+              "lng": -81.49149,
+              "name": "Brunswick"
+            },
+            "geonames_id": 4184845
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Brunswick College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Brunswick Junior College"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CCGA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Coastal Georgia Community College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "College of Coastal Georgia"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University System of Georgia",
+            "type": "parent",
+            "id": "https://ror.org/017wcm924"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ung.edu"
+        ],
+        "established": 1873,
+        "external_ids": [
+          {
+            "all": [
+              "100010929"
+            ],
+            "preferred": "100010929",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412232.4"
+            ],
+            "preferred": "grid.412232.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0530 2673"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7895970"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/001pe5g24",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ung.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_North_Georgia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "GA",
+              "country_subdivision_name": "Georgia",
+              "lat": 34.53259,
+              "lng": -83.98491,
+              "name": "Dahlonega"
+            },
+            "geonames_id": 4190542
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UNG"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of North Georgia"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University System of Georgia",
+            "type": "parent",
+            "id": "https://ror.org/017wcm924"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-05-27",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2008,
+        "external_ids": [],
+        "id": "https://ror.org/00zmg2m07",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://giu.edu.ge"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "GE",
+              "country_name": "Georgia",
+              "country_subdivision_code": "TB",
+              "country_subdivision_name": "Tbilisi",
+              "lat": 41.69411,
+              "lng": 44.83368,
+              "name": "Tbilisi"
+            },
+            "geonames_id": 611717
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "GIU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Georgian International University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Georgian International University GIU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Guram Tavartkiladze Educational University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "International University of Georgia"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Tbilisi University of Economic Relations and Law"
+          },
+          {
+            "lang": "ka",
+            "types": [
+              "alias"
+            ],
+            "value": "გურამ თავართქილაძის სახელობის სასწავლო უნივერსიტეტი"
+          },
+          {
+            "lang": "ka",
+            "types": [
+              "alias"
+            ],
+            "value": "თბილისი ეკონომიკური ურთიერთობებისა და სამართლის უნივერსიტეტისა"
+          },
+          {
+            "lang": "ka",
+            "types": [
+              "label"
+            ],
+            "value": "საქართველოს საერთაშორისო უნივერსიტეტი"
+          },
+          {
+            "lang": "ka",
+            "types": [
+              "acronym"
+            ],
+            "value": "ჯიუ"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 11817
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 8367
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 7372
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 5225
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 4460
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2485
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 1963
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 1557
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 802
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 6869
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 4112
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2307
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 1710
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1552
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 1191
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 1094
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 907
+        },
+        {
+          "id": "ca",
+          "title": "Canada",
+          "count": 898
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 667
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 13178
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 10927
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 8222
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1707
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 912
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 702
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 35645
+        }
+      ]
+    }
+  }
+}

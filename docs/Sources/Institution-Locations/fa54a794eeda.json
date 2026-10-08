@@ -1,0 +1,2664 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=University+of+California%2C+Irvine",
+  "http_status": 200,
+  "query": "University of California, Irvine",
+  "data": {
+    "number_of_results": 35619,
+    "time_taken": 42,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uci.edu"
+        ],
+        "established": 1965,
+        "external_ids": [
+          {
+            "all": [
+              "100008476",
+              "100009819",
+              "100006742",
+              "100006448",
+              "100013357"
+            ],
+            "preferred": "100008476",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.266093.8"
+            ],
+            "preferred": "grid.266093.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0668 7243"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q868421"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04gyf1771",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://uci.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_California,_Irvine"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 33.66946,
+              "lng": -117.82311,
+              "name": "Irvine"
+            },
+            "geonames_id": 5359777
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "UC Irvine"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UCI"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de California en Irvine"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of California, Irvine"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de Californie à Irvine"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Center for Hydrometeorology and Remote Sensing",
+            "type": "child",
+            "id": "https://ror.org/009shwh61"
+          },
+          {
+            "label": "UC Irvine Chao Family Comprehensive Cancer Center",
+            "type": "child",
+            "id": "https://ror.org/05gzqy922"
+          },
+          {
+            "label": "University of California System",
+            "type": "parent",
+            "id": "https://ror.org/00pjdza24"
+          },
+          {
+            "label": "Arrowhead Regional Medical Center",
+            "type": "related",
+            "id": "https://ror.org/00yvh2s32"
+          },
+          {
+            "label": "Beckman Laser Institute and Medical Clinic",
+            "type": "related",
+            "id": "https://ror.org/03bfp2076"
+          },
+          {
+            "label": "Children's Hospital of Orange County",
+            "type": "related",
+            "id": "https://ror.org/0282qcz50"
+          },
+          {
+            "label": "Kaweah Delta Health Care District",
+            "type": "related",
+            "id": "https://ror.org/0596qfc35"
+          },
+          {
+            "label": "University of California, Irvine Medical Center",
+            "type": "related",
+            "id": "https://ror.org/00cm8nm15"
+          },
+          {
+            "label": "VA Long Beach Healthcare System",
+            "type": "related",
+            "id": "https://ror.org/058p1kn93"
+          },
+          {
+            "label": "Center for Statistics and Applications in Forensic Evidence",
+            "type": "related",
+            "id": "https://ror.org/01txfgz53"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1965,
+        "external_ids": [
+          {
+            "all": [
+              "grid.417319.9"
+            ],
+            "preferred": "grid.417319.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0434 883X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q450401"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00cm8nm15",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ucirvinehealth.org/locations/orange/uc-irvine-medical-center/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_California,_Irvine_Medical_Center"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 33.78779,
+              "lng": -117.85311,
+              "name": "Orange"
+            },
+            "geonames_id": 5379513
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UCIMC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of California, Irvine Medical Center"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "UC Irvine Health",
+            "type": "parent",
+            "id": "https://ror.org/03fgher32"
+          },
+          {
+            "label": "University of California, Irvine",
+            "type": "related",
+            "id": "https://ror.org/04gyf1771"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "irvine.edu"
+        ],
+        "established": 1973,
+        "external_ids": [
+          {
+            "all": [
+              "grid.454658.e"
+            ],
+            "preferred": "grid.454658.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0469 4409"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/04ysmca02",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.irvine.edu/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 33.85835,
+              "lng": -118.06479,
+              "name": "Cerritos"
+            },
+            "geonames_id": 5335663
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Irvine University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1976,
+        "external_ids": [
+          {
+            "all": [
+              "grid.441139.a"
+            ],
+            "preferred": "grid.441139.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0379 4908"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5158998"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0028kf729",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.cui.edu/en-us/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Concordia_University_Irvine"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 33.66946,
+              "lng": -117.82311,
+              "name": "Irvine"
+            },
+            "geonames_id": 5359777
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Christ College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Concordia University Irvine"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-10-26",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/009shwh61",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://chrs.web.uci.edu"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 33.66946,
+              "lng": -117.82311,
+              "name": "Irvine"
+            },
+            "geonames_id": 5359777
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CHRS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Center for Hydrometeorology and Remote Sensing"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "UC Irvine Center for Hydrometeorology and Remote Sensing"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UCI CHRS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "UCI Center for Hydrometeorology and Remote Sensing"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of California Irvine Center for Hydrometeorology and Remote Sensing"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of California, Irvine",
+            "type": "parent",
+            "id": "https://ror.org/04gyf1771"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "universityofcalifornia.edu"
+        ],
+        "established": 1868,
+        "external_ids": [
+          {
+            "all": [
+              "100005595",
+              "100031122"
+            ],
+            "preferred": "100005595",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.30389.31"
+            ],
+            "preferred": "grid.30389.31",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2348 0690"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q184478"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00pjdza24",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.universityofcalifornia.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_California"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 37.80437,
+              "lng": -122.2708,
+              "name": "Oakland"
+            },
+            "geonames_id": 5378538
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UC"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de California"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of California"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of California System"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de Californie"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Center for Information Technology Research in the Interest of Society",
+            "type": "child",
+            "id": "https://ror.org/00zv0wd17"
+          },
+          {
+            "label": "University of California Division of Agriculture and Natural Resources",
+            "type": "child",
+            "id": "https://ror.org/03t0t6y08"
+          },
+          {
+            "label": "University of California, Berkeley",
+            "type": "child",
+            "id": "https://ror.org/01an7q238"
+          },
+          {
+            "label": "University of California, Davis",
+            "type": "child",
+            "id": "https://ror.org/05rrcem69"
+          },
+          {
+            "label": "University of California, Irvine",
+            "type": "child",
+            "id": "https://ror.org/04gyf1771"
+          },
+          {
+            "label": "University of California, Los Angeles",
+            "type": "child",
+            "id": "https://ror.org/046rm7j60"
+          },
+          {
+            "label": "University of California, Merced",
+            "type": "child",
+            "id": "https://ror.org/00d9ah105"
+          },
+          {
+            "label": "University of California, Riverside",
+            "type": "child",
+            "id": "https://ror.org/03nawhv43"
+          },
+          {
+            "label": "University of California San Diego",
+            "type": "child",
+            "id": "https://ror.org/0168r3w48"
+          },
+          {
+            "label": "University of California, San Francisco",
+            "type": "child",
+            "id": "https://ror.org/043mz5j54"
+          },
+          {
+            "label": "University of California, Santa Barbara",
+            "type": "child",
+            "id": "https://ror.org/02t274463"
+          },
+          {
+            "label": "University of California, Santa Cruz",
+            "type": "child",
+            "id": "https://ror.org/03s65by71"
+          },
+          {
+            "label": "University of California Natural Reserve System",
+            "type": "child",
+            "id": "https://ror.org/04nmjep87"
+          },
+          {
+            "label": "University of California Office of the President",
+            "type": "child",
+            "id": "https://ror.org/00dmfq477"
+          },
+          {
+            "label": "Lawrence Berkeley National Laboratory",
+            "type": "child",
+            "id": "https://ror.org/02jbv0t02"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1985,
+        "external_ids": [
+          {
+            "all": [
+              "grid.462401.5"
+            ],
+            "preferred": "grid.462401.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8940 3914"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6074403"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03y150857",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ivc.edu/Pages/default.aspx"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Irvine_Valley_College"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 33.66946,
+              "lng": -117.82311,
+              "name": "Irvine"
+            },
+            "geonames_id": 5359777
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IVC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Irvine Valley"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Irvine Valley College"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ucmerced.edu"
+        ],
+        "established": 2005,
+        "external_ids": [
+          {
+            "all": [
+              "100010945"
+            ],
+            "preferred": "100010945",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.266096.d"
+            ],
+            "preferred": "grid.266096.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0049 1282"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1728622"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00d9ah105",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ucmerced.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_California,_Merced"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 37.30216,
+              "lng": -120.48297,
+              "name": "Merced"
+            },
+            "geonames_id": 5372253
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "UC Merced"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "UCM"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de California en Merced"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of California, Merced"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de Californie à Merced"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of California System",
+            "type": "parent",
+            "id": "https://ror.org/00pjdza24"
+          },
+          {
+            "label": "Sevilleta Long Term Ecological Research",
+            "type": "related",
+            "id": "https://ror.org/01qcacz92"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-05-05",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "dominican.edu"
+        ],
+        "established": 1890,
+        "external_ids": [
+          {
+            "all": [
+              "100011637"
+            ],
+            "preferred": "100011637",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.255148.f"
+            ],
+            "preferred": "grid.255148.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9826 3546"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5290855"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/056d3gw71",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.dominican.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Dominican_University_of_California"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 37.97353,
+              "lng": -122.53109,
+              "name": "San Rafael"
+            },
+            "geonames_id": 5392567
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Dominican College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Dominican University of California"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-06-23",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-06-23",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "pennwest.edu"
+        ],
+        "established": 2022,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0005 0684 4287"
+            ],
+            "preferred": "0000 0005 0684 4287",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q109297499"
+            ],
+            "preferred": "Q109297499",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01w8vjw54",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.pennwest.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Pennsylvania_Western_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.06563,
+              "lng": -79.89171,
+              "name": "California"
+            },
+            "geonames_id": 5182733
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "California University of Pennsylvania"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Clarion University of Pennsylvania"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Edinboro University of Pennsylvania"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "PWU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "PennWest"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "PennWest California"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "PennWest Clarion"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "PennWest Edinboro"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "PennWest University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Pennsylvania Western University"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "Universidad PennWest"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "Université PennWest"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "California University of Pennsylvania",
+            "type": "predecessor",
+            "id": "https://ror.org/01spssf70"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ucr.edu"
+        ],
+        "established": 1954,
+        "external_ids": [
+          {
+            "all": [
+              "100007602",
+              "100009035",
+              "100007601",
+              "100005909",
+              "100011115",
+              "100023510"
+            ],
+            "preferred": "100007602",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.266097.c"
+            ],
+            "preferred": "grid.266097.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2222 1582"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1075148"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03nawhv43",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ucr.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_California,_Riverside"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 33.95335,
+              "lng": -117.39616,
+              "name": "Riverside"
+            },
+            "geonames_id": 5387877
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "UC Riverside"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UCR"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de California en Riverside"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of California, Riverside"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de Californie à Riverside"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Entomology Research Museum",
+            "type": "child",
+            "id": "https://ror.org/01dp1g039"
+          },
+          {
+            "label": "Alternative Earths Astrobiology Center",
+            "type": "child",
+            "id": "https://ror.org/04xrd8059"
+          },
+          {
+            "label": "Winston Chung Global Energy Center",
+            "type": "child",
+            "id": "https://ror.org/004ct6736"
+          },
+          {
+            "label": "Center for Conservation Biology",
+            "type": "child",
+            "id": "https://ror.org/02p74cb05"
+          },
+          {
+            "label": "Citrus Research Center and Agricultural Experiment Station",
+            "type": "child",
+            "id": "https://ror.org/013bk5x06"
+          },
+          {
+            "label": "Center for Robotics and Intelligent Systems",
+            "type": "child",
+            "id": "https://ror.org/04sy07p69"
+          },
+          {
+            "label": "Center for Plant Cell Biology",
+            "type": "child",
+            "id": "https://ror.org/01wwbfd82"
+          },
+          {
+            "label": "Environmental Dynamics and GeoEcology Institute",
+            "type": "child",
+            "id": "https://ror.org/0167y3755"
+          },
+          {
+            "label": "Center for Geospatial Sciences",
+            "type": "child",
+            "id": "https://ror.org/01e8tjs89"
+          },
+          {
+            "label": "Statewide Air Pollution Research Center",
+            "type": "child",
+            "id": "https://ror.org/049c12836"
+          },
+          {
+            "label": "Center for Infectious Disease and Vector Research",
+            "type": "child",
+            "id": "https://ror.org/01xcv5323"
+          },
+          {
+            "label": "Institute for Integrative Genome Biology",
+            "type": "child",
+            "id": "https://ror.org/00cpdm633"
+          },
+          {
+            "label": "Center for Environmental Research and Technology",
+            "type": "child",
+            "id": "https://ror.org/045q9he82"
+          },
+          {
+            "label": "University of California System",
+            "type": "parent",
+            "id": "https://ror.org/00pjdza24"
+          },
+          {
+            "label": "Materials Science in Extreme Environments University Research Alliance",
+            "type": "related",
+            "id": "https://ror.org/04n07f274"
+          },
+          {
+            "label": "U.S. Salinity Laboratory",
+            "type": "related",
+            "id": "https://ror.org/04pp5vm71"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "berkeley.edu"
+        ],
+        "established": 1868,
+        "external_ids": [
+          {
+            "all": [
+              "100006978",
+              "100010501",
+              "100009773",
+              "100009999",
+              "100009998",
+              "100007502",
+              "100009220",
+              "100008934",
+              "100009521",
+              "100009151",
+              "100011283",
+              "100010556",
+              "100007247",
+              "100011068",
+              "100010948",
+              "100011944"
+            ],
+            "preferred": "100006978",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.47840.3f"
+            ],
+            "preferred": "grid.47840.3f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2181 7878"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q168756"
+            ],
+            "preferred": "Q168756",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01an7q238",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.berkeley.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_California,_Berkeley"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 37.87159,
+              "lng": -122.27275,
+              "name": "Berkeley"
+            },
+            "geonames_id": 5327684
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Cal Berkeley"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "UC Berkeley"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UCB"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de California en Berkeley"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of California at Berkeley"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of California, Berkeley"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de Californie à Berkeley"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Center for Effective Global Action",
+            "type": "child",
+            "id": "https://ror.org/03djjyk45"
+          },
+          {
+            "label": "Gump South Pacific Research Station",
+            "type": "child",
+            "id": "https://ror.org/04sk0et52"
+          },
+          {
+            "label": "Innovative Genomics Institute",
+            "type": "child",
+            "id": "https://ror.org/01r4tcq81"
+          },
+          {
+            "label": "Plant Gene Expression Center",
+            "type": "child",
+            "id": "https://ror.org/03rafms67"
+          },
+          {
+            "label": "Tsinghua–Berkeley Shenzhen Institute",
+            "type": "child",
+            "id": "https://ror.org/02hhwwz98"
+          },
+          {
+            "label": "Chan Zuckerberg Biohub San Francisco",
+            "type": "child",
+            "id": "https://ror.org/00knt4f32"
+          },
+          {
+            "label": "QB3",
+            "type": "child",
+            "id": "https://ror.org/04n1n3n22"
+          },
+          {
+            "label": "Pacific Earthquake Engineering Research Center",
+            "type": "child",
+            "id": "https://ror.org/02cq2e244"
+          },
+          {
+            "label": "Space Sciences Laboratory",
+            "type": "child",
+            "id": "https://ror.org/048400679"
+          },
+          {
+            "label": "Institute of International Studies",
+            "type": "child",
+            "id": "https://ror.org/01rq3ht76"
+          },
+          {
+            "label": "CloudBank",
+            "type": "child",
+            "id": "https://ror.org/02whst089"
+          },
+          {
+            "label": "Centre Pierre Binétruy",
+            "type": "child",
+            "id": "https://ror.org/03sbwar27"
+          },
+          {
+            "label": "Institute for Research on Labor and Employment",
+            "type": "child",
+            "id": "https://ror.org/00ynrnq54"
+          },
+          {
+            "label": "University of California System",
+            "type": "parent",
+            "id": "https://ror.org/00pjdza24"
+          },
+          {
+            "label": "Dominican School of Philosophy and Theology",
+            "type": "related",
+            "id": "https://ror.org/015yfqq31"
+          },
+          {
+            "label": "Graduate Theological Union",
+            "type": "related",
+            "id": "https://ror.org/00xs48965"
+          },
+          {
+            "label": "Kaiser Permanente Oakland Medical Center",
+            "type": "related",
+            "id": "https://ror.org/05rfek682"
+          },
+          {
+            "label": "San Francisco Theological Seminary",
+            "type": "related",
+            "id": "https://ror.org/02wyv8x71"
+          },
+          {
+            "label": "Hubbard Brook Long Term Ecological Research",
+            "type": "related",
+            "id": "https://ror.org/00mkh7345"
+          },
+          {
+            "label": "International Computer Science Institute",
+            "type": "related",
+            "id": "https://ror.org/01ewh7m12"
+          },
+          {
+            "label": "C3.ai Digital Transformation Institute",
+            "type": "related",
+            "id": "https://ror.org/00721sg89"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "usc.edu"
+        ],
+        "established": 1880,
+        "external_ids": [
+          {
+            "all": [
+              "100006034",
+              "100007042",
+              "100009251",
+              "100009411",
+              "100008786",
+              "100006815",
+              "100009412",
+              "100008485",
+              "100005577",
+              "100005538",
+              "100018086",
+              "100021794",
+              "100019615",
+              "100031218"
+            ],
+            "preferred": "100006034",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.42505.36"
+            ],
+            "preferred": "grid.42505.36",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2156 6853"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4614",
+              "Q6030821"
+            ],
+            "preferred": "Q4614",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03taz7m60",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://usc.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Southern_California"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 34.05223,
+              "lng": -118.24368,
+              "name": "Los Angeles"
+            },
+            "geonames_id": 5368361
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "USC"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad del Sur de California"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Southern California"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de Californie du Sud"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "METRANS Transportation Center",
+            "type": "child",
+            "id": "https://ror.org/0230s3k26"
+          },
+          {
+            "label": "University of Southern California Sea Grant",
+            "type": "child",
+            "id": "https://ror.org/0444fnd49"
+          },
+          {
+            "label": "USC Institute for Creative Technologies",
+            "type": "child",
+            "id": "https://ror.org/03hjhvn29"
+          },
+          {
+            "label": "NSF CI Compass",
+            "type": "child",
+            "id": "https://ror.org/001zwgm84"
+          },
+          {
+            "label": "Cedars-Sinai Medical Center",
+            "type": "related",
+            "id": "https://ror.org/02pammg90"
+          },
+          {
+            "label": "Children's Hospital of Los Angeles",
+            "type": "related",
+            "id": "https://ror.org/00412ts95"
+          },
+          {
+            "label": "Good Samaritan Hospital",
+            "type": "related",
+            "id": "https://ror.org/05hm6ny55"
+          },
+          {
+            "label": "Huntington Hospital",
+            "type": "related",
+            "id": "https://ror.org/02e271b61"
+          },
+          {
+            "label": "Keck Hospital of USC",
+            "type": "related",
+            "id": "https://ror.org/01rq8ck58"
+          },
+          {
+            "label": "LAC+USC Medical Center",
+            "type": "related",
+            "id": "https://ror.org/04xzj3x20"
+          },
+          {
+            "label": "Rancho Los Amigos National Rehabilitation Center",
+            "type": "related",
+            "id": "https://ror.org/03t3q6164"
+          },
+          {
+            "label": "Southern California Clinical and Translational Science Institute",
+            "type": "related",
+            "id": "https://ror.org/01ncqna34"
+          },
+          {
+            "label": "VA West Los Angeles Medical Center",
+            "type": "related",
+            "id": "https://ror.org/01xfgtq85"
+          },
+          {
+            "label": "Graduate Fellowships for STEM Diversity",
+            "type": "related",
+            "id": "https://ror.org/030wr4654"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-05",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ucobservatories.org"
+        ],
+        "established": 1988,
+        "external_ids": [
+          {
+            "all": [
+              "100015209"
+            ],
+            "preferred": "100015209",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/0320z4y16",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ucobservatories.org"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_California_Observatories"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 36.97412,
+              "lng": -122.0308,
+              "name": "Santa Cruz"
+            },
+            "geonames_id": 5393052
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "UC Observatories"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UCO"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "University of California Observatories"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ucdavis.edu"
+        ],
+        "established": 1905,
+        "external_ids": [
+          {
+            "all": [
+              "100007707",
+              "100010553",
+              "100009752",
+              "100007862",
+              "100009219",
+              "100008956",
+              "100009751",
+              "100013701",
+              "100011080",
+              "100013038",
+              "100013677",
+              "100014530",
+              "100016257",
+              "100016749",
+              "100022967"
+            ],
+            "preferred": "100007707",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.27860.3b"
+            ],
+            "preferred": "grid.27860.3b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1936 9684"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q129421"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05rrcem69",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ucdavis.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_California,_Davis"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 38.54491,
+              "lng": -121.74052,
+              "name": "Davis"
+            },
+            "geonames_id": 5341704
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "UC Davis"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "UCD"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de California en Davis"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of California at Davis"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of California, Davis"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de Californie à Davis"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "NeuroMab",
+            "type": "child",
+            "id": "https://ror.org/00fyrp007"
+          },
+          {
+            "label": "Tahoe Environmental Research Center",
+            "type": "child",
+            "id": "https://ror.org/00xcmeq33"
+          },
+          {
+            "label": "University of California System",
+            "type": "parent",
+            "id": "https://ror.org/00pjdza24"
+          },
+          {
+            "label": "UC Davis Children's Hospital",
+            "type": "related",
+            "id": "https://ror.org/05ehe8t08"
+          },
+          {
+            "label": "UC Davis Health System",
+            "type": "related",
+            "id": "https://ror.org/05q8kyc69"
+          },
+          {
+            "label": "University of California Davis Medical Center",
+            "type": "related",
+            "id": "https://ror.org/05t6gpm70"
+          },
+          {
+            "label": "Veterinary Medical Teaching Hospital",
+            "type": "related",
+            "id": "https://ror.org/026t0fx73"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1941,
+        "external_ids": [
+          {
+            "all": [
+              "grid.414121.3"
+            ],
+            "preferred": "grid.414121.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9423 0237"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4831679"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05aqcx827",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.nhsaaa.net/hospitals-and-health-centres/ayrshire-central-hospital.aspx"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Ayrshire_Central_Hospital"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "SCT",
+              "country_subdivision_name": "Scotland",
+              "lat": 55.6194,
+              "lng": -4.65508,
+              "name": "Irvine"
+            },
+            "geonames_id": 2646032
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Ayrshire Central Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Irvine Central Hospital"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "NHS Ayrshire and Arran",
+            "type": "parent",
+            "id": "https://ror.org/03kq24308"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1985,
+        "external_ids": [
+          {
+            "all": [
+              "100001696"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.480490.1"
+            ],
+            "preferred": "grid.480490.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 5899 890X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/05a0f0y47",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ihf.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 33.66946,
+              "lng": -117.82311,
+              "name": "Irvine"
+            },
+            "geonames_id": 5359777
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IHF"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Irvine Health Foundation"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1976,
+        "external_ids": [
+          {
+            "all": [
+              "grid.490327.b"
+            ],
+            "preferred": "grid.490327.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0383 3091"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/03fgher32",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ucirvinehealth.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 33.78779,
+              "lng": -117.85311,
+              "name": "Orange"
+            },
+            "geonames_id": 5379513
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "UC Irvine Health"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of California, Irvine Medical Center",
+            "type": "child",
+            "id": "https://ror.org/00cm8nm15"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2006,
+        "external_ids": [
+          {
+            "all": [
+              "grid.440449.9"
+            ],
+            "preferred": "grid.440449.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0369 6533"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7894307"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/042xfk211",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.upbc.edu.mx/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Universidad_Polit%C3%A9cnica_de_Baja_California"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "MX",
+              "country_name": "Mexico",
+              "country_subdivision_code": "BCN",
+              "country_subdivision_name": "Baja California",
+              "lat": 32.62781,
+              "lng": -115.45446,
+              "name": "Mexicali"
+            },
+            "geonames_id": 3996069
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Polytechnic University of Baja California"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UPBC"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universidad Politécnica de Baja California"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-06-14",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-06-23",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ucberkeleyfoundation.org"
+        ],
+        "established": 1948,
+        "external_ids": [
+          {
+            "all": [
+              "100013253"
+            ],
+            "preferred": "100013253",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/05g409162",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ucberkeleyfoundation.org"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 37.87159,
+              "lng": -122.27275,
+              "name": "Berkeley"
+            },
+            "geonames_id": 5327684
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "UC Berkeley Foundation"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "UCBF"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "University of California, Berkeley Foundation"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 17824
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 9058
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 4733
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 3963
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 3597
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2283
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2049
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 778
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 414
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 6160
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 4070
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2348
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2061
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1577
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 944
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 866
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 836
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 799
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 765
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 15033
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 9633
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 7420
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1991
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 949
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 594
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 35619
+        }
+      ]
+    }
+  }
+}

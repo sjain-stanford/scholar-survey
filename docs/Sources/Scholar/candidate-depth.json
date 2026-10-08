@@ -1,0 +1,121 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "q": "intitle:\"A Low Memory Footprint Quantized Neural Network\"",
+    "hl": "en",
+    "num": 10
+  },
+  "accessed_at_utc": "2026-10-07T12:40:04.216577+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63da45fda0b789283e173",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/rFTSSURzzETwaMMxz-hhAps0HbVjdDSAX4OeqYDFt3c/6ac63da45fda0b789283e173.json",
+      "markdown_endpoint": "https://serpapi.com/searches/rFTSSURzzETwaMMxz-hhAps0HbVjdDSAX4OeqYDFt3c/6ac63da45fda0b789283e173.md",
+      "created_at": "2026-10-07 12:40:04 UTC",
+      "processed_at": "2026-10-07 12:40:04 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?q=intitle%3A%22A+Low+Memory+Footprint+Quantized+Neural+Network%22&hl=en&num=10",
+      "raw_html_file": "https://serpapi.com/searches/rFTSSURzzETwaMMxz-hhAps0HbVjdDSAX4OeqYDFt3c/6ac63da45fda0b789283e173.html",
+      "total_time_taken": 2.32
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "q": "intitle:\"A Low Memory Footprint Quantized Neural Network\"",
+      "hl": "en",
+      "num": "10"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 1,
+      "time_taken_displayed": 0.21,
+      "query_displayed": "intitle:\"A Low Memory Footprint Quantized Neural Network\""
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "A low memory footprint quantized neural network for depth completion of very sparse time-of-flight depth maps",
+        "result_id": "33R4ivEQM7AJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/9857469/",
+        "snippet": "Sparse active illumination enables precise time-of-flight depth sensing as it maximizes signal-to-noise ratio for low power budgets. However, depth completion is required to produce dense depth maps for 3D perception. We address this task with realistic illumination and sensor resolution constraints by simulating ToF datasets for indoor 3D perception with challenging sparsity levels. We propose a quantized convolutional encoder-decoder network for this task. Our model achieves optimal depth map quality by means of input pre-processing and carefully tuned training with a geometry-preserving loss function. We also achieve low memory footprint for weights and activations by means of mixed precision quantization-at-training techniques. The resulting quantized models are comparable to the state of the art in terms of quality, but they require very low GPU times and achieve up to 14-fold memory size reduction for the weights w.r.t. their floating point counterpart with minimal impact on quality metrics.",
+        "publication_info": {
+          "summary": "X Jiang, V Cambareri, G Agresti, CI Ugwu, A Simonetto, F Cardinaux, P Zanuttigh2022 IEEE/CVF Conference on Computer Vision and Pattern …, 2022•ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "X Jiang",
+              "link": "https://scholar.google.com/citations?user=g_MNvxwAAAAJ&hl=en&oi=sra",
+              "author_id": "g_MNvxwAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=g_MNvxwAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "V Cambareri",
+              "link": "https://scholar.google.com/citations?user=yYHJGZUAAAAJ&hl=en&oi=sra",
+              "author_id": "yYHJGZUAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=yYHJGZUAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "G Agresti",
+              "link": "https://scholar.google.com/citations?user=Ysz_fQoAAAAJ&hl=en&oi=sra",
+              "author_id": "Ysz_fQoAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Ysz_fQoAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "CI Ugwu",
+              "link": "https://scholar.google.com/citations?user=H4JkQrEAAAAJ&hl=en&oi=sra",
+              "author_id": "H4JkQrEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=H4JkQrEAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "A Simonetto",
+              "link": "https://scholar.google.com/citations?user=NYVQV0IAAAAJ&hl=en&oi=sra",
+              "author_id": "NYVQV0IAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NYVQV0IAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "F Cardinaux",
+              "link": "https://scholar.google.com/citations?user=UFl8n4gAAAAJ&hl=en&oi=sra",
+              "author_id": "UFl8n4gAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=UFl8n4gAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "P Zanuttigh",
+              "link": "https://scholar.google.com/citations?user=xk2N2wkAAAAJ&hl=en&oi=sra",
+              "author_id": "xk2N2wkAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xk2N2wkAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2205.12918"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=33R4ivEQM7AJ",
+          "cited_by": {
+            "total": 12,
+            "link": "https://scholar.google.com/scholar?cites=12696510404083872991&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "12696510404083872991",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12696510404083872991&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:33R4ivEQM7AJ:scholar.google.com/&scioq=intitle:%22A+Low+Memory+Footprint+Quantized+Neural+Network%22&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3A33R4ivEQM7AJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 6,
+            "link": "https://scholar.google.com/scholar?cluster=12696510404083872991&hl=en&as_sdt=0,5",
+            "cluster_id": "12696510404083872991",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=12696510404083872991&engine=google_scholar&hl=en"
+          }
+        }
+      }
+    ]
+  }
+}

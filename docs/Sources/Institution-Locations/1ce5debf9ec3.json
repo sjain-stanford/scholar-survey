@@ -1,0 +1,2133 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Iowa+State+University",
+  "http_status": 200,
+  "query": "Iowa State University",
+  "data": {
+    "number_of_results": 16715,
+    "time_taken": 24,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "iastate.edu"
+        ],
+        "established": 1858,
+        "external_ids": [
+          {
+            "all": [
+              "100009227",
+              "100009228",
+              "100009229",
+              "100015300",
+              "100015082",
+              "100016683",
+              "100010953",
+              "100010954",
+              "100013638",
+              "100015389",
+              "100016521",
+              "100017874"
+            ],
+            "preferred": "100009227",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.34421.30"
+            ],
+            "preferred": "grid.34421.30",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1936 7312"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1136919"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04rswrd78",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.iastate.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Iowa_State_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IA",
+              "country_subdivision_name": "Iowa",
+              "lat": 42.03471,
+              "lng": -93.61994,
+              "name": "Ames"
+            },
+            "geonames_id": 4846834
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ISU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Iowa State"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Iowa State University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Iowa State University of Science and Technology"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Estatal de Iowa"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université d'État de l'Iowa"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Iowa Space Grant Consortium",
+            "type": "child",
+            "id": "https://ror.org/00fe3cc74"
+          },
+          {
+            "label": "Ames National Laboratory",
+            "type": "child",
+            "id": "https://ror.org/041m9xr71"
+          },
+          {
+            "label": "Iowa State University Digital Press",
+            "type": "child",
+            "id": "https://ror.org/00dnave42"
+          },
+          {
+            "label": "Plant Sciences Institute",
+            "type": "child",
+            "id": "https://ror.org/01xztc839"
+          },
+          {
+            "label": "Center for Statistics and Applications in Forensic Evidence",
+            "type": "related",
+            "id": "https://ror.org/01txfgz53"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-12-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-12-15",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "iastatedigitalpress.com"
+        ],
+        "established": 2018,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0005 0858 6154"
+            ],
+            "preferred": "0000 0005 0858 6154",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q112205151"
+            ],
+            "preferred": "Q112205151",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00dnave42",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.iastatedigitalpress.com"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Iowa_State_University_Digital_Press"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IA",
+              "country_subdivision_name": "Iowa",
+              "lat": 42.03471,
+              "lng": -93.61994,
+              "name": "Ames"
+            },
+            "geonames_id": 4846834
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "ISUDP"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Iowa State University Digital Press"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Iowa State University",
+            "type": "parent",
+            "id": "https://ror.org/04rswrd78"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-07-06",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1904,
+        "external_ids": [
+          {
+            "all": [
+              "100014791"
+            ],
+            "preferred": "100014791",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "0000 0004 0431 5288"
+            ],
+            "preferred": "0000 0004 0431 5288",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4925621"
+            ],
+            "preferred": "Q4925621",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05t0v7d07",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://iowadot.gov"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Iowa_Department_of_Transportation"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IA",
+              "country_subdivision_name": "Iowa",
+              "lat": 41.60054,
+              "lng": -93.60911,
+              "name": "Des Moines"
+            },
+            "geonames_id": 4853828
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "IA Department of Transportation"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IADOT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Iowa DOT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Iowa Department of Transportation"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Iowa Department of Transportation, Iowa"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Iowa Dept. of Transportation"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Iowa State DOT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "State of Iowa - Department of Transportation"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-05",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "iowa.gov"
+        ],
+        "established": 1846,
+        "external_ids": [
+          {
+            "all": [
+              "100023081"
+            ],
+            "preferred": "100023081",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/00hpn2878",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.iowa.gov"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IA",
+              "country_subdivision_name": "Iowa",
+              "lat": 41.60054,
+              "lng": -93.60911,
+              "name": "Des Moines"
+            },
+            "geonames_id": 4853828
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "State of Iowa"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "State of Iowa Office of the Attorney General",
+            "type": "child",
+            "id": "https://ror.org/02kcxhm40"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-06-14",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "psi.iastate.edu"
+        ],
+        "established": 1999,
+        "external_ids": [
+          {
+            "all": [
+              "100015727"
+            ],
+            "preferred": "100015727",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/01xztc839",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.psi.iastate.edu"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IA",
+              "country_subdivision_name": "Iowa",
+              "lat": 42.03471,
+              "lng": -93.61994,
+              "name": "Ames"
+            },
+            "geonames_id": 4846834
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Iowa State University's Plant Sciences Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "PSI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Plant Sciences Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Plant Sciences Institute, Iowa State University"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Iowa State University",
+            "type": "parent",
+            "id": "https://ror.org/04rswrd78"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1838,
+        "external_ids": [
+          {
+            "all": [
+              "grid.475582.9"
+            ],
+            "preferred": "grid.475582.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0697 5034"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/0075xfx31",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.statelibraryofiowa.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IA",
+              "country_subdivision_name": "Iowa",
+              "lat": 41.60054,
+              "lng": -93.60911,
+              "name": "Des Moines"
+            },
+            "geonames_id": 4853828
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "State Library of Iowa"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1857,
+        "external_ids": [
+          {
+            "all": [
+              "grid.441080.9"
+            ],
+            "preferred": "grid.441080.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0560 0660"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7898705"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02jhx4860",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.uiu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Upper_Iowa_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IA",
+              "country_subdivision_name": "Iowa",
+              "lat": 42.84193,
+              "lng": -91.80211,
+              "name": "Fayette"
+            },
+            "geonames_id": 4856468
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UIU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Upper Iowa University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uiowa.edu"
+        ],
+        "established": 1847,
+        "external_ids": [
+          {
+            "all": [
+              "100008893",
+              "100011126",
+              "100008949",
+              "100006443",
+              "100015515",
+              "100011352",
+              "100011641",
+              "100011652",
+              "100011653",
+              "100011654",
+              "100012011",
+              "100012675",
+              "100019830"
+            ],
+            "preferred": "100008893",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.214572.7"
+            ],
+            "preferred": "grid.214572.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1936 8294"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q182973"
+            ],
+            "preferred": "Q182973",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/036jqmy94",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://uiowa.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Iowa"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IA",
+              "country_subdivision_name": "Iowa",
+              "lat": 41.66113,
+              "lng": -91.53017,
+              "name": "Iowa City"
+            },
+            "geonames_id": 4862034
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UI"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de Iowa"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Iowa"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de l'iowa"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Heartland Center for Occupational Safety and Health",
+            "type": "child",
+            "id": "https://ror.org/05vjz1d16"
+          },
+          {
+            "label": "University of Iowa Holden Comprehensive Cancer Center",
+            "type": "child",
+            "id": "https://ror.org/01jhe7086"
+          },
+          {
+            "label": "University of Iowa Health Care",
+            "type": "child",
+            "id": "https://ror.org/0431j1t39"
+          },
+          {
+            "label": "Iowa Geological Survey",
+            "type": "child",
+            "id": "https://ror.org/01rxedt69"
+          },
+          {
+            "label": "Iowa Consortium for Substance Abuse Research and Evaluation",
+            "type": "child",
+            "id": "https://ror.org/03cq8hj03"
+          },
+          {
+            "label": "AIB College of Business",
+            "type": "related",
+            "id": "https://ror.org/03bybmz71"
+          },
+          {
+            "label": "University of Iowa Stead Family Children’s Hospital",
+            "type": "related",
+            "id": "https://ror.org/0184n5y84"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1853,
+        "external_ids": [
+          {
+            "all": [
+              "grid.253840.8"
+            ],
+            "preferred": "grid.253840.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0453 0324"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5060595"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/059y9v737",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.central.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Central_College_(Iowa)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IA",
+              "country_subdivision_name": "Iowa",
+              "lat": 41.40805,
+              "lng": -92.91631,
+              "name": "Pella"
+            },
+            "geonames_id": 4870915
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CUI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Central College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Central University of Iowa"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1956,
+        "external_ids": [
+          {
+            "all": [
+              "grid.468216.f"
+            ],
+            "preferred": "grid.468216.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0723 3761"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/01wvxvm13",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.uifoundation.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IA",
+              "country_subdivision_name": "Iowa",
+              "lat": 41.66113,
+              "lng": -91.53017,
+              "name": "Iowa City"
+            },
+            "geonames_id": 4862034
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Iowa Foundation"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uni.edu"
+        ],
+        "established": 1876,
+        "external_ids": [
+          {
+            "all": [
+              "100010179"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.266878.5"
+            ],
+            "preferred": "grid.266878.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2175 5443"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1781094"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02h4qpx12",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://uni.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Northern_Iowa"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IA",
+              "country_subdivision_name": "Iowa",
+              "lat": 42.52776,
+              "lng": -92.44547,
+              "name": "Cedar Falls"
+            },
+            "geonames_id": 4850699
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UNI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Northern Iowa"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université d'iowa du nord"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1986,
+        "external_ids": [
+          {
+            "all": [
+              "100011460"
+            ],
+            "preferred": "100011460",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.487630.e"
+            ],
+            "preferred": "grid.487630.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2159 2808"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6064364"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/038b0hg50",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.iowadnr.gov/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Iowa_Department_of_Natural_Resources"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IA",
+              "country_subdivision_name": "Iowa",
+              "lat": 41.60054,
+              "lng": -93.60911,
+              "name": "Des Moines"
+            },
+            "geonames_id": 4853828
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IA DNR"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Iowa DNR"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Iowa Department of Natural Resources"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-01-29",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nwciowa.edu"
+        ],
+        "established": 1882,
+        "external_ids": [
+          {
+            "all": [
+              "grid.447304.0"
+            ],
+            "preferred": "grid.447304.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0447 4449"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2288251"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05x31d492",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://nwciowa.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Northwestern_College_(Iowa)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IA",
+              "country_subdivision_name": "Iowa",
+              "lat": 43.00721,
+              "lng": -96.05835,
+              "name": "Orange City"
+            },
+            "geonames_id": 4870083
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NWC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Northwestern College - Iowa"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Northwestern Iowa"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1971,
+        "external_ids": [
+          {
+            "all": [
+              "100013878"
+            ],
+            "preferred": "100013878",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.446927.a"
+            ],
+            "preferred": "grid.446927.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1381 1320"
+            ],
+            "preferred": "0000 0004 1381 1320",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/01ty7bz40",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.humanitiesiowa.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IA",
+              "country_subdivision_name": "Iowa",
+              "lat": 41.66113,
+              "lng": -91.53017,
+              "name": "Iowa City"
+            },
+            "geonames_id": 4862034
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "HI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Humanities Iowa"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "National Endowment for the Humanities",
+            "type": "related",
+            "id": "https://ror.org/02vdm1p28"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1919,
+        "external_ids": [
+          {
+            "all": [
+              "grid.412981.7"
+            ],
+            "preferred": "grid.412981.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9433 4896"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7895555"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0184n5y84",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://uihc.org/childrens/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Iowa_Children%27s_Hospital"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IA",
+              "country_subdivision_name": "Iowa",
+              "lat": 41.66113,
+              "lng": -91.53017,
+              "name": "Iowa City"
+            },
+            "geonames_id": 4862034
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "UI Children's Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Iowa Children’s Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Iowa Stead Family Children’s Hospital"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Iowa Health Care",
+            "type": "parent",
+            "id": "https://ror.org/0431j1t39"
+          },
+          {
+            "label": "University of Iowa",
+            "type": "related",
+            "id": "https://ror.org/036jqmy94"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1904,
+        "external_ids": [
+          {
+            "all": [
+              "100024092"
+            ],
+            "preferred": "100024092",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412984.2"
+            ],
+            "preferred": "grid.412984.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0434 3211"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30254145"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0431j1t39",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uihealthcare.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IA",
+              "country_subdivision_name": "Iowa",
+              "lat": 41.66113,
+              "lng": -91.53017,
+              "name": "Iowa City"
+            },
+            "geonames_id": 4862034
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "UI Health Care"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Iowa Health Care"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Iowa Stead Family Children’s Hospital",
+            "type": "child",
+            "id": "https://ror.org/0184n5y84"
+          },
+          {
+            "label": "University of Iowa",
+            "type": "parent",
+            "id": "https://ror.org/036jqmy94"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-12-20",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "100011343"
+            ],
+            "preferred": "100011343",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "0000 0004 6085 5246"
+            ],
+            "preferred": "0000 0004 6085 5246",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/01jhe7086",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://cancer.uiowa.edu"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IA",
+              "country_subdivision_name": "Iowa",
+              "lat": 41.66113,
+              "lng": -91.53017,
+              "name": "Iowa City"
+            },
+            "geonames_id": 4862034
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Holden Cancer Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Holden Comprehensive Cancer Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Iowa Holden Cancer Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Iowa Holden Comprehensive Cancer Center"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Iowa",
+            "type": "parent",
+            "id": "https://ror.org/036jqmy94"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1993,
+        "external_ids": [
+          {
+            "all": [
+              "grid.430652.6"
+            ],
+            "preferred": "grid.430652.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0396 2096"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q17078774"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05ntqke24",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.unitypoint.org/default.aspx"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/UnityPoint_Health"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IA",
+              "country_subdivision_name": "Iowa",
+              "lat": 41.60054,
+              "lng": -93.60911,
+              "name": "Des Moines"
+            },
+            "geonames_id": 4853828
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Iowa Health System"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "UnityPoint Health"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Allen Hospital",
+            "type": "child",
+            "id": "https://ror.org/02vtstx21"
+          },
+          {
+            "label": "Blank Children's Hospital",
+            "type": "child",
+            "id": "https://ror.org/04749sq68"
+          },
+          {
+            "label": "Iowa Lutheran Hospital",
+            "type": "child",
+            "id": "https://ror.org/03h6d4166"
+          },
+          {
+            "label": "Iowa Methodist Medical Center",
+            "type": "child",
+            "id": "https://ror.org/045dgap26"
+          },
+          {
+            "label": "Meriter Hospital",
+            "type": "child",
+            "id": "https://ror.org/01w756144"
+          },
+          {
+            "label": "Methodist West Hospital",
+            "type": "child",
+            "id": "https://ror.org/01t45et45"
+          },
+          {
+            "label": "Peoria Hospital",
+            "type": "child",
+            "id": "https://ror.org/00w8p4b22"
+          },
+          {
+            "label": "St. Luke's Hospital",
+            "type": "child",
+            "id": "https://ror.org/03txk6b49"
+          },
+          {
+            "label": "Trinity Medical Center",
+            "type": "child",
+            "id": "https://ror.org/04ep6k202"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1975,
+        "external_ids": [
+          {
+            "all": [
+              "grid.454451.5"
+            ],
+            "preferred": "grid.454451.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0514 3068"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/00g5vpp27",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.iowafinanceauthority.gov/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IA",
+              "country_subdivision_name": "Iowa",
+              "lat": 41.60054,
+              "lng": -93.60911,
+              "name": "Des Moines"
+            },
+            "geonames_id": 4853828
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IFA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Iowa Finance Authority"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1997,
+        "external_ids": [
+          {
+            "all": [
+              "grid.427130.3"
+            ],
+            "preferred": "grid.427130.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q30286003"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03f5kqz72",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://theicm.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IA",
+              "country_subdivision_name": "Iowa",
+              "lat": 41.6764,
+              "lng": -91.58045,
+              "name": "Coralville"
+            },
+            "geonames_id": 4852640
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ICM"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Iowa Children's Museum"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 13367
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 4630
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 1339
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 1067
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 423
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 194
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 148
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 130
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 64
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 2485
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 2001
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 1001
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 978
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 877
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 494
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 473
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 442
+        },
+        {
+          "id": "ph",
+          "title": "Philippines",
+          "count": 407
+        },
+        {
+          "id": "ir",
+          "title": "Iran",
+          "count": 354
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 8031
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 3808
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 3001
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1209
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 554
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 112
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 16715
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2404 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Columbia+University",
+  "http_status": 200,
+  "query": "Columbia University",
+  "data": {
+    "number_of_results": 14791,
+    "time_taken": 21,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "columbia.edu"
+        ],
+        "established": 1754,
+        "external_ids": [
+          {
+            "all": [
+              "100006474",
+              "100006724",
+              "100008162",
+              "100005695",
+              "100005964",
+              "100006074",
+              "100006006",
+              "100006922",
+              "100005903",
+              "100005944",
+              "100008463",
+              "100005583",
+              "100013758",
+              "100015541",
+              "100020488",
+              "100011544"
+            ],
+            "preferred": "100006474",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.21729.3f"
+            ],
+            "preferred": "grid.21729.3f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1936 8729"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q49088",
+              "Q7004967"
+            ],
+            "preferred": "Q49088",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00hj8s172",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.columbia.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Columbia_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 40.71427,
+              "lng": -74.00597,
+              "name": "New York"
+            },
+            "geonames_id": 5128581
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Columbia College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Columbia University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Columbia University in the City of New York"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "King's College"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de Columbia"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Lamont-Doherty Earth Observatory",
+            "type": "child",
+            "id": "https://ror.org/02e2tgs60"
+          },
+          {
+            "label": "ICAP Global Health",
+            "type": "child",
+            "id": "https://ror.org/01f0vkh84"
+          },
+          {
+            "label": "Chan Zuckerberg Biohub New York",
+            "type": "child",
+            "id": "https://ror.org/0263t7p64"
+          },
+          {
+            "label": "Goddard Institute for Space Studies",
+            "type": "child",
+            "id": "https://ror.org/01cyfxe35"
+          },
+          {
+            "label": "Bassett Healthcare Network",
+            "type": "related",
+            "id": "https://ror.org/04qvzh720"
+          },
+          {
+            "label": "Bassett Medical Center",
+            "type": "related",
+            "id": "https://ror.org/05fk0de79"
+          },
+          {
+            "label": "Columbia University Irving Medical Center",
+            "type": "related",
+            "id": "https://ror.org/01esghr10"
+          },
+          {
+            "label": "Greenwich Hospital",
+            "type": "related",
+            "id": "https://ror.org/036qtaj98"
+          },
+          {
+            "label": "Harlem Hospital Center",
+            "type": "related",
+            "id": "https://ror.org/00tz4k675"
+          },
+          {
+            "label": "Helen Hayes Hospital",
+            "type": "related",
+            "id": "https://ror.org/02k4w3g59"
+          },
+          {
+            "label": "Holy Name Medical Center",
+            "type": "related",
+            "id": "https://ror.org/05fnpxf31"
+          },
+          {
+            "label": "Manhattan Eye, Ear and Throat Hospital",
+            "type": "related",
+            "id": "https://ror.org/008a4de11"
+          },
+          {
+            "label": "NewYork–Presbyterian Hospital",
+            "type": "related",
+            "id": "https://ror.org/03gzbrs57"
+          },
+          {
+            "label": "Nyack Hospital",
+            "type": "related",
+            "id": "https://ror.org/0378zg266"
+          },
+          {
+            "label": "St. Francis Hospital",
+            "type": "related",
+            "id": "https://ror.org/00mj4n083"
+          },
+          {
+            "label": "Stamford Hospital",
+            "type": "related",
+            "id": "https://ror.org/05jr4qt09"
+          },
+          {
+            "label": "Union Theological Seminary",
+            "type": "related",
+            "id": "https://ror.org/05jesdm52"
+          },
+          {
+            "label": "United States Science Support Program",
+            "type": "related",
+            "id": "https://ror.org/032x9hy18"
+          },
+          {
+            "label": "Barnard College",
+            "type": "related",
+            "id": "https://ror.org/04rt94r53"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1923,
+        "external_ids": [
+          {
+            "all": [
+              "grid.441004.5"
+            ],
+            "preferred": "grid.441004.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0391 7914"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1112489"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01p2bvc62",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ciu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Columbia_International_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "SC",
+              "country_subdivision_name": "South Carolina",
+              "lat": 34.00071,
+              "lng": -81.03481,
+              "name": "Columbia"
+            },
+            "geonames_id": 4575352
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CIU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Columbia International University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-01-29",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "columbiasouthern.edu"
+        ],
+        "established": 1993,
+        "external_ids": [
+          {
+            "all": [
+              "grid.441269.c"
+            ],
+            "preferred": "grid.441269.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0424 4301"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5149845"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02r3wcw82",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.columbiasouthern.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Columbia_Southern_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "AL",
+              "country_subdivision_name": "Alabama",
+              "lat": 30.29437,
+              "lng": -87.57359,
+              "name": "Orange Beach"
+            },
+            "geonames_id": 4081696
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CSU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Columbia Southern University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2022-12-15",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2003,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 8340 304X"
+            ],
+            "preferred": "0000 0004 8340 304X",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6049028"
+            ],
+            "preferred": "Q6049028",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01f0vkh84",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://icap.columbia.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/ICAP_at_Columbia_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 40.71427,
+              "lng": -74.00597,
+              "name": "New York"
+            },
+            "geonames_id": 5128581
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "ICAP Global Health"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "ICAP at Columbia University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "International Center for AIDS Care and Treatment Programs"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Columbia University",
+            "type": "parent",
+            "id": "https://ror.org/00hj8s172"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ubc.ca"
+        ],
+        "established": 1908,
+        "external_ids": [
+          {
+            "all": [
+              "501100005247",
+              "501100005246",
+              "501100000187",
+              "501100005277",
+              "501100005245",
+              "501100014331",
+              "100012161",
+              "100023477"
+            ],
+            "preferred": "501100005247",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.17091.3e"
+            ],
+            "preferred": "grid.17091.3e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2288 9830"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q391028"
+            ],
+            "preferred": "Q391028",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03rmrcq20",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ubc.ca/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_British_Columbia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "BC",
+              "country_subdivision_name": "British Columbia",
+              "lat": 49.24966,
+              "lng": -123.11934,
+              "name": "Vancouver"
+            },
+            "geonames_id": 6173331
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UBC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of British Columbia"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de la colombie-britannique"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Bamfield Marine Sciences Centre",
+            "type": "child",
+            "id": "https://ror.org/039cthy03"
+          },
+          {
+            "label": "Pacific Institute for Climate Solutions",
+            "type": "child",
+            "id": "https://ror.org/00hv6g197"
+          },
+          {
+            "label": "Canadian-Pacific Robotic Ocean Observing Facility",
+            "type": "child",
+            "id": "https://ror.org/03c62s410"
+          },
+          {
+            "label": "UBC Properties Trust",
+            "type": "child",
+            "id": "https://ror.org/043n69j88"
+          },
+          {
+            "label": "Pacific Centre for Isotopic and Geochemical Research",
+            "type": "child",
+            "id": "https://ror.org/01nzphv03"
+          },
+          {
+            "label": "International Collaboration On Repair Discoveries",
+            "type": "child",
+            "id": "https://ror.org/03ckrg061"
+          },
+          {
+            "label": "University of British Columbia Hospital",
+            "type": "child",
+            "id": "https://ror.org/00frst980"
+          },
+          {
+            "label": "University of British Columbia, Okanagan Campus",
+            "type": "child",
+            "id": "https://ror.org/04241wz75"
+          },
+          {
+            "label": "Centre for Heart Lung Innovation",
+            "type": "child",
+            "id": "https://ror.org/01bc33a41"
+          },
+          {
+            "label": "UBC Centre for Health Services and Policy Research",
+            "type": "child",
+            "id": "https://ror.org/01wm7qh03"
+          },
+          {
+            "label": "Contraception & Abortion Research Team – Groupe de recherche sur l’avortement et la contraception",
+            "type": "child",
+            "id": "https://ror.org/040wj0x86"
+          },
+          {
+            "label": "St. Mark's College",
+            "type": "child",
+            "id": "https://ror.org/00c6e8371"
+          },
+          {
+            "label": "Centre for Aging SMART",
+            "type": "child",
+            "id": "https://ror.org/02rdjev16"
+          },
+          {
+            "label": "B.C. Women's Hospital & Health Centre",
+            "type": "related",
+            "id": "https://ror.org/05c4nx247"
+          },
+          {
+            "label": "BC Children's Hospital",
+            "type": "related",
+            "id": "https://ror.org/04n901w50"
+          },
+          {
+            "label": "Centre for Advancing Health Outcomes",
+            "type": "related",
+            "id": "https://ror.org/04g6gva85"
+          },
+          {
+            "label": "GF Strong Rehabilitation Centre",
+            "type": "related",
+            "id": "https://ror.org/02d4smc03"
+          },
+          {
+            "label": "Kelowna General Hospital",
+            "type": "related",
+            "id": "https://ror.org/01j25h453"
+          },
+          {
+            "label": "Penticton Regional Hospital",
+            "type": "related",
+            "id": "https://ror.org/02g83kd39"
+          },
+          {
+            "label": "Richmond Hospital",
+            "type": "related",
+            "id": "https://ror.org/01wm3xb93"
+          },
+          {
+            "label": "Royal Inland Hospital",
+            "type": "related",
+            "id": "https://ror.org/02c1pgm26"
+          },
+          {
+            "label": "St. Paul's Hospital",
+            "type": "related",
+            "id": "https://ror.org/00wzdr059"
+          },
+          {
+            "label": "Vancouver General Hospital",
+            "type": "related",
+            "id": "https://ror.org/02zg69r60"
+          },
+          {
+            "label": "Vancouver Hospital and Health Sciences Centre",
+            "type": "related",
+            "id": "https://ror.org/05p83my93"
+          },
+          {
+            "label": "Vernon Jubilee Hospital",
+            "type": "related",
+            "id": "https://ror.org/05pw47n55"
+          },
+          {
+            "label": "Vancouver School of Theology",
+            "type": "related",
+            "id": "https://ror.org/03aas9509"
+          },
+          {
+            "label": "BC Cancer Agency",
+            "type": "related",
+            "id": "https://ror.org/03sfybe47"
+          },
+          {
+            "label": "Child and Family Research Institute",
+            "type": "related",
+            "id": "https://ror.org/04yqm9y25"
+          },
+          {
+            "label": "Women's Health Research Institute",
+            "type": "related",
+            "id": "https://ror.org/0455vfz21"
+          },
+          {
+            "label": "Terry Fox Research Institute",
+            "type": "related",
+            "id": "https://ror.org/00mtf6c40"
+          },
+          {
+            "label": "Regent College",
+            "type": "related",
+            "id": "https://ror.org/02xzjn598"
+          },
+          {
+            "label": "BC Studies",
+            "type": "related",
+            "id": "https://ror.org/00rg18f40"
+          },
+          {
+            "label": "Prevention of Organ Failure",
+            "type": "related",
+            "id": "https://ror.org/039j5vj89"
+          },
+          {
+            "label": "Joint Preservation Centre of BC",
+            "type": "related",
+            "id": "https://ror.org/00yzavr52"
+          },
+          {
+            "label": "British Columbia Academic Health Science Network",
+            "type": "related",
+            "id": "https://ror.org/05370es03"
+          },
+          {
+            "label": "Providence Health Care Research Institute",
+            "type": "related",
+            "id": "https://ror.org/04b2d5d26"
+          },
+          {
+            "label": "British Columbia Centre on Substance Use",
+            "type": "related",
+            "id": "https://ror.org/017w5sv42"
+          },
+          {
+            "label": "NanoMedicines Innovation Network",
+            "type": "related",
+            "id": "https://ror.org/038rwe723"
+          },
+          {
+            "label": "Michael Smith Health Research BC",
+            "type": "related",
+            "id": "https://ror.org/020x39229"
+          },
+          {
+            "label": "Canada's Michael Smith Genome Sciences Centre",
+            "type": "related",
+            "id": "https://ror.org/0333j0897"
+          },
+          {
+            "label": "AbCellera (Canada)",
+            "type": "related",
+            "id": "https://ror.org/025zwvh44"
+          },
+          {
+            "label": "Centre for Blood Research",
+            "type": "related",
+            "id": "https://ror.org/00h0nxd66"
+          },
+          {
+            "label": "Canadian Institute of Ecology and Evolution",
+            "type": "related",
+            "id": "https://ror.org/0003dxr51"
+          },
+          {
+            "label": "Royal Columbian Hospital",
+            "type": "related",
+            "id": "https://ror.org/05ymyxj51"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "missouri.edu"
+        ],
+        "established": 1839,
+        "external_ids": [
+          {
+            "all": [
+              "100007165",
+              "100011139",
+              "100018719"
+            ],
+            "preferred": "100007165",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.134936.a"
+            ],
+            "preferred": "grid.134936.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2162 3504"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q579968"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02ymw8z06",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://missouri.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Missouri"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MO",
+              "country_subdivision_name": "Missouri",
+              "lat": 38.95171,
+              "lng": -92.33407,
+              "name": "Columbia"
+            },
+            "geonames_id": 4381982
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MU"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de Misuri"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Missouri"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Missouri–Columbia"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université du Missouri"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Missouri System",
+            "type": "parent",
+            "id": "https://ror.org/032va1j59"
+          },
+          {
+            "label": "Harry S. Truman Memorial Veterans' Hospital",
+            "type": "related",
+            "id": "https://ror.org/01a4gqp27"
+          },
+          {
+            "label": "University of Missouri Health System",
+            "type": "related",
+            "id": "https://ror.org/03yp8z857"
+          },
+          {
+            "label": "University of Missouri Hospital",
+            "type": "related",
+            "id": "https://ror.org/05jadkj46"
+          },
+          {
+            "label": "Taylor Geospatial Institute",
+            "type": "related",
+            "id": "https://ror.org/0573j3j10"
+          },
+          {
+            "label": "Prairie Fork Charitable Endowment Trust",
+            "type": "related",
+            "id": "https://ror.org/03bm2s311"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1767,
+        "external_ids": [
+          {
+            "all": [
+              "100014434"
+            ],
+            "preferred": "100014434",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.239585.0"
+            ],
+            "preferred": "grid.239585.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2285 2675"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2415975"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01esghr10",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.cuimc.columbia.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Columbia_University_Irving_Medical_Center"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 40.71427,
+              "lng": -74.00597,
+              "name": "New York"
+            },
+            "geonames_id": 5128581
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CUIMC"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CUMC"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Centre médical de l'université columbia"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Columbia University Irving Medical Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Columbia University Medical Center"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "centro médico de la Universidad de Columbia"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Columbia University",
+            "type": "related",
+            "id": "https://ror.org/00hj8s172"
+          },
+          {
+            "label": "Harlem Hospital Center",
+            "type": "related",
+            "id": "https://ror.org/00tz4k675"
+          },
+          {
+            "label": "New York State Psychiatric Institute",
+            "type": "related",
+            "id": "https://ror.org/04aqjf708"
+          },
+          {
+            "label": "Herbert Irving Comprehensive Cancer Center",
+            "type": "related",
+            "id": "https://ror.org/051kc1939"
+          },
+          {
+            "label": "James J. Peters VA Medical Center",
+            "type": "related",
+            "id": "https://ror.org/02c8hpe74"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1972,
+        "external_ids": [
+          {
+            "all": [
+              "grid.421361.3"
+            ],
+            "preferred": "grid.421361.3",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/02a0sqy81",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.col-ed.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "OR",
+              "country_subdivision_name": "Oregon",
+              "lat": 45.52345,
+              "lng": -122.67621,
+              "name": "Portland"
+            },
+            "geonames_id": 5746545
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CEC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Columbia Education"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Columbia Education Center"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1892,
+        "external_ids": [
+          {
+            "all": [
+              "grid.415922.9"
+            ],
+            "preferred": "grid.415922.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0452 5082"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7128365"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02yw7q747",
+        "links": [],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "SC",
+              "country_subdivision_name": "South Carolina",
+              "lat": 34.00071,
+              "lng": -81.03481,
+              "name": "Columbia"
+            },
+            "geonames_id": 4575352
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Columbia Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Palmetto Health Richland"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Richland Memorial Hospital"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of South Carolina",
+            "type": "related",
+            "id": "https://ror.org/02b6qw903"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1940,
+        "external_ids": [
+          {
+            "all": [
+              "100001045"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.478663.8"
+            ],
+            "preferred": "grid.478663.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 5899 1468"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/01qeds693",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.columbia.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 37.77493,
+              "lng": -122.41942,
+              "name": "San Francisco"
+            },
+            "geonames_id": 5391959
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Columbia Foundation"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2005,
+        "external_ids": [
+          {
+            "all": [
+              "grid.492708.0"
+            ],
+            "preferred": "grid.492708.0",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/02hyv7840",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://india.columbiaasia.com/hospitals/yeshwanthpur"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "IN",
+              "country_name": "India",
+              "country_subdivision_code": "KA",
+              "country_subdivision_name": "Karnataka",
+              "lat": 12.97194,
+              "lng": 77.59369,
+              "name": "Bengaluru"
+            },
+            "geonames_id": 1277333
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Columbia Asia"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-10-28",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "columbiacollege.ca"
+        ],
+        "established": 1936,
+        "external_ids": [
+          {
+            "all": [
+              "grid.468669.3"
+            ],
+            "preferred": "grid.468669.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0404 3593"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5149655"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05fy98n62",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.columbiacollege.ca/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Columbia_College_(British_Columbia)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "BC",
+              "country_subdivision_name": "British Columbia",
+              "lat": 49.24966,
+              "lng": -123.11934,
+              "name": "Vancouver"
+            },
+            "geonames_id": 6173331
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Columbia College"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-06",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "energypolicy.columbia.edu"
+        ],
+        "established": 2013,
+        "external_ids": [
+          {
+            "all": [
+              "100024003"
+            ],
+            "preferred": "100024003",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/01s87f907",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://energypolicy.columbia.edu"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 40.71427,
+              "lng": -74.00597,
+              "name": "New York"
+            },
+            "geonames_id": 5128581
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CGEP"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Center on Global Energy Policy"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Center on Global Energy Policy at Columbia University, School of International and Public Affairs"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Center on Global Energy Policy at Columbia, SIPA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Columbia CGEP"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "columbiacollege.in"
+        ],
+        "established": 2013,
+        "external_ids": [],
+        "id": "https://ror.org/01s4j0252",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.columbiacollege.in"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "IN",
+              "country_name": "India",
+              "country_subdivision_code": "CG",
+              "country_subdivision_name": "Chhattisgarh",
+              "lat": 21.23333,
+              "lng": 81.63333,
+              "name": "Raipur"
+            },
+            "geonames_id": 1258980
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Columbia College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Columbia College, Raipur"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Columbia College, Raipur, Chhattisgarh, India"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "unbc.ca"
+        ],
+        "established": 1990,
+        "external_ids": [
+          {
+            "all": [
+              "100008785"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.266876.b"
+            ],
+            "preferred": "grid.266876.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2156 9982"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1165458"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/025wzwv46",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.unbc.ca"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Northern_British_Columbia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "BC",
+              "country_subdivision_name": "British Columbia",
+              "lat": 53.9166,
+              "lng": -122.75301,
+              "name": "Prince George"
+            },
+            "geonames_id": 6113365
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UNBC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Northern British Columbia"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Pacific Institute for Climate Solutions",
+            "type": "child",
+            "id": "https://ror.org/00hv6g197"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-12-15",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1968,
+        "external_ids": [
+          {
+            "all": [
+              "grid.416957.8"
+            ],
+            "preferred": "grid.416957.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0633 8774"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7863802"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00frst980",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.vch.ca/Locations-Services/result?res_id=652"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/UBC_Hospital"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "BC",
+              "country_subdivision_name": "British Columbia",
+              "lat": 49.24966,
+              "lng": -123.11934,
+              "name": "Vancouver"
+            },
+            "geonames_id": 6173331
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "UBC Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of British Columbia Hospital"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Vancouver Coastal Health",
+            "type": "parent",
+            "id": "https://ror.org/03bd8jh67"
+          },
+          {
+            "label": "Vancouver Hospital and Health Sciences Centre",
+            "type": "parent",
+            "id": "https://ror.org/05p83my93"
+          },
+          {
+            "label": "University of British Columbia",
+            "type": "parent",
+            "id": "https://ror.org/03rmrcq20"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-01-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-01-15",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ok.ubc.ca"
+        ],
+        "established": 2005,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0000 9132 4967"
+            ],
+            "preferred": "0000 0000 9132 4967",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3551709"
+            ],
+            "preferred": "Q3551709",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04241wz75",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ok.ubc.ca"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_British_Columbia_Okanagan"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "BC",
+              "country_subdivision_name": "British Columbia",
+              "lat": 49.88307,
+              "lng": -119.48568,
+              "name": "Kelowna"
+            },
+            "geonames_id": 5990579
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "UBC Okanagan"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "UBCO"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of British Columbia Okanagan"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "University of British Columbia, Okanagan Campus"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of British Columbia",
+            "type": "parent",
+            "id": "https://ror.org/03rmrcq20"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-12-20",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 0443 1246"
+            ],
+            "preferred": "0000 0004 0443 1246",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q28207111"
+            ],
+            "preferred": "Q28207111",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/051kc1939",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.cancer.columbia.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Herbert_Irving_Comprehensive_Cancer_Center"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 40.71427,
+              "lng": -74.00597,
+              "name": "New York"
+            },
+            "geonames_id": 5128581
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Columbia University Herbert Irving Cancer Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Columbia University Herbert Irving Comprehensive Cancer Center"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "HICCC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Herbert Irving Comprehensive Cancer Center"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Columbia University Irving Medical Center",
+            "type": "related",
+            "id": "https://ror.org/01esghr10"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "udc.edu"
+        ],
+        "established": 1851,
+        "external_ids": [
+          {
+            "all": [
+              "grid.267550.3"
+            ],
+            "preferred": "grid.267550.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2298 4918"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3551751"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/037wegn60",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.udc.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_the_District_of_Columbia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "DC",
+              "country_subdivision_name": "District of Columbia",
+              "lat": 38.89511,
+              "lng": -77.03637,
+              "name": "Washington"
+            },
+            "geonames_id": 4140963
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UDC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of the District of Columbia"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université du district de columbia"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1894,
+        "external_ids": [
+          {
+            "all": [
+              "grid.446514.6"
+            ],
+            "preferred": "grid.446514.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0487 7707"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/04m8vnf64",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.dchistory.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Historical_Society_of_Washington,_D.C."
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "DC",
+              "country_subdivision_name": "District of Columbia",
+              "lat": 38.89511,
+              "lng": -77.03637,
+              "name": "Washington"
+            },
+            "geonames_id": 4140963
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Columbia Historical Society"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Historical Society of Washington"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 12916
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 4176
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 1240
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 314
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 152
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 84
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 46
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 37
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 15
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 2023
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 1589
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 1001
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 839
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 467
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 443
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 443
+        },
+        {
+          "id": "ph",
+          "title": "Philippines",
+          "count": 384
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 383
+        },
+        {
+          "id": "ir",
+          "title": "Iran",
+          "count": 354
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 7414
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 3013
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 2581
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1152
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 531
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 100
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 14791
+        }
+      ]
+    }
+  }
+}

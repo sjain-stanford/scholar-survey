@@ -1,0 +1,79 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cites": "4870271334637308438",
+    "hl": "en",
+    "num": 20,
+    "start": 40,
+    "filter": 0,
+    "as_vis": 0,
+    "as_sdt": 7
+  },
+  "accessed_at_utc": "2026-10-07T12:39:23.872179+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63d7be7a2a9c98ccb83bf",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/vwb2uhTd7pmC8vGXoXSW5BBM_b1ILmWbu06er03C6P8/6ac63d7be7a2a9c98ccb83bf.json",
+      "markdown_endpoint": "https://serpapi.com/searches/vwb2uhTd7pmC8vGXoXSW5BBM_b1ILmWbu06er03C6P8/6ac63d7be7a2a9c98ccb83bf.md",
+      "created_at": "2026-10-07 12:39:23 UTC",
+      "processed_at": "2026-10-07 12:39:23 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cites=4870271334637308438&hl=en&start=40&num=21&filter=0&as_sdt=7&as_vis=0&scipsc=1",
+      "raw_html_file": "https://serpapi.com/searches/vwb2uhTd7pmC8vGXoXSW5BBM_b1ILmWbu06er03C6P8/6ac63d7be7a2a9c98ccb83bf.html",
+      "total_time_taken": 4.96
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cites": "4870271334637308438",
+      "hl": "en",
+      "start": 40,
+      "num": "20",
+      "filter": "0",
+      "as_sdt": "7",
+      "as_vis": "0"
+    },
+    "search_information": {
+      "organic_results_state": "Fully empty",
+      "total_results": 22,
+      "page_number": 3,
+      "time_taken_displayed": 0.02
+    },
+    "error": "Google hasn't returned any results for this query.",
+    "citations_per_year": [
+      {
+        "year": 2019,
+        "citations": 3
+      },
+      {
+        "year": 2020,
+        "citations": 4
+      },
+      {
+        "year": 2021,
+        "citations": 3
+      },
+      {
+        "year": 2022,
+        "citations": 3
+      },
+      {
+        "year": 2024,
+        "citations": 4
+      },
+      {
+        "year": 2025,
+        "citations": 3
+      },
+      {
+        "year": 2026,
+        "citations": 2
+      }
+    ],
+    "profiles": {
+      "link": "https://scholar.google.com/scholar?cluster=4870271334637308438&hl=en&num=20&as_sdt=2007&sciodt=2007",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+    }
+  }
+}

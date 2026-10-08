@@ -1,0 +1,132 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "q": "\"Differentiable Model Compression via Pseudo Quantization Noise\"",
+    "hl": "en",
+    "num": 10
+  },
+  "accessed_at_utc": "2026-10-07T12:39:09.442687+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63d6dd868dd61395933e7",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/RRzEGiFEfvR9o8Uk0vGM_r9wZ0sXTWbcqHhY0TivcU4/6ac63d6dd868dd61395933e7.json",
+      "markdown_endpoint": "https://serpapi.com/searches/RRzEGiFEfvR9o8Uk0vGM_r9wZ0sXTWbcqHhY0TivcU4/6ac63d6dd868dd61395933e7.md",
+      "created_at": "2026-10-07 12:39:09 UTC",
+      "processed_at": "2026-10-07 12:39:09 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?q=%22Differentiable+Model+Compression+via+Pseudo+Quantization+Noise%22&hl=en&num=10",
+      "raw_html_file": "https://serpapi.com/searches/RRzEGiFEfvR9o8Uk0vGM_r9wZ0sXTWbcqHhY0TivcU4/6ac63d6dd868dd61395933e7.html",
+      "total_time_taken": 0.53
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "q": "\"Differentiable Model Compression via Pseudo Quantization Noise\"",
+      "hl": "en",
+      "num": "10"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "query_displayed": "\"Differentiable Model Compression via Pseudo Quantization Noise\""
+    },
+    "profiles": {
+      "link": "https://scholar.google.com/scholar?lookup=0&q=%22Differentiable+Model+Compression+via+Pseudo+Quantization+Noise%22&hl=en&as_sdt=0,5",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=%22Differentiable+Model+Compression+via+Pseudo+Quantization+Noise%22"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Differentiable model compression via pseudo quantization noise",
+        "result_id": "XrM4HOrK7zEJ",
+        "link": "https://arxiv.org/abs/2104.09987",
+        "snippet": "We propose DiffQ a differentiable method for model compression for quantizing model parameters without gradient approximations (eg, Straight Through Estimator). We suggest adding independent pseudo quantization noise to model parameters during training to approximate the effect of a quantization operator. DiffQ is differentiable both with respect to the unquantized weights and the number of bits used. Given a single hyper-parameter balancing between the quantized model size and accuracy, DiffQ optimizes the number of …",
+        "publication_info": {
+          "summary": "A Défossez, Y Adi, G Synnaeve - arXiv preprint arXiv:2104.09987, 2021 - arxiv.org",
+          "authors": [
+            {
+              "name": "A Défossez",
+              "link": "https://scholar.google.com/citations?user=DubNUU0AAAAJ&hl=en&oi=sra",
+              "author_id": "DubNUU0AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=DubNUU0AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "Y Adi",
+              "link": "https://scholar.google.com/citations?user=ryMtc7sAAAAJ&hl=en&oi=sra",
+              "author_id": "ryMtc7sAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ryMtc7sAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "G Synnaeve",
+              "link": "https://scholar.google.com/citations?user=wN9rBkcAAAAJ&hl=en&oi=sra",
+              "author_id": "wN9rBkcAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wN9rBkcAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2104.09987"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=XrM4HOrK7zEJ",
+          "cited_by": {
+            "total": 79,
+            "link": "https://scholar.google.com/scholar?cites=3598317734136951646&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "3598317734136951646",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=3598317734136951646&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:XrM4HOrK7zEJ:scholar.google.com/&scioq=%22Differentiable+Model+Compression+via+Pseudo+Quantization+Noise%22&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AXrM4HOrK7zEJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cluster=3598317734136951646&hl=en&as_sdt=0,5",
+            "cluster_id": "3598317734136951646",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=3598317734136951646&engine=google_scholar&hl=en"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:XrM4HOrK7zEJ:scholar.google.com/+%22Differentiable+Model+Compression+via+Pseudo+Quantization+Noise%22&hl=en&as_sdt=0,5"
+        }
+      },
+      {
+        "position": 2,
+        "title": "Differentiable model compression via pseudo quantization noise, 2022",
+        "result_id": "MwC-k2ARjlUJ",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+          "summary": "A Défossez, Y Adi, G Synnaeve - URL https://arxiv. org/abs/2104.09987",
+          "authors": [
+            {
+              "name": "A Défossez"
+            },
+            {
+              "name": "Y Adi"
+            },
+            {
+              "name": "G Synnaeve"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=MwC-k2ARjlUJ",
+          "cited_by": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cites=6164884046410022963&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "6164884046410022963",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6164884046410022963&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:MwC-k2ARjlUJ:scholar.google.com/&scioq=%22Differentiable+Model+Compression+via+Pseudo+Quantization+Noise%22&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AMwC-k2ARjlUJ%3Ascholar.google.com%2F"
+        }
+      }
+    ]
+  }
+}

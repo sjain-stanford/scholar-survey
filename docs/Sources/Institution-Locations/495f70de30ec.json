@@ -1,0 +1,1966 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=National+Yang+Ming+Chiao+Tung+University",
+  "http_status": 200,
+  "query": "National Yang Ming Chiao Tung University",
+  "data": {
+    "number_of_results": 18752,
+    "time_taken": 162,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nycu.edu.tw"
+        ],
+        "established": 1896,
+        "external_ids": [
+          {
+            "all": [
+              "501100005799",
+              "501100024990"
+            ],
+            "preferred": "501100024990",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.260539.b"
+            ],
+            "preferred": "grid.260539.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2059 7017"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q43401"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00se2k293",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.nycu.edu.tw/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/National_Chiao_Tung_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TW",
+              "country_name": "Taiwan",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Taiwan",
+              "lat": 24.80361,
+              "lng": 120.96861,
+              "name": "Hsinchu"
+            },
+            "geonames_id": 1675151
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NYCU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Yang Ming Chiao Tung University"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Disaster Prevention & Water Environment Research Center",
+            "type": "child",
+            "id": "https://ror.org/01e7m5196"
+          },
+          {
+            "label": "University System of Taiwan",
+            "type": "parent",
+            "id": "https://ror.org/054kvr030"
+          },
+          {
+            "label": "National Yang Ming University Hospital",
+            "type": "related",
+            "id": "https://ror.org/003xdw211"
+          },
+          {
+            "label": "Taipei Veterans General Hospital",
+            "type": "related",
+            "id": "https://ror.org/03ymy8z76"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-03-28",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/01e7m5196",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://dpwe.nycu.edu.tw"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TW",
+              "country_name": "Taiwan",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Taiwan",
+              "lat": 24.80361,
+              "lng": 120.96861,
+              "name": "Hsinchu"
+            },
+            "geonames_id": 1675151
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "DPWE"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Disaster Prevention & Water Environment Research Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Disaster Prevention and Water Environment Research Center"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NYCU DPWE"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "NYCU Disaster Prevention and Water Environment Research Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Yang Ming Chiao Tung University Disaster Prevention and Water Environment Research Center"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "防災與水環境研究中心"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "National Yang Ming Chiao Tung University",
+            "type": "parent",
+            "id": "https://ror.org/00se2k293"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.470147.1"
+            ],
+            "preferred": "grid.470147.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1767 1097"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/003xdw211",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ymuh.ym.edu.tw/en/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TW",
+              "country_name": "Taiwan",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Taiwan",
+              "lat": 24.757,
+              "lng": 121.753,
+              "name": "Yilan"
+            },
+            "geonames_id": 1674199
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Yang Ming University Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "The Ministry Hospital"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "国立阳明大学附设医院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "National Yang Ming Chiao Tung University",
+            "type": "related",
+            "id": "https://ror.org/00se2k293"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-08-26",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "mcu.edu.tw"
+        ],
+        "established": 1957,
+        "external_ids": [
+          {
+            "all": [
+              "grid.411804.8"
+            ],
+            "preferred": "grid.411804.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0532 2834"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6864633"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02pgvzy25",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://web2.mcu.edu.tw"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Ming_Chuan_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TW",
+              "country_name": "Taiwan",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Taiwan",
+              "lat": 24.9896,
+              "lng": 121.3187,
+              "name": "Taoyuan District"
+            },
+            "geonames_id": 1667905
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MCU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Ming Chuan University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "銘傳大學"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1987,
+        "external_ids": [
+          {
+            "all": [
+              "grid.443523.7"
+            ],
+            "preferred": "grid.443523.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1808 3422"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q8048351"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05081wb05",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.yeu.edu.cn/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Yang-En_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "FJ",
+              "country_subdivision_name": "Fujian",
+              "lat": 24.91389,
+              "lng": 118.58583,
+              "name": "Quanzhou"
+            },
+            "geonames_id": 1797353
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Yang-En University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "仰恩大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1964,
+        "external_ids": [
+          {
+            "all": [
+              "grid.459692.5"
+            ],
+            "preferred": "grid.459692.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0639 3116"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6553710"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03vcw8k58",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://web.ltu.edu.tw/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Ling_Tung_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TW",
+              "country_name": "Taiwan",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Taiwan",
+              "lat": 24.1469,
+              "lng": 120.6839,
+              "name": "Taichung"
+            },
+            "geonames_id": 1668399
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "LTU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Ling Tung University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "嶺東科技大學"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1986,
+        "external_ids": [
+          {
+            "all": [
+              "grid.497785.0"
+            ],
+            "preferred": "grid.497785.0",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/01b5g4110",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://yanghn.co.kr/yanghospital/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "41",
+              "country_subdivision_name": "Gyeonggi-do",
+              "lat": 37.63667,
+              "lng": 127.21417,
+              "name": "Namyangju"
+            },
+            "geonames_id": 1897122
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Yang Hospital"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "양병원"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1963,
+        "external_ids": [
+          {
+            "all": [
+              "501100019786"
+            ],
+            "preferred": "501100019786",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.440372.6"
+            ],
+            "preferred": "grid.440372.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1798 0973"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q11087869"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04xgh4d03",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.mcut.edu.tw/bin/home.php?Lang=en"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Ming_Chi_University_of_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TW",
+              "country_name": "Taiwan",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Taiwan",
+              "lat": 25.05306,
+              "lng": 121.52639,
+              "name": "Taipei"
+            },
+            "geonames_id": 1668341
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MCUT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Ming Chi University of Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "明志科技大學"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1906,
+        "external_ids": [
+          {
+            "all": [
+              "grid.464257.6"
+            ],
+            "preferred": "grid.464257.6",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/02yjx5e75",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.xwzy.com.cn/english.shtml"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "FJ",
+              "country_subdivision_name": "Fujian",
+              "lat": 26.16302,
+              "lng": 118.14193,
+              "name": "Xicheng"
+            },
+            "geonames_id": 1922260
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Beijing Traditional Chinese medicine hospital in Xuanwu district"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing Xuanwu Traditional Chinese Medicine Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "WPS hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Wan Ming Hospital"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京市宣武中医医院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Beijing University of Chinese Medicine",
+            "type": "related",
+            "id": "https://ror.org/05damtm70"
+          },
+          {
+            "label": "Capital Medical University",
+            "type": "related",
+            "id": "https://ror.org/013xs5b60"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1870,
+        "external_ids": [
+          {
+            "all": [
+              "grid.417349.c"
+            ],
+            "preferred": "grid.417349.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1799 6705"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2151127"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05pc9cb65",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www3.ha.org.hk/twh/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Tung_Wah_Hospital"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "HK",
+              "country_name": "Hong Kong",
+              "country_subdivision_code": null,
+              "country_subdivision_name": null,
+              "lat": 22.27832,
+              "lng": 114.17469,
+              "name": "Hong Kong"
+            },
+            "geonames_id": 1819729
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Tung Wah Hospital"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "東華醫院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Hospital Authority",
+            "type": "parent",
+            "id": "https://ror.org/05sn8t512"
+          },
+          {
+            "label": "University of Hong Kong",
+            "type": "related",
+            "id": "https://ror.org/02zhqgq86"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "twc.edu.hk"
+        ],
+        "established": 2010,
+        "external_ids": [
+          {
+            "all": [
+              "100032722"
+            ],
+            "preferred": "100032722",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.462932.8"
+            ],
+            "preferred": "grid.462932.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1776 2650"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7853005"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04jfz0g97",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.twc.edu.hk"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Tung_Wah_College"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "HK",
+              "country_name": "Hong Kong",
+              "country_subdivision_code": null,
+              "country_subdivision_name": null,
+              "lat": 22.27832,
+              "lng": 114.17469,
+              "name": "Hong Kong"
+            },
+            "geonames_id": 1819729
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TWC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display"
+            ],
+            "value": "Tung Wah College"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "東華學院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1953,
+        "external_ids": [
+          {
+            "all": [
+              "grid.440299.2"
+            ],
+            "preferred": "grid.440299.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q30293494"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/042g3qa69",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.xy120.net/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SN",
+              "country_subdivision_name": "Shaanxi",
+              "lat": 34.33778,
+              "lng": 108.70261,
+              "name": "Xianyang"
+            },
+            "geonames_id": 1790353
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Second People's Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Xian Yang Central Hospital"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "咸阳市中心医院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-02-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "bjcyh.com.cn"
+        ],
+        "established": 1958,
+        "external_ids": [
+          {
+            "all": [
+              "grid.411607.5"
+            ],
+            "preferred": "grid.411607.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q6424905"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01eff5662",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.bjcyh.com.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Beijing_Chao-Yang_Hospital"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Beijing Chao-Yang Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Beijing Chao-Yang Hospital, Capital Medical University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Běijīng Cháoyáng Yīyuàn"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "北京朝阳医院"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "首都医科大学附属北京朝阳医院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Beijing Municipal Health Commission",
+            "type": "parent",
+            "id": "https://ror.org/0374a5s68"
+          },
+          {
+            "label": "Capital Medical University",
+            "type": "related",
+            "id": "https://ror.org/013xs5b60"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1929,
+        "external_ids": [
+          {
+            "all": [
+              "grid.417347.2"
+            ],
+            "preferred": "grid.417347.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1799 526X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7853008"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02fwe2f11",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ha.org.hk/tweh/index_e.htm"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Tung_Wah_Eastern_Hospital"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "HK",
+              "country_name": "Hong Kong",
+              "country_subdivision_code": null,
+              "country_subdivision_name": null,
+              "lat": 22.27832,
+              "lng": 114.17469,
+              "name": "Hong Kong"
+            },
+            "geonames_id": 1819729
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Indian General Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Tung Wah Eastern Hospital"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "東華東院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Hospital Authority",
+            "type": "parent",
+            "id": "https://ror.org/05sn8t512"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1977,
+        "external_ids": [
+          {
+            "all": [
+              "grid.484721.c"
+            ],
+            "preferred": "grid.484721.c",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/059fv9z04",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.nsitp.com/fytf/intro.php"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MO",
+              "country_name": "Macao",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Macau",
+              "lat": 22.20056,
+              "lng": 113.54611,
+              "name": "Macao"
+            },
+            "geonames_id": 1821274
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Fok Ying Tung Foundation"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1966,
+        "external_ids": [
+          {
+            "all": [
+              "grid.462929.2"
+            ],
+            "preferred": "grid.462929.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0639 1970"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q11103504"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05v5xnv04",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.tf.edu.tw/en"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Tung_Fang_Design_Institute"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TW",
+              "country_name": "Taiwan",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Kaohsiung",
+              "lat": 22.61626,
+              "lng": 120.31333,
+              "name": "Kaohsiung"
+            },
+            "geonames_id": 1673820
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TF"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Tung Fang Design Institute"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "東方設計學院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-20",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "501100009089"
+            ],
+            "preferred": "501100009089",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "Q45135855"
+            ],
+            "preferred": "Q45135855",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03dsssy27",
+        "links": [],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TW",
+              "country_name": "Taiwan",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Taiwan",
+              "lat": 25.05306,
+              "lng": 121.52639,
+              "name": "Taipei"
+            },
+            "geonames_id": 1668341
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Ta-Tung Kidney Foundation"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-22",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1992,
+        "external_ids": [
+          {
+            "all": [
+              "Q17058479"
+            ],
+            "preferred": "Q17058479",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01fw0sx23",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.tungshin.com.my/our-services/academy-of-nursing"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MY",
+              "country_name": "Malaysia",
+              "country_subdivision_code": "14",
+              "country_subdivision_name": "Kuala Lumpur",
+              "lat": 3.1412,
+              "lng": 101.68653,
+              "name": "Kuala Lumpur"
+            },
+            "geonames_id": 1735161
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "AON"
+          },
+          {
+            "lang": "ms",
+            "types": [
+              "alias"
+            ],
+            "value": "Akademi Kejururawatan Tung Shin"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Tung Shin Academy of Nursing"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "同善护士学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1946,
+        "external_ids": [
+          {
+            "all": [
+              "100032288"
+            ],
+            "preferred": "100032288",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.497704.9"
+            ],
+            "preferred": "grid.497704.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 6377 3780"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/026pdm559",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ilyang.co.kr/english/main.asp"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Il-Yang Pharmaceutical (South Korea)"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "일양약품"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1946,
+        "external_ids": [
+          {
+            "all": [
+              "100019503"
+            ],
+            "preferred": "100019503",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.415007.7"
+            ],
+            "preferred": "grid.415007.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0477 6869"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/03db90279",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.kmtth.org.tw/KMTTHEnglish/main.html"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TW",
+              "country_name": "Taiwan",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Kaohsiung",
+              "lat": 22.61626,
+              "lng": 120.31333,
+              "name": "Kaohsiung"
+            },
+            "geonames_id": 1673820
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KMTTH"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Kaohsiung Municipal Ta-Tung Hospital"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "高雄市立大同醫院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 13362
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 5215
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 1571
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 1207
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 938
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 758
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 436
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 401
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 108
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 2906
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 1773
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 1344
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 1064
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 562
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 489
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 457
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 450
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 403
+        },
+        {
+          "id": "ph",
+          "title": "Philippines",
+          "count": 402
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 8680
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 4179
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 3564
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1499
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 654
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 177
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 18752
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1761 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Vector+Institute+Toronto",
+  "http_status": 200,
+  "query": "Vector Institute Toronto",
+  "data": {
+    "number_of_results": 13664,
+    "time_taken": 25,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1974,
+        "external_ids": [
+          {
+            "all": [
+              "grid.419755.b"
+            ],
+            "preferred": "grid.419755.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q4106097"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00z7n1h55",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.vector.nsc.ru/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/State_Research_Center_of_Virology_and_Biotechnology_VECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "RU",
+              "country_name": "Russia",
+              "country_subdivision_code": "NVS",
+              "country_subdivision_name": "Novosibirsk Oblast",
+              "lat": 54.9376,
+              "lng": 83.1825,
+              "name": "Kol'tsovo"
+            },
+            "geonames_id": 1502847
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "State Research Center of Virology and Biotechnology VECTOR"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Vector Institute"
+          },
+          {
+            "lang": "ru",
+            "types": [
+              "label"
+            ],
+            "value": "Федеральное бюджетное учреждение науки Государственный научный центр вирусологии и биотехнологии Вектор"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "International Science and Technology Center",
+            "type": "parent",
+            "id": "https://ror.org/03fn1w943"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-10-28",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "vectorinstitute.ai"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "501100019117"
+            ],
+            "preferred": "501100019117",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.494618.6"
+            ],
+            "preferred": "grid.494618.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0005 0272 1351"
+            ],
+            "preferred": "0000 0005 0272 1351",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q47462249"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03kqdja62",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://vectorinstitute.ai"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Institut de Vector"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Vector Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Vector Institute for Artificial Intelligence"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-11-07",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1971,
+        "external_ids": [
+          {
+            "all": [
+              "grid.506858.6"
+            ],
+            "preferred": "grid.506858.6",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/00k1y3f49",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.tvla-tz.org/vvbd-tanga/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "TZ",
+              "country_name": "Tanzania",
+              "country_subdivision_code": "25",
+              "country_subdivision_name": "Tanga",
+              "lat": -5.06893,
+              "lng": 39.09875,
+              "name": "Tanga"
+            },
+            "geonames_id": 149606
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "VVBDI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Vector & Vector-Borne Diseases Research Institute"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1992,
+        "external_ids": [
+          {
+            "all": [
+              "grid.495054.9"
+            ],
+            "preferred": "grid.495054.9",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/0001g7380",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.nii-vektor.ru/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "RU",
+              "country_name": "Russia",
+              "country_subdivision_code": "SPE",
+              "country_subdivision_name": "St.-Petersburg",
+              "lat": 59.93863,
+              "lng": 30.31413,
+              "name": "St Petersburg"
+            },
+            "geonames_id": 498817
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Research Institute \"Vector\""
+          },
+          {
+            "lang": "ru",
+            "types": [
+              "label"
+            ],
+            "value": "Научно-исследовательский институт \"Вектор\""
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.489382.c"
+            ],
+            "preferred": "grid.489382.c",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/00m4xrb97",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.torontosleep.ca/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Toronto Sleep Institute"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1998,
+        "external_ids": [
+          {
+            "all": [
+              "501100002202"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.415526.1"
+            ],
+            "preferred": "grid.415526.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0692 494X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7826496"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00mxe0976",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.torontorehabfoundation.com/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Toronto_Rehabilitation_Institute"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Toronto Rehab"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Toronto Rehabilitation Institute"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "KITE Research Institute",
+            "type": "child",
+            "id": "https://ror.org/0055b3j94"
+          },
+          {
+            "label": "University Health Network",
+            "type": "parent",
+            "id": "https://ror.org/042xt5161"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1979,
+        "external_ids": [
+          {
+            "all": [
+              "grid.431047.5"
+            ],
+            "preferred": "grid.431047.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q30289304"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01c2t8z64",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://vectorpt.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 40.80207,
+              "lng": -124.16367,
+              "name": "Eureka"
+            },
+            "geonames_id": 5563397
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Vector Physical Therapy & Aquatic Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Vector Rehabilitation"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-03-30",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2011,
+        "external_ids": [
+          {
+            "all": [
+              "501100013912"
+            ],
+            "preferred": "501100013912",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "0000 0004 8308 2725"
+            ],
+            "preferred": "0000 0004 8308 2725",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q106626922"
+            ],
+            "preferred": "Q106626922",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05ymr3m21",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://vector-stiftung.de"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BW",
+              "country_subdivision_name": "Baden-Wurttemberg",
+              "lat": 48.78232,
+              "lng": 9.17702,
+              "name": "Stuttgart"
+            },
+            "geonames_id": 2825297
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Vector Foundation"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Vector Stiftung"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-05-06",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2016,
+        "external_ids": [
+          {
+            "all": [
+              "grid.504555.4"
+            ],
+            "preferred": "grid.504555.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q26839350"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/036y4q615",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://vector-launch.com/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Vector_Launch"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "AZ",
+              "country_subdivision_name": "Arizona",
+              "lat": 32.22174,
+              "lng": -110.92648,
+              "name": "Tucson"
+            },
+            "geonames_id": 5318313
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Vector (United States)"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Vector Launch"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Vector Space Systems"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2020-07-06",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1974,
+        "external_ids": [
+          {
+            "all": [
+              "grid.507770.2"
+            ],
+            "preferred": "grid.507770.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0698 6008"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q741395"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04et42c10",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.torontozoo.com/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Toronto_Zoo"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Toronto Zoo"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-01-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-01-15",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "torontograce.org"
+        ],
+        "established": 1905,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0001 0767 3281"
+            ],
+            "preferred": "0000 0001 0767 3281",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7826397"
+            ],
+            "preferred": "Q7826397",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/008r6cv15",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.torontograce.org"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Toronto_Grace_Health_Centre"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "TGHC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "The Salvation Army Toronto Grace Health Centre"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Toronto Grace"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Toronto Grace Health Centre"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-03",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-03",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "hqtoronto.ca"
+        ],
+        "established": 2021,
+        "external_ids": [],
+        "id": "https://ror.org/05e8sfg08",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://hqtoronto.ca"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "HQ Toronto"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-10-26",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "100020307"
+            ],
+            "preferred": "100020307",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/04cm2y595",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uhnresearch.ca/institutes/tgri"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TGHRI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Toronto General Hospital Research Institute"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Toronto General Hospital",
+            "type": "parent",
+            "id": "https://ror.org/026pg9j08"
+          },
+          {
+            "label": "University Health Network",
+            "type": "parent",
+            "id": "https://ror.org/042xt5161"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-05-30",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-06-02",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "tidhi.ca"
+        ],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/0201qwg07",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.tidhi.ca"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TIDHI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "TIDHI Innovation Inc."
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Toronto Immune & Digestive Health Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Toronto Immune and Digestive Health Institute"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2007,
+        "external_ids": [
+          {
+            "all": [
+              "grid.438949.b"
+            ],
+            "preferred": "grid.438949.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q7917802"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05x9r8j38",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.vectorfabrics.com/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Vector_Fabrics,_B.V."
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "NL",
+              "country_name": "The Netherlands",
+              "country_subdivision_code": "GE",
+              "country_subdivision_name": "Gelderland",
+              "lat": 51.81,
+              "lng": 5.24444,
+              "name": "Zaltbommel"
+            },
+            "geonames_id": 2744102
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Vector Fabrics (Netherlands)"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1998,
+        "external_ids": [
+          {
+            "all": [
+              "grid.417191.b"
+            ],
+            "preferred": "grid.417191.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0420 3866"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7826480"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/010g03x11",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=a253ba2ae8b1e310VgnVCM10000071d60f89RCRD"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Toronto_Public_Health"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Toronto Public Health"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1995,
+        "external_ids": [
+          {
+            "all": [
+              "grid.440006.6"
+            ],
+            "preferred": "grid.440006.6",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/01q7nv767",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.torontoartsfoundation.org/home"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Toronto Arts Foundation"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1812,
+        "external_ids": [
+          {
+            "all": [
+              "grid.417184.f"
+            ],
+            "preferred": "grid.417184.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0661 1177"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2444359"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/026pg9j08",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.uhn.ca/corporate/AboutUHN/OurHospitals/TGH"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Toronto_General_Hospital"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TGH"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Toronto General Hospital"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Toronto General Hospital Research Institute",
+            "type": "child",
+            "id": "https://ror.org/04cm2y595"
+          },
+          {
+            "label": "University Health Network",
+            "type": "parent",
+            "id": "https://ror.org/042xt5161"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1895,
+        "external_ids": [
+          {
+            "all": [
+              "grid.417188.3"
+            ],
+            "preferred": "grid.417188.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0012 4167"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7826568"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03qv8yq19",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.uhn.ca/corporate/AboutUHN/OurHospitals/TWH"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Toronto_Western_Hospital"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TWH"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Toronto Western Hospital"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Krembil Research Institute",
+            "type": "child",
+            "id": "https://ror.org/01f6jys10"
+          },
+          {
+            "label": "University Health Network",
+            "type": "parent",
+            "id": "https://ror.org/042xt5161"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1961,
+        "external_ids": [
+          {
+            "all": [
+              "grid.498743.5"
+            ],
+            "preferred": "grid.498743.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0689 2343"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/04akwha08",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ppt.on.ca/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PPT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Planned Parenthood Toronto"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Planned Parenthood Toronto Health Services"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 5549
+        },
+        {
+          "id": "education",
+          "title": "education",
+          "count": 3404
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 2130
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 1949
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 772
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 765
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 622
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 558
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 81
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 2077
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 1439
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1181
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 970
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 849
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 640
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 315
+        },
+        {
+          "id": "ca",
+          "title": "Canada",
+          "count": 311
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 305
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 293
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 5069
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 5030
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 2502
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 567
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 265
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 233
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 13664
+        }
+      ]
+    }
+  }
+}

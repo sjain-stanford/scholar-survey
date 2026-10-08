@@ -1,0 +1,1906 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Carnegie+Mellon+University",
+  "http_status": 200,
+  "query": "Carnegie Mellon University",
+  "data": {
+    "number_of_results": 14715,
+    "time_taken": 24,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-03-31",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "cmu.edu"
+        ],
+        "established": 1900,
+        "external_ids": [
+          {
+            "all": [
+              "100008047",
+              "100007063",
+              "100008677"
+            ],
+            "preferred": "100008047",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.147455.6"
+            ],
+            "preferred": "grid.147455.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2097 0344"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q190080"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05x2bcf33",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.cmu.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Carnegie_Mellon_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.44062,
+              "lng": -79.99589,
+              "name": "Pittsburgh"
+            },
+            "geonames_id": 5206379
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CMU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Carnegie Mellon University"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Carnegie Mellon University Africa",
+            "type": "child",
+            "id": "https://ror.org/02f33m021"
+          },
+          {
+            "label": "Carnegie Mellon University Australia",
+            "type": "child",
+            "id": "https://ror.org/00ds41r10"
+          },
+          {
+            "label": "Carnegie Mellon University Qatar",
+            "type": "child",
+            "id": "https://ror.org/00az5dt38"
+          },
+          {
+            "label": "Center for the Neural Basis of Cognition",
+            "type": "child",
+            "id": "https://ror.org/00jfeg660"
+          },
+          {
+            "label": "Software Engineering Institute",
+            "type": "child",
+            "id": "https://ror.org/01xqjjn94"
+          },
+          {
+            "label": "Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support",
+            "type": "child",
+            "id": "https://ror.org/01v6d0b34"
+          },
+          {
+            "label": "Carnegie Mellon Portugal",
+            "type": "child",
+            "id": "https://ror.org/02mxx0b77"
+          },
+          {
+            "label": "SYSU-CMU International Joint Research Institute",
+            "type": "related",
+            "id": "https://ror.org/02w30ae27"
+          },
+          {
+            "label": "UPMC Hillman Cancer Center",
+            "type": "related",
+            "id": "https://ror.org/03bw34a45"
+          },
+          {
+            "label": "Center for Statistics and Applications in Forensic Evidence",
+            "type": "related",
+            "id": "https://ror.org/01txfgz53"
+          },
+          {
+            "label": "CMKL University",
+            "type": "related",
+            "id": "https://ror.org/00j0kqj60"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2004,
+        "external_ids": [
+          {
+            "all": [
+              "grid.452171.4"
+            ],
+            "preferred": "grid.452171.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0635 407X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q890704"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00az5dt38",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.qatar.cmu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Carnegie_Mellon_University_in_Qatar"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "QA",
+              "country_name": "Qatar",
+              "country_subdivision_code": "DA",
+              "country_subdivision_name": "Baladīyat ad Dawḩah",
+              "lat": 25.28545,
+              "lng": 51.53096,
+              "name": "Doha"
+            },
+            "geonames_id": 290030
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CMU-Q"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Carnegie Mellon University Qatar"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Carnegie Mellon University",
+            "type": "parent",
+            "id": "https://ror.org/05x2bcf33"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1900,
+        "external_ids": [
+          {
+            "all": [
+              "grid.448660.8"
+            ],
+            "preferred": "grid.448660.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q5700636"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00ds41r10",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.australia.cmu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Carnegie_Mellon_University,_Australia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "OC",
+              "continent_name": "Oceania",
+              "country_code": "AU",
+              "country_name": "Australia",
+              "country_subdivision_code": "SA",
+              "country_subdivision_name": "South Australia",
+              "lat": -34.92866,
+              "lng": 138.59863,
+              "name": "Adelaide"
+            },
+            "geonames_id": 2078025
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CMU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Carnegie Mellon University Australia"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Carnegie Mellon University",
+            "type": "parent",
+            "id": "https://ror.org/05x2bcf33"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2020-07-06",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2011,
+        "external_ids": [
+          {
+            "all": [
+              "grid.508475.b"
+            ],
+            "preferred": "grid.508475.b",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/02f33m021",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.africa.engineering.cmu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Carnegie_Mellon_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "RW",
+              "country_name": "Rwanda",
+              "country_subdivision_code": "01",
+              "country_subdivision_name": "Kigali",
+              "lat": -1.94995,
+              "lng": 30.05885,
+              "name": "Kigali"
+            },
+            "geonames_id": 202061
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CMU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Carnegie Mellon University Africa"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Carnegie Mellon University",
+            "type": "parent",
+            "id": "https://ror.org/05x2bcf33"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-04-21",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-06-23",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "cmuportugal.org"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "100019678"
+            ],
+            "preferred": "100019678",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "0000 0005 0729 1522"
+            ],
+            "preferred": "0000 0005 0729 1522",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q134251497"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02mxx0b77",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://cmuportugal.org"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "PT",
+              "country_name": "Portugal",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Lisbon",
+              "lat": 38.72509,
+              "lng": -9.1498,
+              "name": "Lisbon"
+            },
+            "geonames_id": 2267057
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Carnegie Mellon Portugal"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Carnegie Mellon University Portugal Office"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Carnegie Mellon University",
+            "type": "parent",
+            "id": "https://ror.org/05x2bcf33"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2007,
+        "external_ids": [
+          {
+            "all": [
+              "100006741",
+              "100006739"
+            ],
+            "preferred": "100006741",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.467242.1"
+            ],
+            "preferred": "grid.467242.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0616 2481"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q589288"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04p3h2z50",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.bnymellon.com/apac/en/home.jsp"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/The_Bank_of_New_York_Mellon"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 40.78343,
+              "lng": -73.96625,
+              "name": "Manhattan"
+            },
+            "geonames_id": 5125771
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "BNY Mellon"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Bank of New York Mellon"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1891,
+        "external_ids": [
+          {
+            "all": [
+              "grid.446484.e"
+            ],
+            "preferred": "grid.446484.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2185 5022"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/05wx6v148",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.carnegiehall.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Carnegie_Hall"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 40.71427,
+              "lng": -74.00597,
+              "name": "New York"
+            },
+            "geonames_id": 5128581
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Carnegie Hall"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1904,
+        "external_ids": [
+          {
+            "all": [
+              "grid.431401.3"
+            ],
+            "preferred": "grid.431401.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0496 6726"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q16899059"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/020xpp268",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.racineheritagemuseum.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Racine_Heritage_Museum"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "WI",
+              "country_subdivision_name": "Wisconsin",
+              "lat": 42.72613,
+              "lng": -87.78285,
+              "name": "Racine"
+            },
+            "geonames_id": 5268249
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Carnegie library"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Racine Heritage Museum"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1904,
+        "external_ids": [
+          {
+            "all": [
+              "100029528"
+            ],
+            "preferred": "100029528",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.432988.c"
+            ],
+            "preferred": "grid.432988.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0373 5870"
+            ],
+            "preferred": "0000 0004 0373 5870",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/03h4zjr91",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://obs.carnegiescience.edu/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 34.14778,
+              "lng": -118.14452,
+              "name": "Pasadena"
+            },
+            "geonames_id": 5381396
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Carnegie Institution of Washington"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Carnegie Observatories"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Carnegie Institution for Science",
+            "type": "parent",
+            "id": "https://ror.org/04jr01610"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-08-17",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1998,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 4909 5530"
+            ],
+            "preferred": "0000 0004 4909 5530",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5043914"
+            ],
+            "preferred": "Q5043914",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01h5a0582",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.carnegielearning.com"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Carnegie_Learning"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.44062,
+              "lng": -79.99589,
+              "name": "Pittsburgh"
+            },
+            "geonames_id": 5206379
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Carnegie Learning"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Carnegie Learning, Inc."
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Carnegie Learning, Inc. (United States)"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "carnegiescience.edu"
+        ],
+        "established": 1902,
+        "external_ids": [
+          {
+            "all": [
+              "100005843",
+              "100016662"
+            ],
+            "preferred": "100016662",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.418276.e"
+            ],
+            "preferred": "grid.418276.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2323 7340"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1043963"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04jr01610",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://carnegiescience.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Carnegie_Institution_for_Science"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "DC",
+              "country_subdivision_name": "District of Columbia",
+              "lat": 38.89511,
+              "lng": -77.03637,
+              "name": "Washington"
+            },
+            "geonames_id": 4140963
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CIS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Carnegie Institute for Science"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Carnegie Institution for Science"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Carnegie Institution of Washington"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Carnegie Science"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Carnegie Observatories",
+            "type": "child",
+            "id": "https://ror.org/03h4zjr91"
+          },
+          {
+            "label": "Department of Embryology",
+            "type": "child",
+            "id": "https://ror.org/03bvtqh46"
+          },
+          {
+            "label": "Earth and Planets Laboratory",
+            "type": "child",
+            "id": "https://ror.org/02h41sr05"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1994,
+        "external_ids": [
+          {
+            "all": [
+              "grid.436418.c"
+            ],
+            "preferred": "grid.436418.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q30290732"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05y8ejc62",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://mellongroup.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GR",
+              "country_name": "Greece",
+              "country_subdivision_code": "I",
+              "country_subdivision_name": "Attica",
+              "lat": 37.94203,
+              "lng": 23.64619,
+              "name": "Piraeus"
+            },
+            "geonames_id": 255274
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Mellon Technologies (Greece)"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-01-28",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-01-29",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "paul-mellon-centre.ac.uk"
+        ],
+        "established": 1970,
+        "external_ids": [
+          {
+            "all": [
+              "501100000673"
+            ],
+            "preferred": "501100000673",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "Q7152454"
+            ],
+            "preferred": "Q7152454",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/046q6xz26",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.paul-mellon-centre.ac.uk"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Paul_Mellon_Centre_for_Studies_in_British_Art"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 51.50853,
+              "lng": -0.12574,
+              "name": "London"
+            },
+            "geonames_id": 2643743
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Paul Mellon Centre"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Paul Mellon Centre for Studies in British Art"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Yale University",
+            "type": "parent",
+            "id": "https://ror.org/03v76x132"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1970,
+        "external_ids": [
+          {
+            "all": [
+              "grid.427970.f"
+            ],
+            "preferred": "grid.427970.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q30286695"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04waxxs70",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://carnegiehillneighbors.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 40.71427,
+              "lng": -74.00597,
+              "name": "New York"
+            },
+            "geonames_id": 5128581
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Carnegie Hill Neighbors"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1882,
+        "external_ids": [
+          {
+            "all": [
+              "grid.447610.0"
+            ],
+            "preferred": "grid.447610.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q15263984"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00chesn46",
+        "links": [
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Olney_Carnegie_Library"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 38.73088,
+              "lng": -88.08532,
+              "name": "Olney"
+            },
+            "geonames_id": 4246382
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Olney Carnegie Library"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.475711.1"
+            ],
+            "preferred": "grid.475711.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0601 9589"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/00vt3q262",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.unionlibrary.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "SC",
+              "country_subdivision_name": "South Carolina",
+              "lat": 34.71541,
+              "lng": -81.62371,
+              "name": "Union"
+            },
+            "geonames_id": 4599214
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Union Carnegie Library"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1903,
+        "external_ids": [
+          {
+            "all": [
+              "501100000581"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.468492.5"
+            ],
+            "preferred": "grid.468492.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 5900 5949"
+            ],
+            "preferred": "0000 0004 5900 5949",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/059rs3f80",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.andrewcarnegie.co.uk/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "SCT",
+              "country_subdivision_name": "Scotland",
+              "lat": 56.07156,
+              "lng": -3.45887,
+              "name": "Dunfermline"
+            },
+            "geonames_id": 2650732
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Carnegie Dunfermline Trust"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-02-17",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1913,
+        "external_ids": [
+          {
+            "all": [
+              "grid.502745.1"
+            ],
+            "preferred": "grid.502745.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9990 0762"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5043979"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00k1jzy36",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.carnegieuktrust.org.uk/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Carnegie_United_Kingdom_Trust"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "SCT",
+              "country_subdivision_name": "Scotland",
+              "lat": 56.07156,
+              "lng": -3.45887,
+              "name": "Dunfermline"
+            },
+            "geonames_id": 2650732
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Carnegie UK Trust"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-02-17",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1994,
+        "external_ids": [
+          {
+            "all": [
+              "grid.503512.0"
+            ],
+            "preferred": "grid.503512.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0585 1293"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q18205826"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00q1sca35",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://carnegie.ru/?lang=en"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Carnegie_Moscow_Center"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "RU",
+              "country_name": "Russia",
+              "country_subdivision_code": "MOW",
+              "country_subdivision_name": "Moscow",
+              "lat": 55.75222,
+              "lng": 37.61556,
+              "name": "Moscow"
+            },
+            "geonames_id": 524901
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Carnegie Moscow Center"
+          },
+          {
+            "lang": "ru",
+            "types": [
+              "label"
+            ],
+            "value": "Московский Центр Карнеги"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Carnegie Endowment for International Peace",
+            "type": "parent",
+            "id": "https://ror.org/022hhet17"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1969,
+        "external_ids": [
+          {
+            "all": [
+              "100000873"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.453405.3"
+            ],
+            "preferred": "grid.453405.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0441 9247"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4758812"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04jsh2530",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://mellon.org"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Andrew_W._Mellon_Foundation"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 40.71427,
+              "lng": -74.00597,
+              "name": "New York"
+            },
+            "geonames_id": 5128581
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Andrew W. Mellon Foundation"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 12894
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 4158
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 1227
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 311
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 130
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 79
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 38
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 32
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 16
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 1999
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 1589
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 1001
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 836
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 467
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 444
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 443
+        },
+        {
+          "id": "ph",
+          "title": "Philippines",
+          "count": 384
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 382
+        },
+        {
+          "id": "ir",
+          "title": "Iran",
+          "count": 354
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 7411
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 3017
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 2506
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1151
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 530
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 100
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 14715
+        }
+      ]
+    }
+  }
+}

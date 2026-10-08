@@ -1,0 +1,449 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "q": "intitle:\"A White Paper on Neural Network Quantization\"",
+    "hl": "en",
+    "num": 10
+  },
+  "accessed_at_utc": "2026-10-07T12:40:03.105961+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63da3dea400535c9097cb",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/CFS0qEO33HcImux2OTW_6ZomKTk8IxXaT9jREGs6l-Q/6ac63da3dea400535c9097cb.json",
+      "markdown_endpoint": "https://serpapi.com/searches/CFS0qEO33HcImux2OTW_6ZomKTk8IxXaT9jREGs6l-Q/6ac63da3dea400535c9097cb.md",
+      "created_at": "2026-10-07 12:40:03 UTC",
+      "processed_at": "2026-10-07 12:40:03 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?q=intitle%3A%22A+White+Paper+on+Neural+Network+Quantization%22&hl=en&num=10",
+      "raw_html_file": "https://serpapi.com/searches/CFS0qEO33HcImux2OTW_6ZomKTk8IxXaT9jREGs6l-Q/6ac63da3dea400535c9097cb.html",
+      "total_time_taken": 0.72
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "q": "intitle:\"A White Paper on Neural Network Quantization\"",
+      "hl": "en",
+      "num": "10"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 15,
+      "time_taken_displayed": 0.14,
+      "query_displayed": "intitle:\"A White Paper on Neural Network Quantization\""
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "A white paper on neural network quantization",
+        "result_id": "3hqmhc7PXi0J",
+        "link": "https://arxiv.org/abs/2106.08295",
+        "snippet": "While neural networks have advanced the frontiers in many applications, they often come at a high computational cost. Reducing the power and latency of neural network inference is …",
+        "publication_info": {
+          "summary": "M Nagel, M Fournarakis, RA Amjad… - arXiv preprint arXiv …, 2021 - arxiv.org",
+          "authors": [
+            {
+              "name": "M Nagel",
+              "link": "https://scholar.google.com/citations?user=akNuBBEAAAAJ&hl=en&oi=sra",
+              "author_id": "akNuBBEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=akNuBBEAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "M Fournarakis",
+              "link": "https://scholar.google.com/citations?user=88lx8EEAAAAJ&hl=en&oi=sra",
+              "author_id": "88lx8EEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=88lx8EEAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "RA Amjad",
+              "link": "https://scholar.google.com/citations?user=_51RoykAAAAJ&hl=en&oi=sra",
+              "author_id": "_51RoykAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_51RoykAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2106.08295"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=3hqmhc7PXi0J",
+          "cited_by": {
+            "total": 1362,
+            "link": "https://scholar.google.com/scholar?cites=3269278865430026974&as_sdt=805&sciodt=0,3&hl=en",
+            "cites_id": "3269278865430026974",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=3269278865430026974&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:3hqmhc7PXi0J:scholar.google.com/&scioq=intitle:%22A+White+Paper+on+Neural+Network+Quantization%22&hl=en&as_sdt=0,3",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=10&q=related%3A3hqmhc7PXi0J%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=3269278865430026974&hl=en&as_sdt=0,3",
+            "cluster_id": "3269278865430026974",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C3&cluster=3269278865430026974&engine=google_scholar&hl=en"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:3hqmhc7PXi0J:scholar.google.com/+intitle:%22A+White+Paper+on+Neural+Network+Quantization%22&hl=en&as_sdt=0,3"
+        }
+      },
+      {
+        "position": 2,
+        "title": "A white paper on neural network quantization (2021)",
+        "result_id": "EkVT3emSdw4J",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+          "summary": "M Nagel, M Fournarakis, RA Amjad, Y Bondarenko… - URL https://arxiv. org/abs …, 2021",
+          "authors": [
+            {
+              "name": "M Nagel",
+              "link": "https://scholar.google.com/citations?user=akNuBBEAAAAJ&hl=en&oi=sra",
+              "author_id": "akNuBBEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=akNuBBEAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "M Fournarakis",
+              "link": "https://scholar.google.com/citations?user=88lx8EEAAAAJ&hl=en&oi=sra",
+              "author_id": "88lx8EEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=88lx8EEAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "RA Amjad",
+              "link": "https://scholar.google.com/citations?user=_51RoykAAAAJ&hl=en&oi=sra",
+              "author_id": "_51RoykAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_51RoykAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "Y Bondarenko",
+              "link": "https://scholar.google.com/citations?user=4mHNa28AAAAJ&hl=en&oi=sra",
+              "author_id": "4mHNa28AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4mHNa28AAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=EkVT3emSdw4J",
+          "cited_by": {
+            "total": 63,
+            "link": "https://scholar.google.com/scholar?cites=1042463371897816338&as_sdt=805&sciodt=0,3&hl=en",
+            "cites_id": "1042463371897816338",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=1042463371897816338&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:EkVT3emSdw4J:scholar.google.com/&scioq=intitle:%22A+White+Paper+on+Neural+Network+Quantization%22&hl=en&as_sdt=0,3",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=10&q=related%3AEkVT3emSdw4J%3Ascholar.google.com%2F"
+        }
+      },
+      {
+        "position": 3,
+        "title": "A white paper on neural network quantization. arXiv",
+        "result_id": "7rIThliFvCMJ",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+          "summary": "M Nagel, M Fournarakis, RA Amjad, Y Bondarenko… - arXiv preprint arXiv …, 2021",
+          "authors": [
+            {
+              "name": "M Nagel"
+            },
+            {
+              "name": "M Fournarakis",
+              "link": "https://scholar.google.com/citations?user=88lx8EEAAAAJ&hl=en&oi=sra",
+              "author_id": "88lx8EEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=88lx8EEAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "RA Amjad",
+              "link": "https://scholar.google.com/citations?user=_51RoykAAAAJ&hl=en&oi=sra",
+              "author_id": "_51RoykAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_51RoykAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "Y Bondarenko",
+              "link": "https://scholar.google.com/citations?user=4mHNa28AAAAJ&hl=en&oi=sra",
+              "author_id": "4mHNa28AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4mHNa28AAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=7rIThliFvCMJ",
+          "cited_by": {
+            "total": 38,
+            "link": "https://scholar.google.com/scholar?cites=2575079702202135278&as_sdt=805&sciodt=0,3&hl=en",
+            "cites_id": "2575079702202135278",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=2575079702202135278&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:7rIThliFvCMJ:scholar.google.com/&scioq=intitle:%22A+White+Paper+on+Neural+Network+Quantization%22&hl=en&as_sdt=0,3",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=10&q=related%3A7rIThliFvCMJ%3Ascholar.google.com%2F"
+        }
+      },
+      {
+        "position": 4,
+        "title": "A white paper on neural network quantization. CoRR abs/2106.08295 (2021)",
+        "result_id": "WHxht9PWWR8J",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+          "summary": "M Nagel, M Fournarakis, RA Amjad, Y Bondarenko… - arXiv preprint arXiv …, 2021",
+          "authors": [
+            {
+              "name": "M Nagel"
+            },
+            {
+              "name": "M Fournarakis"
+            },
+            {
+              "name": "RA Amjad"
+            },
+            {
+              "name": "Y Bondarenko"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=WHxht9PWWR8J",
+          "cited_by": {
+            "total": 9,
+            "link": "https://scholar.google.com/scholar?cites=2259072892906077272&as_sdt=805&sciodt=0,3&hl=en",
+            "cites_id": "2259072892906077272",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=2259072892906077272&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:WHxht9PWWR8J:scholar.google.com/&scioq=intitle:%22A+White+Paper+on+Neural+Network+Quantization%22&hl=en&as_sdt=0,3",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=10&q=related%3AWHxht9PWWR8J%3Ascholar.google.com%2F"
+        }
+      },
+      {
+        "position": 5,
+        "title": "A White Paper on Neural Network Quantization. June 15, 2021. DOI: 10.48550",
+        "result_id": "l6_yPPCGYY8J",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+          "summary": "M Nagel, M Fournarakis, RA Amjad, Y Bondarenko… - arXiv preprint arXiv.2106.08295",
+          "authors": [
+            {
+              "name": "M Nagel"
+            },
+            {
+              "name": "M Fournarakis"
+            },
+            {
+              "name": "RA Amjad"
+            },
+            {
+              "name": "Y Bondarenko"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=l6_yPPCGYY8J",
+          "cited_by": {
+            "total": 5,
+            "link": "https://scholar.google.com/scholar?cites=10331687386537439127&as_sdt=805&sciodt=0,3&hl=en",
+            "cites_id": "10331687386537439127",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=10331687386537439127&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:l6_yPPCGYY8J:scholar.google.com/&scioq=intitle:%22A+White+Paper+on+Neural+Network+Quantization%22&hl=en&as_sdt=0,3",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=10&q=related%3Al6_yPPCGYY8J%3Ascholar.google.com%2F"
+        }
+      },
+      {
+        "position": 6,
+        "title": "A White Paper on Neural Network Quantization, June 2021",
+        "result_id": "u5E8Zd1i4fsJ",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+          "summary": "M Nagel, M Fournarakis, RA Amjad, Y Bondarenko… - arXiv preprint arXiv …, 2021",
+          "authors": [
+            {
+              "name": "M Nagel"
+            },
+            {
+              "name": "M Fournarakis"
+            },
+            {
+              "name": "RA Amjad"
+            },
+            {
+              "name": "Y Bondarenko"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=u5E8Zd1i4fsJ",
+          "cited_by": {
+            "total": 7,
+            "link": "https://scholar.google.com/scholar?cites=18149896676305572283&as_sdt=805&sciodt=0,3&hl=en",
+            "cites_id": "18149896676305572283",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=18149896676305572283&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:u5E8Zd1i4fsJ:scholar.google.com/&scioq=intitle:%22A+White+Paper+on+Neural+Network+Quantization%22&hl=en&as_sdt=0,3",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=10&q=related%3Au5E8Zd1i4fsJ%3Ascholar.google.com%2F"
+        }
+      },
+      {
+        "position": 7,
+        "title": "A white paper on neural network quantization. ArXiv abs/2106.08295 (2021)",
+        "result_id": "Bzl4CM_N9pUJ",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+          "summary": "M Nagel, M Fournarakis, RA Amjad, Y Bondarenko… - 2021",
+          "authors": [
+            {
+              "name": "M Nagel"
+            },
+            {
+              "name": "M Fournarakis"
+            },
+            {
+              "name": "RA Amjad"
+            },
+            {
+              "name": "Y Bondarenko"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Bzl4CM_N9pUJ",
+          "cited_by": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cites=10806050645006104839&as_sdt=805&sciodt=0,3&hl=en",
+            "cites_id": "10806050645006104839",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=10806050645006104839&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:Bzl4CM_N9pUJ:scholar.google.com/&scioq=intitle:%22A+White+Paper+on+Neural+Network+Quantization%22&hl=en&as_sdt=0,3",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=10&q=related%3ABzl4CM_N9pUJ%3Ascholar.google.com%2F"
+        }
+      },
+      {
+        "position": 8,
+        "title": "A white paper on neural network quantization. ar Xiv preprint",
+        "result_id": "zoI6J7UIgEgJ",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+          "summary": "M Nagel, M Fournarakis, RA Amjad, Y Bondarenko… - arXiv preprint arXiv …, 2021",
+          "authors": [
+            {
+              "name": "M Nagel"
+            },
+            {
+              "name": "M Fournarakis"
+            },
+            {
+              "name": "RA Amjad"
+            },
+            {
+              "name": "Y Bondarenko"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=zoI6J7UIgEgJ",
+          "cited_by": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cites=5224185141890024142&as_sdt=805&sciodt=0,3&hl=en",
+            "cites_id": "5224185141890024142",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=5224185141890024142&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:zoI6J7UIgEgJ:scholar.google.com/&scioq=intitle:%22A+White+Paper+on+Neural+Network+Quantization%22&hl=en&as_sdt=0,3",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=10&q=related%3AzoI6J7UIgEgJ%3Ascholar.google.com%2F"
+        }
+      },
+      {
+        "position": 9,
+        "title": "A white paper on neural network quantization. arXiv preprint (2021)",
+        "result_id": "kQJC_0tuboMJ",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+          "summary": "M Nagel, M Fournarakis, R Ali Amjad, Y Bondarenko… - arXiv preprint arXiv:2106.08295",
+          "authors": [
+            {
+              "name": "M Nagel"
+            },
+            {
+              "name": "M Fournarakis"
+            },
+            {
+              "name": "R Ali Amjad"
+            },
+            {
+              "name": "Y Bondarenko"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=kQJC_0tuboMJ",
+          "cited_by": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cites=9470628339090850449&as_sdt=805&sciodt=0,3&hl=en",
+            "cites_id": "9470628339090850449",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=9470628339090850449&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:kQJC_0tuboMJ:scholar.google.com/&scioq=intitle:%22A+White+Paper+on+Neural+Network+Quantization%22&hl=en&as_sdt=0,3",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=10&q=related%3AkQJC_0tuboMJ%3Ascholar.google.com%2F"
+        }
+      },
+      {
+        "position": 10,
+        "title": "A White Paper on Neural Network Quantization (arXiv: 2106.08295). arXiv",
+        "result_id": "H2qPYybWHFgJ",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+          "summary": "M Nagel, M Fournarakis, RA Amjad, Y Bondarenko… - 2021",
+          "authors": [
+            {
+              "name": "M Nagel"
+            },
+            {
+              "name": "M Fournarakis"
+            },
+            {
+              "name": "RA Amjad"
+            },
+            {
+              "name": "Y Bondarenko"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=H2qPYybWHFgJ",
+          "cited_by": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cites=6349185035053001247&as_sdt=805&sciodt=0,3&hl=en",
+            "cites_id": "6349185035053001247",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=6349185035053001247&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:H2qPYybWHFgJ:scholar.google.com/&scioq=intitle:%22A+White+Paper+on+Neural+Network+Quantization%22&hl=en&as_sdt=0,3",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=10&q=related%3AH2qPYybWHFgJ%3Ascholar.google.com%2F"
+        }
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://scholar.google.com/scholar?start=10&q=intitle:%22A+White+Paper+on+Neural+Network+Quantization%22&hl=en&as_sdt=0,3",
+      "other_pages": {
+        "2": "https://scholar.google.com/scholar?start=10&q=intitle:%22A+White+Paper+on+Neural+Network+Quantization%22&hl=en&as_sdt=0,3"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=10&q=intitle%3A%22A+White+Paper+on+Neural+Network+Quantization%22&start=10",
+      "next": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=10&q=intitle%3A%22A+White+Paper+on+Neural+Network+Quantization%22&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=10&q=intitle%3A%22A+White+Paper+on+Neural+Network+Quantization%22&start=10"
+      }
+    }
+  }
+}

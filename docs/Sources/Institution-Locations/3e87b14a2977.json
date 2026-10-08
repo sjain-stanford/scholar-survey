@@ -1,0 +1,2199 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Queen%27s+University",
+  "http_status": 200,
+  "query": "Queen's University",
+  "data": {
+    "number_of_results": 14697,
+    "time_taken": 35,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "queensu.ca"
+        ],
+        "established": 1841,
+        "external_ids": [
+          {
+            "all": [
+              "501100003321",
+              "501100003322",
+              "501100006127",
+              "501100013216",
+              "501100024496"
+            ],
+            "preferred": "501100003321",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.410356.5"
+            ],
+            "preferred": "grid.410356.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1936 8331"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1420038"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02y72wh86",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.queensu.ca/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Queen%27s_University_at_Kingston"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 44.22976,
+              "lng": -76.48098,
+              "name": "Kingston"
+            },
+            "geonames_id": 5992500
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Queen's College at Kingston"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Queen's University"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Bader College",
+            "type": "child",
+            "id": "https://ror.org/030txkr67"
+          },
+          {
+            "label": "Hotel Dieu Hospital",
+            "type": "related",
+            "id": "https://ror.org/01s7w1z60"
+          },
+          {
+            "label": "Humber River Regional Hospital",
+            "type": "related",
+            "id": "https://ror.org/02gj19t78"
+          },
+          {
+            "label": "Kingston General Hospital",
+            "type": "related",
+            "id": "https://ror.org/03zq81960"
+          },
+          {
+            "label": "Kingston Health Sciences Centre",
+            "type": "related",
+            "id": "https://ror.org/05bwaty49"
+          },
+          {
+            "label": "McGill-Queen's University Press",
+            "type": "related",
+            "id": "https://ror.org/018sv0913"
+          },
+          {
+            "label": "Providence Care Hospital",
+            "type": "related",
+            "id": "https://ror.org/00zq1aj91"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "qub.ac.uk"
+        ],
+        "established": 1810,
+        "external_ids": [
+          {
+            "all": [
+              "501100000873"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.4777.3"
+            ],
+            "preferred": "grid.4777.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0374 7521"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q877925"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00hswnk62",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.qub.ac.uk"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Queen's_University_Belfast"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "NIR",
+              "country_subdivision_name": "Northern Ireland",
+              "lat": 54.59682,
+              "lng": -5.92541,
+              "name": "Belfast"
+            },
+            "geonames_id": 2655984
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "QUB"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Queen's University Belfast"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Queen's University of Belfast"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "The Bryden Centre",
+            "type": "child",
+            "id": "https://ror.org/019phe233"
+          },
+          {
+            "label": "Altnagelvin Area Hospital",
+            "type": "related",
+            "id": "https://ror.org/05xxmnm27"
+          },
+          {
+            "label": "Belfast City Hospital",
+            "type": "related",
+            "id": "https://ror.org/02405mj67"
+          },
+          {
+            "label": "Irish Baptist College",
+            "type": "related",
+            "id": "https://ror.org/007ew5756"
+          },
+          {
+            "label": "Musgrave Park Hospital",
+            "type": "related",
+            "id": "https://ror.org/01zyevp23"
+          },
+          {
+            "label": "Royal Victoria Hospital",
+            "type": "related",
+            "id": "https://ror.org/03rq50d77"
+          },
+          {
+            "label": "St Mary's University College",
+            "type": "related",
+            "id": "https://ror.org/00n208030"
+          },
+          {
+            "label": "Stranmillis University College",
+            "type": "related",
+            "id": "https://ror.org/05a49e175"
+          },
+          {
+            "label": "Belfast Health and Social Care Trust",
+            "type": "related",
+            "id": "https://ror.org/02tdmfk69"
+          },
+          {
+            "label": "Northern Health and Social Care Trust",
+            "type": "related",
+            "id": "https://ror.org/01bgbk171"
+          },
+          {
+            "label": "Southern Health and Social Care Trust",
+            "type": "related",
+            "id": "https://ror.org/02fjtnt35"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1961,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449116.f"
+            ],
+            "preferred": "grid.449116.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9604 2520"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6801272"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/018sv0913",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.mqup.ca/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/McGill-Queen%27s_University_Press"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "QC",
+              "country_subdivision_name": "Quebec",
+              "lat": 45.50884,
+              "lng": -73.58781,
+              "name": "Montreal"
+            },
+            "geonames_id": 6077243
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MQUP"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "McGill-Queen's University Press"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "McGill University",
+            "type": "related",
+            "id": "https://ror.org/01pxwe438"
+          },
+          {
+            "label": "Queen's University",
+            "type": "related",
+            "id": "https://ror.org/02y72wh86"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-10-13",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1994,
+        "external_ids": [],
+        "id": "https://ror.org/030txkr67",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.queensu.ca/badercollege"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 50.8622,
+              "lng": 0.25775,
+              "name": "Hailsham"
+            },
+            "geonames_id": 2647655
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Bader College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Bader College Queen’s University"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Queen's University",
+            "type": "parent",
+            "id": "https://ror.org/02y72wh86"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1995,
+        "external_ids": [
+          {
+            "all": [
+              "grid.439958.a"
+            ],
+            "preferred": "grid.439958.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0399 5832"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/02hvxe361",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.burtonhospitals.nhs.uk/hospitals-and-clinics/queens-hospital.htm"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 52.80728,
+              "lng": -1.64263,
+              "name": "Burton-on-Trent"
+            },
+            "geonames_id": 2654200
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Queen's Hospital"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Burton Hospitals NHS Foundation Trust",
+            "type": "parent",
+            "id": "https://ror.org/03vypx625"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1859,
+        "external_ids": [
+          {
+            "all": [
+              "grid.415594.8"
+            ],
+            "preferred": "grid.415594.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q7758968"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/016gbn942",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://queensmedicalcenter.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/The_Queen%27s_Medical_Center"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "HI",
+              "country_subdivision_name": "Hawaii",
+              "lat": 21.30694,
+              "lng": -157.85833,
+              "name": "Honolulu"
+            },
+            "geonames_id": 5856195
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Queen's Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Queen's Medical Center"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Hawaiʻi at Mānoa",
+            "type": "related",
+            "id": "https://ror.org/01wspgy28"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-02-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2006,
+        "external_ids": [
+          {
+            "all": [
+              "grid.415588.5"
+            ],
+            "preferred": "grid.415588.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0400 4455"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7270013"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02rnep118",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.bhrhospitals.nhs.uk/queens-hospital"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Queen%27s_Hospital"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 51.57515,
+              "lng": 0.18582,
+              "name": "Romford"
+            },
+            "geonames_id": 2639192
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Queen's Hospital"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Barking, Havering And Redbridge University Hospitals NHS Trust",
+            "type": "parent",
+            "id": "https://ror.org/03xnr5143"
+          },
+          {
+            "label": "Queen Mary University of London",
+            "type": "related",
+            "id": "https://ror.org/026zzn846"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1977,
+        "external_ids": [
+          {
+            "all": [
+              "grid.415598.4"
+            ],
+            "preferred": "grid.415598.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0641 4263"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7270030"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03ap6wx93",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.nuh.nhs.uk/contact-qmc/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Queen%27s_Medical_Centre"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 52.9536,
+              "lng": -1.15047,
+              "name": "Nottingham"
+            },
+            "geonames_id": 2641170
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "QMC "
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Queen's Med"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Queen's Medical Centre"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Nottingham University Hospitals NHS Trust",
+            "type": "parent",
+            "id": "https://ror.org/05y3qh794"
+          },
+          {
+            "label": "University of Nottingham",
+            "type": "related",
+            "id": "https://ror.org/01ee9ar58"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "acadiau.ca"
+        ],
+        "established": 1838,
+        "external_ids": [
+          {
+            "all": [
+              "100009427"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.411959.1"
+            ],
+            "preferred": "grid.411959.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1936 9633"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q337382"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00839we02",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www2.acadiau.ca/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Acadia_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "NS",
+              "country_subdivision_name": "Nova Scotia",
+              "lat": 45.08345,
+              "lng": -64.36546,
+              "name": "Wolfville"
+            },
+            "geonames_id": 6183858
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Acadia College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Acadia University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Queen's College"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-02-17",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1830,
+        "external_ids": [
+          {
+            "all": [
+              "grid.500805.8"
+            ],
+            "preferred": "grid.500805.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0627 0247"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7269948"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05j3nm367",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.queens.ac.uk/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/The_Queen%27s_Foundation"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 52.48142,
+              "lng": -1.89983,
+              "name": "Birmingham"
+            },
+            "geonames_id": 2655603
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "The Queen's Foundation"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "The Queen's Foundation, for Ecumenical Theological Education"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "universityofgalway.ie"
+        ],
+        "established": 1845,
+        "external_ids": [
+          {
+            "all": [
+              "501100001634",
+              "100007630"
+            ],
+            "preferred": "501100001634",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.6142.1"
+            ],
+            "preferred": "grid.6142.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0488 0789"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q644478"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03bea9k73",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.universityofgalway.ie"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/National_University_of_Ireland,_Galway"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IE",
+              "country_name": "Ireland",
+              "country_subdivision_code": "C",
+              "country_subdivision_name": "Connacht",
+              "lat": 53.27245,
+              "lng": -9.05095,
+              "name": "Galway"
+            },
+            "geonames_id": 2964180
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "NUI Galway"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NUIG"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National University of Ireland, Galway"
+          },
+          {
+            "lang": "ga",
+            "types": [
+              "alias"
+            ],
+            "value": "Ollscoil na Gaillimhe"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Ollscoil na Gaillimhe – University of Galway"
+          },
+          {
+            "lang": "ga",
+            "types": [
+              "alias"
+            ],
+            "value": "Ollscoil na hÉireann, Gaillimh"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Queen’s College, Galway"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University College, Galway"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Galway"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Advanced Materials and BioEngineering Research",
+            "type": "child",
+            "id": "https://ror.org/01c4rxk68"
+          },
+          {
+            "label": "National University of Ireland",
+            "type": "parent",
+            "id": "https://ror.org/00shsf120"
+          },
+          {
+            "label": "Saolta University Health Care Group",
+            "type": "related",
+            "id": "https://ror.org/03w2xw870"
+          },
+          {
+            "label": "University Hospital Galway",
+            "type": "related",
+            "id": "https://ror.org/04scgfz75"
+          },
+          {
+            "label": "Irish Research eLibrary",
+            "type": "related",
+            "id": "https://ror.org/05c347015"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "501100000684"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.468543.8"
+            ],
+            "preferred": "grid.468543.8",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/00xphjb32",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.qnis.org.uk/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "SCT",
+              "country_subdivision_name": "Scotland",
+              "lat": 55.95206,
+              "lng": -3.19648,
+              "name": "Edinburgh"
+            },
+            "geonames_id": 2650225
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "QNIS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Queen’s Nursing Institute Scotland"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-09-23",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.511172.1"
+            ],
+            "preferred": "grid.511172.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0613 128X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q101046429"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/059zxg644",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ed.ac.uk/schools-departments/medicine-vet-medicine/about/little-france/qmri"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "SCT",
+              "country_subdivision_name": "Scotland",
+              "lat": 55.95206,
+              "lng": -3.19648,
+              "name": "Edinburgh"
+            },
+            "geonames_id": 2650225
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "QMRI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "The Queen's Medical Research Institute"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Edinburgh",
+            "type": "parent",
+            "id": "https://ror.org/01nrxwf90"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-02-17",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1957,
+        "external_ids": [
+          {
+            "all": [
+              "grid.501720.1"
+            ],
+            "preferred": "grid.501720.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q10829127"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04bm3wy68",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.dhsphue.edu.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": "26",
+              "country_subdivision_name": "Thừa Thiên Huế Province",
+              "lat": 16.4619,
+              "lng": 107.59546,
+              "name": "Huế"
+            },
+            "geonames_id": 1580240
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Hue University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Hue University of Education"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Hue University's College of Education"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label"
+            ],
+            "value": "Trường Đại học Sư phạm Huế"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Education, Hue University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-03-31",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1949,
+        "external_ids": [
+          {
+            "all": [
+              "501100005695"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.265107.7"
+            ],
+            "preferred": "grid.265107.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0663 5064"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1148210"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/024yc3q36",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.tottori-u.ac.jp/english/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Tottori_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "31",
+              "country_subdivision_name": "Tottori",
+              "lat": 35.5,
+              "lng": 134.23333,
+              "name": "Tottori-shi"
+            },
+            "geonames_id": 1849892
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National University Corporation Tottori University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Tottori Daigaku"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Tottori University"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "鳥取大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Chromosome Engineering Research Center",
+            "type": "child",
+            "id": "https://ror.org/04gsg8b22"
+          },
+          {
+            "label": "Tottori University Hospital",
+            "type": "related",
+            "id": "https://ror.org/03wa1wy25"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2008,
+        "external_ids": [
+          {
+            "all": [
+              "grid.411091.c"
+            ],
+            "preferred": "grid.411091.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 4910 8020"
+            ],
+            "preferred": "0000 0004 4910 8020",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q49782"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03zcpvf19",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.uk.rub.de/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_Hospitals_of_the_Ruhr-University_of_Bochum"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "NW",
+              "country_subdivision_name": "North Rhine-Westphalia",
+              "lat": 51.48165,
+              "lng": 7.21648,
+              "name": "Bochum"
+            },
+            "geonames_id": 2947416
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UK RUB"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Hospital Ruhr University Bochum"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Hospital of Ruhr University Bochum"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Hospital of the Ruhr University Bochum"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Hospital of the Ruhr-University Bochum"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University Hospitals of the Ruhr-University of Bochum"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Universitätsklinikum der Ruhr-Universität Bochum"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "BG University Hospital Bergmannsheil Bochum",
+            "type": "child",
+            "id": "https://ror.org/04j9bvy88"
+          },
+          {
+            "label": "Heart and Diabetes Center North Rhine-Westphalia",
+            "type": "child",
+            "id": "https://ror.org/02wndzd81"
+          },
+          {
+            "label": "Herford Hospital",
+            "type": "child",
+            "id": "https://ror.org/03p371b74"
+          },
+          {
+            "label": "Johannes Wesling Klinikum Minden",
+            "type": "child",
+            "id": "https://ror.org/05d89kr76"
+          },
+          {
+            "label": "LWL-Universitätsklinik Hamm",
+            "type": "child",
+            "id": "https://ror.org/05w1kdn42"
+          },
+          {
+            "label": "LWL-Universitätsklinikum Bochum",
+            "type": "child",
+            "id": "https://ror.org/04nkkrh90"
+          },
+          {
+            "label": "Medizinisches Zentrum für Seelische Gesundheit",
+            "type": "child",
+            "id": "https://ror.org/05vv9dr68"
+          },
+          {
+            "label": "St. Josef-Hospital",
+            "type": "child",
+            "id": "https://ror.org/046vare28"
+          },
+          {
+            "label": "Universitätsklinik Marien Hospital Herne",
+            "type": "child",
+            "id": "https://ror.org/004h6mc53"
+          },
+          {
+            "label": "Universitätsklinikum Knappschaftskrankenhaus Bochum",
+            "type": "child",
+            "id": "https://ror.org/024j3hn90"
+          },
+          {
+            "label": "Ruhr University Bochum",
+            "type": "related",
+            "id": "https://ror.org/04tsk2644"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-22",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "husc.edu.vn"
+        ],
+        "established": 1957,
+        "external_ids": [],
+        "id": "https://ror.org/00qpm2f14",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://husc.edu.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Thừa Thiên Huế Province",
+              "lat": 16.4619,
+              "lng": 107.59546,
+              "name": "Huế"
+            },
+            "geonames_id": 1580240
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "HUSC"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Trường Đại học Khoa học, Đại học Huế"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Sciences, Hue University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-22",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "hce.edu.vn"
+        ],
+        "established": 2002,
+        "external_ids": [],
+        "id": "https://ror.org/03x812s82",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://hce.edu.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Thừa Thiên Huế Province",
+              "lat": 16.4619,
+              "lng": 107.59546,
+              "name": "Huế"
+            },
+            "geonames_id": 1580240
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "HUE"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Trường Đại học Kinh tế, Đại học Huế"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Economics, Hue University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ucsiuniversity.edu.my"
+        ],
+        "established": 1986,
+        "external_ids": [
+          {
+            "all": [
+              "100031258"
+            ],
+            "preferred": "100031258",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.444472.5"
+            ],
+            "preferred": "grid.444472.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1756 3061"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7864125"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/019787q29",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ucsiuniversity.edu.my"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/UCSI_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MY",
+              "country_name": "Malaysia",
+              "country_subdivision_code": "14",
+              "country_subdivision_name": "Kuala Lumpur",
+              "lat": 3.1412,
+              "lng": 101.68653,
+              "name": "Kuala Lumpur"
+            },
+            "geonames_id": 1735161
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "UCSI University"
+          },
+          {
+            "lang": "ms",
+            "types": [
+              "label"
+            ],
+            "value": "Universiti UCSI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University College Sedaya International"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University College Sedaya International University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2003,
+        "external_ids": [
+          {
+            "all": [
+              "grid.448838.b"
+            ],
+            "preferred": "grid.448838.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q5530381"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01bjw7k75",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.gelatouniversity.com/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Gelato_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "45",
+              "country_subdivision_name": "Emilia-Romagna",
+              "lat": 44.54197,
+              "lng": 11.20548,
+              "name": "Anzola dell'Emilia"
+            },
+            "geonames_id": 3183002
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Gelato University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 12895
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 4148
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 1231
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 310
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 123
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 75
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 32
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 31
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 12
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 1981
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 1589
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 1001
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 836
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 467
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 443
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 443
+        },
+        {
+          "id": "ph",
+          "title": "Philippines",
+          "count": 384
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 382
+        },
+        {
+          "id": "ir",
+          "title": "Iran",
+          "count": 354
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 7411
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 3017
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 2488
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1151
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 530
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 100
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 14697
+        }
+      ]
+    }
+  }
+}

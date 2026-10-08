@@ -1,0 +1,2361 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Universitat+Polit%C3%A8cnica+de+Catalunya",
+  "http_status": 200,
+  "query": "Universitat Politècnica de Catalunya",
+  "data": {
+    "number_of_results": 11356,
+    "time_taken": 20,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-11-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "upc.edu"
+        ],
+        "established": 1971,
+        "external_ids": [
+          {
+            "all": [
+              "501100014374"
+            ],
+            "preferred": "501100014374",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.6835.8"
+            ],
+            "preferred": "grid.6835.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1937 028X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1640731"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03mb6wj31",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.upc.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Polytechnic_University_of_Catalonia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "CT",
+              "country_subdivision_name": "Catalonia",
+              "lat": 41.38879,
+              "lng": 2.15899,
+              "name": "Barcelona"
+            },
+            "geonames_id": 3128760
+          }
+        ],
+        "names": [
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "BarcelonaTECH"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Polytechnic University of Catalonia"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UPC"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Politécnica de Cataluña"
+          },
+          {
+            "lang": "gl",
+            "types": [
+              "label"
+            ],
+            "value": "Universidade Politécnica de Cataluña"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universitat Politècnica de Catalunya"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Institut de Robòtica i Informàtica Industrial",
+            "type": "child",
+            "id": "https://ror.org/00mcdyn90"
+          },
+          {
+            "label": "International Center for Numerical Methods in Engineering",
+            "type": "child",
+            "id": "https://ror.org/03ej8a714"
+          },
+          {
+            "label": "Barcelona Supercomputing Center",
+            "type": "child",
+            "id": "https://ror.org/05sd8tv96"
+          },
+          {
+            "label": "Institute of Photonic Sciences",
+            "type": "child",
+            "id": "https://ror.org/03g5ew477"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-06-02",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "upm.es"
+        ],
+        "established": 1971,
+        "external_ids": [
+          {
+            "all": [
+              "501100003759",
+              "501100023545"
+            ],
+            "preferred": "501100003759",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.5690.a"
+            ],
+            "preferred": "grid.5690.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2151 2978"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q25864",
+              "Q5838945"
+            ],
+            "preferred": "Q25864",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03n6nwv02",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.upm.es"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Technical_University_of_Madrid"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Madrid",
+              "lat": 40.4165,
+              "lng": -3.70256,
+              "name": "Madrid"
+            },
+            "geonames_id": 3117735
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Polytechnic University of Madrid"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Technical University of Madrid"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UPM"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universidad Politécnica de Madrid"
+          },
+          {
+            "lang": "gl",
+            "types": [
+              "label"
+            ],
+            "value": "Universidade Politécnica de Madrid"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "label"
+            ],
+            "value": "Universitat Politècnica de Madrid"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Centre for Automation and Robotics",
+            "type": "child",
+            "id": "https://ror.org/02wh02235"
+          },
+          {
+            "label": "Reference Center for Research, Development and Innovation in ATM",
+            "type": "child",
+            "id": "https://ror.org/01vhjs264"
+          },
+          {
+            "label": "Banco de Germoplasma Vegetal de la UPM \"César Gómez Campo\"",
+            "type": "child",
+            "id": "https://ror.org/04rbss527"
+          },
+          {
+            "label": "Information Processing and Telecommunications Center",
+            "type": "child",
+            "id": "https://ror.org/00hcf7151"
+          },
+          {
+            "label": "Centre for Plant Biotechnology and Genomics",
+            "type": "related",
+            "id": "https://ror.org/04mfzb702"
+          },
+          {
+            "label": "Joint Evaluated Fission and Fusion",
+            "type": "related",
+            "id": "https://ror.org/03g57ef97"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "upv.es"
+        ],
+        "established": 1971,
+        "external_ids": [
+          {
+            "all": [
+              "501100004233"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.157927.f"
+            ],
+            "preferred": "grid.157927.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1770 5832"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2003976"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01460j859",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.upv.es"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Technical_University_of_Valencia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "VC",
+              "country_subdivision_name": "Valencia",
+              "lat": 39.47391,
+              "lng": -0.37966,
+              "name": "Valencia"
+            },
+            "geonames_id": 2509954
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Polytechnic University of Valencia"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Technical University of Valencia"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UPV"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Politécnica de Valencia"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universitat Politècnica de València"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Instituto de Biología Molecular y Celular de Plantas",
+            "type": "child",
+            "id": "https://ror.org/04zdays56"
+          },
+          {
+            "label": "Instituto de Instrumentación para Imagen Molecular",
+            "type": "child",
+            "id": "https://ror.org/03p80e845"
+          },
+          {
+            "label": "Instituto de Tecnología Química",
+            "type": "child",
+            "id": "https://ror.org/038792a28"
+          },
+          {
+            "label": "Instituto de Gestión de la Innovación y del Conocimiento",
+            "type": "child",
+            "id": "https://ror.org/02rgtxm82"
+          },
+          {
+            "label": "Escola Politècnica Superior d'Alcoi",
+            "type": "child",
+            "id": "https://ror.org/05859w570"
+          },
+          {
+            "label": "Centro de Biomateriales e Ingeniería Tisular",
+            "type": "child",
+            "id": "https://ror.org/03xwwht98"
+          },
+          {
+            "label": "Hospital Universitari i Politècnic La Fe",
+            "type": "related",
+            "id": "https://ror.org/01ar2v535"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uic.es"
+        ],
+        "established": 1997,
+        "external_ids": [
+          {
+            "all": [
+              "grid.410675.1"
+            ],
+            "preferred": "grid.410675.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2325 3084"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3329652"
+            ],
+            "preferred": "Q3329652",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00tse2b39",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.uic.es"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "CT",
+              "country_subdivision_name": "Catalonia",
+              "lat": 41.38879,
+              "lng": 2.15899,
+              "name": "Barcelona"
+            },
+            "geonames_id": 3128760
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "International University of Catalonia"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UIC"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "alias"
+            ],
+            "value": "UIC Barcelona"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Internacional de Cataluña"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universitat Internacional de Catalunya"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uoc.edu"
+        ],
+        "established": 1994,
+        "external_ids": [
+          {
+            "all": [
+              "501100013774"
+            ],
+            "preferred": "501100013774",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.36083.3e"
+            ],
+            "preferred": "grid.36083.3e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2171 6620"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3042433"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01f5wp925",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uoc.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Open_University_of_Catalonia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "CT",
+              "country_subdivision_name": "Catalonia",
+              "lat": 41.38879,
+              "lng": 2.15899,
+              "name": "Barcelona"
+            },
+            "geonames_id": 3128760
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Open University of Catalonia"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UOC"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Abierta de Cataluña"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universitat Oberta de Catalunya"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Internet Interdisciplinary Institute",
+            "type": "child",
+            "id": "https://ror.org/01h7vn964"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uvic-ucc.cat"
+        ],
+        "established": 1599,
+        "external_ids": [
+          {
+            "all": [
+              "grid.440820.a"
+            ],
+            "preferred": "grid.440820.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q935460"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/006zjws59",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://uvic-ucc.cat/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Vic_-_Central_University_of_Catalonia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "CT",
+              "country_subdivision_name": "Catalonia",
+              "lat": 41.93012,
+              "lng": 2.25486,
+              "name": "Vic"
+            },
+            "geonames_id": 3106050
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UVic-UCC"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "Universidad de Vic"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de Vic - Universidad Central de Catalunya"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "Universitat de Vic"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universitat de Vic - Universitat Central de Catalunya"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Vic"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Vic - Central University of Catalonia"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1907,
+        "external_ids": [
+          {
+            "all": [
+              "grid.462577.5"
+            ],
+            "preferred": "grid.462577.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2291 9040"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1200925"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00bep5t26",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.bnc.cat"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/National_Library_of_Catalonia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "CT",
+              "country_subdivision_name": "Catalonia",
+              "lat": 41.38879,
+              "lng": 2.15899,
+              "name": "Barcelona"
+            },
+            "geonames_id": 3128760
+          }
+        ],
+        "names": [
+          {
+            "lang": "ca",
+            "types": [
+              "label"
+            ],
+            "value": "Biblioteca de Catalunya"
+          },
+          {
+            "lang": "gl",
+            "types": [
+              "label"
+            ],
+            "value": "Biblioteca de Catalunya"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Biblioteca de Cataluña"
+          },
+          {
+            "lang": "oc",
+            "types": [
+              "label"
+            ],
+            "value": "Bibliotèca de Catalonha"
+          },
+          {
+            "lang": "eu",
+            "types": [
+              "label"
+            ],
+            "value": "Kataluniako Liburutegia"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Library of Catalonia"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "gencat.cat"
+        ],
+        "established": 1977,
+        "external_ids": [
+          {
+            "all": [
+              "501100002809",
+              "501100002943"
+            ],
+            "preferred": "501100002809",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.454735.4"
+            ],
+            "preferred": "grid.454735.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2331 7762"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q8022",
+              "Q3112544"
+            ],
+            "preferred": "Q8022",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01bg62x04",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://catalangovernment.eu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Generalitat_de_Catalunya"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "CT",
+              "country_subdivision_name": "Catalonia",
+              "lat": 41.38879,
+              "lng": 2.15899,
+              "name": "Barcelona"
+            },
+            "geonames_id": 3128760
+          }
+        ],
+        "names": [
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Generalidad de Cataluña"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Generalitat de Catalunya"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Government of Catalonia"
+          },
+          {
+            "lang": "eu",
+            "types": [
+              "label"
+            ],
+            "value": "Kataluniako Generalitatea"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Agencia per a la Competitivit de l'Empresa",
+            "type": "child",
+            "id": "https://ror.org/01xhc9d78"
+          },
+          {
+            "label": "Agència de Gestió d'Ajuts Universitaris i de Recerca",
+            "type": "child",
+            "id": "https://ror.org/01n4pqe45"
+          },
+          {
+            "label": "Departament d'Educació",
+            "type": "child",
+            "id": "https://ror.org/02dkz1149"
+          },
+          {
+            "label": "Departament de Cultura",
+            "type": "child",
+            "id": "https://ror.org/014ns9811"
+          },
+          {
+            "label": "Departament de Salut",
+            "type": "child",
+            "id": "https://ror.org/00nyrjc53"
+          },
+          {
+            "label": "Institut Català de la Salut",
+            "type": "child",
+            "id": "https://ror.org/04wkdwp52"
+          },
+          {
+            "label": "Institut Català de les Dones",
+            "type": "child",
+            "id": "https://ror.org/03g0h0k24"
+          },
+          {
+            "label": "Institut de Seguretat Pública de Catalunya",
+            "type": "child",
+            "id": "https://ror.org/01k6ah132"
+          },
+          {
+            "label": "Institute of Agrifood Research and Technology",
+            "type": "child",
+            "id": "https://ror.org/012zh9h13"
+          },
+          {
+            "label": "Departament d'Economia i Hisenda de la Generalitat de Catalunya",
+            "type": "child",
+            "id": "https://ror.org/0564q6y15"
+          },
+          {
+            "label": "Institut Nacional d'Educació Física de Catalunya",
+            "type": "child",
+            "id": "https://ror.org/04xrm3t06"
+          },
+          {
+            "label": "Institut de Política Econòmica i Governança",
+            "type": "child",
+            "id": "https://ror.org/03wbt1f24"
+          },
+          {
+            "label": "Departament de Recerca i Universitats",
+            "type": "child",
+            "id": "https://ror.org/01gbnem66"
+          },
+          {
+            "label": "Departament d'Empresa i Treball",
+            "type": "child",
+            "id": "https://ror.org/01jn7qf49"
+          },
+          {
+            "label": "Meteorological Service of Catalonia",
+            "type": "child",
+            "id": "https://ror.org/03hm91306"
+          },
+          {
+            "label": "Escola d'Administració Pública de Catalunya",
+            "type": "child",
+            "id": "https://ror.org/04gv4cm14"
+          },
+          {
+            "label": "Centre for Research on Ecology and Forestry Applications",
+            "type": "related",
+            "id": "https://ror.org/03abrgd14"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-05",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "residus.gencat.cat"
+        ],
+        "established": 2003,
+        "external_ids": [
+          {
+            "all": [
+              "501100008023"
+            ],
+            "preferred": "501100008023",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/03wqkx133",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://residus.gencat.cat"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "CT",
+              "country_subdivision_name": "Catalonia",
+              "lat": 41.38879,
+              "lng": 2.15899,
+              "name": "Barcelona"
+            },
+            "geonames_id": 3128760
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ARC"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "Agencia de Residuos de Cataluña"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Agència de Residus de Catalunya"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Waste Agency of Catalonia"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ibecbarcelona.eu"
+        ],
+        "established": 2005,
+        "external_ids": [
+          {
+            "all": [
+              "501100014373"
+            ],
+            "preferred": "501100014373",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.424736.0"
+            ],
+            "preferred": "grid.424736.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0536 2369"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q26612557"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/056h71x09",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ibecbarcelona.eu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Institute_for_Bioengineering_of_Catalonia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "CT",
+              "country_subdivision_name": "Catalonia",
+              "lat": 41.38879,
+              "lng": 2.15899,
+              "name": "Barcelona"
+            },
+            "geonames_id": 3128760
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IBEC"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IBEC-CERCA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Institute for Bioengineering of Catalonia"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "L’Institut de Bioenginyeria de Catalunya"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Barcelona Institute for Science and Technology",
+            "type": "parent",
+            "id": "https://ror.org/03kpps236"
+          },
+          {
+            "label": "CERCA Institution",
+            "type": "parent",
+            "id": "https://ror.org/01bkbaq61"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1983,
+        "external_ids": [
+          {
+            "all": [
+              "grid.440254.3"
+            ],
+            "preferred": "grid.440254.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1793 6999"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q27493190"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02k4qm934",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.hgc.es"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "CT",
+              "country_subdivision_name": "Catalonia",
+              "lat": 41.38879,
+              "lng": 2.15899,
+              "name": "Barcelona"
+            },
+            "geonames_id": 3128760
+          }
+        ],
+        "names": [
+          {
+            "lang": "ca",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Hospital General de Catalunya"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1989,
+        "external_ids": [
+          {
+            "all": [
+              "grid.435445.7"
+            ],
+            "preferred": "grid.435445.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2206 6754"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1636785"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00ye5fx14",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.idescat.cat/en/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Statistical_Institute_of_Catalonia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "CT",
+              "country_subdivision_name": "Catalonia",
+              "lat": 41.38879,
+              "lng": 2.15899,
+              "name": "Barcelona"
+            },
+            "geonames_id": 3128760
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IDESCAT"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Institut d'Estadística de Catalunya"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Statistical Institute of Catalonia"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1932,
+        "external_ids": [
+          {
+            "all": [
+              "grid.436697.9"
+            ],
+            "preferred": "grid.436697.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2336 7321"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3366823"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01kc9ap60",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.mac.cat/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Archaeology_Museum_of_Catalonia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "CT",
+              "country_subdivision_name": "Catalonia",
+              "lat": 41.38879,
+              "lng": 2.15899,
+              "name": "Barcelona"
+            },
+            "geonames_id": 3128760
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Archaeology Museum of Catalonia"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MAC"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Museo de Arqueología de Cataluña"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Museu d'Arqueologia de Catalunya"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-11-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "icgc.cat"
+        ],
+        "established": 2014,
+        "external_ids": [
+          {
+            "all": [
+              "grid.435441.3"
+            ],
+            "preferred": "grid.435441.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2188 0308"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q22704014"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03d2ezn18",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.icgc.cat/ca"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "CT",
+              "country_subdivision_name": "Catalonia",
+              "lat": 41.38879,
+              "lng": 2.15899,
+              "name": "Barcelona"
+            },
+            "geonames_id": 3128760
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ICC"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ICGC"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "alias"
+            ],
+            "value": "Institut Cartogràfic de Catalunya"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Institut Cartogràfic i Geològic de Catalunya"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-01-29",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "consorci.org"
+        ],
+        "established": 1983,
+        "external_ids": [
+          {
+            "all": [
+              "grid.423737.6"
+            ],
+            "preferred": "grid.423737.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1785 3341"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30284507"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05qmxat05",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.consorci.org"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "CT",
+              "country_subdivision_name": "Catalonia",
+              "lat": 41.38879,
+              "lng": 2.15899,
+              "name": "Barcelona"
+            },
+            "geonames_id": 3128760
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CSC"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "alias"
+            ],
+            "value": "Consorci Hospitalari de Catalunya"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Consorcio de Salud y Social de Cataluña"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Consortium for Health and Social Catalonia"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-05-19",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-06-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "meteo.cat"
+        ],
+        "established": 1921,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0001 2206 322X"
+            ],
+            "preferred": "0000 0001 2206 322X",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q11949463"
+            ],
+            "preferred": "Q11949463",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03hm91306",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.meteo.cat"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Meteorological_Service_of_Catalonia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "CT",
+              "country_subdivision_name": "Catalonia",
+              "lat": 41.39942,
+              "lng": 2.12804,
+              "name": "Barcelona"
+            },
+            "geonames_id": 6356055
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Meteocat"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Meteorological Service of Catalonia"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "acronym"
+            ],
+            "value": "SMC"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "label"
+            ],
+            "value": "Servei Meteorològic de Catalunya"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Generalitat de Catalunya",
+            "type": "parent",
+            "id": "https://ror.org/01bg62x04"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2004,
+        "external_ids": [
+          {
+            "all": [
+              "grid.441054.0"
+            ],
+            "preferred": "grid.441054.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0369 6592"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q16644529"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04ena6v85",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.upchiapas.edu.mx/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "MX",
+              "country_name": "Mexico",
+              "country_subdivision_code": "CHP",
+              "country_subdivision_name": "Chiapas",
+              "lat": 16.75973,
+              "lng": -93.11308,
+              "name": "Tuxtla Gutiérrez"
+            },
+            "geonames_id": 3515001
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UPChiapas"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universidad Politécnica de Chiapas"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2002,
+        "external_ids": [
+          {
+            "all": [
+              "grid.441079.f"
+            ],
+            "preferred": "grid.441079.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0369 4562"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6156631"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05xg5y175",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.upa.edu.mx/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "MX",
+              "country_name": "Mexico",
+              "country_subdivision_code": "AGU",
+              "country_subdivision_name": "Aguascalientes",
+              "lat": 21.88234,
+              "lng": -102.28259,
+              "name": "Aguascalientes"
+            },
+            "geonames_id": 4019233
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Polytechnic University of Aguascalientes"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UPA"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universidad Politécnica de Aguascalientes"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-04-06",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2018,
+        "external_ids": [
+          {
+            "all": [
+              "grid.510468.e"
+            ],
+            "preferred": "grid.510468.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0369 4415"
+            ],
+            "preferred": "0000 0004 0369 4415",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q90838680"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0580rm578",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.upq.mx/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "MX",
+              "country_name": "Mexico",
+              "country_subdivision_code": "CMX",
+              "country_subdivision_name": "Mexico City",
+              "lat": 19.42847,
+              "lng": -99.12766,
+              "name": "Mexico City"
+            },
+            "geonames_id": 3530597
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Polytechnic University of Queretaro"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UPQ"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Politécnica de Querétaro"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2002,
+        "external_ids": [
+          {
+            "all": [
+              "grid.464706.7"
+            ],
+            "preferred": "grid.464706.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0369 2612"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/04bhgg012",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.upt.edu.mx/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "MX",
+              "country_name": "Mexico",
+              "country_subdivision_code": "HID",
+              "country_subdivision_name": "Hidalgo",
+              "lat": 20.08355,
+              "lng": -98.36288,
+              "name": "Tulancingo"
+            },
+            "geonames_id": 3515062
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UPT"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universidad Politécnica de Tulancingo"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 3689
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 2911
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 2167
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 1352
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 1031
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 1002
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 879
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 291
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 228
+        }
+      ],
+      "countries": [
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 2384
+        },
+        {
+          "id": "pt",
+          "title": "Portugal",
+          "count": 1271
+        },
+        {
+          "id": "es",
+          "title": "Spain",
+          "count": 1233
+        },
+        {
+          "id": "br",
+          "title": "Brazil",
+          "count": 1066
+        },
+        {
+          "id": "mx",
+          "title": "Mexico",
+          "count": 694
+        },
+        {
+          "id": "ca",
+          "title": "Canada",
+          "count": 587
+        },
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 555
+        },
+        {
+          "id": "ar",
+          "title": "Argentina",
+          "count": 377
+        },
+        {
+          "id": "co",
+          "title": "Colombia",
+          "count": 261
+        },
+        {
+          "id": "ch",
+          "title": "Switzerland",
+          "count": 191
+        }
+      ],
+      "continents": [
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 5883
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 2315
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 2191
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 776
+        },
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 169
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 24
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 11356
+        }
+      ]
+    }
+  }
+}

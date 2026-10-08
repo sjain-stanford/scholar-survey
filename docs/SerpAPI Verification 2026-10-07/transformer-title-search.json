@@ -1,0 +1,126 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "q": "\"Understanding and Overcoming the Challenges of Efficient Transformer Quantization\"",
+    "hl": "en",
+    "no_cache": "true"
+  },
+  "accessed_at_utc": "2026-10-07T12:30:53.132485+00:00",
+  "completed_at_utc": "2026-10-07T12:30:54.226863+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63b7dc83b3fe4fb2e8ddd",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/0d_Q_X3WVoaAiHChbyMK-bR_DMrNZ7mHlZR9i_C2fa0/6ac63b7dc83b3fe4fb2e8ddd.json",
+      "markdown_endpoint": "https://serpapi.com/searches/0d_Q_X3WVoaAiHChbyMK-bR_DMrNZ7mHlZR9i_C2fa0/6ac63b7dc83b3fe4fb2e8ddd.md",
+      "created_at": "2026-10-07 12:30:53 UTC",
+      "processed_at": "2026-10-07 12:30:53 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?q=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en",
+      "raw_html_file": "https://serpapi.com/searches/0d_Q_X3WVoaAiHChbyMK-bR_DMrNZ7mHlZR9i_C2fa0/6ac63b7dc83b3fe4fb2e8ddd.html",
+      "total_time_taken": 0.83
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "q": "\"Understanding and Overcoming the Challenges of Efficient Transformer Quantization\"",
+      "hl": "en"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "query_displayed": "\"Understanding and Overcoming the Challenges of Efficient Transformer Quantization\""
+    },
+    "profiles": {
+      "link": "https://scholar.google.com/scholar?lookup=0&q=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Understanding and overcoming the challenges of efficient transformer quantization",
+        "result_id": "LeTtXkrq4HgJ",
+        "link": "https://aclanthology.org/2021.emnlp-main.627/",
+        "snippet": "Transformer-based architectures have become the de-facto standard models for a wide range of Natural Language Processing tasks. However, their memory footprint and high latency are prohibitive for efficient deployment and inference on resource-limited devices. In this work, we explore quantization for transformers. We show that transformers have unique quantization challenges–namely, high dynamic activation ranges that are difficult to represent with a low bit fixed-point format. We establish that these activations contain …",
+        "publication_info": {
+          "summary": "Y Bondarenko, M Nagel… - Proceedings of the 2021 …, 2021 - aclanthology.org",
+          "authors": [
+            {
+              "name": "Y Bondarenko",
+              "link": "https://scholar.google.com/citations?user=4mHNa28AAAAJ&hl=en&oi=sra",
+              "author_id": "4mHNa28AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4mHNa28AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "M Nagel",
+              "link": "https://scholar.google.com/citations?user=akNuBBEAAAAJ&hl=en&oi=sra",
+              "author_id": "akNuBBEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=akNuBBEAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "aclanthology.org",
+            "file_format": "PDF",
+            "link": "https://aclanthology.org/2021.emnlp-main.627.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=LeTtXkrq4HgJ",
+          "cited_by": {
+            "total": 271,
+            "link": "https://scholar.google.com/scholar?cites=8710219284475667501&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "8710219284475667501",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=8710219284475667501&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:LeTtXkrq4HgJ:scholar.google.com/&scioq=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3ALeTtXkrq4HgJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 5,
+            "link": "https://scholar.google.com/scholar?cluster=8710219284475667501&hl=en&as_sdt=0,5",
+            "cluster_id": "8710219284475667501",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=8710219284475667501&engine=google_scholar&hl=en"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:LeTtXkrq4HgJ:scholar.google.com/+%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5"
+        }
+      },
+      {
+        "position": 2,
+        "title": "Understanding and overcoming the challenges of efficient transformer quantization, 2021",
+        "result_id": "RrUHmKL4gj0J",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+          "summary": "Y Bondarenko, M Nagel, T Blankevoort - URL https://arxiv. org/abs/2109.12948",
+          "authors": [
+            {
+              "name": "Y Bondarenko"
+            },
+            {
+              "name": "M Nagel"
+            },
+            {
+              "name": "T Blankevoort"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=RrUHmKL4gj0J",
+          "cited_by": {
+            "total": 11,
+            "link": "https://scholar.google.com/scholar?cites=4432378360505021766&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "4432378360505021766",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4432378360505021766&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:RrUHmKL4gj0J:scholar.google.com/&scioq=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3ARrUHmKL4gj0J%3Ascholar.google.com%2F"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+name: Validate research site
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Check generated entry page
+        run: |
+          python3 scripts/build_reports.py --check
+          python3 scripts/build_site.py --check
+      - name: Check research files and links
+        run: python3 scripts/validate_site.py
+      - name: Install PDF marking dependency
+        run: python3 -m pip install -r scripts/marking-requirements.txt
+      - name: Check grouped PDF markings
+        run: |
+          python3 -m unittest discover -s scripts -p 'test_*.py'
+          python3 scripts/optimize_markings.py --check
+          python3 scripts/audit_markings.py

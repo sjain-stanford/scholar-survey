@@ -1,0 +1,115 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "q": "intitle:\"Mixed precision DNNs\" Uhlich",
+    "hl": "en",
+    "num": 10
+  },
+  "accessed_at_utc": "2026-10-07T12:40:01.740193+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63da15922f478ac24f8c9",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/V0XXpZ8DVizyWfpXGWFVoMVrBiUtqR847D4aLHk4tyE/6ac63da15922f478ac24f8c9.json",
+      "markdown_endpoint": "https://serpapi.com/searches/V0XXpZ8DVizyWfpXGWFVoMVrBiUtqR847D4aLHk4tyE/6ac63da15922f478ac24f8c9.md",
+      "created_at": "2026-10-07 12:40:01 UTC",
+      "processed_at": "2026-10-07 12:40:01 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?q=intitle%3A%22Mixed+precision+DNNs%22+Uhlich&hl=en&num=10",
+      "raw_html_file": "https://serpapi.com/searches/V0XXpZ8DVizyWfpXGWFVoMVrBiUtqR847D4aLHk4tyE/6ac63da15922f478ac24f8c9.html",
+      "total_time_taken": 1.05
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "q": "intitle:\"Mixed precision DNNs\" Uhlich",
+      "hl": "en",
+      "num": "10"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "query_displayed": "intitle:\"Mixed precision DNNs\" Uhlich"
+    },
+    "profiles": {
+      "link": "https://scholar.google.com/scholar?lookup=0&q=intitle:%22Mixed+precision+DNNs%22+Uhlich&hl=en&as_sdt=0,5",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=intitle%3A%22Mixed+precision+DNNs%22+Uhlich"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Mixed precision dnns: All you need is a good parametrization",
+        "result_id": "SchgLhjy2EIJ",
+        "link": "https://arxiv.org/abs/1905.11452",
+        "snippet": "Efficient deep neural network (DNN) inference on mobile or embedded devices typically involves quantization of the network parameters and activations. In particular, mixed precision networks achieve better performance than networks with homogeneous bitwidth for the same size constraint. Since choosing the optimal bitwidths is not straight forward, training methods, which can learn them, are desirable. Differentiable quantization with straight-through gradients allows to learn the quantizer's parameters using gradient methods. We show that a suited parametrization of the quantizer is the key to achieve a stable training and a good final performance. Specifically, we propose to parametrize the quantizer with the step size and dynamic range. The bitwidth can then be inferred from them. Other parametrizations, which explicitly use the bitwidth, consistently perform worse. We confirm our findings with experiments on CIFAR-10 and ImageNet and we obtain mixed precision DNNs with learned quantization parameters, achieving state-of-the-art performance.",
+        "publication_info": {
+          "summary": "S Uhlich, L Mauch, F Cardinaux, K Yoshiyama, JA Garcia, S Tiedemann, T Kemp…arXiv preprint arXiv:1905.11452, 2019•arxiv.org",
+          "authors": [
+            {
+              "name": "S Uhlich",
+              "link": "https://scholar.google.com/citations?user=hja8ejYAAAAJ&hl=en&oi=sra",
+              "author_id": "hja8ejYAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=hja8ejYAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "L Mauch",
+              "link": "https://scholar.google.com/citations?user=ivJ6Tf8AAAAJ&hl=en&oi=sra",
+              "author_id": "ivJ6Tf8AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ivJ6Tf8AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "F Cardinaux",
+              "link": "https://scholar.google.com/citations?user=UFl8n4gAAAAJ&hl=en&oi=sra",
+              "author_id": "UFl8n4gAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=UFl8n4gAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "K Yoshiyama"
+            },
+            {
+              "name": "JA Garcia"
+            },
+            {
+              "name": "S Tiedemann"
+            },
+            {
+              "name": "T Kemp",
+              "link": "https://scholar.google.com/citations?user=zrSeuaUAAAAJ&hl=en&oi=sra",
+              "author_id": "zrSeuaUAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=zrSeuaUAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/1905.11452"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=SchgLhjy2EIJ",
+          "cited_by": {
+            "total": 230,
+            "link": "https://scholar.google.com/scholar?cites=4816865987143977033&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "4816865987143977033",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4816865987143977033&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:SchgLhjy2EIJ:scholar.google.com/&scioq=intitle:%22Mixed+precision+DNNs%22+Uhlich&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3ASchgLhjy2EIJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 7,
+            "link": "https://scholar.google.com/scholar?cluster=4816865987143977033&hl=en&as_sdt=0,5",
+            "cluster_id": "4816865987143977033",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=4816865987143977033&engine=google_scholar&hl=en"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:SchgLhjy2EIJ:scholar.google.com/+intitle:%22Mixed+precision+DNNs%22+Uhlich&hl=en&as_sdt=0,5"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1900 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=University+of+Alberta",
+  "http_status": 200,
+  "query": "University of Alberta",
+  "data": {
+    "number_of_results": 35537,
+    "time_taken": 41,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ualberta.ca"
+        ],
+        "established": 1908,
+        "external_ids": [
+          {
+            "all": [
+              "501100000190",
+              "501100003179",
+              "501100000144",
+              "501100000103",
+              "501100000067",
+              "100006516",
+              "501100006441",
+              "100008741",
+              "501100007201",
+              "501100006043",
+              "501100019556",
+              "501100019691",
+              "501100024602",
+              "501100020890"
+            ],
+            "preferred": "501100000190",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.17089.37"
+            ],
+            "preferred": "grid.17089.37",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2190 316X"
+            ],
+            "preferred": "0000 0001 2190 316X",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q640694"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0160cpw27",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ualberta.ca"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Alberta"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "AB",
+              "country_subdivision_name": "Alberta",
+              "lat": 53.55014,
+              "lng": -113.46871,
+              "name": "Edmonton"
+            },
+            "geonames_id": 5946768
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "UAlberta"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Alberta"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de l'Alberta"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Alberta Gambling Research Institute",
+            "type": "child",
+            "id": "https://ror.org/030ykd126"
+          },
+          {
+            "label": "Bamfield Marine Sciences Centre",
+            "type": "child",
+            "id": "https://ror.org/039cthy03"
+          },
+          {
+            "label": "Canadian Glycomics Network",
+            "type": "child",
+            "id": "https://ror.org/049bc0z69"
+          },
+          {
+            "label": "The Steadward Centre for Personal & Physical Achievement",
+            "type": "child",
+            "id": "https://ror.org/03bm0gj87"
+          },
+          {
+            "label": "Alberta Centre for Injury Control & Research",
+            "type": "child",
+            "id": "https://ror.org/02zccb110"
+          },
+          {
+            "label": "National Institute for Nanotechnology",
+            "type": "child",
+            "id": "https://ror.org/05c0g2426"
+          },
+          {
+            "label": "Red Deer Regional Hospital",
+            "type": "related",
+            "id": "https://ror.org/04f7crx66"
+          },
+          {
+            "label": "Stollery Children's Hospital",
+            "type": "related",
+            "id": "https://ror.org/05w90nk74"
+          },
+          {
+            "label": "University of Alberta Hospital",
+            "type": "related",
+            "id": "https://ror.org/013e81n30"
+          },
+          {
+            "label": "Open Data Commons for Spinal Cord Injury",
+            "type": "related",
+            "id": "https://ror.org/027790w81"
+          },
+          {
+            "label": "Cross Cancer Institute",
+            "type": "related",
+            "id": "https://ror.org/00m3k3802"
+          },
+          {
+            "label": "Alberta Neuroscience",
+            "type": "related",
+            "id": "https://ror.org/00qhv7g67"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1906,
+        "external_ids": [
+          {
+            "all": [
+              "grid.241114.3"
+            ],
+            "preferred": "grid.241114.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0459 7625"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7895046"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/013e81n30",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.albertahealthservices.ca/facilities.asp?pid=facility&rid=6600"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Alberta_Hospital"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "AB",
+              "country_subdivision_name": "Alberta",
+              "lat": 53.55014,
+              "lng": -113.46871,
+              "name": "Edmonton"
+            },
+            "geonames_id": 5946768
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UAH"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Alberta Hospital"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Alberta Health Services",
+            "type": "parent",
+            "id": "https://ror.org/02nt5es71"
+          },
+          {
+            "label": "University of Alberta",
+            "type": "related",
+            "id": "https://ror.org/0160cpw27"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-02-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "auarts.ca"
+        ],
+        "established": 1926,
+        "external_ids": [
+          {
+            "all": [
+              "grid.439918.e"
+            ],
+            "preferred": "grid.439918.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0149 9956"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4063387"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00mn36586",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.auarts.ca"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Alberta_College_of_Art_and_Design"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "AB",
+              "country_subdivision_name": "Alberta",
+              "lat": 51.05011,
+              "lng": -114.08529,
+              "name": "Calgary"
+            },
+            "geonames_id": 5913490
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ACAD"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "AUArts"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Alberta College of Art + Design"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Alberta College of Art and Design"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Alberta University of the Arts"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "concordia.ab.ca"
+        ],
+        "established": 1921,
+        "external_ids": [
+          {
+            "all": [
+              "100011858"
+            ],
+            "preferred": "100011858",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.254645.4"
+            ],
+            "preferred": "grid.254645.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0702 7079"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5159003"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04013rx15",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://concordia.ab.ca/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Concordia_University_of_Edmonton"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "AB",
+              "country_subdivision_name": "Alberta",
+              "lat": 53.55014,
+              "lng": -113.46871,
+              "name": "Edmonton"
+            },
+            "geonames_id": 5946768
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Concordia University College of Alberta"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Concordia University of Edmonton"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1905,
+        "external_ids": [
+          {
+            "all": [
+              "100013200",
+              "100013199"
+            ],
+            "preferred": "100013200",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.484182.3"
+            ],
+            "preferred": "grid.484182.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0459 5283"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/006b2g567",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.alberta.ca/index.aspx"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "AB",
+              "country_subdivision_name": "Alberta",
+              "lat": 53.55014,
+              "lng": -113.46871,
+              "name": "Edmonton"
+            },
+            "geonames_id": 5946768
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Government of Alberta"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Alberta Student Aid",
+            "type": "child",
+            "id": "https://ror.org/05h37g806"
+          },
+          {
+            "label": "Canadian Centre of Recovery Excellence",
+            "type": "child",
+            "id": "https://ror.org/01har3c06"
+          },
+          {
+            "label": "Recovery Alberta",
+            "type": "child",
+            "id": "https://ror.org/00avgdc22"
+          },
+          {
+            "label": "Alberta Ministry of Arts, Culture and Status of Women",
+            "type": "child",
+            "id": "https://ror.org/0404d6v97"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1995,
+        "external_ids": [
+          {
+            "all": [
+              "grid.432824.b"
+            ],
+            "preferred": "grid.432824.b",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/011qe1419",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.riverwatch.ab.ca/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "AB",
+              "country_subdivision_name": "Alberta",
+              "lat": 53.55014,
+              "lng": -113.46871,
+              "name": "Edmonton"
+            },
+            "geonames_id": 5946768
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "RiverWatch Insitute of Alberta"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2020-07-06",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1967,
+        "external_ids": [
+          {
+            "all": [
+              "grid.507771.3"
+            ],
+            "preferred": "grid.507771.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2189 4347"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2170950"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00qapk656",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://royalalbertamuseum.ca/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Royal_Alberta_Museum"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "AB",
+              "country_subdivision_name": "Alberta",
+              "lat": 53.55014,
+              "lng": -113.46871,
+              "name": "Edmonton"
+            },
+            "geonames_id": 5946768
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Provincial Museum of Alberta"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "RAM"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Royal Alberta Museum"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-01-28",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-01-29",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "metis.org"
+        ],
+        "established": 1928,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0000 9742 7502"
+            ],
+            "preferred": "0000 0000 9742 7502",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6950140"
+            ],
+            "preferred": "Q6950140",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02sm0eb42",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://albertametis.com"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Otipemisiwak_M%C3%A9tis_Government"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "AB",
+              "country_subdivision_name": "Alberta",
+              "lat": 53.55014,
+              "lng": -113.46871,
+              "name": "Edmonton"
+            },
+            "geonames_id": 5946768
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "MNA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Métis Nation of Alberta"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Otipemisiwak Métis Government of Métis Nation within Alberta"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-06-14",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-06-23",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "abpharmacy.ca"
+        ],
+        "established": 1911,
+        "external_ids": [
+          {
+            "all": [
+              "100014403"
+            ],
+            "preferred": "100014403",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/04k2vyf58",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://abpharmacy.ca"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "AB",
+              "country_subdivision_name": "Alberta",
+              "lat": 53.55014,
+              "lng": -113.46871,
+              "name": "Edmonton"
+            },
+            "geonames_id": 5946768
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "ACP"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Alberta College of Pharmacists"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Alberta College of Pharmacy"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-05",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "parkinsonassociation.ca"
+        ],
+        "established": 1981,
+        "external_ids": [
+          {
+            "all": [
+              "501100020022"
+            ],
+            "preferred": "501100020022",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/03y85g863",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://parkinsonassociation.ca"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "AB",
+              "country_subdivision_name": "Alberta",
+              "lat": 51.05011,
+              "lng": -114.08529,
+              "name": "Calgary"
+            },
+            "geonames_id": 5913490
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PAA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Parkinson Alberta Society"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Parkinson Association of Alberta"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-05",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2015,
+        "external_ids": [
+          {
+            "all": [
+              "501100023679"
+            ],
+            "preferred": "501100023679",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/01f5cav29",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ualberta.ca/en/neuroscience-and-mental-health-institute/index.html"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "AB",
+              "country_subdivision_name": "Alberta",
+              "lat": 53.55014,
+              "lng": -113.46871,
+              "name": "Edmonton"
+            },
+            "geonames_id": 5946768
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NMHI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Neuroscience & Mental Health Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Neuroscience & Mental Health Institute - University of Alberta"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Neuroscience and Mental Health Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Neuroscience and Mental Health Institute - University of Alberta"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Neuroscience and Mental Health Institute, University of Alberta"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1984,
+        "external_ids": [
+          {
+            "all": [
+              "grid.450335.4"
+            ],
+            "preferred": "grid.450335.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0686 8140"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4711622"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00wh57194",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.energy.alberta.ca/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Alberta_Energy"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "AB",
+              "country_subdivision_name": "Alberta",
+              "lat": 53.55014,
+              "lng": -113.46871,
+              "name": "Edmonton"
+            },
+            "geonames_id": 5946768
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Alberta Energy"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2008,
+        "external_ids": [
+          {
+            "all": [
+              "501100003053"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.413573.7"
+            ],
+            "preferred": "grid.413573.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0371 4957"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/03pz1p187",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.health.alberta.ca/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "AB",
+              "country_subdivision_name": "Alberta",
+              "lat": 53.55014,
+              "lng": -113.46871,
+              "name": "Edmonton"
+            },
+            "geonames_id": 5946768
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Alberta Health"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1990,
+        "external_ids": [
+          {
+            "all": [
+              "grid.475080.e"
+            ],
+            "preferred": "grid.475080.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0487 9073"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/012jxwf11",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.thealbertalibrary.ab.ca/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "AB",
+              "country_subdivision_name": "Alberta",
+              "lat": 53.55014,
+              "lng": -113.46871,
+              "name": "Edmonton"
+            },
+            "geonames_id": 5946768
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Alberta Library"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1957,
+        "external_ids": [
+          {
+            "all": [
+              "100010405"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.480561.e"
+            ],
+            "preferred": "grid.480561.e",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/02s4dmy28",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.landscape-alberta.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "AB",
+              "country_subdivision_name": "Alberta",
+              "lat": 53.55014,
+              "lng": -113.46871,
+              "name": "Edmonton"
+            },
+            "geonames_id": 5946768
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Landscape Alberta"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Landscape Alberta Nursery Trades Association"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2001,
+        "external_ids": [
+          {
+            "all": [
+              "grid.465832.e"
+            ],
+            "preferred": "grid.465832.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0562 9828"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/02tr1pz26",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://international.alberta-koledza.lv/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "LV",
+              "country_name": "Latvia",
+              "country_subdivision_code": "RIX",
+              "country_subdivision_name": "Riga",
+              "lat": 56.946,
+              "lng": 24.10589,
+              "name": "Riga"
+            },
+            "geonames_id": 456172
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Alberta College"
+          },
+          {
+            "lang": "lv",
+            "types": [
+              "label"
+            ],
+            "value": "Alberta Koledža"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-08-30",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "501100010787"
+            ],
+            "preferred": "501100010787",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "0000 0004 0634 9860"
+            ],
+            "preferred": "0000 0004 0634 9860",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q24083774"
+            ],
+            "preferred": "Q24083774",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0008rqs82",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://genomealberta.ca"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "AB",
+              "country_subdivision_name": "Alberta",
+              "lat": 51.05011,
+              "lng": -114.08529,
+              "name": "Calgary"
+            },
+            "geonames_id": 5913490
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Genome Alberta"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1991,
+        "external_ids": [
+          {
+            "all": [
+              "100012179"
+            ],
+            "preferred": "100012179",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.483988.6"
+            ],
+            "preferred": "grid.483988.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 6428 4794"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q33121807"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0093wey45",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.albertabarley.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "AB",
+              "country_subdivision_name": "Alberta",
+              "lat": 51.05011,
+              "lng": -114.08529,
+              "name": "Calgary"
+            },
+            "geonames_id": 5913490
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Alberta Barley"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2002,
+        "external_ids": [
+          {
+            "all": [
+              "501100021532"
+            ],
+            "preferred": "501100021532",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.450339.8"
+            ],
+            "preferred": "grid.450339.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0488 370X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/04f6sph74",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.albertamilk.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "AB",
+              "country_subdivision_name": "Alberta",
+              "lat": 53.55014,
+              "lng": -113.46871,
+              "name": "Edmonton"
+            },
+            "geonames_id": 5946768
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Alberta Milk"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-06-01",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-06-02",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "recoveryalberta.ca"
+        ],
+        "established": 2024,
+        "external_ids": [],
+        "id": "https://ror.org/00avgdc22",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.recoveryalberta.ca"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "AB",
+              "country_subdivision_name": "Alberta",
+              "lat": 53.55014,
+              "lng": -113.46871,
+              "name": "Edmonton"
+            },
+            "geonames_id": 5946768
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Recovery Alberta"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Recovery Alberta Mental Health and Addiction Services"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Government of Alberta",
+            "type": "parent",
+            "id": "https://ror.org/006b2g567"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 17813
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 9051
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 4728
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 3956
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 3580
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2263
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2040
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 770
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 411
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 6010
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 4070
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2348
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2061
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1577
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 942
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 866
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 836
+        },
+        {
+          "id": "ca",
+          "title": "Canada",
+          "count": 819
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 799
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 15033
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 9633
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 7338
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1991
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 949
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 594
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 35537
+        }
+      ]
+    }
+  }
+}

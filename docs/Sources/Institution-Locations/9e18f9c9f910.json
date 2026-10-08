@@ -1,0 +1,658 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Mila",
+  "http_status": 200,
+  "query": "Mila",
+  "data": {
+    "number_of_results": 5,
+    "time_taken": 3,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2021-04-06",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-12-15",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "mila.quebec"
+        ],
+        "established": 1993,
+        "external_ids": [
+          {
+            "all": [
+              "grid.510486.e"
+            ],
+            "preferred": "grid.510486.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q67182995"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05c22rx21",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://mila.quebec"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Mila_(research_institute)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "QC",
+              "country_subdivision_name": "Quebec",
+              "lat": 45.50884,
+              "lng": -73.58781,
+              "name": "Montreal"
+            },
+            "geonames_id": 6077243
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "Institut québécois d’intelligence artificielle"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Mila"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Mila - Institut québécois d’intelligence artificielle"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Mila - Quebec Artificial Intelligence Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Mila-Quebec AI Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Montreal Institute for Learning Algorithms"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Quebec Artificial Intelligence Institute"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "International Laboratory on Learning Systems",
+            "type": "child",
+            "id": "https://ror.org/02bkw1m29"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-10-13",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "miu.edu.my"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0005 1437 5863"
+            ],
+            "preferred": "0000 0005 1437 5863",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q21006060"
+            ],
+            "preferred": "Q21006060",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05njtdr40",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://miu.edu.my"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Manipal_International_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MY",
+              "country_name": "Malaysia",
+              "country_subdivision_code": "05",
+              "country_subdivision_name": "Negeri Sembilan",
+              "lat": 2.8033,
+              "lng": 101.7972,
+              "name": "Kampung Baharu Nilai"
+            },
+            "geonames_id": 1771287
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "MILA University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "MIU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Manipal International University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Manipal International University, Malaysia"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "unimi.it"
+        ],
+        "established": 1924,
+        "external_ids": [
+          {
+            "all": [
+              "100012352"
+            ],
+            "preferred": "100012352",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.4708.b"
+            ],
+            "preferred": "grid.4708.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1757 2822"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q46210"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00wjc7c48",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.unimi.it"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Milan"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "25",
+              "country_subdivision_name": "Lombardy",
+              "lat": 45.46427,
+              "lng": 9.18951,
+              "name": "Milan"
+            },
+            "geonames_id": 3173435
+          }
+        ],
+        "names": [
+          {
+            "lang": "it",
+            "types": [
+              "alias"
+            ],
+            "value": "Statale"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UNIMI"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "label"
+            ],
+            "value": "Universitat de Milà"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Milan"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "label"
+            ],
+            "value": "Università degli Studi di Milano"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Universität Mailand"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de milan"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Centre for Multidisciplinary Research in Health Science",
+            "type": "child",
+            "id": "https://ror.org/047sn6763"
+          },
+          {
+            "label": "Milano University Press",
+            "type": "child",
+            "id": "https://ror.org/0198xy071"
+          },
+          {
+            "label": "Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico",
+            "type": "child",
+            "id": "https://ror.org/016zn0y21"
+          },
+          {
+            "label": "Ospedale San Paolo",
+            "type": "child",
+            "id": "https://ror.org/0026m8b31"
+          },
+          {
+            "label": "Luigi Sacco Hospital",
+            "type": "related",
+            "id": "https://ror.org/0025g8755"
+          },
+          {
+            "label": "Azienda Socio Sanitaria Territoriale Grande Ospedale Metropolitano Niguarda",
+            "type": "related",
+            "id": "https://ror.org/00htrxv69"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1968,
+        "external_ids": [
+          {
+            "all": [
+              "grid.483414.e"
+            ],
+            "preferred": "grid.483414.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2097 4142"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q29603741"
+            ],
+            "preferred": "Q29603741",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01y9jdj03",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.imf.csic.es"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "CT",
+              "country_subdivision_name": "Catalonia",
+              "lat": 41.38879,
+              "lng": 2.15899,
+              "name": "Barcelona"
+            },
+            "geonames_id": 3128760
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IMF"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "alias"
+            ],
+            "value": "Institució Milà i Fontanals"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "label"
+            ],
+            "value": "Institució Milà i Fontanals de Recerca en Humanitats"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "Institución Milá y Fontanals"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Institución Milá y Fontanals de Investigación en Humanidades"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Consejo Superior de Investigaciones Científicas",
+            "type": "parent",
+            "id": "https://ror.org/02gfc7t72"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "centre-univ-mila.dz"
+        ],
+        "established": 2008,
+        "external_ids": [
+          {
+            "all": [
+              "grid.442497.8"
+            ],
+            "preferred": "grid.442497.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 4655 0892"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q12192814"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05s3cw058",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.centre-univ-mila.dz"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "DZ",
+              "country_name": "Algeria",
+              "country_subdivision_code": "43",
+              "country_subdivision_name": "Mila",
+              "lat": 36.45028,
+              "lng": 6.26444,
+              "name": "Mila"
+            },
+            "geonames_id": 2487452
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Centre Universitaire de Mila"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "المركز الجامعي-ميلة"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 3
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 2
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 1
+        }
+      ],
+      "countries": [
+        {
+          "id": "ca",
+          "title": "Canada",
+          "count": 1
+        },
+        {
+          "id": "dz",
+          "title": "Algeria",
+          "count": 1
+        },
+        {
+          "id": "es",
+          "title": "Spain",
+          "count": 1
+        },
+        {
+          "id": "it",
+          "title": "Italy",
+          "count": 1
+        },
+        {
+          "id": "my",
+          "title": "Malaysia",
+          "count": 1
+        }
+      ],
+      "continents": [
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 2
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1
+        },
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 1
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 1
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 5
+        }
+      ]
+    }
+  }
+}

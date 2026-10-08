@@ -1,0 +1,80 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cites": "1211587708316162333",
+    "hl": "en",
+    "num": 20,
+    "start": 60,
+    "filter": 0,
+    "as_vis": 0,
+    "as_sdt": 7,
+    "no_cache": "true"
+  },
+  "accessed_at_utc": "2026-10-07T12:40:29.896196+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63dbe09a51a8319868797",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/qpAf3iROBM9gjrapHFPOcYERofP4l2Mwq7lm_PnRySE/6ac63dbe09a51a8319868797.json",
+      "markdown_endpoint": "https://serpapi.com/searches/qpAf3iROBM9gjrapHFPOcYERofP4l2Mwq7lm_PnRySE/6ac63dbe09a51a8319868797.md",
+      "created_at": "2026-10-07 12:40:30 UTC",
+      "processed_at": "2026-10-07 12:40:30 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cites=1211587708316162333&hl=en&start=60&num=21&filter=0&as_sdt=7&as_vis=0&scipsc=1",
+      "raw_html_file": "https://serpapi.com/searches/qpAf3iROBM9gjrapHFPOcYERofP4l2Mwq7lm_PnRySE/6ac63dbe09a51a8319868797.html",
+      "total_time_taken": 2.62
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cites": "1211587708316162333",
+      "hl": "en",
+      "start": 60,
+      "num": "20",
+      "filter": "0",
+      "as_sdt": "7",
+      "as_vis": "0"
+    },
+    "search_information": {
+      "organic_results_state": "Fully empty",
+      "total_results": 52,
+      "page_number": 4,
+      "time_taken_displayed": 0.07
+    },
+    "error": "Google hasn't returned any results for this query.",
+    "citations_per_year": [
+      {
+        "year": 2019,
+        "citations": 1
+      },
+      {
+        "year": 2020,
+        "citations": 10
+      },
+      {
+        "year": 2021,
+        "citations": 43
+      },
+      {
+        "year": 2022,
+        "citations": 55
+      },
+      {
+        "year": 2023,
+        "citations": 33
+      },
+      {
+        "year": 2024,
+        "citations": 39
+      },
+      {
+        "year": 2025,
+        "citations": 31
+      },
+      {
+        "year": 2026,
+        "citations": 14
+      }
+    ]
+  }
+}

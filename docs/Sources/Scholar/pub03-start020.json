@@ -1,0 +1,176 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cites": "4870271334637308438",
+    "hl": "en",
+    "num": 20,
+    "start": 20,
+    "filter": 0,
+    "as_vis": 0,
+    "as_sdt": 7
+  },
+  "accessed_at_utc": "2026-10-07T12:39:20.424915+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63d788c8a7e9b57560cc5",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/InWIgum9X9JPcvnrFml6N5mskZ5pwJhksTmVdZDVXyA/6ac63d788c8a7e9b57560cc5.json",
+      "markdown_endpoint": "https://serpapi.com/searches/InWIgum9X9JPcvnrFml6N5mskZ5pwJhksTmVdZDVXyA/6ac63d788c8a7e9b57560cc5.md",
+      "created_at": "2026-10-07 12:39:20 UTC",
+      "processed_at": "2026-10-07 12:39:20 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cites=4870271334637308438&hl=en&start=20&num=21&filter=0&as_sdt=7&as_vis=0&scipsc=1",
+      "raw_html_file": "https://serpapi.com/searches/InWIgum9X9JPcvnrFml6N5mskZ5pwJhksTmVdZDVXyA/6ac63d788c8a7e9b57560cc5.html",
+      "total_time_taken": 3.05
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cites": "4870271334637308438",
+      "hl": "en",
+      "start": 20,
+      "num": "20",
+      "filter": "0",
+      "as_sdt": "7",
+      "as_vis": "0"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 22,
+      "page_number": 2,
+      "time_taken_displayed": 0.02
+    },
+    "citations_per_year": [
+      {
+        "year": 2019,
+        "citations": 3
+      },
+      {
+        "year": 2020,
+        "citations": 4
+      },
+      {
+        "year": 2021,
+        "citations": 3
+      },
+      {
+        "year": 2022,
+        "citations": 3
+      },
+      {
+        "year": 2024,
+        "citations": 4
+      },
+      {
+        "year": 2025,
+        "citations": 3
+      },
+      {
+        "year": 2026,
+        "citations": 2
+      }
+    ],
+    "profiles": {
+      "link": "https://scholar.google.com/scholar?cluster=4870271334637308438&hl=en&num=20&as_sdt=7,37&sciodt=7,37",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Stable Operation of AlGaN/GaN HEMTs for 25 h at 400◦ C in air",
+        "result_id": "MukiemwqeocJ",
+        "type": "Pdf",
+        "link": "https://scholar.archive.org/work/36guvfeunvevbcb6clugx42mg4/access/wayback/https://ieeexplore.ieee.org/ielx7/6245494/8656606/08809869.pdf",
+        "snippet": "Extreme environments such as the Venus atmosphere are among the emerging applications that demand electronics that can withstand high-temperature oxidizing conditions. While …",
+        "publication_info": {
+          "summary": "PF SATTERTHWAITE, SW BLANKENBERG… - scholar.archive.org",
+          "authors": [
+            {
+              "name": "PF SATTERTHWAITE",
+              "link": "https://scholar.google.com/citations?user=F2oBnN8AAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "F2oBnN8AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=F2oBnN8AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "SW BLANKENBERG"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "archive.org",
+            "file_format": "PDF",
+            "link": "https://scholar.archive.org/work/36guvfeunvevbcb6clugx42mg4/access/wayback/https://ieeexplore.ieee.org/ielx7/6245494/8656606/08809869.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=MukiemwqeocJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:MukiemwqeocJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=7,37&sciodt=7,37",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=7%2C37&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AMukiemwqeocJ%3Ascholar.google.com%2F&start=20",
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:MukiemwqeocJ:scholar.google.com/&hl=en&num=20&as_sdt=7,37&sciodt=7,37"
+        }
+      },
+      {
+        "position": 2,
+        "title": "Stable Operation of AlGaN/GaN HEMTs for 25 hours at 400◦ C in air",
+        "result_id": "wRybB7PrvYcJ",
+        "type": "Pdf",
+        "link": "https://www.researchgate.net/profile/Saleh-Kargarrazi-2/publication/331519562_Stable_Operation_of_AlGaNGaN_HEMTs_at_400circC_in_air_for_25_hours/links/5dc60a07a6fdcc57503489ab/Stable-Operation-of-AlGaN-GaN-HEMTs-at-400circC-in-air-for-25-hours.pdf",
+        "snippet": "Extreme environments such as the Venus atmosphere are among the emerging applications that demand electronics that can withstand high-temperature oxidizing conditions. While …",
+        "publication_info": {
+          "summary": "SW Blankenberg, C Chapin, G Debbie - researchgate.net",
+          "authors": [
+            {
+              "name": "SW Blankenberg"
+            },
+            {
+              "name": "C Chapin"
+            },
+            {
+              "name": "G Debbie"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "researchgate.net",
+            "file_format": "PDF",
+            "link": "https://www.researchgate.net/profile/Saleh-Kargarrazi-2/publication/331519562_Stable_Operation_of_AlGaNGaN_HEMTs_at_400circC_in_air_for_25_hours/links/5dc60a07a6fdcc57503489ab/Stable-Operation-of-AlGaN-GaN-HEMTs-at-400circC-in-air-for-25-hours.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=wRybB7PrvYcJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:wRybB7PrvYcJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=7,37&sciodt=7,37",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=7%2C37&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AwRybB7PrvYcJ%3Ascholar.google.com%2F&start=20",
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:wRybB7PrvYcJ:scholar.google.com/&hl=en&num=20&as_sdt=7,37&sciodt=7,37"
+        }
+      }
+    ],
+    "pagination": {
+      "current": 2,
+      "previous": "https://scholar.google.com/scholar?start=0&hl=en&num=20&as_sdt=7,37&sciodt=7,37&cites=4870271334637308438&scipsc=1",
+      "next": null,
+      "other_pages": {
+        "1": "https://scholar.google.com/scholar?start=0&hl=en&num=20&as_sdt=7,37&sciodt=7,37&cites=4870271334637308438&scipsc=1"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 2,
+      "previous_link": "https://serpapi.com/search.json?as_sdt=7%2C37&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&start=0",
+      "previous": "https://serpapi.com/search.json?as_sdt=7%2C37&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&start=0",
+      "other_pages": {
+        "1": "https://serpapi.com/search.json?as_sdt=7%2C37&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&start=0"
+      }
+    }
+  }
+}

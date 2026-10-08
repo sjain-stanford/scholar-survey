@@ -1,0 +1,2088 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=IMT+Atlantique",
+  "http_status": 200,
+  "query": "IMT Atlantique",
+  "data": {
+    "number_of_results": 41,
+    "time_taken": 5,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "imt-atlantique.fr"
+        ],
+        "established": 2017,
+        "external_ids": [
+          {
+            "all": [
+              "501100007262"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.486295.4"
+            ],
+            "preferred": "grid.486295.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q27962533"
+            ],
+            "preferred": "Q27962533",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/030hj3061",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.imt-atlantique.fr/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "FR",
+              "country_name": "France",
+              "country_subdivision_code": "PDL",
+              "country_subdivision_name": "Pays de la Loire",
+              "lat": 47.21725,
+              "lng": -1.55336,
+              "name": "Nantes"
+            },
+            "geonames_id": 2990969
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "IMT Atlantique"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "IMT Atlantique Bretagne Pays de la Loire"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "École Nationale Supérieure Mines-Télécom Atlantique Bretagne Pays de la Loire"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Institut de Recherche en Informatique et Systèmes Aléatoires",
+            "type": "child",
+            "id": "https://ror.org/00myn0z94"
+          },
+          {
+            "label": "Laboratoire de Physique Subatomique et des Technologies Associées",
+            "type": "child",
+            "id": "https://ror.org/01kxesq83"
+          },
+          {
+            "label": "Laboratoire des Sciences du Numérique de Nantes",
+            "type": "child",
+            "id": "https://ror.org/02snf8m58"
+          },
+          {
+            "label": "Laboratoire des Sciences et Techniques de l’Information de la Communication et de la Connaissance",
+            "type": "child",
+            "id": "https://ror.org/0266kfd37"
+          },
+          {
+            "label": "Laboratoire de Génie des Procédés – Environnement – Agro-alimentaire",
+            "type": "child",
+            "id": "https://ror.org/05ngxmx20"
+          },
+          {
+            "label": "Laboratoire d’Économie et de Gestion de l'Ouest",
+            "type": "child",
+            "id": "https://ror.org/010rve435"
+          },
+          {
+            "label": "Tara Oceans Systems Ecology & Evolution",
+            "type": "child",
+            "id": "https://ror.org/04fgntk96"
+          },
+          {
+            "label": "Laboratoire d'Economie et de Management de Nantes Atlantique",
+            "type": "child",
+            "id": "https://ror.org/04k51bq24"
+          },
+          {
+            "label": "Observatoire des Sciences de l'Univers Nantes Atlantique",
+            "type": "child",
+            "id": "https://ror.org/02w0vb190"
+          },
+          {
+            "label": "French–Australian Laboratory for Human / Autonomous Agents Teaming",
+            "type": "child",
+            "id": "https://ror.org/045j5wx38"
+          },
+          {
+            "label": "Institut Mines-Télécom",
+            "type": "parent",
+            "id": "https://ror.org/025vp2923"
+          },
+          {
+            "label": "Télécom Bretagne",
+            "type": "predecessor",
+            "id": "https://ror.org/016p3g423"
+          },
+          {
+            "label": "École nationale supérieure des Mines de Nantes",
+            "type": "predecessor",
+            "id": "https://ror.org/05gzmxp80"
+          },
+          {
+            "label": "TéSA",
+            "type": "related",
+            "id": "https://ror.org/01zgcd031"
+          },
+          {
+            "label": "Fédération de Recherche sur l'Energie Solaire",
+            "type": "related",
+            "id": "https://ror.org/0459fdx51"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1961,
+        "external_ids": [
+          {
+            "all": [
+              "grid.442096.d"
+            ],
+            "preferred": "grid.442096.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9816 9066"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6041362"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01crvtj80",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://maua.br/en"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Instituto_Mau%C3%A1_de_Tecnologia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "BR",
+              "country_name": "Brazil",
+              "country_subdivision_code": "SP",
+              "country_subdivision_name": "São Paulo",
+              "lat": -23.62306,
+              "lng": -46.55111,
+              "name": "São Caetano do Sul"
+            },
+            "geonames_id": 3449324
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IMT"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Instituto Mauá de Tecnologia"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Mauá Institute of Technology"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2000,
+        "external_ids": [
+          {
+            "all": [
+              "grid.421088.7"
+            ],
+            "preferred": "grid.421088.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0582 8130"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/03w6g4z68",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.imtmems.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 34.42083,
+              "lng": -119.69819,
+              "name": "Santa Barbara"
+            },
+            "geonames_id": 5392952
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IMT"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Innovative Micro Technology (United States)"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1993,
+        "external_ids": [
+          {
+            "all": [
+              "grid.436311.2"
+            ],
+            "preferred": "grid.436311.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2237 3324"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3152424"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01rtq8t93",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.imt.ro/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "RO",
+              "country_name": "Romania",
+              "country_subdivision_code": "B",
+              "country_subdivision_name": "București",
+              "lat": 44.43225,
+              "lng": 26.10626,
+              "name": "Bucharest"
+            },
+            "geonames_id": 683506
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IMT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Institute for Research and Development in Microtechnologies"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2001,
+        "external_ids": [
+          {
+            "all": [
+              "grid.482593.1"
+            ],
+            "preferred": "grid.482593.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 4658 913X"
+            ],
+            "preferred": "0000 0004 4658 913X",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/056znrx72",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.i-mt.co.jp/e"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "14",
+              "country_subdivision_name": "Kanagawa",
+              "lat": 35.52056,
+              "lng": 139.71722,
+              "name": "Kawasaki"
+            },
+            "geonames_id": 1859642
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IMT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Institute of Microchemical Technology"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-09-23",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.511536.5"
+            ],
+            "preferred": "grid.511536.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0005 0235 4491"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/03q35y927",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.immunemodulatorytherapies.us/about.shtml"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 40.71427,
+              "lng": -74.00597,
+              "name": "New York"
+            },
+            "geonames_id": 5128581
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IMT"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Immune Modulatory Therapies (United States)"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-09-23",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.512213.6"
+            ],
+            "preferred": "grid.512213.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0521 0680"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/01d540m14",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.mspbs.gov.py/imt"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "PY",
+              "country_name": "Paraguay",
+              "country_subdivision_code": "ASU",
+              "country_subdivision_name": "Asunción",
+              "lat": -25.28646,
+              "lng": -57.647,
+              "name": "Asunción"
+            },
+            "geonames_id": 3439389
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IMT"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Instituto de Medicina Tropical"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Ministerio de Salud Pública y Bienestar Social",
+            "type": "parent",
+            "id": "https://ror.org/03gatys88"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2015,
+        "external_ids": [
+          {
+            "all": [
+              "grid.482047.d"
+            ],
+            "preferred": "grid.482047.d",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/032nv2431",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://iimt.fr/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "FR",
+              "country_name": "France",
+              "country_subdivision_code": "IDF",
+              "country_subdivision_name": "Île-de-France",
+              "lat": 48.85341,
+              "lng": 2.3488,
+              "name": "Paris"
+            },
+            "geonames_id": 2988507
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IMT"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Intelligence in Medical Technologies (France)"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-03-11",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-03-12",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "imtsrl.it"
+        ],
+        "established": 1991,
+        "external_ids": [],
+        "id": "https://ror.org/04b19wh49",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.imtsrl.it"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "62",
+              "country_subdivision_name": "Lazio",
+              "lat": 41.89193,
+              "lng": 12.51133,
+              "name": "Rome"
+            },
+            "geonames_id": 3169070
+          }
+        ],
+        "names": [
+          {
+            "lang": "it",
+            "types": [
+              "acronym"
+            ],
+            "value": "IMT"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "label"
+            ],
+            "value": "IMT Srl"
+          },
+          {
+            "lang": null,
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "IMT Srl (Italy)"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "label"
+            ],
+            "value": "Ingegneria Marketing Tecnologia"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-03-12",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "imt.fr",
+          "mines-telecom.fr"
+        ],
+        "established": 1996,
+        "external_ids": [
+          {
+            "all": [
+              "100018539"
+            ],
+            "preferred": "100018539",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.29773.38"
+            ],
+            "preferred": "grid.29773.38",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2202 567X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7885718"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/025vp2923",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.imt.fr"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Institut_Mines-T%C3%A9l%C3%A9com"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "FR",
+              "country_name": "France",
+              "country_subdivision_code": "IDF",
+              "country_subdivision_name": "Île-de-France",
+              "lat": 48.71828,
+              "lng": 2.2498,
+              "name": "Palaiseau"
+            },
+            "geonames_id": 2988758
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "Groupe des Ecoles des Télécommunications"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IMT"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Institut Mines-Télécom"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Institut Télécom"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "IMT Mines Albi",
+            "type": "child",
+            "id": "https://ror.org/00bq8vv83"
+          },
+          {
+            "label": "Institut Mines-Télécom Business School",
+            "type": "child",
+            "id": "https://ror.org/00nsf1h45"
+          },
+          {
+            "label": "Télécom SudParis",
+            "type": "child",
+            "id": "https://ror.org/05xvk4r52"
+          },
+          {
+            "label": "IMT Atlantique",
+            "type": "child",
+            "id": "https://ror.org/030hj3061"
+          },
+          {
+            "label": "IMT Nord Europe",
+            "type": "child",
+            "id": "https://ror.org/042rh9p26"
+          },
+          {
+            "label": "IMT Mines Alès",
+            "type": "child",
+            "id": "https://ror.org/03e8rf594"
+          },
+          {
+            "label": "Mines Saint-Étienne",
+            "type": "child",
+            "id": "https://ror.org/05a1dws80"
+          },
+          {
+            "label": "Télécom Paris",
+            "type": "child",
+            "id": "https://ror.org/01naq7912"
+          },
+          {
+            "label": "EURECOM",
+            "type": "child",
+            "id": "https://ror.org/00sse7z02"
+          },
+          {
+            "label": "École Nationale Supérieure des Mines de Paris",
+            "type": "related",
+            "id": "https://ror.org/04y8cs423"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-04-14",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2006,
+        "external_ids": [
+          {
+            "all": [
+              "100016843"
+            ],
+            "preferred": "100016843",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.462146.3"
+            ],
+            "preferred": "grid.462146.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0383 6348"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q277888"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/014vp6c30",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.math.univ-toulouse.fr/?lang=en"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Institut_de_Math%C3%A9matiques_de_Toulouse"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "FR",
+              "country_name": "France",
+              "country_subdivision_code": "OCC",
+              "country_subdivision_name": "Occitanie",
+              "lat": 43.60426,
+              "lng": 1.44367,
+              "name": "Toulouse"
+            },
+            "geonames_id": 2972315
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IMT"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Institut de Mathématiques de Toulouse"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Toulouse Mathematics Institute"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "UMR 5219"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "UMR5219"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Institut National des Sciences Appliquées de Toulouse",
+            "type": "parent",
+            "id": "https://ror.org/01h8pf755"
+          },
+          {
+            "label": "Institut National des Sciences Mathématiques et de leurs Interactions",
+            "type": "parent",
+            "id": "https://ror.org/050jcm728"
+          },
+          {
+            "label": "Université Toulouse - Jean Jaurès",
+            "type": "parent",
+            "id": "https://ror.org/04ezk3x31"
+          },
+          {
+            "label": "Centre National de la Recherche Scientifique",
+            "type": "parent",
+            "id": "https://ror.org/02feahw73"
+          },
+          {
+            "label": "Université de Toulouse",
+            "type": "parent",
+            "id": "https://ror.org/01ahyrz84"
+          },
+          {
+            "label": "Institut National Universitaire Jean-François Champollion",
+            "type": "parent",
+            "id": "https://ror.org/03078mv10"
+          },
+          {
+            "label": "Toulouse School of Economics",
+            "type": "parent",
+            "id": "https://ror.org/00ff5f522"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "itg.be"
+        ],
+        "established": 1906,
+        "external_ids": [
+          {
+            "all": [
+              "100018370"
+            ],
+            "preferred": "100018370",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.11505.30"
+            ],
+            "preferred": "grid.11505.30",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2153 5088"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1881864"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03xq4x896",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.itg.be"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Institute_of_Tropical_Medicine_Antwerp"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "BE",
+              "country_name": "Belgium",
+              "country_subdivision_code": "VLG",
+              "country_subdivision_name": "Flanders",
+              "lat": 51.22047,
+              "lng": 4.40026,
+              "name": "Antwerp"
+            },
+            "geonames_id": 2803138
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IMT"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ITG"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ITM"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Institut de médecine tropicale"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Institute of Tropical Medicine Antwerp"
+          },
+          {
+            "lang": "nl",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Instituut voor Tropische Geneeskunde"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Prince Leopold Institute of Tropical Medicine"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-06-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-06-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0000 9422 9420"
+            ],
+            "preferred": "0000 0000 9422 9420",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/02z9hby18",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.imt-ip.pt"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "PT",
+              "country_name": "Portugal",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Lisbon",
+              "lat": 38.71667,
+              "lng": -9.13333,
+              "name": "Lisbon"
+            },
+            "geonames_id": 2267057
+          }
+        ],
+        "names": [
+          {
+            "lang": "pt",
+            "types": [
+              "acronym"
+            ],
+            "value": "IMT"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Instituto da Mobilidade e dos Transportes"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-04-25",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-06-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "imt.mx"
+        ],
+        "established": 1987,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 0633 6509"
+            ],
+            "preferred": "0000 0004 0633 6509",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/02cvd7c90",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.gob.mx/imt"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "MX",
+              "country_name": "Mexico",
+              "country_subdivision_code": "QUE",
+              "country_subdivision_name": "Querétaro",
+              "lat": 20.49542,
+              "lng": -100.15461,
+              "name": "Pedro Escobedo"
+            },
+            "geonames_id": 8583273
+          }
+        ],
+        "names": [
+          {
+            "lang": "es",
+            "types": [
+              "acronym"
+            ],
+            "value": "IMT"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Instituto Mexicano del Transporte"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Mexican Institute of Transport"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Mexican Institute of Transportation"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-11-07",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-04-28",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1992,
+        "external_ids": [
+          {
+            "all": [
+              "grid.506367.1"
+            ],
+            "preferred": "grid.506367.1",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/04wn6w972",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.imt-dresden.de/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "SN",
+              "country_subdivision_name": "Saxony",
+              "lat": 51.10654,
+              "lng": 13.66047,
+              "name": "Radebeul"
+            },
+            "geonames_id": 2851077
+          }
+        ],
+        "names": [
+          {
+            "lang": "de",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Förderverein Institut für Medizintechnik Dresden"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IMT"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "IMT-Dresden GmbH"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Technische Universität Dresden",
+            "type": "parent",
+            "id": "https://ror.org/042aqky30"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-10-28",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "imt.si"
+        ],
+        "established": 1948,
+        "external_ids": [
+          {
+            "all": [
+              "grid.425028.9"
+            ],
+            "preferred": "grid.425028.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 1882 3070"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30254744"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01h8mzz32",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.imt.si/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "SI",
+              "country_name": "Slovenia",
+              "country_subdivision_code": "061",
+              "country_subdivision_name": "Ljubljana",
+              "lat": 46.05108,
+              "lng": 14.50513,
+              "name": "Ljubljana"
+            },
+            "geonames_id": 3196359
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IMT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Institute of Metallurgy"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Institute of Metals and Technology"
+          },
+          {
+            "lang": "sl",
+            "types": [
+              "label"
+            ],
+            "value": "Inštitut za Kovinske Materiale in Tehnologije"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-10-28",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "imt.edu"
+        ],
+        "established": 1980,
+        "external_ids": [
+          {
+            "all": [
+              "grid.464591.b"
+            ],
+            "preferred": "grid.464591.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2203 869X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6040522"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05k0kb696",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.imt.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Institute_of_Management_Technology,_Ghaziabad"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "IN",
+              "country_name": "India",
+              "country_subdivision_code": "UP",
+              "country_subdivision_name": "Uttar Pradesh",
+              "lat": 28.66535,
+              "lng": 77.43915,
+              "name": "Ghaziabad"
+            },
+            "geonames_id": 1271308
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IMT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Institute of Management Technology"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-03",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-03",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "cioosatlantic.ca"
+        ],
+        "established": 2018,
+        "external_ids": [],
+        "id": "https://ror.org/02mtnv980",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://cioosatlantic.ca"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "NS",
+              "country_subdivision_name": "Nova Scotia",
+              "lat": 44.64269,
+              "lng": -63.57688,
+              "name": "Halifax"
+            },
+            "geonames_id": 6324729
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "CIOOS Atlantic"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Canadian Integrated Ocean Observing System, Atlantic Region"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "SIOOC Atlantique"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Canadian Integrated Ocean Observing System",
+            "type": "parent",
+            "id": "https://ror.org/0390v9245"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-07-27",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-12-15",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1979,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 0640 5551"
+            ],
+            "preferred": "0000 0004 0640 5551",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3546588"
+            ],
+            "preferred": "Q3546588",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00nsf1h45",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://imt-bs.eu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Telecom_Business_School"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "FR",
+              "country_name": "France",
+              "country_subdivision_code": "IDF",
+              "country_subdivision_name": "Île-de-France",
+              "lat": 48.63389,
+              "lng": 2.44417,
+              "name": "Évry-Courcouronnes"
+            },
+            "geonames_id": 6454878
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "acronym"
+            ],
+            "value": "IMT-BS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "INT Management"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Institut Mines-Telecom Business School"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Institut Mines-Télécom Business School"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "acronym"
+            ],
+            "value": "TEM"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Telecom Business School"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "Télécom Ecole Management"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "Télécom École de Management"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Laboratoire en Innovation, Technologies, Economie et Management",
+            "type": "child",
+            "id": "https://ror.org/04d5x5x34"
+          },
+          {
+            "label": "Institut Mines-Télécom",
+            "type": "parent",
+            "id": "https://ror.org/025vp2923"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-02-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1984,
+        "external_ids": [
+          {
+            "all": [
+              "grid.425037.7"
+            ],
+            "preferred": "grid.425037.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0638 3022"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/034fqtg16",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ipmt-hpm.ac.ru/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "RU",
+              "country_name": "Russia",
+              "country_subdivision_code": "MOS",
+              "country_subdivision_name": "Moscow Oblast",
+              "lat": 56.00121,
+              "lng": 38.36492,
+              "name": "Chernogolovka"
+            },
+            "geonames_id": 568808
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Federal State Institution of Science Institute of Microelectronics Technology and High Purity Materials, Russian Academy of Sciences"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IMT RAS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Institute of Microelectronics Technology and High Purity Materials"
+          },
+          {
+            "lang": "ru",
+            "types": [
+              "label"
+            ],
+            "value": "Институт проблем технологии микроэлектроники и особо чистых материалов"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 15
+        },
+        {
+          "id": "education",
+          "title": "education",
+          "count": 12
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 8
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 6
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 4
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 2
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 1
+        }
+      ],
+      "countries": [
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 21
+        },
+        {
+          "id": "ca",
+          "title": "Canada",
+          "count": 5
+        },
+        {
+          "id": "it",
+          "title": "Italy",
+          "count": 2
+        },
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 2
+        },
+        {
+          "id": "be",
+          "title": "Belgium",
+          "count": 1
+        },
+        {
+          "id": "br",
+          "title": "Brazil",
+          "count": 1
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 1
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 1
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 1
+        },
+        {
+          "id": "mx",
+          "title": "Mexico",
+          "count": 1
+        }
+      ],
+      "continents": [
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 29
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 8
+        },
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 2
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 2
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 41
+        }
+      ]
+    }
+  }
+}

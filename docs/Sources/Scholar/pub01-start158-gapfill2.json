@@ -1,0 +1,73 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cites": "1211587708316162333",
+    "hl": "en",
+    "num": 20,
+    "start": 158
+  },
+  "accessed_at_utc": "2026-10-07T12:45:11.856622+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63ed7f5c2f84ba5796559",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/spRpRCJk_QprAN8rrlNe0W-a45j5Wx6mFy-hfs7q320/6ac63ed7f5c2f84ba5796559.json",
+      "markdown_endpoint": "https://serpapi.com/searches/spRpRCJk_QprAN8rrlNe0W-a45j5Wx6mFy-hfs7q320/6ac63ed7f5c2f84ba5796559.md",
+      "created_at": "2026-10-07 12:45:11 UTC",
+      "processed_at": "2026-10-07 12:45:11 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cites=1211587708316162333&hl=en&start=158&num=21&scipsc=1",
+      "raw_html_file": "https://serpapi.com/searches/spRpRCJk_QprAN8rrlNe0W-a45j5Wx6mFy-hfs7q320/6ac63ed7f5c2f84ba5796559.html",
+      "total_time_taken": 3.22
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cites": "1211587708316162333",
+      "hl": "en",
+      "start": 158,
+      "num": "20"
+    },
+    "search_information": {
+      "organic_results_state": "Fully empty",
+      "total_results": 57,
+      "page_number": 8,
+      "time_taken_displayed": 0.22
+    },
+    "error": "Google hasn't returned any results for this query.",
+    "citations_per_year": [
+      {
+        "year": 2019,
+        "citations": 1
+      },
+      {
+        "year": 2020,
+        "citations": 10
+      },
+      {
+        "year": 2021,
+        "citations": 43
+      },
+      {
+        "year": 2022,
+        "citations": 55
+      },
+      {
+        "year": 2023,
+        "citations": 33
+      },
+      {
+        "year": 2024,
+        "citations": 39
+      },
+      {
+        "year": 2025,
+        "citations": 31
+      },
+      {
+        "year": 2026,
+        "citations": 14
+      }
+    ]
+  }
+}
