@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Build the Pages entry page from the standalone citation map."""
 import argparse
+import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -17,11 +18,12 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{ou
 
 
 def build():
+    survey = json.loads((DOCS / 'Verification.json').read_text())['survey']
     source = (DOCS / 'Comprehensive-Citation-Map.html').read_text()
     assert source.count('</body>') == 1
     source = source.replace('<title>Comprehensive Google Scholar Citation Map</title>',
         '<title>Sambhav R. Jain — scholarly citation map</title>'
-        '<meta name="description" content="A sourced map of 146 citing works across 29 countries and territories, with marked scholarly discussions and citation research.">')
+        f'<meta name="description" content="A sourced map of {survey["mapped_works"]} citing works across {survey["countries_territories"]} countries and territories, with marked scholarly discussions and citation research.">')
     source = source.replace('</style>', STYLE + '</style>', 1)
     source = source.replace('<input id="q"', '<input id="q" aria-label="Search institution, city, country or paper"')
     source = source.replace('<select id="country"', '<select id="country" aria-label="Filter by country or territory"')

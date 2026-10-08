@@ -69,7 +69,7 @@ def main():
             validate_path(href)
     # Proof links are generated from embedded JSON, not static HTML anchors.
     markers, _ = json.JSONDecoder().raw_decode(index.split('const DATA=', 1)[1])
-    assert len(markers) == 123
+    assert len(markers) == survey['display_groups']
     assert len({m['country'] for m in markers}) == survey['countries_territories']
     mapped_works = {w for m in markers for w in m['work_ids']}
     assert len(mapped_works) == survey['mapped_works']
@@ -131,8 +131,11 @@ def main():
         count_source = source_ledger[paper['count_evidence']]
         count = json.loads((DOCS / count_source['file']).read_text())
         for key in re.findall(r'\w+', paper['count_pinpoint']):
-            count = count[int(key)] if key.isdigit() else count[key]
-        assert count == int(paper['count']), (paper['n'], 'Saved Scholar citation count')
+            # Scholar omits the cited-by link for records without citations.
+            count = count[int(key)] if key.isdigit() else count.get(key)
+            if count is None:
+                break
+        assert (count or 0) == int(paper['count']), (paper['n'], 'Saved Scholar citation count')
         validate_path('Marked-Articles/' + paper['marked_filename'])
         assert paper['marked_filename'].startswith(f'{int(paper["n"]):02}-'), paper['n']
         for field in ['summary', 'research_connection', 'evidence_type', 'authorship_link']:

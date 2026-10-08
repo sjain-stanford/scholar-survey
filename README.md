@@ -8,12 +8,12 @@
 
 A dated survey of research citing Sambhav R. Jain's scholarly work, based on Google Scholar records retrieved through SerpAPI on October 7, 2026. Publication text supplies the substantive discussions and author affiliations.
 
-- **Substantive report:** 8 articles selected by venue and/or citation count, with marked discussions on pages 1–36 of the combined packet.
-- **Named report:** 5 additional articles with named discussion of methods, designs and research contributions in the body, with marked discussions on pages 37–58 of the combined packet.
-- **Combined evidence:** 13 complete marked articles and 58 source pages in one combined packet, with each article included in one report. Article numbers identify the corresponding marked files.
-- **Map:** 146 grouped citing works, 157 institution/location entries and 29 countries/territories.
+- **Substantive report:** 21 articles in two groups, with marked discussions on pages 1–99 of the combined packet. Group A (10 articles) is selected by ICORE2026 A* venue and/or at least 100 Scholar citations; Group B (11 articles) contains articles whose methods rely on or extend TQT.
+- **Named report:** 4 additional articles with named discussion of methods, designs and research contributions in the body, with marked discussions on pages 100–111 of the combined packet.
+- **Combined evidence:** 25 complete marked articles and 111 source pages in one combined packet, with each article included in one report. Article numbers identify the corresponding marked files.
+- **Map:** 210 grouped citing works, 228 institution/location entries and 30 countries/territories.
 
-The survey includes 323 works from 337 archived Scholar records. Publication affiliations place 146 of those works across 29 countries/territories. Each selected article identifies the specific contribution discussed and links directly to the bibliography page establishing authorship of the cited work. The saved author profile records 354 citations; counts for the selected citing articles are reported separately. The map covers the sourced-affiliation subset, including coauthor- and employer-linked works.
+The survey includes 323 works from 337 archived Scholar records. Publication affiliations place 210 of those works across 30 countries/territories. Each selected article identifies the specific contribution discussed and links directly to the bibliography page establishing authorship of the cited work. The saved author profile records 354 citations; counts for the selected citing articles are reported separately. The map covers the sourced-affiliation subset, including coauthor- and employer-linked works.
 
 ## Files
 
@@ -50,7 +50,7 @@ To regenerate both report PDFs and static map exports, install `scripts/render-r
 
 After producing reviewed per-line PDF markings, run `python3 scripts/optimize_markings.py` to replace each connected group of line rectangles with one enclosing box in the complete articles and the combined discussion packet. This step uses the existing line geometry, removes the internal borders, and keeps separated passages, columns and marking colors distinct. It also refreshes the PDF hashes in the manifests. Install `scripts/marking-requirements.txt` for this step; `python3 scripts/optimize_markings.py --check` checks the committed PDFs without modifying them, and `python3 -m unittest discover -s scripts -p 'test_*.py'` runs the marking and packet-order regression tests.
 
-Run `python3 scripts/audit_markings.py` to check Jain/TQT markings on the selected discussion and reference pages of all 13 complete papers, including identifying titles and numbered citations, and to compare the combined packet against their source pages. The reviewed supplemental spans in `docs/Marking-Review.json` include complete TQT table rows and a vector-only figure legend; unrelated authors sharing the Jain surname have explicit exclusions. `--apply` adds those reviewed boxes and rebuilds the combined packet and its page index. After changing selection or order, rebuild the packet, reports and site, render the report PDFs, and refresh manifests. Text search cannot inspect labels drawn as graphics, so new source versions also need rendered-page review.
+Run `python3 scripts/audit_markings.py` to check Jain/TQT markings on the selected discussion and reference pages of all 25 complete papers, including identifying titles and numbered citations, and to compare the combined packet against their source pages. The reviewed supplemental spans in `docs/Marking-Review.json` include complete TQT table rows and a vector-only figure legend; unrelated authors sharing the Jain surname have explicit exclusions. `--apply` adds those reviewed boxes and rebuilds the combined packet and its page index. After changing selection or order, rebuild the packet, reports and site, render the report PDFs, and refresh manifests. Text search cannot inspect labels drawn as graphics, so new source versions also need rendered-page review.
 
 ## Attribution
 

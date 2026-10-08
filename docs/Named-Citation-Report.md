@@ -1,12 +1,12 @@
 # Named Citation Report
 
-Prepared October 7, 2026. 5 selected articles; 22 marked discussion pages.
+Prepared October 7, 2026. 4 selected articles; 12 marked discussion pages.
 
-Five articles naming Jain in technical discussion of methods, designs and research contributions.
+Four articles naming Jain in technical discussion of methods, designs and research contributions.
 
 This report includes articles that name Jain in substantive body discussion, with the corresponding coauthored work identified through the bibliography. Entries describe the specific adaptation, implementation, comparison or technical explanation supported by the source, retaining joint attribution where several methods are credited.
 
-[Marked discussions, pages 37–58](Selected-Discussion-Pages.pdf#page=37) · [Interactive map](Comprehensive-Citation-Map.html)
+[Marked discussions, pages 100–111](Selected-Discussion-Pages.pdf#page=100) · [Interactive map](Comprehensive-Citation-Map.html)
 
 Article numbers identify the corresponding marked files.
 
@@ -16,7 +16,6 @@ Article numbers identify the corresponding marked files.
 |---:|---|---:|---|
 | 11 | [Differentiable Model Compression via Pseudo Quantization Noise](https://arxiv.org/pdf/2104.09987)<br>TMLR (September 2022) | [79](https://scholar.google.com/scholar?cites=3598317734136951646&as_sdt=2005&sciodt=0,5&hl=en) | 3 |
 | 13 | [AnalogNets: ML-HW Co-Design of Noise-robust TinyML Models and Always-On Analog Compute-in-Memory Accelerator](https://arxiv.org/pdf/2111.06503)<br>arXiv:2111.06503 (2021) | [32](https://scholar.google.com/scholar?cites=12934954453334570937&as_sdt=2005&sciodt=0,5&hl=en&num=20) | 6 |
-| 12 | [Integer-Only CNNs with 4 Bit Weights and Bit-Shift Quantization Scales at Full-Precision Accuracy](https://lirias.kuleuven.be/retrieve/02b3b220-64bc-4e7a-833e-6e319c5dfa77)<br>Electronics 10(22), 2823 (2021) | [15](https://scholar.google.com/scholar?cites=6471382733336911751&as_sdt=4005&sciodt=0,6&hl=en) | 11–14, 17–20 |
 | 9 | [Towards Machine Learning for Placement and Routing in Chip Design: a Methodological Overview](https://arxiv.org/pdf/2202.13564)<br>arXiv preprint, 2022 | [27](https://scholar.google.com/scholar?cites=10188574112538631400&as_sdt=2005&sciodt=2007&hl=en&num=20) | 5 |
 | 10 | [Grid Synchronization Phase-Locked Loop Strategy for Unbalance and Harmonic Distortion Conditions](https://blob.opal-rt.com/medias/L00161_0507.pdf)<br>Journal of Control, Automation and Electrical Systems 27 (2016), 463–471 | [15](https://scholar.google.com/scholar?cites=15810554308478523480&as_sdt=2005&sciodt=2007&hl=en&num=20) | 2 |
 
@@ -54,22 +53,6 @@ Arm, IBM Research and ETH Zürich researchers describe a differentiable learned-
 
 [Original article](https://arxiv.org/pdf/2111.06503) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=12934954453334570937&as_sdt=2005&sciodt=0,5&hl=en&num=20)
 
-## 12. Integer-Only CNNs with 4 Bit Weights and Bit-Shift Quantization Scales at Full-Precision Accuracy
-
-Maarten Vandersteegen; Kristof Van Beeck; Toon Goedemé
-
-Electronics 10(22), 2823 (2021) · 15 Google Scholar citations
-
-KU Leuven researchers explicitly state that they optimize power-of-two scales through backpropagation as proposed by Jain et al. They also discuss TQT's shared quantizer parameters for elementwise addition.
-
-**Direct methodological adoption:** Implements the power-of-two scale backpropagation proposed by Jain et al. on page 12 and describes shared quantizer parameters for elementwise addition.
-
-**Authorship link:** Jain, Gural, Wu and Dick (2020), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks. [Bibliography p. 23](Marked-Articles/12-Integer-Only-CNNs-MARKED.pdf#page=23).
-
-**Reviewed version:** Published journal PDF from KU Leuven repository. **Source:** E-0081; PDF/printed pp. 11–14, 17–20, quantizer design, adopted training practices and TQT Table 2 results; bibliography p. 23, reference [12]. Count: E-0459, data.organic_results[0].inline_links.cited_by.total.
-
-[Original article](https://lirias.kuleuven.be/retrieve/02b3b220-64bc-4e7a-833e-6e319c5dfa77) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=6471382733336911751&as_sdt=4005&sciodt=0,6&hl=en)
-
 ## 9. Towards Machine Learning for Placement and Routing in Chip Design: a Methodological Overview
 
 Junchi Yan; Xianglong Lyu; Ruoyu Cheng; Yibo Lin
@@ -104,6 +87,6 @@ The grid-synchronization article credits Jain et al. (2014) with optimizing phas
 
 ## International reach and source coverage
 
-The wider survey maps 146 citing works across 29 countries/territories, with 157 institution/location entries. The inventory retains 323 works from 337 archived Scholar records; the saved profile records 354 citations.
+The wider survey maps 210 citing works across 30 countries/territories, with 228 institution/location entries. The inventory retains 323 works from 337 archived Scholar records; the saved profile records 354 citations.
 
 Publication affiliations establish geographic reach, including coauthor- and employer-linked works. [Coverage by publication](Coverage-by-Publication.csv) records retrieval and affiliation-review totals. Article-specific passages establish the documented scholarly contribution or connection.

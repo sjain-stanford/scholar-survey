@@ -1,0 +1,2069 @@
+{
+  "query": "Barcelona Supercomputing Center",
+  "url": "https://api.ror.org/v2/organizations?query=Barcelona+Supercomputing+Center",
+  "access_date": "2026-10-08",
+  "status": 200,
+  "data": {
+    "number_of_results": 6530,
+    "time_taken": 22,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "bsc.es"
+        ],
+        "established": 2005,
+        "external_ids": [
+          {
+            "all": [
+              "501100006433"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.10097.3f"
+            ],
+            "preferred": "grid.10097.3f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0387 1602"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1580126"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05sd8tv96",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.bsc.es/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Barcelona_Supercomputing_Center"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "CT",
+              "country_subdivision_name": "Catalonia",
+              "lat": 41.38879,
+              "lng": 2.15899,
+              "name": "Barcelona"
+            },
+            "geonames_id": 3128760
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BSC"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BSC-CNS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Barcelona Supercomputing Center"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "Centre Nacional de Supercomputació"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Centro Nacional de Supercomputación"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "International Center for Numerical Methods in Engineering",
+            "type": "child",
+            "id": "https://ror.org/03ej8a714"
+          },
+          {
+            "label": "Universitat Politècnica de Catalunya",
+            "type": "parent",
+            "id": "https://ror.org/03mb6wj31"
+          },
+          {
+            "label": "Red Española de Supercomputación",
+            "type": "related",
+            "id": "https://ror.org/02x2fbb57"
+          },
+          {
+            "label": "EC-Earth Consortium",
+            "type": "related",
+            "id": "https://ror.org/010bg5245"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1986,
+        "external_ids": [
+          {
+            "all": [
+              "grid.484565.e"
+            ],
+            "preferred": "grid.484565.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0508 992X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7199401"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04tac1482",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.psc.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Pittsburgh_Supercomputing_Center"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.44062,
+              "lng": -79.99589,
+              "name": "Pittsburgh"
+            },
+            "geonames_id": 5206379
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PSC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Pittsburgh Supercomputing Center"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-07-08",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "501100021520"
+            ],
+            "preferred": "501100021520",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/00cs28a13",
+        "links": [],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "30",
+              "country_subdivision_name": "Daejeon",
+              "lat": 36.34913,
+              "lng": 127.38493,
+              "name": "Daejeon"
+            },
+            "geonames_id": 1835235
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "KISTI National Supercomputing Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "KISTI Supercomputing Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "KSC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Korea Institute of Science and Technology Information National Supercomputing Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Korea Institute of Science and Technology Information Supercomputing Center"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "국가슈퍼컴퓨팅센터는"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Korea Institute of Science & Technology Information",
+            "type": "parent",
+            "id": "https://ror.org/01k4yrm29"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-06-24",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-06-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nscc.hnu.edu.cn"
+        ],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/05kvtff09",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://nscc.hnu.edu.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HN",
+              "country_subdivision_name": "Hunan",
+              "lat": 28.19874,
+              "lng": 112.97087,
+              "name": "Changsha"
+            },
+            "geonames_id": 1815577
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Changsha Supercomputing Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "NSCC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "NSCC-Changsha"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Supercomputing Center in Changsha"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "National Supercomputing Changsha Center"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "国家超级计算长沙中心"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "湖南大学国家超级计算长沙中心"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Hunan University",
+            "type": "parent",
+            "id": "https://ror.org/05htk5m33"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-06-24",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-06-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nscc-cd.cn"
+        ],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/02whzxb57",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.nscc-cd.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SC",
+              "country_subdivision_name": "Sichuan",
+              "lat": 30.66667,
+              "lng": 104.06667,
+              "name": "Chengdu"
+            },
+            "geonames_id": 1815286
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Chengdu Supercomputing Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "National Supercomputing Center in Chengdu"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Supercomputing Chengdu Center"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "国家超级计算成都中心"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "成都超级计算中心"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-07-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-07-15",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2020,
+        "external_ids": [],
+        "id": "https://ror.org/01et3vf73",
+        "links": [],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "JS",
+              "country_subdivision_name": "Jiangsu",
+              "lat": 31.37762,
+              "lng": 120.95431,
+              "name": "Kunshan"
+            },
+            "geonames_id": 1785623
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "KSSC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Kunshan Supercomputing Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Supercomputer Center in Kunshan"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "国家超算昆山中心"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "国家超级计算昆山中心"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-02-13",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1991,
+        "external_ids": [
+          {
+            "all": [
+              "501100021847"
+            ],
+            "preferred": "501100021847",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "0000 0000 9258 7902"
+            ],
+            "preferred": "0000 0000 9258 7902",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q581684"
+            ],
+            "preferred": "Q581684",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04rzmms09",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.cscs.ch"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Swiss_National_Supercomputing_Centre"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "CH",
+              "country_name": "Switzerland",
+              "country_subdivision_code": "TI",
+              "country_subdivision_name": "Ticino",
+              "lat": 46.01008,
+              "lng": 8.96004,
+              "name": "Lugano"
+            },
+            "geonames_id": 2659836
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CSCS"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "label"
+            ],
+            "value": "CSCS - Centro Svizzero di Calcolo Scientifico"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "CSCS - Swiss National Supercomputing Centre"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "alias"
+            ],
+            "value": "Centro Svizzero di Calcolo Scientifico"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Swiss National Supercomputing Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Swiss National Supercomputing Centre"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "ETH Zurich",
+            "type": "parent",
+            "id": "https://ror.org/05a28rw58"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-06-24",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-06-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nsccjn.cn"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "Q17023538"
+            ],
+            "preferred": "Q17023538",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00q2tt650",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://nsccjn.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E8%B6%85%E7%BA%A7%E8%AE%A1%E7%AE%97%E6%B5%8E%E5%8D%97%E4%B8%AD%E5%BF%83"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SD",
+              "country_subdivision_name": "Shandong",
+              "lat": 36.66833,
+              "lng": 116.99722,
+              "name": "Jinan"
+            },
+            "geonames_id": 1805753
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "NSCC-Jinan"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "NSCCJN"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "National Supercomputing Center in Jinan"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Supercomputing Jinan Center"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "国家超级计算济南中心"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-06-24",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-06-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nscc.zzu.edu.cn"
+        ],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/05jnf3k06",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://nscc.zzu.edu.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HA",
+              "country_subdivision_name": "Henan",
+              "lat": 34.75778,
+              "lng": 113.64861,
+              "name": "Zhengzhou"
+            },
+            "geonames_id": 1784658
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Supercomputer Center Zhengzhou"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "National Supercomputing Center In Zhengzhou"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Supercomputing Zhengzhou Center"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "国家超级计算郑州中心"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2008,
+        "external_ids": [
+          {
+            "all": [
+              "grid.432563.5"
+            ],
+            "preferred": "grid.432563.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q11265144"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03g9ch715",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.scc.acad.bg/ncsa/index.php/en/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/National_Center_for_Supercomputing_Applications_(Bulgaria)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "BG",
+              "country_name": "Bulgaria",
+              "country_subdivision_code": "22",
+              "country_subdivision_name": "Sofia-Capital",
+              "lat": 42.69751,
+              "lng": 23.32415,
+              "name": "Sofia"
+            },
+            "geonames_id": 727011
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NCSA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Center for Supercomputing Applications"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.495578.2"
+            ],
+            "preferred": "grid.495578.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q50310137"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04ypjrs34",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.nsccwx.cn/wxcyw/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "JS",
+              "country_subdivision_name": "Jiangsu",
+              "lat": 31.56887,
+              "lng": 120.28857,
+              "name": "Wuxi"
+            },
+            "geonames_id": 1790923
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NSCC-Wuxi"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Supercomputing Center in Wuxi"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "无锡国家超级计算中心"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-05-06",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ncsa.illinois.edu"
+        ],
+        "established": 1986,
+        "external_ids": [
+          {
+            "all": [
+              "100010548"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.505692.d"
+            ],
+            "preferred": "grid.505692.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9934 8971"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1190772"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03r10zj06",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ncsa.illinois.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/National_Center_for_Supercomputing_Applications"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 40.11059,
+              "lng": -88.20727,
+              "name": "Urbana"
+            },
+            "geonames_id": 4914570
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NCSA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Center for Supercomputing Applications"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Illinois Urbana-Champaign",
+            "type": "parent",
+            "id": "https://ror.org/047426m28"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "cesga.es"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.424786.b"
+            ],
+            "preferred": "grid.424786.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8616 695X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q928087"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02z51cq88",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.cesga.es"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/CESGA"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "GA",
+              "country_subdivision_name": "Galicia",
+              "lat": 42.88052,
+              "lng": -8.54569,
+              "name": "Santiago de Compostela"
+            },
+            "geonames_id": 3109642
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CESGA"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Centro de Supercomputación de Galicia"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "The Supercomputing Center of Galicia"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Red Española de Supercomputación",
+            "type": "related",
+            "id": "https://ror.org/02x2fbb57"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2020-12-21",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1993,
+        "external_ids": [
+          {
+            "all": [
+              "501100020830"
+            ],
+            "preferred": "501100020830",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.509613.8"
+            ],
+            "preferred": "grid.509613.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q11826176"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/025cj6e44",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.psnc.pl/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "PL",
+              "country_name": "Poland",
+              "country_subdivision_code": "30",
+              "country_subdivision_name": "Greater Poland",
+              "lat": 52.40692,
+              "lng": 16.92993,
+              "name": "Poznan"
+            },
+            "geonames_id": 3088171
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PSNC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Poznan Supercomputing and Networking Center"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Institute of Bioorganic Chemistry, Polish Academy of Sciences",
+            "type": "parent",
+            "id": "https://ror.org/04ejdtr48"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-02-13",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1995,
+        "external_ids": [
+          {
+            "all": [
+              "501100011009"
+            ],
+            "preferred": "501100011009",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "Q8038587"
+            ],
+            "preferred": "Q8038587",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03fqwqm07",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://wcss.pl"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://pl.wikipedia.org/wiki/Wroc%C5%82awskie_Centrum_Sieciowo-Superkomputerowe"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "PL",
+              "country_name": "Poland",
+              "country_subdivision_code": "02",
+              "country_subdivision_name": "Lower Silesia",
+              "lat": 51.1,
+              "lng": 17.03333,
+              "name": "Wroclaw"
+            },
+            "geonames_id": 3081368
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "WCSS"
+          },
+          {
+            "lang": "pl",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Wroclawskie Centrum Sieciowo-Superkomputerowe"
+          },
+          {
+            "lang": "pl",
+            "types": [
+              "alias"
+            ],
+            "value": "Wroclawskie Centrum Sieciowo-Superkomputerowe, Politechnika Wroclawska"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Wrocław Centre for Networking and Supercomputing"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Wrocław Networking and Supercomputing Center"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Wrocław University of Science and Technology",
+            "type": "parent",
+            "id": "https://ror.org/008fyn775"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-04-06",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-11-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nsccsz.cn"
+        ],
+        "established": 2009,
+        "external_ids": [
+          {
+            "all": [
+              "grid.510508.9"
+            ],
+            "preferred": "grid.510508.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q6978767"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02291hh73",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://nsccsz.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/National_Supercomputing_Center_(Shenzhen)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 22.54554,
+              "lng": 114.0683,
+              "name": "Shenzhen"
+            },
+            "geonames_id": 1795565
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Supercomputing Center in Shenzhen"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Shenzhen Cloud Computing Center"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "国家超级计算深圳中心"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-04-25",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-04-28",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nscc-gz.cn"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "100017131"
+            ],
+            "preferred": "100017131",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "0000 0005 0294 7801"
+            ],
+            "preferred": "0000 0005 0294 7801",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q13518432"
+            ],
+            "preferred": "Q13518432",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/042999n30",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.nscc-gz.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/National_Supercomputer_Center_in_Guangzhou"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NSCC-GZ"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "National Supercomputer Center in Guangzhou"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Supercomputing Center in Guangzhou"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中山大学国家超级计算广州中心"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "国家超级计算广州中心"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Sun Yat-sen University",
+            "type": "parent",
+            "id": "https://ror.org/0064kty71"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nscc-tj.cn"
+        ],
+        "established": 2009,
+        "external_ids": [
+          {
+            "all": [
+              "501100019212"
+            ],
+            "preferred": "501100019212",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.488156.6"
+            ],
+            "preferred": "grid.488156.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q6978768"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05tngxm14",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.nscc-tj.cn/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/National_Supercomputing_Center_of_Tianjin"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "TJ",
+              "country_subdivision_name": "Tianjin",
+              "lat": 39.14222,
+              "lng": 117.17667,
+              "name": "Tianjin"
+            },
+            "geonames_id": 1792947
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "National Supercomputer Center in Tianjin"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Supercomputing Center of Tianjin"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "guójiā chāojí jìsuàn zhōngxīn"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "国家超级计算天津中心"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1986,
+        "external_ids": [
+          {
+            "all": [
+              "grid.488860.a"
+            ],
+            "preferred": "grid.488860.a",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/01skcdk50",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://icrcat.com/en/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "CT",
+              "country_subdivision_name": "Catalonia",
+              "lat": 41.38879,
+              "lng": 2.15899,
+              "name": "Barcelona"
+            },
+            "geonames_id": 3128760
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Catalan Retina Institute"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ICR"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "ICR Ophthalmological Center Barcelona"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Institut Català de Retina"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-10-26",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/04s33wy62",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.scayle.es"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "CL",
+              "country_subdivision_name": "Castille and León",
+              "lat": 42.60003,
+              "lng": -5.57032,
+              "name": "León"
+            },
+            "geonames_id": 3118532
+          }
+        ],
+        "names": [
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "Centro de Supercomputación de Castilla y León"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "Fundación Centro de Supercomputación de Castilla y León"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SCAYLE"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Supercomputación Castilla y León"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Supercomputing Center of Castilla y León"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Junta de Castilla y León",
+            "type": "parent",
+            "id": "https://ror.org/02s8dab97"
+          },
+          {
+            "label": "Universidad de León",
+            "type": "parent",
+            "id": "https://ror.org/02tzt0b78"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2179
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 1896
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 1072
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 881
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 457
+        },
+        {
+          "id": "education",
+          "title": "education",
+          "count": 386
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 336
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 173
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 134
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 2924
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 927
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 359
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 207
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 193
+        },
+        {
+          "id": "es",
+          "title": "Spain",
+          "count": 161
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 155
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 143
+        },
+        {
+          "id": "il",
+          "title": "Israel",
+          "count": 73
+        },
+        {
+          "id": "ir",
+          "title": "Iran",
+          "count": 67
+        }
+      ],
+      "continents": [
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 3003
+        },
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 2017
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 1281
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 133
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 89
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 7
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 6530
+        }
+      ]
+    }
+  }
+}

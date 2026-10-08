@@ -29,6 +29,15 @@ def scrollable_table(table, label):
             + table + '</div>')
 
 
+def citation_count(paper):
+    return f'{int(paper["count"]):,}' if int(paper['count']) else 'None shown'
+
+
+def count_phrase(paper):
+    return (f'{int(paper["count"]):,} Google Scholar citations' if int(paper['count'])
+            else 'No cited-by count in the saved Google Scholar record')
+
+
 def article_table(numbers, papers, articles, substantive):
     headings = ('<th>No.</th><th>Article / venue</th><th>Scholar</th><th>Selection basis</th>'
                 if substantive else '<th>No.</th><th>Article / venue</th><th>PDF discussion pages</th><th>Scholar</th>')
@@ -38,7 +47,7 @@ def article_table(numbers, papers, articles, substantive):
         cells = [f'{number:02}',
                  f'<a href="{escape(article["original_url"])}"><b>{escape(paper["title"])}</b></a>'
                  f'<br><span class="small">{escape(paper["venue"])}</span>']
-        count = f'<a href="{escape(article["scholar_url"])}">{int(paper["count"]):,}</a>'
+        count = f'<a href="{escape(article["scholar_url"])}">{citation_count(paper)}</a>'
         cells += ([count, escape(paper['venue_basis'])] if substantive else
                   [page_ranges(json.loads(paper['body_pages'])), count])
         rows.append('<tr>' + ''.join(f'<td>{cell}</td>' for cell in cells) + '</tr>')
@@ -50,7 +59,7 @@ def article_block(number, paper, article, title):
     target = f'Marked-Articles/{paper["marked_filename"]}#page={paper["bibliography_page"]}'
     venue = f' Venue: {escape(article["venue_evidence"])}.' if article['venue_evidence'] else ''
     return f'''<div class="paper"><div class="kicker">Article {number:02} · {escape(title)}</div>
-<h3>{escape(paper['title'])}</h3><div class="meta">{escape(article['authors'])}<br>{escape(paper['venue'])} · {int(paper['count']):,} Google Scholar citations</div>
+<h3>{escape(paper['title'])}</h3><div class="meta">{escape(article['authors'])}<br>{escape(paper['venue'])} · {count_phrase(paper)}</div>
 <span class="badge">{escape(paper['venue_basis'])}</span>
 <p><b>Documented contribution.</b> {escape(article['summary'])}</p>
 <p><b>{escape(article['evidence_type'])}.</b> {escape(article['research_connection'])}</p>
@@ -106,8 +115,9 @@ def build_reports():
 <p class="small">Snapshot: October 7, 2026. <a href="https://scholar.google.com/citations?hl=en&amp;user=1mvzap4AAAAJ">Sambhav Jain’s Google Scholar profile</a>. Counts belong to the saved citing-article records or version clusters.</p></section>'''
         sections = [cover]
         if substantive:
-            sections.append(page('Eight substantive citing articles',
-                                 article_table(numbers, papers, articles, True), title))
+            for group in collection['groups']:
+                sections.append(page(f'{group["title"]} ({len(group["articles"])})',
+                                     article_table(group['articles'], papers, articles, True), title))
         else:
             sections.append(page(f'{count} named citing articles',
                                  article_table(numbers, papers, articles, False), title))
@@ -139,13 +149,13 @@ def build_reports():
                      '|---:|---|---:|---|']
             for n in group['articles']:
                 p, a = papers[n], articles[n]
-                table.append(f'| {n} | [{p["title"]}]({a["original_url"]})<br>{p["venue"]} | [{int(p["count"]):,}]({a["scholar_url"]}) | {page_ranges(json.loads(p["body_pages"]))} |')
+                table.append(f'| {n} | [{p["title"]}]({a["original_url"]})<br>{p["venue"]} | [{citation_count(p)}]({a["scholar_url"]}) | {page_ranges(json.loads(p["body_pages"]))} |')
             md.append('\n'.join(table))
         for group in collection['groups']:
             md.append(f'## {group["title"]} — article discussions')
             for n in group['articles']:
                 p, a = papers[n], articles[n]
-                md += [f'## {n}. {p["title"]}', f'{a["authors"]}\n\n{p["venue"]} · {int(p["count"]):,} Google Scholar citations',
+                md += [f'## {n}. {p["title"]}', f'{a["authors"]}\n\n{p["venue"]} · {count_phrase(p)}',
                        a['summary'], f'**{a["evidence_type"]}:** {a["research_connection"]}',
                        f'**Authorship link:** {a["authorship_link"]} [Bibliography p. {p["bibliography_page"]}](Marked-Articles/{p["marked_filename"]}#page={p["bibliography_page"]}).',
                        f'**Reviewed version:** {p["version"]}. **Source:** {p["source_evidence"]}; {p["locator"]}. Count: {p["count_evidence"]}, {p["count_pinpoint"]}.',
