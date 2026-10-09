@@ -206,12 +206,12 @@
         "thresholds for accurate and efﬁcient ﬁxed-point inference of deep neural",
         "networks,” 2019, arXiv:1903.08066."
       ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked; public excerpt of the IEEE print reproduces only the title, discussion and bibliography pages",
+      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked",
       "additional_markings": [],
       "reference_number": 25,
       "occurrence_audit": {
         "full_article_pages": 10,
-        "search_matches": 30,
+        "search_matches": 38,
         "excluded_other_author_matches": 0,
         "group_boxes": 17,
         "unboxed_selected_matches": 0
@@ -540,12 +540,12 @@
         "cient fixed-point inference of deep neural networks. In ML-",
         "Sys, 2020. 2, 8"
       ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked; public excerpt of the IEEE print reproduces only the title, discussion and bibliography pages",
+      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked",
       "additional_markings": [],
       "reference_number": 19,
       "occurrence_audit": {
         "full_article_pages": 10,
-        "search_matches": 11,
+        "search_matches": 12,
         "excluded_other_author_matches": 0,
         "group_boxes": 4,
         "unboxed_selected_matches": 0
@@ -793,7 +793,7 @@
         "for accurate and efﬁcient ﬁxed-point inference of deep neural networks,”",
         "Proc. Mach. Learn. Syst., vol. 2, 2020, pp. 112–128."
       ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked; public excerpt of the IEEE print reproduces only the title, discussion and bibliography pages",
+      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked",
       "additional_markings": [],
       "reference_number": 3,
       "occurrence_audit": {
@@ -1012,12 +1012,12 @@
         "of Machine Learning and Systems, volume 2, pages 112–",
         "128, 2020."
       ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked; public excerpt of the IEEE print reproduces only the title, discussion and bibliography pages",
+      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked",
       "additional_markings": [],
       "reference_number": 23,
       "occurrence_audit": {
         "full_article_pages": 10,
-        "search_matches": 5,
+        "search_matches": 6,
         "excluded_other_author_matches": 0,
         "group_boxes": 2,
         "unboxed_selected_matches": 0
@@ -1397,5 +1397,16 @@
     "withdrawn": {
       "25": "FPGA-Based Real-Time Embedded Fish Embryo Detection System"
     }
+  },
+  "full_print_restoration": {
+    "date": "2026-10-09",
+    "articles": [
+      2,
+      8,
+      11,
+      16
+    ],
+    "method": "Placeholder pages of the four IEEE published-print excerpts replaced by the corresponding pages of the reviewed prints (E-1436, E-1437, E-1434 and E-1435), placed as on the reproduced pages above the unchanged provenance footer; the footer source note reads \"published print\" instead of \"published print; excerpt\". Selected pages, marking boxes, links and bookmarks are unchanged, and restored pages render identically to the source prints.",
+    "occurrence_audit": "Search matches for articles 02, 08 and 16 now include the restored pages: article 02 pp. 7–9 (section V-C, two figure captions and the conclusion; eight TQT mentions), and one grouped related-work citation on p. 2 of articles 08 and 16. These pages lie outside the selected discussion pages and remain unmarked."
   }
 }

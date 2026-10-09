@@ -4,7 +4,7 @@ The report and map document authorship links, scholarly contributions and intern
 
 - **Substantive Citation Report:** [Report](Substantive-Citation-Report.html) · [PDF](Substantive-Citation-Report.pdf) · [Marked discussions](Selected-Discussion-Pages.pdf#page=1). Twenty-one articles in one ranked list. Each entry's selection basis shows whether it appeared in an ICORE2026 A* conference, has more than 100 Scholar citations, or uses or extends TQT in its own methods or experiments.
 
-The report covers **21 articles**, numbered 01–21. Each entry links to the original article and identifies the specific form of recognition or use, the cited work and authors, and the marked bibliography page.
+The report covers **21 articles**, numbered 01–21. Each entry links to the original article and its complete marked file and identifies the specific form of recognition or use, the cited work and authors, and the marked bibliography page.
 
 Open **Comprehensive-Citation-Map.html** for the offline interactive map, or use the [Citation Map PDF](Comprehensive-Citation-Map.pdf) / **.png** for sharing. The PDF links to sjain-stanford.github.io/scholar-survey/ at the top under “Interactive Citation Map”. The map documents **210 citing works**, **228 institution/location entries**, and **30 countries/territories**. All nonzero profile entries were investigated. Publication affiliations place 210 of the inventory's 323 included works on the map, including coauthor- and employer-linked works. The saved profile records 354 citations. The coverage table records these separate measures.
 

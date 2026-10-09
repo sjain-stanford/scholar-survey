@@ -46,7 +46,8 @@
     },
     "citation_map_pdf_site_url_verified": true,
     "selection_basis_categories_verified": true,
-    "contiguous_ranked_numbering_verified": true
+    "contiguous_ranked_numbering_verified": true,
+    "report_marked_article_links": true
   },
   "source_documents": "Source snapshots and full marked articles retain the cited text and bibliography entries.",
   "presentation_review": {
@@ -75,7 +76,7 @@
     "full_article_pages": 343,
     "ocr_pages": 171,
     "packet_pages": 100,
-    "search_matches": 252,
+    "search_matches": 262,
     "excluded_other_author_matches": 3,
     "additional_reviewed_regions": 37,
     "complete_tqt_table_entries": 5,
@@ -196,7 +197,7 @@
       21
     ],
     "method": "Marked copies rebuilt from the IEEE Xplore published prints supplied by the applicant (per-page subscriber license line removed by the applicant; IEEE copyright and DOI notices retained). TQT passages, reference numbers and discussion pages match the earlier reviewed versions; article 20 bibliography is on p. 15.",
-    "public_excerpts": "For these four articles the published marked files reproduce only page 1, the discussion pages and the bibliography page; other pages are placeholders linking to the DOI."
+    "public_excerpts": "Until 2026-10-09 the published marked files reproduced only page 1, the discussion pages and the bibliography page, with DOI placeholders for the other pages; see full_print_restoration."
   },
   "named_report_withdrawn": {
     "date": "2026-10-08",
@@ -255,5 +256,19 @@
     },
     "files": "Marked files renamed to their new numbers; only the article number in each provenance footer changed. Former files are preserved in Git history.",
     "note": "Dated records before 2026-10-09 (presentation_review, selection_update, published_print_verification, named_report_withdrawn and the dated sections of Marking-Review.json) use the former numbers."
+  },
+  "full_print_restoration": {
+    "date": "2026-10-09",
+    "articles": [
+      2,
+      8,
+      11,
+      16
+    ],
+    "decision": "Applicant direction: publish the complete marked IEEE prints of articles 02, 08, 11 and 16 instead of excerpts.",
+    "method": "Placeholder pages of the four IEEE published-print excerpts replaced by the corresponding pages of the reviewed prints (E-1436, E-1437, E-1434 and E-1435), placed as on the reproduced pages above the unchanged provenance footer; the footer source note reads \"published print\" instead of \"published print; excerpt\". Selected pages, marking boxes, links and bookmarks are unchanged, and restored pages render identically to the source prints.",
+    "occurrence_audit": "Search matches for articles 02, 08 and 16 now include the restored pages: article 02 pp. 7–9 (section V-C, two figure captions and the conclusion; eight TQT mentions), and one grouped related-work citation on p. 2 of articles 08 and 16. These pages lie outside the selected discussion pages and remain unmarked.",
+    "packet": "The packet takes each article's title page and the pages carrying marking boxes, checked against Discussion-Page-Index.csv. It keeps its 100 pages; only the footer source note of the 16 pages from articles 02, 08, 11 and 16 changed.",
+    "report_links": "The report's article table and each article entry link to the complete marked file."
   }
 }

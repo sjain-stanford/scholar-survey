@@ -12,29 +12,29 @@ Article numbers identify the corresponding marked files.
 
 ## Selected citing articles
 
-| No. | Article / venue | Scholar | Selection basis |
-|---:|---|---:|---|
-| 01 | [Mixed Precision DNNs: All you need is a good parametrization](https://arxiv.org/pdf/1905.11452)<br>ICLR 2020 | [230](https://scholar.google.com/scholar?cites=4816865987143977033&as_sdt=5,44&sciodt=0,44&hl=en&num=20) | `ICORE2026 A* venue`<br>`>100 Scholar citations`<br>`Uses or extends TQT` |
-| 02 | [Understanding How Orthogonality of Parameters Improves Quantization of Neural Networks](https://ieeexplore.ieee.org/document/9772057)<br>IEEE Transactions on Neural Networks and Learning Systems 34(12), 10737–10746 (2023) | [12](https://scholar.google.com/scholar?cites=5939552086959198235&as_sdt=5,33&sciodt=7,33&hl=en&num=20) | `Uses or extends TQT` |
-| 03 | [Bayesian Bits: Unifying Quantization and Pruning](https://proceedings.neurips.cc/paper/2020/file/3f13cf4ddf6fc50c0d39a1d5aeb57dd8-Paper.pdf)<br>NeurIPS 2020 | [207](https://scholar.google.com/scholar?cites=5274328621855648354&as_sdt=5,44&sciodt=0,44&hl=en&num=20) | `ICORE2026 A* venue`<br>`>100 Scholar citations` |
-| 04 | [A Reduced-Precision Network for Image Reconstruction](https://doi.org/10.1145/3414685.3417786)<br>ACM Transactions on Graphics 39(6), Article 231 (SIGGRAPH Asia 2020) | [41](https://scholar.google.com/scholar?cites=15603330627913573519&as_sdt=5,33&sciodt=0,33&hl=en&num=20) | `ICORE2026 A* venue`<br>`Uses or extends TQT` |
-| 05 | [7 μJ/inference end-to-end gesture recognition from dynamic vision sensor data using ternarized hybrid convolutional neural networks](https://doi.org/10.1016/j.future.2023.07.017)<br>Future Generation Computer Systems 149 (2023), 717–731 | [12](https://scholar.google.com/scholar?cites=8935915395260763099&as_sdt=5,45&sciodt=0,45&hl=en&num=20) | `Uses or extends TQT` |
-| 06 | [Understanding and Overcoming the Challenges of Efficient Transformer Quantization](https://aclanthology.org/2021.emnlp-main.627.pdf)<br>EMNLP 2021 | [271](https://scholar.google.com/scholar?cites=8710219284475667501&as_sdt=5,44&sciodt=0,44&hl=en&num=20) | `ICORE2026 A* venue`<br>`>100 Scholar citations`<br>`Uses or extends TQT` |
-| 07 | [F8Net: Fixed-Point 8-bit Only Multiplication for Network Quantization](https://arxiv.org/pdf/2202.05239)<br>ICLR 2022 | [72](https://scholar.google.com/scholar?cites=9661231870650652462&as_sdt=2005&sciodt=0,5&hl=en&num=20) | `ICORE2026 A* venue` |
-| 08 | [Improving Low-Precision Network Quantization via Bin Regularization](https://ieeexplore.ieee.org/document/9711384)<br>ICCV 2021, 5241–5250 | [65](https://scholar.google.com/scholar?cites=8210545444854681605&as_sdt=2005&sciodt=2007&hl=en&num=20) | `ICORE2026 A* venue`<br>`Uses or extends TQT` |
-| 09 | [A Resource Efficient Integer-Arithmetic-Only FPGA-Based CNN Accelerator for Real-Time Facial Emotion Recognition](https://doi.org/10.1109/ACCESS.2021.3099075)<br>IEEE Access 9 (2021), 104367–104381 | [54](https://scholar.google.com/scholar?cites=13879431573826281003&as_sdt=5,48&sciodt=7,48&hl=en&num=20) | `Uses or extends TQT` |
-| 10 | [Integer-Only CNNs with 4 Bit Weights and Bit-Shift Quantization Scales at Full-Precision Accuracy](https://lirias.kuleuven.be/retrieve/02b3b220-64bc-4e7a-833e-6e319c5dfa77)<br>Electronics 10(22), 2823 (2021) | [15](https://scholar.google.com/scholar?cites=6471382733336911751&as_sdt=4005&sciodt=0,6&hl=en) | `Uses or extends TQT` |
-| 11 | [Optimizing the Deployment of Tiny Transformers on Low-Power MCUs](https://ieeexplore.ieee.org/document/10755971)<br>IEEE Transactions on Computers 74(2), 526–541 (2025) | [47](https://scholar.google.com/scholar?cites=8176222627957634598&as_sdt=2005&sciodt=0,5&hl=en&num=20) | `Uses or extends TQT` |
-| 12 | [Accelerating configuration of Reconfigurable Intelligent Surfaces through a hardware-enhanced deep learning approach](https://doi.org/10.1016/j.compeleceng.2026.111101)<br>Computers and Electrical Engineering 134 (2026), 111101 | [None shown](https://scholar.google.com/scholar?cites=1211587708316162333&hl=en&start=0&num=21&as_ylo=2026&as_yhi=2026&scipsc=1) | `Uses or extends TQT` |
-| 13 | [Up or Down? Adaptive Rounding for Post-Training Quantization](https://proceedings.mlr.press/v119/nagel20a/nagel20a.pdf)<br>ICML 2020 | [1,224](https://scholar.google.com/scholar?cites=15168731053848628528&as_sdt=5,44&sciodt=0,44&hl=en&num=20) | `ICORE2026 A* venue`<br>`>100 Scholar citations` |
-| 14 | [Bringing AI to edge: From deep learning’s perspective](https://arxiv.org/pdf/2011.14808)<br>Neurocomputing 485 (2022) | [247](https://scholar.google.com/scholar?cites=14516287917516942788&as_sdt=5,44&sciodt=0,44&hl=en) | `>100 Scholar citations` |
-| 15 | [HMQ: Hardware Friendly Mixed Precision Quantization Block for CNNs](https://arxiv.org/pdf/2007.09952)<br>ECCV 2020 | [95](https://scholar.google.com/scholar?cites=8154175130422296943&as_sdt=5,45&sciodt=0,45&hl=en) | `ICORE2026 A* venue` |
-| 16 | [A Low Memory Footprint Quantized Neural Network for Depth Completion of Very Sparse Time-of-Flight Depth Maps](https://ieeexplore.ieee.org/document/9857469)<br>CVPR Workshops 2022 (CVPRW), 2686–2695 | [12](https://scholar.google.com/scholar?cites=12696510404083872991&as_sdt=5,33&sciodt=7,33&hl=en&num=20) | `Uses or extends TQT` |
-| 17 | [QKD: Quantization-aware Knowledge Distillation](https://arxiv.org/pdf/1911.12491)<br>arXiv preprint, 2019 | [125](https://scholar.google.com/scholar?cites=14630303220790911427&as_sdt=2005&sciodt=0,5&hl=en&num=20) | `>100 Scholar citations`<br>`Uses or extends TQT` |
-| 18 | [FELIX: A Ferroelectric FET Based Low Power Mixed-Signal In-Memory Architecture for DNN Acceleration](https://doi.org/10.1145/3529760)<br>ACM Transactions on Embedded Computing Systems 21(6), Article 84 (2022) | [50](https://scholar.google.com/scholar?cites=5633834556680840327&as_sdt=2005&sciodt=0,5&hl=en&num=20) | `Uses or extends TQT` |
-| 19 | [A White Paper on Neural Network Quantization](https://arxiv.org/pdf/2106.08295)<br>arXiv / Qualcomm white paper, 2021 | [1,362](https://scholar.google.com/scholar?cites=3269278865430026974&as_sdt=5,44&sciodt=0,44&hl=en&num=20) | `>100 Scholar citations` |
-| 20 | [INT8 Activation Ternary or Binary Weights Networks: Unifying Between INT8 and Lower-bit Width Quantization](https://www.jstage.jst.go.jp/article/jrnal/9/2/9_10/_pdf)<br>Journal of Robotics, Networking and Artificial Life 9(2) (2022), 171–176 | [None shown](https://scholar.google.com/scholar?cites=1211587708316162333&hl=en&start=200&num=21&filter=0&as_sdt=7&as_vis=0&scipsc=1) | `Uses or extends TQT` |
-| 21 | [Efficient SAR Vessel Detection for FPGA-Based On-Satellite Sensing](https://doi.org/10.1145/3769102.3772713)<br>SEC ’25, Tenth ACM/IEEE Symposium on Edge Computing (2025) | [6](https://scholar.google.com/scholar?cites=9451667418173804315&as_sdt=2005&sciodt=2007&hl=en&num=20) | `Uses or extends TQT` |
+| No. | Article / venue | Scholar | Selection basis | Marked article |
+|---:|---|---:|---|---|
+| 01 | [Mixed Precision DNNs: All you need is a good parametrization](https://arxiv.org/pdf/1905.11452)<br>ICLR 2020 | [230](https://scholar.google.com/scholar?cites=4816865987143977033&as_sdt=5,44&sciodt=0,44&hl=en&num=20) | `ICORE2026 A* venue`<br>`>100 Scholar citations`<br>`Uses or extends TQT` | [PDF](Marked-Articles/01-Mixed-Precision-DNNs-MARKED.pdf) |
+| 02 | [Understanding How Orthogonality of Parameters Improves Quantization of Neural Networks](https://ieeexplore.ieee.org/document/9772057)<br>IEEE Transactions on Neural Networks and Learning Systems 34(12), 10737–10746 (2023) | [12](https://scholar.google.com/scholar?cites=5939552086959198235&as_sdt=5,33&sciodt=7,33&hl=en&num=20) | `Uses or extends TQT` | [PDF](Marked-Articles/02-Orthogonality-MARKED.pdf) |
+| 03 | [Bayesian Bits: Unifying Quantization and Pruning](https://proceedings.neurips.cc/paper/2020/file/3f13cf4ddf6fc50c0d39a1d5aeb57dd8-Paper.pdf)<br>NeurIPS 2020 | [207](https://scholar.google.com/scholar?cites=5274328621855648354&as_sdt=5,44&sciodt=0,44&hl=en&num=20) | `ICORE2026 A* venue`<br>`>100 Scholar citations` | [PDF](Marked-Articles/03-Bayesian-Bits-MARKED.pdf) |
+| 04 | [A Reduced-Precision Network for Image Reconstruction](https://doi.org/10.1145/3414685.3417786)<br>ACM Transactions on Graphics 39(6), Article 231 (SIGGRAPH Asia 2020) | [41](https://scholar.google.com/scholar?cites=15603330627913573519&as_sdt=5,33&sciodt=0,33&hl=en&num=20) | `ICORE2026 A* venue`<br>`Uses or extends TQT` | [PDF](Marked-Articles/04-QW-Net-MARKED.pdf) |
+| 05 | [7 μJ/inference end-to-end gesture recognition from dynamic vision sensor data using ternarized hybrid convolutional neural networks](https://doi.org/10.1016/j.future.2023.07.017)<br>Future Generation Computer Systems 149 (2023), 717–731 | [12](https://scholar.google.com/scholar?cites=8935915395260763099&as_sdt=5,45&sciodt=0,45&hl=en&num=20) | `Uses or extends TQT` | [PDF](Marked-Articles/05-DVS-Gesture-MARKED.pdf) |
+| 06 | [Understanding and Overcoming the Challenges of Efficient Transformer Quantization](https://aclanthology.org/2021.emnlp-main.627.pdf)<br>EMNLP 2021 | [271](https://scholar.google.com/scholar?cites=8710219284475667501&as_sdt=5,44&sciodt=0,44&hl=en&num=20) | `ICORE2026 A* venue`<br>`>100 Scholar citations`<br>`Uses or extends TQT` | [PDF](Marked-Articles/06-Transformer-Quantization-MARKED.pdf) |
+| 07 | [F8Net: Fixed-Point 8-bit Only Multiplication for Network Quantization](https://arxiv.org/pdf/2202.05239)<br>ICLR 2022 | [72](https://scholar.google.com/scholar?cites=9661231870650652462&as_sdt=2005&sciodt=0,5&hl=en&num=20) | `ICORE2026 A* venue` | [PDF](Marked-Articles/07-F8Net-MARKED.pdf) |
+| 08 | [Improving Low-Precision Network Quantization via Bin Regularization](https://ieeexplore.ieee.org/document/9711384)<br>ICCV 2021, 5241–5250 | [65](https://scholar.google.com/scholar?cites=8210545444854681605&as_sdt=2005&sciodt=2007&hl=en&num=20) | `ICORE2026 A* venue`<br>`Uses or extends TQT` | [PDF](Marked-Articles/08-Bin-Regularization-MARKED.pdf) |
+| 09 | [A Resource Efficient Integer-Arithmetic-Only FPGA-Based CNN Accelerator for Real-Time Facial Emotion Recognition](https://doi.org/10.1109/ACCESS.2021.3099075)<br>IEEE Access 9 (2021), 104367–104381 | [54](https://scholar.google.com/scholar?cites=13879431573826281003&as_sdt=5,48&sciodt=7,48&hl=en&num=20) | `Uses or extends TQT` | [PDF](Marked-Articles/09-LLTQ-MARKED.pdf) |
+| 10 | [Integer-Only CNNs with 4 Bit Weights and Bit-Shift Quantization Scales at Full-Precision Accuracy](https://lirias.kuleuven.be/retrieve/02b3b220-64bc-4e7a-833e-6e319c5dfa77)<br>Electronics 10(22), 2823 (2021) | [15](https://scholar.google.com/scholar?cites=6471382733336911751&as_sdt=4005&sciodt=0,6&hl=en) | `Uses or extends TQT` | [PDF](Marked-Articles/10-Integer-Only-CNNs-MARKED.pdf) |
+| 11 | [Optimizing the Deployment of Tiny Transformers on Low-Power MCUs](https://ieeexplore.ieee.org/document/10755971)<br>IEEE Transactions on Computers 74(2), 526–541 (2025) | [47](https://scholar.google.com/scholar?cites=8176222627957634598&as_sdt=2005&sciodt=0,5&hl=en&num=20) | `Uses or extends TQT` | [PDF](Marked-Articles/11-Tiny-Transformers-MARKED.pdf) |
+| 12 | [Accelerating configuration of Reconfigurable Intelligent Surfaces through a hardware-enhanced deep learning approach](https://doi.org/10.1016/j.compeleceng.2026.111101)<br>Computers and Electrical Engineering 134 (2026), 111101 | [None shown](https://scholar.google.com/scholar?cites=1211587708316162333&hl=en&start=0&num=21&as_ylo=2026&as_yhi=2026&scipsc=1) | `Uses or extends TQT` | [PDF](Marked-Articles/12-RIS-MARKED.pdf) |
+| 13 | [Up or Down? Adaptive Rounding for Post-Training Quantization](https://proceedings.mlr.press/v119/nagel20a/nagel20a.pdf)<br>ICML 2020 | [1,224](https://scholar.google.com/scholar?cites=15168731053848628528&as_sdt=5,44&sciodt=0,44&hl=en&num=20) | `ICORE2026 A* venue`<br>`>100 Scholar citations` | [PDF](Marked-Articles/13-AdaRound-MARKED.pdf) |
+| 14 | [Bringing AI to edge: From deep learning’s perspective](https://arxiv.org/pdf/2011.14808)<br>Neurocomputing 485 (2022) | [247](https://scholar.google.com/scholar?cites=14516287917516942788&as_sdt=5,44&sciodt=0,44&hl=en) | `>100 Scholar citations` | [PDF](Marked-Articles/14-Bringing-AI-to-Edge-MARKED.pdf) |
+| 15 | [HMQ: Hardware Friendly Mixed Precision Quantization Block for CNNs](https://arxiv.org/pdf/2007.09952)<br>ECCV 2020 | [95](https://scholar.google.com/scholar?cites=8154175130422296943&as_sdt=5,45&sciodt=0,45&hl=en) | `ICORE2026 A* venue` | [PDF](Marked-Articles/15-HMQ-MARKED.pdf) |
+| 16 | [A Low Memory Footprint Quantized Neural Network for Depth Completion of Very Sparse Time-of-Flight Depth Maps](https://ieeexplore.ieee.org/document/9857469)<br>CVPR Workshops 2022 (CVPRW), 2686–2695 | [12](https://scholar.google.com/scholar?cites=12696510404083872991&as_sdt=5,33&sciodt=7,33&hl=en&num=20) | `Uses or extends TQT` | [PDF](Marked-Articles/16-Depth-Completion-MARKED.pdf) |
+| 17 | [QKD: Quantization-aware Knowledge Distillation](https://arxiv.org/pdf/1911.12491)<br>arXiv preprint, 2019 | [125](https://scholar.google.com/scholar?cites=14630303220790911427&as_sdt=2005&sciodt=0,5&hl=en&num=20) | `>100 Scholar citations`<br>`Uses or extends TQT` | [PDF](Marked-Articles/17-QKD-MARKED.pdf) |
+| 18 | [FELIX: A Ferroelectric FET Based Low Power Mixed-Signal In-Memory Architecture for DNN Acceleration](https://doi.org/10.1145/3529760)<br>ACM Transactions on Embedded Computing Systems 21(6), Article 84 (2022) | [50](https://scholar.google.com/scholar?cites=5633834556680840327&as_sdt=2005&sciodt=0,5&hl=en&num=20) | `Uses or extends TQT` | [PDF](Marked-Articles/18-FELIX-MARKED.pdf) |
+| 19 | [A White Paper on Neural Network Quantization](https://arxiv.org/pdf/2106.08295)<br>arXiv / Qualcomm white paper, 2021 | [1,362](https://scholar.google.com/scholar?cites=3269278865430026974&as_sdt=5,44&sciodt=0,44&hl=en&num=20) | `>100 Scholar citations` | [PDF](Marked-Articles/19-White-Paper-MARKED.pdf) |
+| 20 | [INT8 Activation Ternary or Binary Weights Networks: Unifying Between INT8 and Lower-bit Width Quantization](https://www.jstage.jst.go.jp/article/jrnal/9/2/9_10/_pdf)<br>Journal of Robotics, Networking and Artificial Life 9(2) (2022), 171–176 | [None shown](https://scholar.google.com/scholar?cites=1211587708316162333&hl=en&start=200&num=21&filter=0&as_sdt=7&as_vis=0&scipsc=1) | `Uses or extends TQT` | [PDF](Marked-Articles/20-ITBWN-MARKED.pdf) |
+| 21 | [Efficient SAR Vessel Detection for FPGA-Based On-Satellite Sensing](https://doi.org/10.1145/3769102.3772713)<br>SEC ’25, Tenth ACM/IEEE Symposium on Edge Computing (2025) | [6](https://scholar.google.com/scholar?cites=9451667418173804315&as_sdt=2005&sciodt=2007&hl=en&num=20) | `Uses or extends TQT` | [PDF](Marked-Articles/21-SAR-Vessel-MARKED.pdf) |
 
 ## Selected citing articles — article discussions
 
@@ -54,6 +54,8 @@ Sony researchers describe how TQT uses the straight-through estimator to learn t
 
 [Original article](https://arxiv.org/pdf/1905.11452) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=4816865987143977033&as_sdt=5,44&sciodt=0,44&hl=en&num=20)
 
+Marked file: [01-Mixed-Precision-DNNs-MARKED.pdf](Marked-Articles/01-Mixed-Precision-DNNs-MARKED.pdf)
+
 ## 02. Understanding How Orthogonality of Parameters Improves Quantization of Neural Networks
 
 Sukru Burc Eryilmaz; Aysegul Dundar
@@ -66,9 +68,11 @@ NVIDIA and Bilkent University researchers adopt TQT as the baseline quantized re
 
 **Authorship link:** Jain, Gural, Wu and Dick (2019), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks. [Bibliography p. 10](Marked-Articles/02-Orthogonality-MARKED.pdf#page=10).
 
-**Reviewed version:** Final IEEE TNNLS print, vol. 34, no. 12; public excerpt reproduces the title, discussion and bibliography pages. **Source:** E-1436; Physical PDF pp. 1–6 (printed pp. 10737–10742): TQT introduced as the quantized retraining method, log-domain threshold training as described in [25], TQT baseline retraining and experiments with TQT; bibliography p. 10 (printed p. 10746), reference [25]. Count: E-0402, data.organic_results[19].inline_links.cited_by.total.
+**Reviewed version:** Final IEEE TNNLS print, vol. 34, no. 12. **Source:** E-1436; Physical PDF pp. 1–6 (printed pp. 10737–10742): TQT introduced as the quantized retraining method, log-domain threshold training as described in [25], TQT baseline retraining and experiments with TQT; bibliography p. 10 (printed p. 10746), reference [25]. Count: E-0402, data.organic_results[19].inline_links.cited_by.total.
 
 [Original article](https://ieeexplore.ieee.org/document/9772057) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=5939552086959198235&as_sdt=5,33&sciodt=7,33&hl=en&num=20)
+
+Marked file: [02-Orthogonality-MARKED.pdf](Marked-Articles/02-Orthogonality-MARKED.pdf)
 
 ## 03. Bayesian Bits: Unifying Quantization and Pruning
 
@@ -86,6 +90,8 @@ The Bayesian Bits authors credit two papers, LSQ [8] and reference [15], the TQT
 
 [Original article](https://proceedings.neurips.cc/paper/2020/file/3f13cf4ddf6fc50c0d39a1d5aeb57dd8-Paper.pdf) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=5274328621855648354&as_sdt=5,44&sciodt=0,44&hl=en&num=20)
 
+Marked file: [03-Bayesian-Bits-MARKED.pdf](Marked-Articles/03-Bayesian-Bits-MARKED.pdf)
+
 ## 04. A Reduced-Precision Network for Image Reconstruction
 
 Manu Mathew Thomas; Karthik Vaidyanathan; Gabor Liktor; Angus G. Forbes
@@ -101,6 +107,8 @@ University of California, Santa Cruz and Intel researchers explain that Jain et 
 **Reviewed version:** ACM Transactions on Graphics publisher PDF. **Source:** E-1263; Physical PDF pp. 3 and 6 (Section 5.1): trained quantization thresholds and log-space threshold training following Jain et al. [2019]; bibliography p. 11. Count: E-0379, data.organic_results[0].inline_links.cited_by.total.
 
 [Original article](https://doi.org/10.1145/3414685.3417786) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=15603330627913573519&as_sdt=5,33&sciodt=0,33&hl=en&num=20)
+
+Marked file: [04-QW-Net-MARKED.pdf](Marked-Articles/04-QW-Net-MARKED.pdf)
 
 ## 05. 7 μJ/inference end-to-end gesture recognition from dynamic vision sensor data using ternarized hybrid convolutional neural networks
 
@@ -118,6 +126,8 @@ ETH Zürich and University of Bologna researchers train their ternarized gesture
 
 [Original article](https://doi.org/10.1016/j.future.2023.07.017) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=8935915395260763099&as_sdt=5,45&sciodt=0,45&hl=en&num=20)
 
+Marked file: [05-DVS-Gesture-MARKED.pdf](Marked-Articles/05-DVS-Gesture-MARKED.pdf)
+
 ## 06. Understanding and Overcoming the Challenges of Efficient Transformer Quantization
 
 Yelysei Bondarenko; Markus Nagel; Tijmen Blankevoort
@@ -133,6 +143,8 @@ Qualcomm researchers note that weight and activation ranges can be learned joint
 **Reviewed version:** Published proceedings PDF. **Source:** E-0046; Physical PDF pp. 3, 7, learnable weight/activation ranges and their adaptation to transformers; bibliography p. 11 / printed p. 7957. Count: E-0430, data.organic_results[6].inline_links.cited_by.total.
 
 [Original article](https://aclanthology.org/2021.emnlp-main.627.pdf) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=8710219284475667501&as_sdt=5,44&sciodt=0,44&hl=en&num=20)
+
+Marked file: [06-Transformer-Quantization-MARKED.pdf](Marked-Articles/06-Transformer-Quantization-MARKED.pdf)
 
 ## 07. F8Net: Fixed-Point 8-bit Only Multiplication for Network Quantization
 
@@ -150,6 +162,8 @@ Snap Inc., Northeastern University and Rice University researchers position F8Ne
 
 [Original article](https://arxiv.org/pdf/2202.05239) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=9661231870650652462&as_sdt=2005&sciodt=0,5&hl=en&num=20)
 
+Marked file: [07-F8Net-MARKED.pdf](Marked-Articles/07-F8Net-MARKED.pdf)
+
 ## 08. Improving Low-Precision Network Quantization via Bin Regularization
 
 Tiantian Han; Dong Li; Ji Liu; Lu Tian; Yi Shan
@@ -162,9 +176,11 @@ Xilinx researchers in Beijing re-implement a hardware-friendly quantization base
 
 **Authorship link:** Jain, Gural, Wu and Dick (2020), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks. [Bibliography p. 9](Marked-Articles/08-Bin-Regularization-MARKED.pdf#page=9).
 
-**Reviewed version:** IEEE Xplore published print, ICCV 2021 proceedings; public excerpt reproduces the title, discussion and bibliography pages. **Source:** E-1437; Physical PDF p. 8 (printed p. 5248): Section 4.8 hardware-friendly baseline following [19, 21], Table 9 TQT, TQT+L2 and TQT+BR rows and the reported +3.7% over TQT; bibliography p. 9 (printed p. 5249), reference [19]. Count: E-0391, data.organic_results[7].inline_links.cited_by.total.
+**Reviewed version:** IEEE Xplore published print, ICCV 2021 proceedings. **Source:** E-1437; Physical PDF p. 8 (printed p. 5248): Section 4.8 hardware-friendly baseline following [19, 21], Table 9 TQT, TQT+L2 and TQT+BR rows and the reported +3.7% over TQT; bibliography p. 9 (printed p. 5249), reference [19]. Count: E-0391, data.organic_results[7].inline_links.cited_by.total.
 
 [Original article](https://ieeexplore.ieee.org/document/9711384) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=8210545444854681605&as_sdt=2005&sciodt=2007&hl=en&num=20)
+
+Marked file: [08-Bin-Regularization-MARKED.pdf](Marked-Articles/08-Bin-Regularization-MARKED.pdf)
 
 ## 09. A Resource Efficient Integer-Arithmetic-Only FPGA-Based CNN Accelerator for Real-Time Facial Emotion Recognition
 
@@ -182,6 +198,8 @@ Inha University and Sangmyung University researchers build log level threshold q
 
 [Original article](https://doi.org/10.1109/ACCESS.2021.3099075) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=13879431573826281003&as_sdt=5,48&sciodt=7,48&hl=en&num=20)
 
+Marked file: [09-LLTQ-MARKED.pdf](Marked-Articles/09-LLTQ-MARKED.pdf)
+
 ## 10. Integer-Only CNNs with 4 Bit Weights and Bit-Shift Quantization Scales at Full-Precision Accuracy
 
 Maarten Vandersteegen; Kristof Van Beeck; Toon Goedemé
@@ -198,6 +216,8 @@ KU Leuven researchers adopt TQT's quantizer: they optimize power-of-two scales b
 
 [Original article](https://lirias.kuleuven.be/retrieve/02b3b220-64bc-4e7a-833e-6e319c5dfa77) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=6471382733336911751&as_sdt=4005&sciodt=0,6&hl=en)
 
+Marked file: [10-Integer-Only-CNNs-MARKED.pdf](Marked-Articles/10-Integer-Only-CNNs-MARKED.pdf)
+
 ## 11. Optimizing the Deployment of Tiny Transformers on Low-Power MCUs
 
 Victor J.B. Jung; Alessio Burrello; Moritz Scherer; Francesco Conti; Luca Benini
@@ -210,9 +230,11 @@ Researchers in the ETH Zürich/University of Bologna PULP group quantize their t
 
 **Authorship link:** Jain, Gural, Wu and Dick (2020), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks. [Bibliography p. 15](Marked-Articles/11-Tiny-Transformers-MARKED.pdf#page=15).
 
-**Reviewed version:** Published IEEE Transactions on Computers print; public excerpt reproduces the title, discussion and bibliography pages. **Source:** E-1434; Physical PDF p. 6 (printed p. 531), Section IV-C: the uniform symmetric TQT quantizer used in the QuantLib flow; bibliography p. 15 (printed p. 540), reference [3]. Count: E-0375, data.organic_results[6].inline_links.cited_by.total.
+**Reviewed version:** Published IEEE Transactions on Computers print. **Source:** E-1434; Physical PDF p. 6 (printed p. 531), Section IV-C: the uniform symmetric TQT quantizer used in the QuantLib flow; bibliography p. 15 (printed p. 540), reference [3]. Count: E-0375, data.organic_results[6].inline_links.cited_by.total.
 
 [Original article](https://ieeexplore.ieee.org/document/10755971) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=8176222627957634598&as_sdt=2005&sciodt=0,5&hl=en&num=20)
+
+Marked file: [11-Tiny-Transformers-MARKED.pdf](Marked-Articles/11-Tiny-Transformers-MARKED.pdf)
 
 ## 12. Accelerating configuration of Reconfigurable Intelligent Surfaces through a hardware-enhanced deep learning approach
 
@@ -230,6 +252,8 @@ University of Granada-led researchers use TQT in the quantization-aware training
 
 [Original article](https://doi.org/10.1016/j.compeleceng.2026.111101) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=1211587708316162333&hl=en&start=0&num=21&as_ylo=2026&as_yhi=2026&scipsc=1)
 
+Marked file: [12-RIS-MARKED.pdf](Marked-Articles/12-RIS-MARKED.pdf)
+
 ## 13. Up or Down? Adaptive Rounding for Post-Training Quantization
 
 Markus Nagel; Rana Ali Amjad; Mart van Baalen; Christos Louizos; Tijmen Blankevoort
@@ -245,6 +269,8 @@ In the related-work analysis of AdaRound, Qualcomm researchers name Jain et al.,
 **Reviewed version:** Published PMLR PDF; physical pages retained. **Source:** E-0321; Physical PDF p. 5, section 4 Background and related work; bibliography physical p. 10. Count: E-0430, data.organic_results[2].inline_links.cited_by.total.
 
 [Original article](https://proceedings.mlr.press/v119/nagel20a/nagel20a.pdf) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=15168731053848628528&as_sdt=5,44&sciodt=0,44&hl=en&num=20)
+
+Marked file: [13-AdaRound-MARKED.pdf](Marked-Articles/13-AdaRound-MARKED.pdf)
 
 ## 14. Bringing AI to edge: From deep learning’s perspective
 
@@ -262,6 +288,8 @@ The edge-AI survey describes Jain et al.'s trained uniform quantization method f
 
 [Original article](https://arxiv.org/pdf/2011.14808) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=14516287917516942788&as_sdt=5,44&sciodt=0,44&hl=en)
 
+Marked file: [14-Bringing-AI-to-Edge-MARKED.pdf](Marked-Articles/14-Bringing-AI-to-Edge-MARKED.pdf)
+
 ## 15. HMQ: Hardware Friendly Mixed Precision Quantization Block for CNNs
 
 Hai Victor Habi; Roy H. Jennings; Arnon Netzer
@@ -278,6 +306,8 @@ Sony Semiconductor Israel researchers cite references [24, 41] for hardware-frie
 
 [Original article](https://arxiv.org/pdf/2007.09952) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=8154175130422296943&as_sdt=5,45&sciodt=0,45&hl=en)
 
+Marked file: [15-HMQ-MARKED.pdf](Marked-Articles/15-HMQ-MARKED.pdf)
+
 ## 16. A Low Memory Footprint Quantized Neural Network for Depth Completion of Very Sparse Time-of-Flight Depth Maps
 
 Xiaowen Jiang; Valerio Cambareri; Gianluca Agresti; Cynthia Ifeyinwa Ugwu; Adriano Simonetto; Fabien Cardinaux; Pietro Zanuttigh
@@ -290,9 +320,11 @@ EPFL, Sony and University of Padova researchers report that their most effective
 
 **Authorship link:** Jain, Gural, Wu and Dick (2019), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks. [Bibliography p. 9](Marked-Articles/16-Depth-Completion-MARKED.pdf#page=9).
 
-**Reviewed version:** IEEE Xplore published print, CVPRW 2022 proceedings; public excerpt reproduces the title, discussion and bibliography pages. **Source:** E-1435; Physical PDF p. 5, Section 5.1 (printed p. 2690): uniform-precision QAT using learnable qmax as in TQT [23]; bibliography p. 9 (printed p. 2694), reference [23]. Count: E-0402, data.organic_results[14].inline_links.cited_by.total.
+**Reviewed version:** IEEE Xplore published print, CVPRW 2022 proceedings. **Source:** E-1435; Physical PDF p. 5, Section 5.1 (printed p. 2690): uniform-precision QAT using learnable qmax as in TQT [23]; bibliography p. 9 (printed p. 2694), reference [23]. Count: E-0402, data.organic_results[14].inline_links.cited_by.total.
 
 [Original article](https://ieeexplore.ieee.org/document/9857469) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=12696510404083872991&as_sdt=5,33&sciodt=7,33&hl=en&num=20)
+
+Marked file: [16-Depth-Completion-MARKED.pdf](Marked-Articles/16-Depth-Completion-MARKED.pdf)
 
 ## 17. QKD: Quantization-aware Knowledge Distillation
 
@@ -310,6 +342,8 @@ Seoul National University and Qualcomm researchers describe LSQ [8] and TQT [17]
 
 [Original article](https://arxiv.org/pdf/1911.12491) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=14630303220790911427&as_sdt=2005&sciodt=0,5&hl=en&num=20)
 
+Marked file: [17-QKD-MARKED.pdf](Marked-Articles/17-QKD-MARKED.pdf)
+
 ## 18. FELIX: A Ferroelectric FET Based Low Power Mixed-Signal In-Memory Architecture for DNN Acceleration
 
 Taha Soliman; Nellie Laleni; Tobias Kirchner; Franz Müller; Ashish Shrivastava; Thomas Kämpfe; Andre Guntoro; Norbert Wehn
@@ -325,6 +359,8 @@ Robert Bosch GmbH, Fraunhofer IPMS and University of Kaiserslautern researchers 
 **Reviewed version:** ACM Transactions on Embedded Computing Systems publisher PDF. **Source:** E-1279; Physical PDF p. 17, Section 6.2: 8-bit/4-bit quantization based on the optimizations in [17]; bibliography p. 23, reference [17]. Count: E-0381, data.organic_results[4].inline_links.cited_by.total.
 
 [Original article](https://doi.org/10.1145/3529760) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=5633834556680840327&as_sdt=2005&sciodt=0,5&hl=en&num=20)
+
+Marked file: [18-FELIX-MARKED.pdf](Marked-Articles/18-FELIX-MARKED.pdf)
 
 ## 19. A White Paper on Neural Network Quantization
 
@@ -342,6 +378,8 @@ Qualcomm's white paper on neural network quantization credits Jain et al., with 
 
 [Original article](https://arxiv.org/pdf/2106.08295) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=3269278865430026974&as_sdt=5,44&sciodt=0,44&hl=en&num=20)
 
+Marked file: [19-White-Paper-MARKED.pdf](Marked-Articles/19-White-Paper-MARKED.pdf)
+
 ## 20. INT8 Activation Ternary or Binary Weights Networks: Unifying Between INT8 and Lower-bit Width Quantization
 
 Ninnart Fuengfusin; Hakaru Tamukoh
@@ -358,6 +396,8 @@ Kyushu Institute of Technology researchers build ITBWN by quantizing activations
 
 [Original article](https://www.jstage.jst.go.jp/article/jrnal/9/2/9_10/_pdf) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=1211587708316162333&hl=en&start=200&num=21&filter=0&as_sdt=7&as_vis=0&scipsc=1)
 
+Marked file: [20-ITBWN-MARKED.pdf](Marked-Articles/20-ITBWN-MARKED.pdf)
+
 ## 21. Efficient SAR Vessel Detection for FPGA-Based On-Satellite Sensing
 
 Colin Laganier; Liam Fletcher; Elim Kwan; Richard Walters; Victoria Nockles
@@ -373,6 +413,8 @@ The Alan Turing Institute researchers deploy a YOLOv8-based SAR vessel detector 
 **Reviewed version:** Published ACM version (open access, CC BY-NC 4.0). **Source:** E-1277; Physical PDF p. 5, Section 3.2: INT8 Vitis AI quantization with power-of-two scaling and QAT using a straight-through estimator [35]; p. 11, Section 4.2.2, Table 4 and Section 4.3: QAT with a quantizer parameter learning rate and the deployed FPGA QAT models; bibliography p. 16, reference [35]. Count: E-0386, data.organic_results[11].inline_links.cited_by.total.
 
 [Original article](https://doi.org/10.1145/3769102.3772713) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=9451667418173804315&as_sdt=2005&sciodt=2007&hl=en&num=20)
+
+Marked file: [21-SAR-Vessel-MARKED.pdf](Marked-Articles/21-SAR-Vessel-MARKED.pdf)
 
 ## International reach and source coverage
 

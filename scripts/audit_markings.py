@@ -138,6 +138,19 @@ def apply_selections(document, article):
     return added
 
 
+def marked_pages(document):
+    """The title page and every page carrying a marking box."""
+    return [page.number + 1 for page in document if page.number == 0 or any(marking_boxes(page))]
+
+
+def packet_pages(source, row):
+    """Pages of a complete marked article that enter the packet; they must match the page index."""
+    pages = marked_pages(source)
+    indexed = list(map(int, row['source_pages'].split(';')))
+    assert pages == indexed, ('Marked pages differ from discussion index', row['article'], pages, indexed)
+    return pages
+
+
 def check_packet(papers, reviews):
     with (DOCS / 'Discussion-Page-Index.csv').open(newline='') as handle:
         rows = list(csv.DictReader(handle))
@@ -146,9 +159,8 @@ def check_packet(papers, reviews):
         offset = 0
         for row in rows:
             number = int(row['article'])
-            pages = list(map(int, row['source_pages'].split(';')))
             with pymupdf.open(DOCS / 'Marked-Articles' / papers[number]['marked_filename']) as source:
-                for page_number in pages:
+                for page_number in packet_pages(source, row):
                     original, excerpt = source[page_number - 1], packet[offset]
                     assert original.rect == excerpt.rect, (number, page_number)
                     assert original.get_text() == excerpt.get_text(), (number, page_number)
@@ -171,7 +183,7 @@ def rebuild_packet(papers, reviews):
         for row in rows:
             number = int(row['article'])
             with pymupdf.open(DOCS / 'Marked-Articles' / papers[number]['marked_filename']) as source:
-                for page in map(int, row['source_pages'].split(';')):
+                for page in packet_pages(source, row):
                     packet.insert_pdf(source, from_page=page - 1, to_page=page - 1)
         packet.set_toc(packet_toc(rows))
         packet.set_metadata({'title': 'Marked discussions'})

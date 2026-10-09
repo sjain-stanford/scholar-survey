@@ -188,6 +188,10 @@ def main():
             target = f'Marked-Articles/{paper["marked_filename"]}#page={article["bibliography_page"]}'
             assert f'href="{target}"' in html_article, number
             assert f']({target})' in md_article, number
+            # The article table and the article entry both link to the complete marked file.
+            marked = f'Marked-Articles/{paper["marked_filename"]}'
+            assert f'href="{marked}"' in html_article and f']({marked})' in md_article, (number, 'Marked file')
+            assert report.count(f'href="{marked}"') == markdown.count(f']({marked})') == 2, (number, 'Marked links')
             assert f'href="{escape(article["original_url"])}"' in html_article, number
         for target in [collection['report'] + '.html', collection['report'] + '.pdf']:
             assert (f'href="{target}"' in index) == collection['link_report'], target

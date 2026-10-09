@@ -3,7 +3,8 @@ import unittest
 
 import pymupdf
 
-from audit_markings import check_document, covered, occurrences, reference_numbers, reviewed_rectangles
+from audit_markings import (check_document, covered, marked_pages, occurrences, packet_pages,
+                            reference_numbers, reviewed_rectangles)
 from optimize_markings import STYLES
 
 
@@ -47,6 +48,19 @@ class CoverageTests(unittest.TestCase):
             document[1].draw_rect(pymupdf.Rect(20, 60, 80, 85), color=color, width=width)
             with self.assertRaisesRegex(AssertionError, 'missing from discussion index'):
                 check_document(document, article)
+
+    def test_packet_takes_title_page_and_marked_pages_of_complete_article(self):
+        with pymupdf.open() as document:
+            for number in range(1, 6):
+                page = document.new_page()
+                page.insert_text((30, 50), 'TQT')
+                if number in (3, 5):
+                    page.draw_rect(pymupdf.Rect(20, 30, 80, 60), color=STYLES[number == 5][1],
+                                   width=STYLES[number == 5][0])
+            self.assertEqual(marked_pages(document), [1, 3, 5])
+            self.assertEqual(packet_pages(document, {'article': '1', 'source_pages': '1; 3; 5'}), [1, 3, 5])
+            with self.assertRaisesRegex(AssertionError, 'differ from discussion index'):
+                packet_pages(document, {'article': '1', 'source_pages': '1; 3'})
 
 
 if __name__ == '__main__':
