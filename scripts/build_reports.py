@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build both citation reports from shared article data and ordered collections."""
+"""Build the citation reports from shared article data and ordered collections."""
 import argparse
 import csv
 import json
@@ -176,7 +176,7 @@ def main():
             assert path.read_text() == content, f'{name} needs rebuilding'
         else:
             path.write_text(content)
-    print('Both report HTML/Markdown files are current' if args.check else 'Built both report HTML/Markdown files')
+    print('Report HTML/Markdown files are current' if args.check else 'Built report HTML/Markdown files')
 
 
 if __name__ == '__main__':

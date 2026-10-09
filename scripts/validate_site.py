@@ -51,8 +51,12 @@ def main():
         assert hashlib.sha256(data).hexdigest() == row['sha256'], row['path']
         assert not data.startswith(b'version https://git-lfs.github.com/spec/v1'), f'LFS pointer cannot be served: {path}'
     initial = list(csv.DictReader((ROOT / 'provenance/Imported-Package-Manifest.csv').open()))
+    current_marked = {'Marked-Articles/' + paper['marked_filename']
+                      for paper in csv.DictReader((DOCS / 'Selected-Articles.csv').open())}
     for row in initial:
         path = Path(row['path'])
+        if path.parts[0] == 'Marked-Articles' and row['path'] not in current_marked:
+            continue  # withdrawn article; preserved in Git history
         if path.parts[0] in ['Sources', 'Marked-Articles'] or path.name == PACKET or ('SerpAPI Verification' in row['path'] and path.suffix == '.json'):
             assert hashlib.sha256((DOCS/path).read_bytes()).hexdigest() == row['sha256'], row['path']
     for row in csv.DictReader((DOCS / 'Delivery-Manifest.csv').open()):
@@ -105,7 +109,9 @@ def main():
                 survey['selected_articles'], survey['shortlist'], survey['named'])
     assert all((p['a'] == 'True') != (p['named'] == 'True') for p in selections), \
         'Each selected article must belong to exactly one report'
-    expected_numbers = list(range(1, len(selections) + 1))
+    # Article numbers are stable identifiers; withdrawn articles leave gaps.
+    expected_numbers = sorted({int(paper['n']) for paper in selections})
+    assert len(expected_numbers) == len(selections), 'Duplicate article numbers'
     selected_titles = {int(paper['n']): paper['title'] for paper in selections}
     selected_collections = {int(paper['n']): 'substantive' if paper['a'] == 'True' else 'named'
                             for paper in selections}
@@ -190,8 +196,8 @@ def main():
     assert verification['discussion_packet']['file'] == PACKET
     assert verification['discussion_packet']['pages'] == int(index_rows[-1]['packet_end'])
     print(f'Validated {len(manifest)} research files, preserved source evidence, {len(markers)} map markers, '
-          f'{len(proofs)} proof links, {len(selections)} synchronized article/authorship entries, '
-          f'and {survey["named"]} named discussions')
+          f'{len(proofs)} proof links, {len(selections)} synchronized article/authorship entries '
+          f'in {len(collections())} report(s)')
 
 
 if __name__ == '__main__':

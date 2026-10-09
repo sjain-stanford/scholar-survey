@@ -21,7 +21,7 @@ def main():
         report = HTML(string=(DOCS / (collection['report'] + '.html')).read_text(), base_url=PUBLIC_BASE)
         report.write_pdf(DOCS / (collection['report'] + '.pdf'))
     if args.reports_only:
-        print('Rendered both report PDFs; refresh manifests after review')
+        print('Rendered report PDFs; refresh manifests after review')
         return
     svg = (DOCS / 'Comprehensive-Citation-Map.svg').read_text()
     map_html = ('''<!doctype html><html><head><meta charset="utf-8">
@@ -41,7 +41,7 @@ a{color:#096b83;text-decoration:underline}
         scale = 2240 / page.rect.width
         page.get_pixmap(matrix=pymupdf.Matrix(scale, scale), alpha=False).save(
             DOCS / 'Comprehensive-Citation-Map.png')
-    print('Rendered both report PDFs and map PDF/PNG; refresh research and delivery manifests after review')
+    print('Rendered report PDFs and map PDF/PNG; refresh research and delivery manifests after review')
 
 
 if __name__ == '__main__':

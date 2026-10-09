@@ -98,42 +98,6 @@
       "venue_evidence": ""
     },
     {
-      "n": 9,
-      "summary": "The routing overview explains Jain and Okabe's fully convolutional router in detail: encoded input layouts, 15 convolutional layers, eight output layout layers, and routing formulated as per-pixel, per-layer binary segmentation.",
-      "research_connection": "Describes the router’s input representation, network architecture and per-pixel routing formulation in the survey’s section on deep neural networks for routing.",
-      "evidence_type": "Named technical exposition",
-      "authorship_link": "Jain and Okabe (2017), Training a fully convolutional neural network to route integrated circuits.",
-      "bibliography_page": 7,
-      "authors": "Junchi Yan; Xianglong Lyu; Ruoyu Cheng; Yibo Lin",
-      "original_url": "https://arxiv.org/pdf/2202.13564",
-      "scholar_url": "https://scholar.google.com/scholar?cites=10188574112538631400&as_sdt=2005&sciodt=2007&hl=en&num=20",
-      "venue_evidence": ""
-    },
-    {
-      "n": 10,
-      "summary": "The grid-synchronization article credits Jain et al. (2014) with optimizing phase-locked-loop dynamic response for fast tracking under disturbance.",
-      "research_connection": "Identifies optimization of PLL dynamic response for fast tracking under disturbance as the contribution of Jain et al. (2014).",
-      "evidence_type": "Named related-work recognition",
-      "authorship_link": "Jain, Ravikirthi and Chilakapati (2014), A novel self-consistent model based optimal filter design for the improved dynamic performance of 3-phase PLLs for phase tracking under grid imperfections.",
-      "bibliography_page": 9,
-      "authors": "Hicham Chaoui; Okezie Okoye; Mehdy Khayamy",
-      "original_url": "https://blob.opal-rt.com/medias/L00161_0507.pdf",
-      "scholar_url": "https://scholar.google.com/scholar?cites=15810554308478523480&as_sdt=2005&sciodt=2007&hl=en&num=20",
-      "venue_evidence": ""
-    },
-    {
-      "n": 11,
-      "summary": "Meta AI researchers name Jain et al., together with Esser et al. and Bhalgat et al., when comparing learned step size or dynamic range at fixed bitwidth with methods that also select bitwidth.",
-      "research_connection": "Discusses learning step size or dynamic range at fixed bitwidth alongside Esser et al. and Bhalgat et al., in a comparison of quantization approaches.",
-      "evidence_type": "Named methodological comparison",
-      "authorship_link": "Jain, Gural, Wu and Dick (2019), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks.",
-      "bibliography_page": 13,
-      "authors": "Alexandre Défossez; Yossi Adi; Gabriel Synnaeve",
-      "original_url": "https://arxiv.org/pdf/2104.09987",
-      "scholar_url": "https://scholar.google.com/scholar?cites=3598317734136951646&as_sdt=2005&sciodt=0,5&hl=en",
-      "venue_evidence": ""
-    },
-    {
       "n": 12,
       "summary": "KU Leuven researchers explicitly state that they optimize power-of-two scales through backpropagation as proposed by Jain et al. They also discuss TQT's shared quantizer parameters for elementwise addition.",
       "research_connection": "Implements the power-of-two scale backpropagation proposed by Jain et al. on page 12 and describes shared quantizer parameters for elementwise addition.",
@@ -143,18 +107,6 @@
       "authors": "Maarten Vandersteegen; Kristof Van Beeck; Toon Goedemé",
       "original_url": "https://lirias.kuleuven.be/retrieve/02b3b220-64bc-4e7a-833e-6e319c5dfa77",
       "scholar_url": "https://scholar.google.com/scholar?cites=6471382733336911751&as_sdt=4005&sciodt=0,6&hl=en",
-      "venue_evidence": ""
-    },
-    {
-      "n": 13,
-      "summary": "Arm, IBM Research and ETH Zürich researchers describe a differentiable learned-range quantizer using a similar approach to Jain et al., followed by its mathematical definition.",
-      "research_connection": "Connects the differentiable range-learning approach to Jain et al. in section 4.2 and equation 4 of the reviewed arXiv:2111.06503v1 preprint.",
-      "evidence_type": "Learned-range quantizer design",
-      "authorship_link": "Jain, Gural, Wu and Dick (2019), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks.",
-      "bibliography_page": 12,
-      "authors": "Chuteng Zhou; Fernando Garcia Redondo; Julian Büchel; Irem Boybat; Xavier Timoneda Comas; S. R. Nandakumar; Shidhartha Das; Abu Sebastian; Manuel Le Gallo; Paul N. Whatmough",
-      "original_url": "https://arxiv.org/pdf/2111.06503",
-      "scholar_url": "https://scholar.google.com/scholar?cites=12934954453334570937&as_sdt=2005&sciodt=0,5&hl=en&num=20",
       "venue_evidence": ""
     },
     {
