@@ -24,6 +24,15 @@ class MarkingTests(unittest.TestCase):
                           pymupdf.Rect(10, 200, 120, 214),
                           pymupdf.Rect(150, 20, 260, 46)])
 
+    def test_neighboring_columns_and_passages_remain_separate(self):
+        # A table row 7 pt right of a paragraph, two paragraphs across an 8 pt gutter, and
+        # two passages of one column separated by an unmarked 12 pt line.
+        row = [pymupdf.Rect(10, 20, 120, 60), pymupdf.Rect(127, 40, 260, 48)]
+        columns = [pymupdf.Rect(10, 20, 120, 60), pymupdf.Rect(128, 20, 240, 60)]
+        passages = [pymupdf.Rect(10, 20, 120, 80), pymupdf.Rect(10, 92, 120, 152)]
+        for boxes in (row, columns, passages):
+            self.assertEqual(len(enclosing_boxes(boxes)), 2)
+
     def test_enlarged_bounds_do_not_connect_unrelated_lines(self):
         lines = [pymupdf.Rect(*coords) for coords in
                  [(90, 20, 120, 34), (10, 32, 120, 46), (10, 10, 40, 24)]]

@@ -640,7 +640,7 @@
         "2": [
           [
             "INT32 multiplication or integer division. For example, to replace multiplication by bit shifting, Jain",
-            "et al., 2019) in three major aspects. First, to determine the minimum error quantization threshold,"
+            "we discuss and propose quantization ﬁne-tuning methods for different models. We dub our method as"
           ]
         ],
         "3": [
@@ -657,18 +657,23 @@
         ],
         "8": [
           [
-            "Baseline (FP)",
+            "better performance. On the other hand, compared with",
             "our approach gives better results. This might partially"
           ],
           [
             "TQT (Jain et al., 2019)",
             "71.1"
+          ],
+          [
+            "TQT (Jain et al., 2019)",
+            "71.8"
           ]
         ]
       },
       "reference_lines": [
         "Sambhav R Jain, Albert Gural, Michael Wu, and Chris H Dick. Trained quantization thresholds for ac-",
-        "curate and efﬁcient ﬁxed-point inference of deep neural networks. arXiv preprint arXiv:1903.08066,"
+        "curate and efﬁcient ﬁxed-point inference of deep neural networks. arXiv preprint arXiv:1903.08066,",
+        "2019."
       ],
       "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked",
       "additional_markings": [],
@@ -677,7 +682,7 @@
         "full_article_pages": 19,
         "search_matches": 13,
         "excluded_other_author_matches": 1,
-        "group_boxes": 6,
+        "group_boxes": 7,
         "unboxed_selected_matches": 0
       },
       "excluded_occurrences": [
@@ -709,7 +714,7 @@
             "the same low bit-widths, quantizing both inputs and outputs"
           ],
           [
-            "merging BN to the previous linear layer during training. Ta-",
+            "of element-wise addition modules, quantizing bias to 8 bits,",
             "(e.g., +3.7% over TQT for 4-bit MobileNetV2). We be-"
           ]
         ]
@@ -743,7 +748,7 @@
         "3": [
           [
             "tivations greatly impacts the accuracy of the network. While Ja-",
-            "improve accuracy. They derived the gradient of the quantization"
+            "precision) based on the gradients."
           ]
         ],
         "6": [
@@ -795,7 +800,7 @@
           ],
           [
             "(STE) [46]. TQTs [25] report that a common problem with",
-            "and weight thresholds in the log-domain. TQT achieves state-"
+            "of-the-art results for some networks, such as MobileNetv2."
           ],
           [
             "of the quantized model. In our experiments, we combine",
@@ -831,7 +836,7 @@
         "6": [
           [
             "we apply the TQT method compared to [25]. Namely, they",
-            "times, one of them achieves a slightly better score than the"
+            "a sophisticated learning rate schedule during retraining. For"
           ],
           [
             "For quantization threshold, we still use a separate learning",
@@ -844,6 +849,14 @@
           [
             "A. Experiments With TQT",
             "A. Experiments With TQT"
+          ],
+          [
+            "ResNet101, and VGG19 models. In Table I, for each model",
+            "and A/W conﬁguration, the ﬁrst two rows show the cases"
+          ],
+          [
+            "without and with orthogonality regularizer, respectively, where",
+            "their pre-TQT FP32 accuracies are almost identical. Some-"
           ],
           [
             "ties. This is expected as quantized training (TQT) also acts as a",
@@ -863,7 +876,7 @@
         "full_article_pages": 10,
         "search_matches": 30,
         "excluded_other_author_matches": 0,
-        "group_boxes": 15,
+        "group_boxes": 17,
         "unboxed_selected_matches": 0
       }
     },
@@ -877,14 +890,15 @@
       "discussion_ranges": {
         "17": [
           [
-            "6.2",
+            "Since our architecture performance depends on the precision of the inferred networks, we tested",
             "presented in [17]. We measured the classification accuracy over the test dataset in the case of"
           ]
         ]
       },
       "reference_lines": [
         "[17] Sambhav R. Jain, Albert Gural, Michael Wu, and Chris Dick. 2019. Trained Quantization Thresholds for Accurate and",
-        "Efficient Fixed-Point Inference of Deep Neural Networks. arXiv:1903.08066. Retrieved from https://arxiv.org/abs/1903."
+        "Efficient Fixed-Point Inference of Deep Neural Networks. arXiv:1903.08066. Retrieved from https://arxiv.org/abs/1903.",
+        "08066."
       ],
       "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked",
       "additional_markings": [],
@@ -995,7 +1009,7 @@
         "6": [
           [
             "have to re-quantize it. We use the uniform symmetric quantizer",
-            "quantizer denoted ψ:"
+            "ψ(x) = max(2b−1, min((x · ϵmul) >> ϵdiv, 2b−1 −1)) (10)"
           ]
         ]
       },
@@ -1046,7 +1060,8 @@
         "Fixed-Point Inference of Deep Neural Networks.",
         "In I.",
         "Dhillon, D. Papailiopoulos, and V. Sze, editors, Proceedings",
-        "of Machine Learning and Systems, volume 2, pages 112–"
+        "of Machine Learning and Systems, volume 2, pages 112–",
+        "128, 2020."
       ],
       "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked; public excerpt of the IEEE print reproduces only the title, discussion and bibliography pages",
       "additional_markings": [],
@@ -1077,7 +1092,7 @@
             "retrains parameters considering the effects of quantization."
           ],
           [
-            "quantization intervals. Esser et al. [38] proposed a method of",
+            "tors learnable parameters. Jain et al. [39] proposed a method",
             "factor conversion equation."
           ],
           [
@@ -1087,12 +1102,12 @@
         ],
         "6": [
           [
-            "use only integer-arithmetic.",
-            "process. Moreover, by mapping the scale factor to the power-"
+            "The current state-of-the-art quantization methods (learned",
+            "quantization. A CNN with uniform quantizers inserted, per-"
           ],
           [
             "is because this is a ﬂoating-point scale factor. The TQT [39]",
-            "and maps a scale factor to power-of-two terms as follows:"
+            "process. Moreover, by mapping the scale factor to the power-"
           ]
         ],
         "7": [
@@ -1177,7 +1192,7 @@
             "S as a scaler variable with the power-of-two quantization. "
           ],
           [
-            " ",
+            "In contrast, instead of using the statistical information, ",
             "implementation of TQT. "
           ]
         ],
@@ -1196,7 +1211,7 @@
           ],
           [
             "scale factor. Finally, we did not use the BC, TWN, or ",
-            "4. Experimental Results and Discussion "
+            "directly affect the model’s performance. "
           ]
         ],
         "4": [
@@ -1240,14 +1255,15 @@
         "4": [
           [
             "minimize the loss of model accuracy due to quantization",
-            "tization function q(x; s) can be written as"
+            "(6)"
           ]
         ]
       },
       "reference_lines": [
         "[33] A. G. Sambhav R Jain, M. Wu, and C. Dick, 2019, “Trained",
         "quantization thresholds for accurate and eﬃcient ﬁxed-point",
-        "inference of deep neural networks” https://arxiv.org/abs/1903."
+        "inference of deep neural networks” https://arxiv.org/abs/1903.",
+        "08066."
       ],
       "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked",
       "additional_markings": [],
@@ -1282,11 +1298,11 @@
           ],
           [
             "4.2.2",
-            "study the impact of the quantizer learning rate on the model"
+            "computational graph). The SQNR provides a measure of the"
           ],
           [
             "The performance of the deployed compiled QAT models on",
-            "expected performance based on the GPU results, with lit-"
+            "tle to no performance degradation observed. For our final"
           ]
         ]
       },
@@ -1320,18 +1336,18 @@
         {
           "page": 11,
           "first": "8:0",
-          "last": "8:6",
+          "last": "8:9",
           "start_text": "4.2.2",
-          "end_text": "study the impact of the quantizer learning rate on the model",
+          "end_text": "computational graph). The SQNR provides a measure of the",
           "reason": "QAT with a trained quantizer parameter learning rate",
           "kind": "discussion"
         },
         {
           "page": 11,
           "first": "31:0",
-          "last": "31:2",
+          "last": "31:3",
           "start_text": "The performance of the deployed compiled QAT models on",
-          "end_text": "expected performance based on the GPU results, with lit-",
+          "end_text": "tle to no performance degradation observed. For our final",
           "reason": "Deployed compiled QAT models on the FPGA",
           "kind": "discussion"
         }
@@ -1375,5 +1391,25 @@
     "full_article_group_boxes": 61,
     "packet_group_boxes": 61,
     "unique_selected_pages": 58
+  },
+  "box_revision": {
+    "date": "2026-10-08",
+    "articles": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "method": "Regenerated each discussion, table-row and bibliography box from the source text lines: one box per column of a passage, sentences followed across column breaks and into displayed formulas, headings and blank lines excluded, complete final reference lines included, and box edges kept clear of the neighbouring lines. Discussion ranges, reference lines and group counts above reflect the revision.",
+    "generator": "background/working/tqt-reliance-screen-2026-10-08/make_marked.py (applicant workspace)"
   }
 }

@@ -20,6 +20,10 @@ LINE_APPEARANCE = re.compile(
     rb'(' + NUMBER + rb')\s+(' + NUMBER + rb')\s+(' + NUMBER + rb')\s+RG\s+'
     + rb'\s+'.join([NUMBER] * 4) + rb'\s+re\s+S\s*')
 GROUP_MARKER = b'% scholar-survey grouped marking\n'
+# Widest gap joining boxes: between the lines of a passage or fragments of one line (e.g. a
+# reference number and its entry). Passages one line apart, column gutters and side-by-side
+# table cells are about 7 pt or more apart once padded.
+JOIN_GAP = 6
 
 
 def style_index(width, color):
@@ -49,8 +53,9 @@ def neighboring_lines(a, b):
     height = min(a.height, b.height)
     x_overlap = min(a.x1, b.x1) - max(a.x0, b.x0)
     y_overlap = min(a.y1, b.y1) - max(a.y0, b.y0)
-    return ((x_overlap > 0 and y_overlap >= -.5 * height)
-            or (y_overlap >= .5 * height and x_overlap >= -height))
+    return ((x_overlap > 0 and y_overlap >= -min(.5 * height, JOIN_GAP))
+            or (y_overlap >= .5 * max(a.height, b.height)
+                and x_overlap >= -min(height, JOIN_GAP)))
 
 
 def enclosing_boxes(line_boxes):

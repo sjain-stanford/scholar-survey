@@ -74,8 +74,11 @@ def occurrences(page, reference_number=None):
 
 
 def covered(rectangles, boxes):
-    # Text glyph boxes and drawn strokes differ slightly after PDF rounding.
-    return all(any((box + (-.5, -.5, .5, .5)).contains(rect) for box in boxes)
+    # Text glyph boxes and drawn strokes differ slightly after PDF rounding. Some fonts report
+    # glyph boxes reaching into the adjacent lines, so a box need only enclose the full width
+    # and the middle third of each rectangle's height.
+    return all(any((box + (-.5, -.5, .5, .5)).contains(rect + (0, rect.height / 3, 0, -rect.height / 3))
+                   for box in boxes)
                for rect in rectangles)
 
 
@@ -113,9 +116,10 @@ def apply_selections(document, article):
         page = document[selection['page'] - 1]
         # Establish the reviewed line rectangles first; one enclosing box then
         # covers the whole logical group, including all cells of a table row.
-        rect = bounds(reviewed_rectangles(page, selection))
-        if covered([rect], marking_boxes(page)[0]):
+        rectangles = reviewed_rectangles(page, selection)
+        if covered(rectangles, marking_boxes(page)[0]):
             continue
+        rect = bounds(rectangles)
         width, color = STYLES[0]
         page.draw_rect(rect, color=color, width=width, overlay=True)
         xref = page.get_contents()[-1]
