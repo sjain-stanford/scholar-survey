@@ -3,8 +3,7 @@
   "articles": [
     {
       "n": 1,
-      "summary": "Sony researchers describe TQT's trained dynamic range and train a TQT-style fixed-bitwidth model for their experimental comparison with mixed-precision quantization.",
-      "research_connection": "Trains a TQT-style model as a fixed-bitwidth benchmark for the authors’ concurrently developed mixed-precision method.",
+      "summary": "Sony researchers describe how TQT uses the straight-through estimator to learn the quantizer's dynamic range by gradient descent (p. 2) and cite it for the power-of-two step size that efficient hardware requires (p. 4). They train a TQT model, learning qmax at a fixed bitwidth \"as was done in (Jain et al., 2019)\", as the fixed-bitwidth benchmark for their concurrently developed mixed-precision method, and report the TQT rows in their CIFAR-10 and ImageNet result tables (pp. 8–9).",
       "evidence_type": "Implemented experimental comparison",
       "authorship_link": "Jain, Gural, Wu and Dick (2019), Trained uniform quantization for accurate and efficient neural network inference on fixed-point hardware.",
       "bibliography_page": 10,
@@ -15,8 +14,7 @@
     },
     {
       "n": 2,
-      "summary": "NVIDIA and Bilkent University researchers use TQT as the baseline quantized retraining method for their study of orthogonality regularization, training thresholds in the log domain as described in the TQT paper and reporting results with and without TQT.",
-      "research_connection": "States \"we use TQT [25] as our baseline retraining\" (p. 5), trains thresholds in the log domain as described in [25] (p. 4) and combines the orthogonality penalty with TQT in Section V-A (p. 6).",
+      "summary": "NVIDIA and Bilkent University researchers adopt TQT as the baseline quantized retraining method for their study of orthogonality regularization, describing it as achieving state-of-the-art results (pp. 1–2). They state \"we use TQT [25] as our baseline retraining\" (p. 5), train thresholds in the log domain as described in [25] (p. 4), follow its five-epoch retraining schedule (p. 5) and combine the orthogonality penalty with TQT, reporting results with and without TQT in Section V-A (p. 6).",
       "evidence_type": "Direct methodological adoption",
       "authorship_link": "Jain, Gural, Wu and Dick (2019), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks.",
       "bibliography_page": 10,
@@ -27,8 +25,7 @@
     },
     {
       "n": 3,
-      "summary": "The Bayesian Bits authors credit two papers with independently introducing joint learning of scale and model parameters. Reference [15] identifies the TQT work by Jain, Gural, Wu and Dick.",
-      "research_connection": "Credits reference [15] as one of two papers that independently introduced joint learning of quantization scale and network parameters.",
+      "summary": "The Bayesian Bits authors credit two papers, LSQ [8] and reference [15], the TQT work by Jain, Gural, Wu and Dick, with independently introducing joint learning of the quantization scale and network parameters for a fixed-bitwidth network (p. 6). Figure 2b then compares Bayesian Bits on MobileNetV2 with AdaRound, LSQ and TQT (p. 8).",
       "evidence_type": "Attribution of a research contribution",
       "authorship_link": "Jain, Gural, Wu and Dick (2019), Trained uniform quantization for accurate and efficient neural network inference on fixed-point hardware.",
       "bibliography_page": 10,
@@ -39,8 +36,7 @@
     },
     {
       "n": 4,
-      "summary": "University of California, Santa Cruz and Intel researchers train the quantization thresholds of their 4-bit QW-Net image-reconstruction network following Jain et al. [2019], training the thresholds in log space.",
-      "research_connection": "Explains that Jain et al. and Esser et al. showed quantization thresholds could be trained (p. 3), then states \"Following Jain et al. [2019], we train the thresholds in log space\" for QW-Net quantization (p. 6).",
+      "summary": "University of California, Santa Cruz and Intel researchers explain that Jain et al. and Esser et al. showed quantization thresholds could be trained, with a straight-through-estimator gradient that lets thresholds grow for dynamic range or shrink for precision (p. 3). For the quantization of their 4-bit QW-Net image-reconstruction network they state \"Following Jain et al. [2019], we train the thresholds in log space\" to improve stability during quantized training (Section 5.1, p. 6).",
       "evidence_type": "Direct methodological adoption",
       "authorship_link": "Jain, Gural, Wu and Dick (2019), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks.",
       "bibliography_page": 11,
@@ -51,8 +47,7 @@
     },
     {
       "n": 5,
-      "summary": "ETH Zürich and University of Bologna researchers train their ternarized gesture-recognition networks with two quantization-aware training algorithms, INQ and TQT, and report that ReLU activations with TQT give the highest classification accuracy.",
-      "research_connection": "Describes TQT as optimizing the logarithm of the clipping interval (p. 5), performs QAT with INQ and TQT (p. 6), lists TQT hyperparameters (p. 9) and compares TQT with INQ in Table 4 (p. 10).",
+      "summary": "ETH Zürich and University of Bologna researchers train their ternarized gesture-recognition networks with two quantization-aware training algorithms, INQ and TQT. They describe TQT as optimizing the logarithm of the clipping interval (p. 5), use it to learn both weight and activation clipping bounds (p. 6), list its hyperparameters (p. 9) and compare it with INQ in Table 4, where ReLU activations with TQT give the highest classification accuracy (p. 10).",
       "evidence_type": "Direct methodological use and comparison",
       "authorship_link": "Jain, Gural, Wu and Dick (2020), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks.",
       "bibliography_page": 14,
@@ -63,8 +58,7 @@
     },
     {
       "n": 6,
-      "summary": "Qualcomm researchers explicitly adapt the jointly credited LSQ/TQT procedure from Esser et al. and Jain et al. to learn weight and activation ranges for BERT-like transformer models.",
-      "research_connection": "Adapts trainable weight and activation ranges to BERT-like models, jointly crediting the procedures of Jain et al. and Esser et al.",
+      "summary": "Qualcomm researchers note that weight and activation ranges can be learned jointly with the weights during training, as in Esser et al. and Jain et al. (p. 3), and adapt this jointly credited procedure to learn weight and activation ranges for BERT-like transformer models in their quantization-aware training variant (p. 7).",
       "evidence_type": "Methodological adaptation",
       "authorship_link": "Jain, Gural, Wu and Dick (2019), Trained uniform quantization for accurate and efficient neural network inference on fixed-point hardware.",
       "bibliography_page": 11,
@@ -75,8 +69,7 @@
     },
     {
       "n": 7,
-      "summary": "Snap Inc., Northeastern University and Rice University researchers position F8Net against the power-of-two fixed-point scaling of Jain et al. (2019), state that their work differs from it in three major aspects and report TQT as a comparison method in their MobileNet results.",
-      "research_connection": "Describes Jain et al. as restricting all scaling factors to power-of-two values (pp. 2–3), contrasts F8Net's on-the-fly fractional length with directly trained fractional length (p. 7) and lists TQT (Jain et al., 2019) in Table 1 for MobileNet V1 and V2b (p. 8).",
+      "summary": "Snap Inc., Northeastern University and Rice University researchers position F8Net against the fixed-point quantization of Jain et al. (2019), which uses trainable power-of-two scale factors so that multiplication becomes bit shifting, and state that their work differs from it in three major aspects (pp. 2–3). They contrast F8Net's on-the-fly fractional length with TQT's directly trained fractional length (p. 7) and list TQT (Jain et al., 2019) in Table 1 for MobileNet V1 and V2b as the previous fixed-point quantization method (p. 8).",
       "evidence_type": "Comparison and design positioning",
       "authorship_link": "Jain, Gural, Wu and Dick (2019), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks.",
       "bibliography_page": 12,
@@ -87,8 +80,7 @@
     },
     {
       "n": 8,
-      "summary": "Xilinx researchers in Beijing re-implement a hardware-friendly quantization baseline following references [19, 21], where [19] is TQT, and apply their bin regularization on top of TQT. Their Table 9 reports TQT, TQT+L2 and TQT+BR results for 4-bit MobileNetV2. Employer-linked: the authors list Xilinx Inc.",
-      "research_connection": "Builds bin regularization on the TQT baseline: Table 9 reports 63.8% top-1 for TQT and 67.5% for TQT+BR on 4-bit MobileNetV2, which the text describes as +3.7% over TQT.",
+      "summary": "Xilinx researchers in Beijing re-implement a hardware-friendly quantization baseline following references [19, 21], where [19] is TQT: power-of-two step sizes, low-bit first and last layers, quantized inputs and outputs of element-wise additions, 8-bit biases and batch normalization merged during training. They build bin regularization on this TQT baseline; Table 9 reports 63.8% top-1 for TQT, 65.8% for TQT+L2 and 67.5% for TQT+BR on 4-bit MobileNetV2, which the text describes as +3.7% over TQT (p. 8). Employer-linked: the authors list Xilinx Inc.",
       "evidence_type": "Extension of the TQT baseline",
       "authorship_link": "Jain, Gural, Wu and Dick (2020), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks.",
       "bibliography_page": 9,
@@ -99,8 +91,7 @@
     },
     {
       "n": 9,
-      "summary": "Inha University and Sangmyung University researchers develop log level threshold quantization (LLTQ) as a hardware-friendly alternative to TQT's power-of-two scale mapping and compare LSQ, TQT and LLTQ in quantization-aware training experiments.",
-      "research_connection": "Describes TQT as mapping the scale factor to power-of-two terms through a log-threshold (p. 6), proposes LLTQ to avoid TQT's pre-calibration step, illustrates LSQ, TQT and LLTQ in Figure 3 (p. 7) and reports that TQT is hardware-friendly but loses about 0.45% accuracy versus floating point, where LLTQ does not (p. 11).",
+      "summary": "Inha University and Sangmyung University researchers build log level threshold quantization (LLTQ) on TQT's power-of-two scale mapping, where a trainable log-threshold turns scale multiplication into shifts (p. 6). LLTQ maps the trainable parameter directly to a power-of-two scale and initializes activation scales from first-batch statistics in place of TQT's pre-calibration. They illustrate LSQ, TQT and LLTQ (Figure 3, p. 7), train all three (p. 10) and report TQT as hardware-friendly within about 0.45% of floating-point accuracy, a gap LLTQ closes (p. 11).",
       "evidence_type": "Method extension and implemented comparison",
       "authorship_link": "Jain, Gural, Wu and Dick (2020), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks.",
       "bibliography_page": 15,
@@ -111,8 +102,7 @@
     },
     {
       "n": 10,
-      "summary": "KU Leuven researchers explicitly state that they optimize power-of-two scales through backpropagation as proposed by Jain et al. They also discuss TQT's shared quantizer parameters for elementwise addition.",
-      "research_connection": "Implements the power-of-two scale backpropagation proposed by Jain et al. on page 12 and describes shared quantizer parameters for elementwise addition.",
+      "summary": "KU Leuven researchers adopt TQT's quantizer: they optimize power-of-two scales by backpropagation \"as proposed by Jain et al.\" (p. 12) and quantize activations with its symmetric uniform quantizer, hyperparameters and scale freezing (p. 17). They credit Jain et al. with showing that 8-bit models with power-of-two scales reach full-precision accuracy (p. 14), discuss TQT's shared elementwise-addition quantizer parameters (p. 12), extend its gradual freezing and stabilization criteria to per-channel scales (p. 19) and report TQT on ImageNet (Table 2, p. 20).",
       "evidence_type": "Direct methodological adoption",
       "authorship_link": "Jain, Gural, Wu and Dick (2020), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks.",
       "bibliography_page": 23,
@@ -123,8 +113,7 @@
     },
     {
       "n": 11,
-      "summary": "Researchers in the ETH Zürich/University of Bologna PULP group quantize their tiny transformers with the uniform symmetric quantizer from the Trained Quantization Threshold method and define the TQT quantizer used in their deployment flow.",
-      "research_connection": "States \"We use the uniform symmetric quantizer from the SotA Trained Quantization Threshold (TQT) method [3]\" and gives the functional behavior of the TQT quantizer (p. 6).",
+      "summary": "Researchers in the ETH Zürich/University of Bologna PULP group quantize their tiny transformers for low-power MCUs with TQT, stating \"We use the uniform symmetric quantizer from the SotA Trained Quantization Threshold (TQT) method [3]\", and specify the functional behavior of the TQT quantizer used in their deployment flow (p. 6).",
       "evidence_type": "Direct methodological use",
       "authorship_link": "Jain, Gural, Wu and Dick (2020), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks.",
       "bibliography_page": 15,
@@ -135,8 +124,7 @@
     },
     {
       "n": 12,
-      "summary": "University of Granada-led researchers use a power-of-two scale quantizer with TQT in the quantization-aware training for their AMD DPU implementation. Other activation and training changes accompany TQT, so results are not an isolated TQT effect.",
-      "research_connection": "States \"For the quantization strategy, a power-of-two scale quantizer with training quantization threshold (TQT) was used [50]\" in the AMD DPU quantization-aware training (p. 9).",
+      "summary": "University of Granada-led researchers use TQT in the quantization-aware training of their AMD DPU implementation for configuring reconfigurable intelligent surfaces, stating \"For the quantization strategy, a power-of-two scale quantizer with training quantization threshold (TQT) was used [50]\" (Section 3.2, p. 9). TQT is applied together with activation and training refinements, so the reported results reflect the combined pipeline.",
       "evidence_type": "Direct methodological use",
       "authorship_link": "Jain, Gural, Wu and Dick (2020), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks.",
       "bibliography_page": 17,
@@ -147,8 +135,7 @@
     },
     {
       "n": 13,
-      "summary": "The AdaRound paper names Jain et al., alongside Esser et al., when explaining how quantization ranges can be learned during training instead of being set manually.",
-      "research_connection": "Explains the contribution of learning quantization ranges in the related-work analysis of AdaRound, with joint credit to Jain et al. and Esser et al.",
+      "summary": "In the related-work analysis of AdaRound, Qualcomm researchers name Jain et al., jointly with Esser et al., for learning the quantization minimum and maximum ranges during training so that they do not have to be set manually (p. 5).",
       "evidence_type": "Named technical recognition",
       "authorship_link": "Jain, Gural, Wu and Dick (2019), Trained uniform quantization for accurate and efficient neural network inference on fixed-point hardware.",
       "bibliography_page": 10,
@@ -159,8 +146,7 @@
     },
     {
       "n": 14,
-      "summary": "The edge-AI survey gives Jain et al. a dedicated methodological description of trained uniform quantization for accurate and efficient neural-network inference on fixed-point hardware.",
-      "research_connection": "Explains trained uniform quantization for fixed-point inference in a survey of deep learning at the edge; reference [121] identifies Jain et al.’s paper.",
+      "summary": "The edge-AI survey describes Jain et al.'s trained uniform quantization method for accurate and efficient neural-network inference on fixed-point hardware (p. 9) and lists TQT as an 8-bit technique for weights and activations in its comparison table (p. 8); reference [121] identifies Jain et al.'s paper.",
       "evidence_type": "Named survey discussion",
       "authorship_link": "Jain, Gural, Wu and Dick (2019), Trained uniform quantization for accurate and efficient neural network inference on fixed-point hardware.",
       "bibliography_page": 20,
@@ -171,8 +157,7 @@
     },
     {
       "n": 15,
-      "summary": "HMQ states that the quantizer it uses is similar to the quantizer of Jain et al. identified by reference [24], then presents its hardware-friendly mixed-precision formulation.",
-      "research_connection": "Identifies the quantizer in reference [24] as similar to the one used in HMQ, followed by signed and unsigned quantizer definitions in equations 2 and 3.",
+      "summary": "Sony Semiconductor Israel researchers cite references [24, 41] for hardware-friendly quantizers that are per-tensor, uniform, symmetric and use power-of-two thresholds (p. 2), call these properties an imperative requirement for efficient edge hardware \"(see [24])\", and state that the quantizer used in HMQ is similar to the one in [24], the TQT work, before defining its signed and unsigned forms in equations 2 and 3 (p. 4).",
       "evidence_type": "Quantizer-design connection",
       "authorship_link": "Jain, Gural, Wu and Dick (2019), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks.",
       "bibliography_page": 17,
@@ -183,8 +168,7 @@
     },
     {
       "n": 16,
-      "summary": "EPFL, Sony and University of Padova researchers report that their most effective uniform-precision quantization-aware training procedure initializes from the pretrained model and uses learnable qmax as in the Trained Quantization Thresholds approach.",
-      "research_connection": "States that the most effective uniform-precision QAT procedure used learnable qmax as in the TQT approach [23] (p. 5).",
+      "summary": "EPFL, Sony and University of Padova researchers report that their most effective uniform-precision quantization-aware training procedure initializes from the pretrained float32 model and uses learnable qmax as in the Trained Quantization Threshold (TQT) approach [23], stabilized with cosine learning-rate decay and RMSprop followed by Adam (p. 5).",
       "evidence_type": "Direct methodological use",
       "authorship_link": "Jain, Gural, Wu and Dick (2019), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks.",
       "bibliography_page": 9,
@@ -195,8 +179,7 @@
     },
     {
       "n": 17,
-      "summary": "QKD describes trainable intervals in LSQ and TQT alongside other trainable quantization approaches, and states that it uses these approaches in its baseline before applying knowledge distillation.",
-      "research_connection": "Includes TQT [17] among the jointly credited trainable quantization approaches used in the baseline. The reported results concern quantization combined with knowledge distillation.",
+      "summary": "Seoul National University and Qualcomm researchers describe LSQ [8] and TQT [17] as introducing uniform quantization with trainable interval values and state that QKD leverages these trainable approaches in its baseline quantization implementation (p. 2), with trainable interval parameters for each layer's weights and input activations similar to [8, 17, 45] (p. 3). They also cite TQT on the quantization sensitivity of depthwise convolutions (p. 7). Knowledge distillation is applied on top of this quantization baseline, and the reported results cover the combined method.",
       "evidence_type": "Use in a research implementation",
       "authorship_link": "Jain, Gural, Wu and Dick (2019), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks.",
       "bibliography_page": 9,
@@ -207,8 +190,7 @@
     },
     {
       "n": 18,
-      "summary": "Robert Bosch GmbH, Fraunhofer IPMS and University of Kaiserslautern researchers evaluate their in-memory accelerator with 8-bit/4-bit quantization based on the optimizations presented in the TQT paper.",
-      "research_connection": "Section 6.2 states that the benchmark accuracy was tested using 8-bit/4-bit quantization based on the optimizations presented in [17], the TQT paper (p. 17).",
+      "summary": "Robert Bosch GmbH, Fraunhofer IPMS and University of Kaiserslautern researchers evaluate the classification accuracy of their ferroelectric-FET in-memory accelerator with 8-bit/4-bit (input/weight) quantization \"based on the optimizations presented in [17]\", the TQT paper (Section 6.2, p. 17).",
       "evidence_type": "Direct methodological use",
       "authorship_link": "Jain, Gural, Wu and Dick (2019), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks.",
       "bibliography_page": 23,
@@ -219,8 +201,7 @@
     },
     {
       "n": 19,
-      "summary": "The quantization white paper explains learning quantization parameters through the straight-through estimator, credits Jain et al. alongside Esser et al. and Bhalgat et al., and develops the corresponding gradient derivation.",
-      "research_connection": "Develops the gradient calculation for learnable quantization parameters after crediting Jain et al., Esser et al. and Bhalgat et al.",
+      "summary": "Qualcomm's white paper on neural network quantization credits Jain et al., with Esser et al. and Bhalgat et al., for using the straight-through estimator to compute gradients with respect to the quantization parameters, then develops the gradient derivation for the scale factor (p. 20). It also cites Jain et al. among works that start quantization-aware training from a pretrained FP32 model (p. 22).",
       "evidence_type": "Technical exposition",
       "authorship_link": "Jain, Gural, Wu and Dick (2019), Trained uniform quantization for accurate and efficient neural network inference on fixed-point hardware.",
       "bibliography_page": 26,
@@ -231,8 +212,7 @@
     },
     {
       "n": 20,
-      "summary": "Kyushu Institute of Technology researchers build ITBWN by quantizing activations to INT8 with TQT while using binary or ternary weights. They use the Xilinx Brevitas TQT implementation and note that its settings omit the power-of-two scaling constraint.",
-      "research_connection": "States that ITBWN uses TQT INT8 quantization for its activations (p. 3) and labels its binary, ternary and INT8 configurations by their use of TQT (p. 4).",
+      "summary": "Kyushu Institute of Technology researchers build ITBWN by quantizing activations to INT8 with TQT while using binary or ternary weights, describing TQT's power-of-two scale, removal of the zero point and threshold training with the straight-through estimator (p. 2). TQT quantizes the activations in their binary, ternary and INT8 configurations (pp. 3–4) through the Xilinx Brevitas implementation, whose default settings, as the authors note, omit the power-of-two scale constraint and initialize the scale differently (p. 3).",
       "evidence_type": "Direct methodological use",
       "authorship_link": "Jain, Gural, Wu and Dick (2020), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks.",
       "bibliography_page": 5,
@@ -243,8 +223,7 @@
     },
     {
       "n": 21,
-      "summary": "The Alan Turing Institute researchers deploy a YOLOv8-based SAR vessel detector on an AMD/Xilinx Kria KV260 FPGA. They quantize it to INT8 with the Vitis AI Quantizer using power-of-two scaling and quantization-aware training attributed to TQT, train the quantizer parameters and deploy the resulting QAT models.",
-      "research_connection": "Cites TQT [35] for its power-of-two QAT with a straight-through estimator (p. 5), retrains with a tuned quantizer parameter learning rate and reports the deployed FPGA QAT models in Table 4 (p. 11). TQT is cited rather than named, and was used through the AMD/Xilinx Vitis AI toolchain.",
+      "summary": "The Alan Turing Institute researchers deploy a YOLOv8-based SAR vessel detector on an AMD/Xilinx Kria KV260 FPGA, quantizing it to INT8 with the Vitis AI Quantizer using symmetric power-of-two scaling and quantization-aware training with a straight-through estimator, for which they cite TQT [35] (p. 5). They retrain with a tuned quantizer-parameter learning rate and report that the deployed QAT models match the expected GPU performance with little to no degradation (Table 4, Section 4.3, p. 11). TQT is cited by reference number rather than named, and is applied through the AMD/Xilinx Vitis AI toolchain.",
       "evidence_type": "Methodological use via Vitis AI",
       "authorship_link": "Jain, Gural, Wu and Dick (2020), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks.",
       "bibliography_page": 16,

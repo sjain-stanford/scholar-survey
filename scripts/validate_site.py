@@ -148,7 +148,7 @@ def main():
         assert (count or 0) == int(paper['count']), (paper['n'], 'Saved Scholar citation count')
         validate_path('Marked-Articles/' + paper['marked_filename'])
         assert paper['marked_filename'].startswith(f'{int(paper["n"]):02}-'), paper['n']
-        for field in ['summary', 'research_connection', 'evidence_type', 'authorship_link']:
+        for field in ['summary', 'evidence_type', 'authorship_link']:
             assert article[field] and paper[field] == article[field], (paper['n'], field)
         assert int(paper['bibliography_page']) == article['bibliography_page'] > 0
         bases = paper['venue_basis'].split('; ')
@@ -165,13 +165,15 @@ def main():
         report = reports[collection['id']]
         markdown = (DOCS / (collection['report'] + '.md')).read_text()
         html_articles = re.findall(r'<div class="paper">.*?</p></div>', report, re.S)
+        categories = sum(len(papers[n]['venue_basis'].split('; ')) for n in order)
+        assert report.count('<span class="badge">') == 2 * categories, 'Table and article badges'
         md_articles = re.split(r'\n## \d+\.', markdown)[1:]
         assert len(html_articles) == len(md_articles) == len(order)
         assert [int(n) for n in re.findall(r'Article (\d+) ·', report)] == order
         assert [int(n) for n in re.findall(r'^## (\d+)\.', markdown, re.M)] == order
         for number, html_article, md_article in zip(order, html_articles, md_articles):
             paper, article = papers[number], article_data[number]
-            for field in ['summary', 'research_connection', 'evidence_type', 'authorship_link']:
+            for field in ['summary', 'evidence_type', 'authorship_link']:
                 assert escape(article[field]) in html_article, (number, field, 'HTML')
                 assert article[field] in md_article, (number, field, 'Markdown')
             for basis in paper['venue_basis'].split('; '):

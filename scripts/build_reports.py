@@ -42,6 +42,10 @@ def selection_bases(paper):
     return paper['venue_basis'].split('; ')
 
 
+def badges(paper, separator=''):
+    return separator.join(f'<span class="badge">{escape(basis)}</span>' for basis in selection_bases(paper))
+
+
 def article_table(numbers, papers, articles, substantive):
     headings = ('<th>No.</th><th>Article / venue</th><th>Scholar</th><th>Selection basis</th>'
                 if substantive else '<th>No.</th><th>Article / venue</th><th>PDF discussion pages</th><th>Scholar</th>')
@@ -52,7 +56,7 @@ def article_table(numbers, papers, articles, substantive):
                  f'<a href="{escape(article["original_url"])}"><b>{escape(paper["title"])}</b></a>'
                  f'<br><span class="small">{escape(paper["venue"])}</span>']
         count = f'<a href="{escape(article["scholar_url"])}">{citation_count(paper)}</a>'
-        cells += ([count, '<br>'.join(map(escape, selection_bases(paper)))] if substantive else
+        cells += ([count, badges(paper, '<br>')] if substantive else
                   [page_ranges(json.loads(paper['body_pages'])), count])
         rows.append('<tr>' + ''.join(f'<td>{cell}</td>' for cell in cells) + '</tr>')
     table = (('<table class="articles">' if substantive else '<table>') + '<thead><tr>' + headings
@@ -65,9 +69,9 @@ def article_block(number, paper, article, title):
     venue = f' Venue: {escape(article["venue_evidence"])}.' if article['venue_evidence'] else ''
     return f'''<div class="paper"><div class="kicker">Article {number:02} · {escape(title)}</div>
 <h3>{escape(paper['title'])}</h3><div class="meta">{escape(article['authors'])}<br>{escape(paper['venue'])} · {count_phrase(paper)}</div>
-{''.join(f'<span class="badge">{escape(basis)}</span>' for basis in selection_bases(paper))}
-<p><b>Documented contribution.</b> {escape(article['summary'])}</p>
-<p><b>{escape(article['evidence_type'])}.</b> {escape(article['research_connection'])}</p>
+{badges(paper)}
+<p class="label"><b>Documented contribution:</b> {escape(article['evidence_type'])}</p>
+<p>{escape(article['summary'])}</p>
 <p class="small"><b>Authorship link:</b> {escape(article['authorship_link'])} <a href="{target}">Bibliography p. {paper['bibliography_page']}</a>.</p>
 <p class="small"><b>Reviewed version:</b> {escape(paper['version'])}. <b>Pinpoint:</b> {escape(paper['locator'])}. Source {paper['source_evidence']}; marked copy {paper['marked_evidence']}.<br><b>Count:</b> {paper['count_evidence']}, <span class="mono">{escape(paper['count_pinpoint'])}</span>.{venue}</p>
 <p class="small"><a href="{escape(article['original_url'])}">Original article</a> · <a href="{escape(article['scholar_url'])}">Scholar cited-by list</a><br>Marked file: <span class="mono">{paper['marked_filename']}</span></p></div>'''
@@ -153,14 +157,14 @@ def build_reports():
                      '|---:|---|---:|---|']
             for n in group['articles']:
                 p, a = papers[n], articles[n]
-                table.append(f'| {n:02} | [{p["title"]}]({a["original_url"]})<br>{p["venue"]} | [{citation_count(p)}]({a["scholar_url"]}) | {"<br>".join(selection_bases(p))} |')
+                table.append(f'| {n:02} | [{p["title"]}]({a["original_url"]})<br>{p["venue"]} | [{citation_count(p)}]({a["scholar_url"]}) | {"<br>".join(f"`{basis}`" for basis in selection_bases(p))} |')
             md.append('\n'.join(table))
         for group in collection['groups']:
             md.append(f'## {group["title"]} — article discussions')
             for n in group['articles']:
                 p, a = papers[n], articles[n]
                 md += [f'## {n:02}. {p["title"]}', f'{a["authors"]}\n\n{p["venue"]} · {count_phrase(p)}',
-                       a['summary'], f'**{a["evidence_type"]}:** {a["research_connection"]}',
+                       f'**Documented contribution:** {a["evidence_type"]}', a['summary'],
                        f'**Authorship link:** {a["authorship_link"]} [Bibliography p. {p["bibliography_page"]}](Marked-Articles/{p["marked_filename"]}#page={p["bibliography_page"]}).',
                        f'**Reviewed version:** {p["version"]}. **Source:** {p["source_evidence"]}; {p["locator"]}. Count: {p["count_evidence"]}, {p["count_pinpoint"]}.',
                        f'[Original article]({a["original_url"]}) · [Scholar cited-by list]({a["scholar_url"]})']
