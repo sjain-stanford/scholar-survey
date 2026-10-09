@@ -177,7 +177,7 @@
       "authorship_link": "Jain, Gural, Wu and Dick (2020), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks.",
       "bibliography_page": 9,
       "authors": "Tiantian Han; Dong Li; Ji Liu; Lu Tian; Yi Shan",
-      "original_url": "https://openaccess.thecvf.com/content/ICCV2021/papers/Han_Improving_Low-Precision_Network_Quantization_via_Bin_Regularization_ICCV_2021_paper.pdf",
+      "original_url": "https://ieeexplore.ieee.org/document/9711384",
       "scholar_url": "https://scholar.google.com/scholar?cites=8210545444854681605&as_sdt=2005&sciodt=2007&hl=en&num=20",
       "venue_evidence": "E-1396"
     },
@@ -201,9 +201,9 @@
       "authorship_link": "Jain, Gural, Wu and Dick (2019), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks.",
       "bibliography_page": 10,
       "authors": "Sukru Burc Eryilmaz; Aysegul Dundar",
-      "original_url": "https://repository.bilkent.edu.tr/bitstreams/22d7da4c-4e45-4d72-b55b-fb078da82b59/download",
+      "original_url": "https://ieeexplore.ieee.org/document/9772057",
       "scholar_url": "https://scholar.google.com/scholar?cites=5939552086959198235&as_sdt=5,33&sciodt=7,33&hl=en&num=20",
-      "venue_evidence": ""
+      "venue_evidence": "E-1429"
     },
     {
       "n": 18,
@@ -235,9 +235,9 @@
       "research_connection": "States \"We use the uniform symmetric quantizer from the SotA Trained Quantization Threshold (TQT) method [3]\" and gives the functional behavior of the TQT quantizer (p. 6).",
       "evidence_type": "Direct methodological use",
       "authorship_link": "Jain, Gural, Wu and Dick (2020), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks.",
-      "bibliography_page": 13,
+      "bibliography_page": 15,
       "authors": "Victor J.B. Jung; Alessio Burrello; Moritz Scherer; Francesco Conti; Luca Benini",
-      "original_url": "https://arxiv.org/pdf/2404.02945",
+      "original_url": "https://ieeexplore.ieee.org/document/10755971",
       "scholar_url": "https://scholar.google.com/scholar?cites=8176222627957634598&as_sdt=2005&sciodt=0,5&hl=en&num=20",
       "venue_evidence": "E-1421"
     },
@@ -249,7 +249,7 @@
       "authorship_link": "Jain, Gural, Wu and Dick (2019), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks.",
       "bibliography_page": 9,
       "authors": "Xiaowen Jiang; Valerio Cambareri; Gianluca Agresti; Cynthia Ifeyinwa Ugwu; Adriano Simonetto; Fabien Cardinaux; Pietro Zanuttigh",
-      "original_url": "https://www.research.unipd.it/bitstream/11577/3462823/2/2205.12918v1.pdf",
+      "original_url": "https://ieeexplore.ieee.org/document/9857469",
       "scholar_url": "https://scholar.google.com/scholar?cites=12696510404083872991&as_sdt=5,33&sciodt=7,33&hl=en&num=20",
       "venue_evidence": "E-1422"
     },
@@ -299,6 +299,18 @@
       "authors": "Mengqi Wang; Guofu Feng; Ming Chen; Ruijuan Ye; Yaohui Wang",
       "original_url": "https://doi.org/10.1155/2022/8021288",
       "scholar_url": "https://scholar.google.com/scholar?cites=1211587708316162333&hl=en&start=60&num=21&filter=0&as_sdt=7&as_vis=0&scipsc=1",
+      "venue_evidence": ""
+    },
+    {
+      "n": 26,
+      "summary": "The Alan Turing Institute researchers deploy a YOLOv8-based SAR vessel detector on an AMD/Xilinx Kria KV260 FPGA. They quantize it to INT8 with the Vitis AI Quantizer using power-of-two scaling and quantization-aware training attributed to TQT, train the quantizer parameters and deploy the resulting QAT models.",
+      "research_connection": "Cites TQT [35] for its power-of-two QAT with a straight-through estimator (p. 5), retrains with a tuned quantizer parameter learning rate and reports the deployed FPGA QAT models in Table 4 (p. 11). TQT is cited rather than named, and was used through the AMD/Xilinx Vitis AI toolchain.",
+      "evidence_type": "Methodological use via Vitis AI",
+      "authorship_link": "Jain, Gural, Wu and Dick (2020), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks.",
+      "bibliography_page": 16,
+      "authors": "Colin Laganier; Liam Fletcher; Elim Kwan; Richard Walters; Victoria Nockles",
+      "original_url": "https://doi.org/10.1145/3769102.3772713",
+      "scholar_url": "https://scholar.google.com/scholar?cites=9451667418173804315&as_sdt=2005&sciodt=2007&hl=en&num=20",
       "venue_evidence": ""
     }
   ]

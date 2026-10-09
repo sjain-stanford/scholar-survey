@@ -872,12 +872,12 @@
         "cient fixed-point inference of deep neural networks. In ML-",
         "Sys, 2020. 2, 8"
       ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked; 1 match on an unselected page (background mention) left unmarked",
+      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked; public excerpt of the IEEE print reproduces only the title, discussion and bibliography pages",
       "additional_markings": [],
       "reference_number": 19,
       "occurrence_audit": {
         "full_article_pages": 10,
-        "search_matches": 12,
+        "search_matches": 11,
         "excluded_other_author_matches": 0,
         "group_boxes": 4,
         "unboxed_selected_matches": 0
@@ -1008,12 +1008,12 @@
         "thresholds for accurate and efﬁcient ﬁxed-point inference of deep neural",
         "networks,” 2019, arXiv:1903.08066."
       ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked; 8 matches on unselected pages (background or repeated mentions) left unmarked",
+      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked; public excerpt of the IEEE print reproduces only the title, discussion and bibliography pages",
       "additional_markings": [],
       "reference_number": 25,
       "occurrence_audit": {
         "full_article_pages": 10,
-        "search_matches": 38,
+        "search_matches": 30,
         "excluded_other_author_matches": 0,
         "group_boxes": 15,
         "unboxed_selected_matches": 0
@@ -1142,27 +1142,25 @@
       "discussion_pages": [
         6
       ],
-      "reference_page": 13,
+      "reference_page": 15,
       "discussion_ranges": {
         "6": [
           [
-            "it to 8 bit, we have to re-quantize it. We use the uniform",
-            "tional behavior of the TQT quantizer denoted ψ:"
+            "have to re-quantize it. We use the uniform symmetric quantizer",
+            "quantizer denoted ψ:"
           ]
         ]
       },
       "reference_lines": [
-        "[3]",
-        "S. Jain, A. Gural, M. Wu, and C. Dick, “Trained quantization",
-        "thresholds for accurate and efficient fixed-point inference of deep",
-        "neural networks,” Proceedings of Machine Learning and Systems,",
-        "vol. 2, pp. 112–128, 2020."
+        "[3] S. Jain, A. Gural, M. Wu, and C. Dick, “Trained quantization thresholds",
+        "for accurate and efﬁcient ﬁxed-point inference of deep neural networks,”",
+        "Proc. Mach. Learn. Syst., vol. 2, 2020, pp. 112–128."
       ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked; 1 match on an unselected page (background mention) left unmarked",
+      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked; public excerpt of the IEEE print reproduces only the title, discussion and bibliography pages",
       "additional_markings": [],
       "reference_number": 3,
       "occurrence_audit": {
-        "full_article_pages": 14,
+        "full_article_pages": 16,
         "search_matches": 7,
         "excluded_other_author_matches": 1,
         "group_boxes": 2,
@@ -1170,11 +1168,11 @@
       },
       "excluded_occurrences": [
         {
-          "page": 14,
-          "first": "22:4",
-          "last": "22:4",
-          "start_text": "[39] L. Mei, P. Houshmand, V. Jain, S. Giraldo, and M. Verhelst,",
-          "end_text": "[39] L. Mei, P. Houshmand, V. Jain, S. Giraldo, and M. Verhelst,",
+          "page": 15,
+          "first": "40:3",
+          "last": "40:3",
+          "start_text": "[34] L. Mei, P. Houshmand, V. Jain, S. Giraldo, and M. Verhelst, “ZigZag:",
+          "end_text": "[34] L. Mei, P. Houshmand, V. Jain, S. Giraldo, and M. Verhelst, “ZigZag:",
           "reason": "V. Jain is a coauthor of a different paper (Mei et al.)"
         }
       ]
@@ -1196,18 +1194,18 @@
       },
       "reference_lines": [
         "[23] Sambhav Jain, Albert Gural, Michael Wu, and Chris Dick.",
-        "Trained Quantization Thresholds for Accurate and Efficient",
+        "Trained Quantization Thresholds for Accurate and Efﬁcient",
         "Fixed-Point Inference of Deep Neural Networks.",
         "In I.",
         "Dhillon, D. Papailiopoulos, and V. Sze, editors, Proceedings",
         "of Machine Learning and Systems, volume 2, pages 112–"
       ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked; 1 match on an unselected page (background mention) left unmarked",
+      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked; public excerpt of the IEEE print reproduces only the title, discussion and bibliography pages",
       "additional_markings": [],
       "reference_number": 23,
       "occurrence_audit": {
-        "full_article_pages": 15,
-        "search_matches": 6,
+        "full_article_pages": 10,
+        "search_matches": 5,
         "excluded_other_author_matches": 0,
         "group_boxes": 2,
         "unboxed_selected_matches": 0
@@ -1411,6 +1409,91 @@
         "search_matches": 5,
         "excluded_other_author_matches": 0,
         "group_boxes": 2,
+        "unboxed_selected_matches": 0
+      }
+    },
+    {
+      "article": 26,
+      "title": "Efficient SAR Vessel Detection for FPGA-Based On-Satellite Sensing",
+      "discussion_pages": [
+        5,
+        11
+      ],
+      "reference_page": 16,
+      "discussion_ranges": {
+        "5": [
+          [
+            "B4096 core and a clock frequency of 300 MHz. We quantized",
+            "ing (QAT) using a straight-through estimator [35]. The DPU"
+          ]
+        ],
+        "11": [
+          [
+            "Table 4: Performance of YOLOv8 model variants with",
+            "INT8 PTQ and QAT on GPU, and QAT on FPGA."
+          ],
+          [
+            "4.2.2",
+            "study the impact of the quantizer learning rate on the model"
+          ],
+          [
+            "The performance of the deployed compiled QAT models on",
+            "expected performance based on the GPU results, with lit-"
+          ]
+        ]
+      },
+      "reference_lines": [
+        "[35] Sambhav Jain, Albert Gural, Michael Wu, and Chris Dick. 2020. Trained",
+        "Quantization Thresholds for Accurate and Efficient Fixed-Point Infer-",
+        "ence of Deep Neural Networks. In Proceedings of Machine Learning",
+        "and Systems, I. Dhillon, D. Papailiopoulos, and V. Sze (Eds.), Vol. 2.",
+        "112–128."
+      ],
+      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked; method and result passages without a TQT or [35] match boxed as reviewed additional markings",
+      "additional_markings": [
+        {
+          "page": 5,
+          "first": "4:17",
+          "last": "5:0",
+          "start_text": "B4096 core and a clock frequency of 300 MHz. We quantized",
+          "end_text": "ing (QAT) using a straight-through estimator [35]. The DPU",
+          "reason": "Vitis AI power-of-two quantization and QAT attributed to reference 35",
+          "kind": "discussion"
+        },
+        {
+          "page": 11,
+          "first": "2:0",
+          "last": "2:1",
+          "start_text": "Table 4: Performance of YOLOv8 model variants with",
+          "end_text": "INT8 PTQ and QAT on GPU, and QAT on FPGA.",
+          "reason": "Table 4: QAT results on GPU and FPGA",
+          "kind": "discussion"
+        },
+        {
+          "page": 11,
+          "first": "8:0",
+          "last": "8:6",
+          "start_text": "4.2.2",
+          "end_text": "study the impact of the quantizer learning rate on the model",
+          "reason": "QAT with a trained quantizer parameter learning rate",
+          "kind": "discussion"
+        },
+        {
+          "page": 11,
+          "first": "31:0",
+          "last": "31:2",
+          "start_text": "The performance of the deployed compiled QAT models on",
+          "end_text": "expected performance based on the GPU results, with lit-",
+          "reason": "Deployed compiled QAT models on the FPGA",
+          "kind": "discussion"
+        }
+      ],
+      "reference_number": 35,
+      "occurrence_audit": {
+        "full_article_pages": 17,
+        "search_matches": 4,
+        "excluded_other_author_matches": 0,
+        "group_boxes": 5,
         "unboxed_selected_matches": 0
       }
     }

@@ -6,7 +6,7 @@ Four articles naming Jain in technical discussion of methods, designs and resear
 
 This report includes articles that name Jain in substantive body discussion, with the corresponding coauthored work identified through the bibliography. Entries describe the specific adaptation, implementation, comparison or technical explanation supported by the source, retaining joint attribution where several methods are credited.
 
-[Marked discussions, pages 100–111](Selected-Discussion-Pages.pdf#page=100) · [Interactive map](Comprehensive-Citation-Map.html)
+[Marked discussions, pages 104–115](Selected-Discussion-Pages.pdf#page=104) · [Interactive map](Comprehensive-Citation-Map.html)
 
 Article numbers identify the corresponding marked files.
 

@@ -9,10 +9,10 @@
     "mapped_works": 210,
     "institution_locations": 228,
     "countries_territories": 30,
-    "shortlist": 21,
+    "shortlist": 22,
     "named": 4,
-    "selected_articles": 25,
-    "selected_unique_pages": 111,
+    "selected_articles": 26,
+    "selected_unique_pages": 115,
     "display_groups": 169
   },
   "report_pages": {
@@ -25,7 +25,7 @@
     "marked_source_text_preserved": true,
     "original_page_mapping_verified": true,
     "marking_regions_reviewed": true,
-    "marking_review_articles": 25,
+    "marking_review_articles": 26,
     "portable_report_article_links": true,
     "citation_counts_match_saved_scholar_records": true,
     "article_presentation_synchronized": true,
@@ -36,15 +36,15 @@
     "list_article_links_use_original_sources": true,
     "complete_tqt_table_entries_boxed": 5,
     "all_selected_occurrences_boxed": true,
-    "full_article_group_boxes": 128,
-    "packet_group_boxes": 128,
-    "packet_pages_match_articles": 111,
-    "packet_render_pages_verified": 111,
+    "full_article_group_boxes": 133,
+    "packet_group_boxes": 133,
+    "packet_pages_match_articles": 115,
+    "packet_render_pages_verified": 115,
     "full_article_hashes_preserved": true,
     "report_membership_and_order_verified": true,
     "report_selections_disjoint": true,
     "packet_section_group_boxes": {
-      "substantive": 119,
+      "substantive": 124,
       "named": 9
     },
     "citation_map_pdf_site_url_verified": true
@@ -54,39 +54,39 @@
     "date": "2026-10-08",
     "source_snapshot_date": "2026-10-07",
     "baseline_commit": "ac0156839f1c1b6973603bb9008a3ab41aafaa52",
-    "articles_reviewed": 25,
+    "articles_reviewed": 26,
     "report_pages": {
       "substantive": 16,
       "named": 6
     },
     "authorship_links": "Article authors and cited bibliography entries checked against the reviewed publications; author names follow the reviewed source versions.",
-    "source_preservation": "Captured sources and full marked articles 01–13 retain their baseline hashes; marked articles 14–25 and the 111-page discussion packet were generated on October 8 and are hashed in the manifests.",
+    "source_preservation": "Captured sources and full marked articles 01–13 retain their baseline hashes; marked articles 14–26 and the 115-page discussion packet were generated on October 8 and are hashed in the manifests.",
     "research_data": "Citation counts, article membership, map affiliations and reviewed marking regions preserved; inventory review labels distinguish the two report selections.",
     "formats": "JSON, CSV, HTML, Markdown and PDF synchronized; report PDFs include page numbers."
   },
   "marking_optimization": {
-    "articles": 25,
-    "full_article_pages": 402,
-    "packet_pages": 111,
-    "full_article_group_boxes": 128,
-    "packet_group_boxes": 128,
-    "validation": "Each reviewed marking group has one enclosing box. All 111 packet pages match their full-article pages in text, dimensions and marking boxes; repeated optimization requires no changes."
+    "articles": 26,
+    "full_article_pages": 416,
+    "packet_pages": 115,
+    "full_article_group_boxes": 133,
+    "packet_group_boxes": 133,
+    "validation": "Each reviewed marking group has one enclosing box. All 115 packet pages match their full-article pages in text, dimensions and marking boxes; repeated optimization requires no changes."
   },
   "occurrence_audit": {
-    "articles": 25,
-    "full_article_pages": 402,
+    "articles": 26,
+    "full_article_pages": 416,
     "ocr_pages": 229,
-    "packet_pages": 111,
-    "search_matches": 277,
+    "packet_pages": 115,
+    "search_matches": 271,
     "excluded_other_author_matches": 6,
     "additional_reviewed_regions": 33,
     "complete_tqt_table_entries": 5,
     "generator": "scripts/audit_markings.py",
-    "scope": "Current selected discussion and reference pages. Articles 01–13: source-page and 300 dpi OCR review preserved (229 pages). Articles 14–25 (October 8): word-level matching on all pages of the reviewed PDFs, generated sentence and table-row boxes, and visual review of every selected page.",
+    "scope": "Current selected discussion and reference pages. Articles 01–13: source-page and 300 dpi OCR review preserved (229 pages). Articles 14–26 (October 8): word-level matching on all pages of the reviewed PDFs, generated sentence and table-row boxes, and visual review of every selected page.",
     "unboxed_selected_matches": 0,
-    "full_article_group_boxes": 128,
-    "packet_group_boxes": 128,
-    "unique_selected_pages": 111
+    "full_article_group_boxes": 133,
+    "packet_group_boxes": 133,
+    "unique_selected_pages": 115
   },
   "source_evidence_scope": "All 388 retained files under Sources preserve their captured hashes. Archived retrieval and profile totals describe the saved source snapshot.",
   "collections": {
@@ -112,13 +112,14 @@
         22,
         23,
         24,
-        25
+        25,
+        26
       ],
       "report_pages": 16,
-      "packet_pages": 99,
-      "packet_group_boxes": 119,
+      "packet_pages": 103,
+      "packet_group_boxes": 124,
       "packet_start": 1,
-      "packet_end": 99
+      "packet_end": 103
     },
     "named": {
       "articles": [
@@ -130,18 +131,18 @@
       "report_pages": 6,
       "packet_pages": 12,
       "packet_group_boxes": 9,
-      "packet_start": 100,
-      "packet_end": 111
+      "packet_start": 104,
+      "packet_end": 115
     }
   },
   "report_split": {
-    "article_numbering": "Shared article numbers 01–25 retained across both reports; article 12 moved from the named report to substantive Group B on October 8",
-    "validation": "Both reports and the marked packet follow their collection membership and article order. All 111 packet pages match full-article text, dimensions and marking boxes. Marked articles 01–13 and source captures retain their baseline hashes."
+    "article_numbering": "Shared article numbers 01–26 retained across both reports; article 12 moved from the named report to substantive Group B on October 8",
+    "validation": "Both reports and the marked packet follow their collection membership and article order. All 115 packet pages match full-article text, dimensions and marking boxes. Marked articles 01–13 and source captures retain their baseline hashes."
   },
   "discussion_packet": {
     "file": "Selected-Discussion-Pages.pdf",
-    "pages": 111,
-    "group_boxes": 128
+    "pages": 115,
+    "group_boxes": 133
   },
   "affiliation_update": {
     "date": "2026-10-08",
@@ -178,7 +179,8 @@
         22,
         23,
         24,
-        25
+        25,
+        26
       ]
     },
     "new_articles": [
@@ -193,10 +195,23 @@
       22,
       23,
       24,
-      25
+      25,
+      26
     ],
     "moved": "Article 12 from the named report to substantive Group B",
     "screening": "Full texts of 265 citing works screened for TQT body discussion; candidates read in context. Generator for articles 14–25 retained outside the published package with the screening outputs.",
-    "zero_count_records": "Articles 23–25: the saved Scholar records carry no cited-by link; reported as no count shown."
+    "zero_count_records": "Articles 23–25: the saved Scholar records carry no cited-by link; reported as no count shown.",
+    "article_26": "Added 2026-10-08 at the applicant's request after re-review: TQT cited (not named) for Vitis AI power-of-two QAT with trained quantizer parameters; tool-mediated through Vitis AI."
+  },
+  "published_print_verification": {
+    "date": "2026-10-08",
+    "articles": [
+      15,
+      17,
+      20,
+      21
+    ],
+    "method": "Marked copies rebuilt from the IEEE Xplore published prints supplied by the applicant (per-page subscriber license line removed by the applicant; IEEE copyright and DOI notices retained). TQT passages, reference numbers and discussion pages match the earlier reviewed versions; article 20 bibliography is on p. 15.",
+    "public_excerpts": "For these four articles the published marked files reproduce only page 1, the discussion pages and the bibliography page; other pages are placeholders linking to the DOI."
   }
 }
