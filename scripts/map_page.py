@@ -19,9 +19,11 @@ STYLE = '''/*site-chrome*/
 .controls #entry{flex:2 1 350px}
 a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid #d68620;outline-offset:3px}
 @media(max-width:600px){header{padding:20px}header h1{font-size:25px}.controls{padding:15px 20px}main{padding:12px}.notice{padding:15px;margin:0 12px 12px}}
-header .heading{flex:1 1 520px;min-width:0}header p.cta-row{opacity:1;margin:14px 0 0}
-.cta{display:inline-block;padding:8px 15px;border-radius:6px;background:#fff;color:#0c4f5f;font-weight:700;text-decoration:none}
-.cta::after{content:" \\2192"}.cta:hover{background:#e7f3f5;text-decoration:underline}
+header{background:#fff;color:#143642;border-bottom:1px solid #d4e2e6}header h1{color:#123c4b}header p{opacity:1;color:#4d6a75}
+header .metrics span{border-color:#c9dbe0;background:#f4f8f9;color:#3c5b66}header .metrics b{color:#126879}
+header .heading{flex:1 1 520px;min-width:0}header p.cta-row{margin:14px 0 0}
+.cta{display:inline-block;padding:8px 15px;border-radius:6px;background:#0c6f82;color:#fff;font-weight:700;text-decoration:none}
+.cta::after{content:" \\2192"}.cta:hover{background:#095a6a;color:#fff;text-decoration:underline}
 .report-badge{display:inline-block;margin:3px 0 1px;padding:1px 6px;border-radius:3px;background:#e7f3ee;color:#20664d;font-size:11px;font-weight:700;text-decoration:none;white-space:nowrap}
 .report-badge:hover{text-decoration:underline}.ids{margin-top:2px;font-size:11px;color:#8197a0}
 ''' + site_nav.CSS + '/*end-site-chrome*/'
