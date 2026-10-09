@@ -1189,10 +1189,6 @@
         "2": [
           [
             "values) during either the training or inference. To further ",
-            "S as a scaler variable with the power-of-two quantization. "
-          ],
-          [
-            "In contrast, instead of using the statistical information, ",
             "implementation of TQT. "
           ]
         ],
@@ -1203,14 +1199,6 @@
           ],
           [
             "In this study, several modifications are applied to BC, ",
-            "TWN, and TQT. For BC, we did not use the clip "
-          ],
-          [
-            "assigned S = 1. For TQT, we used the default ",
-            "minor differences with the TQT settings [14]. The "
-          ],
-          [
-            "scale factor. Finally, we did not use the BC, TWN, or ",
             "directly affect the model’s performance. "
           ]
         ],
@@ -1233,14 +1221,14 @@
         "point inference of deep neural networks,” Proceedings of ",
         "Machine Learning and Systems, vol. 2, pp. 112–128, 2020. "
       ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked",
+      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked; spans on physical pp. 2, 3 combined into single boxes at the applicant's request (2026-10-08)",
       "additional_markings": [],
       "reference_number": 11,
       "occurrence_audit": {
         "full_article_pages": 6,
         "search_matches": 19,
         "excluded_other_author_matches": 0,
-        "group_boxes": 9,
+        "group_boxes": 6,
         "unboxed_selected_matches": 0
       }
     },
