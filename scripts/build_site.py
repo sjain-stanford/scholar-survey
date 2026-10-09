@@ -1,33 +1,19 @@
 #!/usr/bin/env python3
-"""Build the Pages entry page from the standalone citation map."""
+"""Build the Pages entry page from the standalone citation map.
+
+rebuild_map.py writes the complete map page (navigation, header link and report badges come from
+map_page.py); the entry page is an identical copy so the offline and published maps stay consistent.
+"""
 import argparse
-import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / 'docs'
 
-STYLE = '''
-.controls input,.controls select{max-width:100%;min-width:0}
-.controls input{flex:1 1 270px}
-.controls select{flex:1 1 240px}
-.controls #entry{flex:2 1 350px}
-a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid #d68620;outline-offset:3px}
-@media(max-width:600px){header{padding:20px}header h1{font-size:25px}.controls{padding:15px 20px}main{padding:12px}.notice{padding:15px;margin:0 12px 12px}}
-'''
-
 
 def build():
-    survey = json.loads((DOCS / 'Verification.json').read_text())['survey']
     source = (DOCS / 'Comprehensive-Citation-Map.html').read_text()
-    assert source.count('</body>') == 1
-    source = source.replace('<title>Comprehensive Google Scholar Citation Map</title>',
-        '<title>Sambhav R. Jain — scholarly citation map</title>'
-        f'<meta name="description" content="A sourced map of {survey["mapped_works"]} citing works across {survey["countries_territories"]} countries and territories, with marked scholarly discussions and citation research.">')
-    source = source.replace('</style>', STYLE + '</style>', 1)
-    source = source.replace('<input id="q"', '<input id="q" aria-label="Search institution, city, country or paper"')
-    source = source.replace('<select id="country"', '<select id="country" aria-label="Filter by country or territory"')
-    source = source.replace('<select id="entry"', '<select id="entry" aria-label="Filter by cited publication"')
+    assert source.count('</body>') == 1 and 'class="site-nav"' in source, 'Run scripts/rebuild_map.py first'
     return source
 
 

@@ -18,7 +18,7 @@ The survey includes 323 works from 337 archived Scholar records. Publication aff
 
 The complete research package is in [`docs/`](docs/START-HERE.md), including reports, marked articles, CSV inventories, dated source captures, and verification records. Source captures retain the saved evidence; the marked articles and excerpt packet include the reviewed marking regions documented in [`docs/Marking-Review.json`](docs/Marking-Review.json). [`provenance/Research-Manifest.csv`](provenance/Research-Manifest.csv) records current research-file hashes; [`provenance/Imported-Package-Manifest.csv`](provenance/Imported-Package-Manifest.csv) records the preserved source-evidence baseline.
 
-[`docs/index.html`](docs/index.html) is the site entry page, generated from the standalone map with navigation to the evidence. All map data and geometry are embedded; viewing the map requires no API key, server, analytics service or external JavaScript. Links to affiliation proof and report files are relative and work under the `/scholar-survey/` project path.
+[`docs/index.html`](docs/index.html) is the site entry page, an identical copy of the standalone map `docs/Comprehensive-Citation-Map.html`. Both carry the site navigation, the link to the report and the report-article badges in the pin panel, which `scripts/rebuild_map.py` applies through `scripts/map_page.py`. All map data and geometry are embedded; viewing the map requires no API key, server, analytics service or external JavaScript. Links to affiliation proof and report files are relative and work under the `/scholar-survey/` project path.
 
 Publication text documents specific forms of research engagement: methodological adaptation, implementation, experimental comparison, quantizer-design connections, and technical exposition. The entries retain joint attribution and identify the reviewed publication version and exact source page.
 
@@ -41,7 +41,7 @@ python3 scripts/validate_site.py
 python3 -m http.server 8000 --directory docs
 ```
 
-Open `http://localhost:8000/`. The original `docs/Comprehensive-Citation-Map.html` also works offline. To check that the committed entry page is current without changing it, use `python3 scripts/build_site.py --check`.
+Open `http://localhost:8000/`. The standalone `docs/Comprehensive-Citation-Map.html` is the same page and also works offline; after changing map data or the map page presentation, run `python3 scripts/rebuild_map.py` before `build_site.py`. To check that the committed entry page is current without changing it, use `python3 scripts/build_site.py --check`.
 
 Validation checks the source-evidence baseline, current research and delivery manifests, and consistency of article summaries, evidence types and authorship links across JSON, CSV, HTML and Markdown. [`data/article-discussions.json`](data/article-discussions.json) records the source-based presentation of each selected article. [`data/report-collections.json`](data/report-collections.json) defines report membership and article order, shared by the reports, marked packets and download links. `python3 scripts/build_reports.py --check` verifies generated HTML and Markdown. When revising derived reports, update the current manifests and document the source snapshot together.
 

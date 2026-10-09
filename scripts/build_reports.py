@@ -5,11 +5,13 @@ import csv
 import json
 from html import escape
 
+import site_nav
 from report_collections import DOCS, ROOT, PACKET, article_order, collections, packet_rows
 
 
-def page(title, content, eyebrow):
-    return (f'<section class="page"><div class="eyebrow">{escape(eyebrow)}</div>\n'
+def page(title, content, eyebrow, print_only=False):
+    label = 'eyebrow print-only' if print_only else 'eyebrow'
+    return (f'<section class="page"><div class="{label}">{escape(eyebrow)}</div>\n'
             f'<h2>{escape(title)}</h2>\n{content}\n</section>')
 
 
@@ -67,7 +69,7 @@ def article_table(numbers, papers, articles, substantive):
 def article_block(number, paper, article, title):
     target = f'Marked-Articles/{paper["marked_filename"]}#page={paper["bibliography_page"]}'
     venue = f' Venue: {escape(article["venue_evidence"])}.' if article['venue_evidence'] else ''
-    return f'''<div class="paper"><div class="kicker">Article {number:02} · {escape(title)}</div>
+    return f'''<div class="paper" id="article-{number:02}"><div class="kicker print-only">Article {number:02} · {escape(title)}</div><div class="kicker screen-only">Article {number:02}</div>
 <h3>{escape(paper['title'])}</h3><div class="meta">{escape(article['authors'])}<br>{escape(paper['venue'])} · {count_phrase(paper)}</div>
 {badges(paper)}
 <p class="label"><b>Documented contribution:</b> {escape(article['evidence_type'])}</p>
@@ -119,13 +121,13 @@ def build_reports():
 <h2>Authorship links and documented scholarly use</h2><p>Each article identifies the cited work and authors, the specific research connection and the original discussion pages. The bibliography link establishes authorship of the corresponding work by Sambhav R. Jain and coauthors.</p>
 <p>Orange rectangles mark selected discussion, citations and TQT results; blue rectangles identify the corresponding bibliography entries. The marked packet follows the article order in this report and retains original page numbers. Article numbers identify the corresponding marked files.</p>
 <div class="note"><b>International citation survey.</b> The wider survey maps {survey['mapped_works']} citing works to {survey['institution_locations']} institution/location entries across {survey['countries_territories']} countries/territories. These totals describe the broader citation network, separately from this report’s selection.</div>
-<p>{pdf_link}<a href="{packet}">Marked discussions</a> · <a href="Comprehensive-Citation-Map.html">Interactive map</a></p>
+<p>{pdf_link}<a href="{packet}">Marked discussions</a> · <a href="index.html">Interactive map</a></p>
 <p class="small">Snapshot: October 7, 2026. <a href="https://scholar.google.com/citations?hl=en&amp;user=1mvzap4AAAAJ">Sambhav Jain’s Google Scholar profile</a>. Counts belong to the saved citing-article records or version clusters.</p></section>'''
         sections = [cover]
         if substantive:
             for group in collection['groups']:
                 sections.append(page(f'{group["title"]} ({len(group["articles"])})',
-                                     article_table(group['articles'], papers, articles, True), title))
+                                     article_table(group['articles'], papers, articles, True), title, True))
         else:
             sections.append(page(f'{count} named citing articles',
                                  article_table(numbers, papers, articles, False), title))
@@ -133,23 +135,26 @@ def build_reports():
             for start in range(0, len(group['articles']), 2):
                 blocks = '\n'.join(article_block(n, papers[n], articles[n], title)
                                    for n in group['articles'][start:start + 2])
-                # A compact label leaves enough space for two complete article entries.
-                sections.append(f'<section class="page"><div class="eyebrow">{escape(group["title"])}</div>\n{blocks}\n</section>')
+                # A compact label leaves enough space for two complete article entries; on screen it
+                # appears once, before the first pair.
+                label = 'eyebrow print-only' if start else 'eyebrow'
+                sections.append(f'<section class="page"><div class="{label}">{escape(group["title"])}</div>\n{blocks}\n</section>')
         sections.append(coverage_page(coverage, survey))
         sections.append(page('Publication-sourced affiliations and research connections', f'''
 <p>The map presents {survey['institution_locations']} institution/location entries from {survey['mapped_works']} grouped citing works in {survey['countries_territories']} countries/territories. Each pin opens the institutions, citing papers and affiliation-page evidence. Several institutions in one city share a display pin; multi-institution papers contribute several locations.</p>
 <p>Affiliations come from the reviewed publication. Explicit campus and city details determine placement; ROR supplies institution-city geography when the publication lists an institution without a city. Hollow markers show country-level affiliations. Coordinates are geographic display anchors.</p>
 <p>The map documents the geographic reach of citing authors’ publication affiliations, including coauthor- and employer-linked works. Article passages establish methodological adaptation, implementation, comparison, design connections or technical exposition. Joint attribution is retained where several methods are credited.</p>
 <h2>Research files</h2><p><a href="{packet}">Marked discussions</a>: marked source pages in this report’s article order.<br><b>Marked-Articles/:</b> complete articles with original page numbers and source links.<br><b>Selected-Articles.csv:</b> selection membership, counts, evidence types and source pages.<br><b>Discussion-Page-Index.csv:</b> article-to-packet page mapping.<br><b>Sources/:</b> dated Scholar, publication, venue, geography and affiliation captures.</p>
-<p>{html_link}<a href="Comprehensive-Citation-Map.html">Interactive map</a></p>
+<p>{html_link}<a href="index.html">Interactive map</a></p>
 <p class="small">Counts refer to the saved October 7, 2026 snapshot. Hashes and source provenance are recorded in the research manifests.</p>''', 'International research engagement'))
         outputs[report + '.html'] = ('<!doctype html><html><head><meta charset="utf-8">'
             '<meta name="viewport" content="width=device-width,initial-scale=1">'
-            f'<title>{escape(title)}</title><style>{style}</style></head><body>\n'
-            + '\n'.join(sections) + '\n</body></html>\n')
+            f'<title>{escape(title)}</title><style>{style}{site_nav.CSS}</style></head><body>\n'
+            + site_nav.nav('report') + '\n<main class="report">\n' + '\n'.join(sections)
+            + '\n</main>\n</body></html>\n')
         md = [f'# {title}', f'Prepared October 7, 2026. {count} selected articles; {packet_pages} marked discussion pages.',
               collection['description'], collection['selection'],
-              f'{md_link}[Marked discussions]({packet}) · [Interactive map](Comprehensive-Citation-Map.html)',
+              f'{md_link}[Marked discussions]({packet}) · [Interactive map](index.html)',
               'Article numbers identify the corresponding marked files.']
         for group in collection['groups']:
             md.append(f'## {group["title"]}')

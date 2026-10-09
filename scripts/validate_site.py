@@ -10,7 +10,9 @@ from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
+import site_nav
 from build_site import DOCS, ROOT, build
+from map_page import report_articles
 from report_collections import PACKET, article_order, collections, packet_rows
 
 A_STAR, CITED, USES = 'ICORE2026 A* venue', '>100 Scholar citations', 'Uses or extends TQT'
@@ -164,12 +166,17 @@ def main():
                               if paper[collection['selection_field']] == 'True'}
         report = reports[collection['id']]
         markdown = (DOCS / (collection['report'] + '.md')).read_text()
-        html_articles = re.findall(r'<div class="paper">.*?</p></div>', report, re.S)
+        assert site_nav.nav('report') in report and site_nav.nav('map') in index, 'Site navigation'
+        html_articles = re.findall(r'<div class="paper" id="article-\d+">.*?</p></div>', report, re.S)
         categories = sum(len(papers[n]['venue_basis'].split('; ')) for n in order)
         assert report.count('<span class="badge">') == 2 * categories, 'Table and article badges'
         md_articles = re.split(r'\n## \d+\.', markdown)[1:]
         assert len(html_articles) == len(md_articles) == len(order)
         assert [int(n) for n in re.findall(r'Article (\d+) ·', report)] == order
+        assert [int(n) for n in re.findall(r'id="article-(\d+)"', report)] == order
+        # Map pins link report works to their article entries.
+        linked, _ = json.JSONDecoder().raw_decode(index.split('const REPORT=', 1)[1])
+        assert linked == report_articles() and set(linked.values()) == set(order), 'Map report links'
         assert [int(n) for n in re.findall(r'^## (\d+)\.', markdown, re.M)] == order
         for number, html_article, md_article in zip(order, html_articles, md_articles):
             paper, article = papers[number], article_data[number]

@@ -3,6 +3,7 @@
 import csv,json,math,re
 from pathlib import Path
 from html import escape
+import map_page
 ROOT=Path(__file__).resolve().parents[1];D=ROOT/'docs'
 def read(name):return list(csv.DictReader((D/name).open()))
 # Headline figures as boxed cards on the right of the header; they wrap below the title on narrow screens.
@@ -30,18 +31,20 @@ def build():
  text=(D/'Comprehensive-Citation-Map.html').read_text();tail=text.split('const DATA=',1)[1];_,end=json.JSONDecoder().raw_decode(tail)
  text=text.split('const DATA=',1)[0]+'const DATA='+json.dumps(data,ensure_ascii=False,separators=(',',':')).replace('</','<\\/')+tail[end:]
  metrics=f'<span><b>{s["countries_territories"]}</b> countries / territories</span><span><b>{s["mapped_works"]}</b> mapped works</span><span><b>{s["institution_locations"]}</b> institution / location entries</span>'
- heading='<div class="heading"><h1>Global reach of citing research</h1><p>Sambhav R. Jain · Google Scholar snapshot · 7 October 2026</p></div>'
+ heading=map_page.heading(s)
  text=re.sub(r'<header>.*?</header>',lambda _:'<header>'+heading+'<div class="metrics">'+metrics+'</div></header>',text,count=1,flags=re.S)
  text=re.sub(r'/\*header-metrics\*/.*?/\*end-header-metrics\*/','',text,flags=re.S).replace('</style>',HEADER_STYLE+'</style>',1)
  notice=f'''<b>Research reach:</b> {s['mapped_works']} Scholar-catalogued works have sourced publication affiliations across {s['countries_territories']} countries/territories. The inventory retains {s['deduplicated_works']} grouped works from 337 archived Scholar records; the saved profile records 354 citations. These are distinct measures, not a complete unique-citation census. Mapping includes coauthor/employer links, thesis previews and source-version discrepancies. Affiliations do not establish adoption or endorsement. City geography uses the publication or reviewed ROR records; hollow pins indicate country-only placement. <a href="Coverage-by-Publication.csv">Coverage</a> · <a href="Map-Affiliation-Ledger.csv">Affiliation sources</a> · <a href="Work-ID-Corrections.csv">ID corrections</a>.'''
  text=re.sub(r'<div class="notice">.*?</div>',lambda _: '<div class="notice">'+notice+'</div>',text,count=1,flags=re.S)
+ text=map_page.decorate(text,s)
  (D/'Comprehensive-Citation-Map.html').write_text(text)
  # Reuse the committed map's Natural Earth path geometry, a preserved original asset.
  world=re.search(r'<g class="land">(.*?)</g>',text,re.S)[1]
- svg=['<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1080" viewBox="0 0 1600 1080"><rect width="1600" height="1080" fill="white"/><style>text{font-family:Arial,sans-serif;fill:#193b49}.land path{fill:#e1ebed;stroke:white;stroke-width:.6}</style>']
+ svg=['<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1080" viewBox="0 0 1600 1080"><rect width="1600" height="1080" fill="white"/><style>text{font-family:Arial,sans-serif;fill:#193b49}.land path{fill:#e1ebed;stroke:white;stroke-width:.6}.map-heading text{fill:white}</style>']
  def txt(x,y,t,size=18,bold=False):svg.append(f'<text x="{x}" y="{y}" font-size="{size}" font-weight="{700 if bold else 400}">{escape(t)}</text>')
- txt(45,48,'Global reach of citing research',35,True);txt(45,80,'Sambhav R. Jain · Google Scholar snapshot · 7 Oct 2026',18)
- txt(1120,45,f"{s['countries_territories']} countries / territories",24,True);txt(1120,75,f"{s['mapped_works']} works with sourced affiliations",17)
+ svg.append('<rect width="1600" height="100" fill="#123d4c"/><g class="map-heading">')
+ txt(45,52,'Global reach of research citing Sambhav R. Jain’s work',31,True);txt(45,84,'Most-cited work: Trained Quantization Thresholds (TQT), MLSys 2020 · Google Scholar snapshot · 7 October 2026',18)
+ txt(1120,45,f"{s['countries_territories']} countries / territories",24,True);txt(1120,75,f"{s['mapped_works']} works with sourced affiliations",17);svg.append('</g>')
  def panel(name,x,y,w,h,bounds):
   lo,la,hi,ha=bounds; sx=w/((hi-lo)/360*1200);sy=h/((ha-la)/145*485)
   tx=x-((lo+180)/360*1200)*sx;ty=y-((85-ha)/145*485)*sy
@@ -58,7 +61,7 @@ def build():
  txt(45,972,'Solid: publication or registry city. Hollow: country only. Affiliations do not imply independent adoption or endorsement.',16)
  txt(45,1001,'Includes thesis previews and source-version discrepancies. Archived Scholar records: 337; profile citations: 354.',15)
  txt(45,1030,'Source pages, ID corrections and coverage ledgers accompany the interactive map. Geometry: Natural Earth.',16)
- txt(45,1056,'The substantive report includes articles relying on or extending TQT; marked articles document each selection.',15)
+ txt(45,1056,f"The Substantive Citation Report lists {s['selected_articles']} citing articles; marked articles document each selection.",15)
  svg.append('</svg>');(D/'Comprehensive-Citation-Map.svg').write_text(''.join(svg))
  v['survey']['display_groups']=len(data);(D/'Verification.json').write_text(json.dumps(v,ensure_ascii=False,indent=2)+'\n')
  print(f'Rebuilt {len(data)} map groups and static SVG')

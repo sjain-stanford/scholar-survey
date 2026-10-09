@@ -6,7 +6,7 @@ Twenty-one substantive citing articles, each published in an ICORE2026 A*-rated 
 
 The selection basis lists every criterion an article meets. ICORE2026 A* venue: published in a conference rated A* in ICORE2026; ACM Transactions on Graphics 39(6) contains the SIGGRAPH Asia 2020 technical papers, and CVPR workshops carry no separate rating. >100 Scholar citations: more than 100 Google Scholar citations in the saved snapshot. Uses or extends TQT: the article's own methods or experiments use, follow or extend TQT, or compare an implemented extension against it, as stated in the source passages; background mentions, comparisons without such use and statements that a design is merely similar to TQT do not qualify. Counts belong to the citing articles' Scholar records or version clusters; two records show no cited-by count in the saved snapshot. Each entry identifies its reviewed publication version, the citing authors' affiliations, any employer link and the contribution supported by the source passage.
 
-[Report PDF](Substantive-Citation-Report.pdf) · [Marked discussions](Selected-Discussion-Pages.pdf#page=1) · [Interactive map](Comprehensive-Citation-Map.html)
+[Report PDF](Substantive-Citation-Report.pdf) · [Marked discussions](Selected-Discussion-Pages.pdf#page=1) · [Interactive map](index.html)
 
 Article numbers identify the corresponding marked files.
 
