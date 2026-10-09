@@ -13,6 +13,9 @@ from urllib.parse import unquote, urlsplit
 from build_site import DOCS, ROOT, build
 from report_collections import PACKET, article_order, collections, packet_rows
 
+A_STAR, CITED, USES = 'ICORE2026 A* venue', '>100 Scholar citations', 'Uses or extends TQT'
+SELECTION_BASES = (A_STAR, CITED, USES)
+
 
 class Links(HTMLParser):
     def __init__(self):
@@ -109,9 +112,10 @@ def main():
                 survey['selected_articles'], survey['shortlist'], survey['named'])
     assert all((p['a'] == 'True') != (p['named'] == 'True') for p in selections), \
         'Each selected article must belong to exactly one report'
-    # Article numbers are stable identifiers; withdrawn articles leave gaps.
+    # Articles are numbered 1..N in ranked report order.
     expected_numbers = sorted({int(paper['n']) for paper in selections})
     assert len(expected_numbers) == len(selections), 'Duplicate article numbers'
+    assert expected_numbers == list(range(1, len(selections) + 1)), 'Article numbers must be contiguous'
     selected_titles = {int(paper['n']): paper['title'] for paper in selections}
     selected_collections = {int(paper['n']): 'substantive' if paper['a'] == 'True' else 'named'
                             for paper in selections}
@@ -147,9 +151,15 @@ def main():
         for field in ['summary', 'research_connection', 'evidence_type', 'authorship_link']:
             assert article[field] and paper[field] == article[field], (paper['n'], field)
         assert int(paper['bibliography_page']) == article['bibliography_page'] > 0
+        bases = paper['venue_basis'].split('; ')
+        assert set(bases) <= set(SELECTION_BASES) and len(set(bases)) == len(bases), (paper['n'], 'Selection basis')
+        assert bases == sorted(bases, key=SELECTION_BASES.index), (paper['n'], 'Selection basis order')
+        assert (CITED in bases) == (int(paper['count']) > 100), (paper['n'], 'Citation basis')
+        assert A_STAR not in bases or article['venue_evidence'], (paper['n'], 'A* venue evidence')
     for collection in collections():
         order = article_order(collection)
         assert len(order) == len(set(order))
+        assert order == sorted(order), 'Report order must follow article numbers'
         assert set(order) == {int(paper['n']) for paper in selections
                               if paper[collection['selection_field']] == 'True'}
         report = reports[collection['id']]
@@ -164,6 +174,8 @@ def main():
             for field in ['summary', 'research_connection', 'evidence_type', 'authorship_link']:
                 assert escape(article[field]) in html_article, (number, field, 'HTML')
                 assert article[field] in md_article, (number, field, 'Markdown')
+            for basis in paper['venue_basis'].split('; '):
+                assert f'<span class="badge">{escape(basis)}</span>' in html_article, (number, basis)
             target = f'Marked-Articles/{paper["marked_filename"]}#page={article["bibliography_page"]}'
             assert f'href="{target}"' in html_article, number
             assert f']({target})' in md_article, number

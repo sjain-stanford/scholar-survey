@@ -8,124 +8,6 @@
   "articles": [
     {
       "article": 1,
-      "title": "Understanding and Overcoming the Challenges of Efficient Transformer Quantization",
-      "discussion_pages": [
-        3,
-        7
-      ],
-      "reference_page": 11,
-      "discussion_ranges": {
-        "7": [
-          [
-            "Finally, we con-",
-            "for BERT-like transformer models."
-          ]
-        ]
-      },
-      "reference_lines": [
-        "Sambhav R Jain, Albert Gural, Michael Wu, and Chris",
-        "Dick. 2019. Trained uniform quantization for accu-",
-        "rate and efﬁcient neural network inference on ﬁxed-",
-        "point hardware. arXiv preprint arXiv:1903.08066,",
-        {
-          "start": "point hardware. arXiv preprint arXiv:1903.08066,",
-          "end": "6."
-        }
-      ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations boxed; supplemental context and complete TQT table entries visually checked",
-      "additional_markings": [
-        {
-          "page": 3,
-          "first": "25:6",
-          "last": "25:9",
-          "start_text": "et al., 2013). Ranges for both weights and activa-",
-          "end_text": "in Esser et al. (2019); Jain et al. (2019).",
-          "reason": "Trainable ranges for both weights and activations",
-          "kind": "discussion"
-        }
-      ],
-      "occurrence_audit": {
-        "full_article_pages": 23,
-        "search_matches": 5,
-        "excluded_other_author_matches": 0,
-        "group_boxes": 3,
-        "unboxed_selected_matches": 0
-      }
-    },
-    {
-      "article": 2,
-      "title": "Up or Down? Adaptive Rounding for Post-Training Quantization",
-      "discussion_pages": [
-        5
-      ],
-      "reference_page": 10,
-      "discussion_ranges": {
-        "5": [
-          [
-            "Choi et al. (2018) learns",
-            "training so that they do not have to be set manually."
-          ]
-        ]
-      },
-      "reference_lines": [
-        "Jain, S. R., Gural, A., Wu, M., and Dick, C. Trained uni-",
-        "form quantization for accurate and efﬁcient neural net-",
-        "work inference on ﬁxed-point hardware. arxiv preprint",
-        "arxiv:1903.08066, 2019."
-      ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations boxed; supplemental context and complete TQT table entries visually checked",
-      "additional_markings": [],
-      "occurrence_audit": {
-        "full_article_pages": 10,
-        "search_matches": 3,
-        "excluded_other_author_matches": 0,
-        "group_boxes": 2,
-        "unboxed_selected_matches": 0
-      }
-    },
-    {
-      "article": 3,
-      "title": "A white paper on neural network quantization",
-      "discussion_pages": [
-        20,
-        22
-      ],
-      "reference_page": 26,
-      "discussion_ranges": {
-        "20": [
-          [
-            "(Krishnamoorthi, 2018). In later work",
-            "and the STE, we first calculate the gradient w.r.t. the scale-factor:"
-          ]
-        ]
-      },
-      "reference_lines": [
-        "Jain, S. R., Gural, A., Wu, M., and Dick, C. Trained uniform quantization for accurate and efﬁcient",
-        "neural network inference on ﬁxed-point hardware. CoRR, abs/1903.08066, 2019. URL http:",
-        "//arxiv.org/abs/1903.08066. 20, 22"
-      ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations boxed; supplemental context and complete TQT table entries visually checked",
-      "additional_markings": [
-        {
-          "page": 22,
-          "first": "6:0",
-          "last": "6:2",
-          "start_text": "In this section, we will explore the effect of initialization for QAT. It is common practice in literature",
-          "end_text": "Jain et al., 2019). While it is clear that starting from an FP32 model is beneﬁcial, the effect of the",
-          "reason": "Initialization of QAT from pretrained FP32 models",
-          "kind": "discussion"
-        }
-      ],
-      "occurrence_audit": {
-        "full_article_pages": 27,
-        "search_matches": 6,
-        "excluded_other_author_matches": 0,
-        "group_boxes": 3,
-        "unboxed_selected_matches": 0
-      }
-    },
-    {
-      "article": 4,
       "title": "Mixed Precision DNNs: All you need is a good parametrization",
       "discussion_pages": [
         1,
@@ -230,7 +112,113 @@
       }
     },
     {
-      "article": 5,
+      "article": 2,
+      "title": "Understanding How Orthogonality of Parameters Improves Quantization of Neural Networks",
+      "discussion_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "reference_page": 10,
+      "discussion_ranges": {
+        "1": [
+          [
+            "the accuracy loss [24]–[26]. Recently, a retraining method for",
+            "networks and is called trained quantization thresholds (TQTs)."
+          ]
+        ],
+        "2": [
+          [
+            "two or more [35]–[41]. For more practical deployment,",
+            "tensor quantization [25], and symmetric quantization [24]."
+          ],
+          [
+            "(STE) [46]. TQTs [25] report that a common problem with",
+            "of-the-art results for some networks, such as MobileNetv2."
+          ],
+          [
+            "of the quantized model. In our experiments, we combine",
+            "be explained in Section V-A."
+          ]
+        ],
+        "3": [
+          [
+            "We use the quantized retraining (ﬁne-tuning) method [25]",
+            "network architectures. In this study, we explore the effect"
+          ]
+        ],
+        "4": [
+          [
+            "or per-column (i.e., per-ﬁlter) for weight tensors [26]. Per-",
+            "both for activations and tensors. We use simulated quantization"
+          ],
+          [
+            "phase. We also train the threshold t in log-domain with",
+            "in [25], for each convolution and fully-connected layer."
+          ]
+        ],
+        "5": [
+          [
+            "As mentioned, we use TQT [25] as our baseline retraining",
+            "TQT retraining method on each of these trained models. The"
+          ],
+          [
+            "for activation and weights on the trained weights. We run the",
+            "system. There are some implementation differences in how"
+          ]
+        ],
+        "6": [
+          [
+            "we apply the TQT method compared to [25]. Namely, they",
+            "a sophisticated learning rate schedule during retraining. For"
+          ],
+          [
+            "For quantization threshold, we still use a separate learning",
+            "to [25]. We use per-tensor quantization both for activations"
+          ],
+          [
+            "This section presents the results of various networks with",
+            "(see Section V-A) and without TQT (see Section V-C)."
+          ],
+          [
+            "A. Experiments With TQT",
+            "A. Experiments With TQT"
+          ],
+          [
+            "ResNet101, and VGG19 models. In Table I, for each model",
+            "and A/W conﬁguration, the ﬁrst two rows show the cases"
+          ],
+          [
+            "without and with orthogonality regularizer, respectively, where",
+            "their pre-TQT FP32 accuracies are almost identical. Some-"
+          ],
+          [
+            "ties. This is expected as quantized training (TQT) also acts as a",
+            "regularizers being very strict."
+          ]
+        ]
+      },
+      "reference_lines": [
+        "[25] S. R. Jain, A. Gural, M. Wu, and C. H. Dick, “Trained quantization",
+        "thresholds for accurate and efﬁcient ﬁxed-point inference of deep neural",
+        "networks,” 2019, arXiv:1903.08066."
+      ],
+      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked; public excerpt of the IEEE print reproduces only the title, discussion and bibliography pages",
+      "additional_markings": [],
+      "reference_number": 25,
+      "occurrence_audit": {
+        "full_article_pages": 10,
+        "search_matches": 30,
+        "excluded_other_author_matches": 0,
+        "group_boxes": 17,
+        "unboxed_selected_matches": 0
+      }
+    },
+    {
+      "article": 3,
       "title": "Bayesian Bits: Unifying Quantization and Pruning",
       "discussion_pages": [
         6,
@@ -283,42 +271,171 @@
       }
     },
     {
-      "article": 6,
-      "title": "Bringing AI to edge: From deep learning’s perspective",
+      "article": 4,
+      "title": "A Reduced-Precision Network for Image Reconstruction",
       "discussion_pages": [
-        8,
-        9
+        3,
+        6
       ],
-      "reference_page": 20,
+      "reference_page": 11,
       "discussion_ranges": {
-        "9": [
+        "3": [
           [
-            "Jain et al. [121] propose",
-            "point hardware."
+            "tivations greatly impacts the accuracy of the network. While Ja-",
+            "precision) based on the gradients."
+          ]
+        ],
+        "6": [
+          [
+            "While Jacob et al. [2018] use the moving averages of the minimum",
+            "stability with quantized training. We derive the gradient of Q′ for"
           ]
         ]
       },
       "reference_lines": [
-        "[121] S. R. Jain, A. Gural, M. Wu, and C. Dick, “Trained uniform quantiza-",
-        "tion for accurate and efﬁcient neural network inference on fixed-point",
-        "hardware,” arXiv preprint arXiv:1903.08066, 2019."
+        "Sambhav R Jain, Albert Gural, Michael Wu, and Chris H Dick. 2019. Trained quantization",
+        "thresholds for accurate and efficient fixed-point inference of deep neural networks.",
+        "arXiv preprint arXiv:1903.08066 (2019)."
+      ],
+      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked",
+      "additional_markings": [],
+      "reference_number": null,
+      "occurrence_audit": {
+        "full_article_pages": 12,
+        "search_matches": 6,
+        "excluded_other_author_matches": 0,
+        "group_boxes": 3,
+        "unboxed_selected_matches": 0
+      }
+    },
+    {
+      "article": 5,
+      "title": "7 μJ/inference end-to-end gesture recognition from dynamic vision sensor data using ternarized hybrid convolutional neural networks",
+      "discussion_pages": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "reference_page": 14,
+      "discussion_ranges": {
+        "5": [
+          [
+            "incorporating quantization. Most such methods [66–69] are varia-",
+            "tions of the Straight-Through-Estimator (STE). Introduced in [70],"
+          ],
+          [
+            "the clipping bounds {a, b}. The Learned Step Size Quantization",
+            "of the clipping interval log2(b −a) (in [67])."
+          ]
+        ],
+        "6": [
+          [
+            "To train the ternarized networks we evaluate, we perform QAT",
+            "using two algorithms: INQ [71] and TQT [67]. To determine the"
+          ],
+          [
+            "When using TQT, both weight and activation clipping bounds are",
+            "TQT, fake-quantization is applied to all weights simultaneously."
+          ]
+        ],
+        "9": [
+          [
+            "Table 3",
+            "Hyperparameters for QAT with TQT."
+          ],
+          [
+            "pects. The hyperparameters for QAT with TQT are shown in",
+            "Table 3, the training schedule for QAT with INQ is shown in Fig. 4."
+          ],
+          [
+            "the right y-axis measures the fraction of weights quantized. Hyperparameters",
+            "not shown in this plot are identical to those used for QAT with TQT."
+          ],
+          [
+            "the training set and users 24–29 as the validation set). Of the",
+            "using 4-fold cross-validation (CV). The results are shown in Fig. 5"
+          ]
+        ],
+        "10": [
+          [
+            "Net 1",
+            "97.0% (97.5%)"
+          ],
+          [
+            "algorithm and activation function on accuracy. As Table 4 shows,",
+            "the TQT algorithm. Since our DVS event frame representation"
+          ]
+        ]
+      },
+      "reference_lines": [
+        "[67] S.R. Jain, A. Gural, M. Wu, C.H. Dick, Trained quantization thresholds",
+        "for accurate and efficient fixed-point inference of deep neural networks,",
+        "in: Proceedings of Machine Learning and Systems, 2020, pp. 112–128,",
+        "arXiv:1903.08066."
+      ],
+      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked",
+      "additional_markings": [],
+      "reference_number": 67,
+      "occurrence_audit": {
+        "full_article_pages": 15,
+        "search_matches": 27,
+        "excluded_other_author_matches": 1,
+        "group_boxes": 11,
+        "unboxed_selected_matches": 0
+      },
+      "excluded_occurrences": [
+        {
+          "page": 13,
+          "first": "35:0",
+          "last": "35:0",
+          "start_text": "P. Joshi, N. Imam, S. Jain, Y. Liao, C.K. Lin, A. Lines, R. Liu, D. Mathaikutty,",
+          "end_text": "P. Joshi, N. Imam, S. Jain, Y. Liao, C.K. Lin, A. Lines, R. Liu, D. Mathaikutty,",
+          "reason": "S. Jain is a coauthor of a different paper (Loihi neuromorphic processor)"
+        }
+      ]
+    },
+    {
+      "article": 6,
+      "title": "Understanding and Overcoming the Challenges of Efficient Transformer Quantization",
+      "discussion_pages": [
+        3,
+        7
+      ],
+      "reference_page": 11,
+      "discussion_ranges": {
+        "7": [
+          [
+            "Finally, we con-",
+            "for BERT-like transformer models."
+          ]
+        ]
+      },
+      "reference_lines": [
+        "Sambhav R Jain, Albert Gural, Michael Wu, and Chris",
+        "Dick. 2019. Trained uniform quantization for accu-",
+        "rate and efﬁcient neural network inference on ﬁxed-",
+        "point hardware. arXiv preprint arXiv:1903.08066,",
+        {
+          "start": "point hardware. arXiv preprint arXiv:1903.08066,",
+          "end": "6."
+        }
       ],
       "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations boxed; supplemental context and complete TQT table entries visually checked",
       "additional_markings": [
         {
-          "page": 8,
-          "first": "18:65",
-          "last": "18:69",
-          "start_text": "TQT [121]",
-          "end_text": "2019",
-          "reason": "TQT row in quantization-method comparison table",
-          "kind": "table_entry"
+          "page": 3,
+          "first": "25:6",
+          "last": "25:9",
+          "start_text": "et al., 2013). Ranges for both weights and activa-",
+          "end_text": "in Esser et al. (2019); Jain et al. (2019).",
+          "reason": "Trainable ranges for both weights and activations",
+          "kind": "discussion"
         }
       ],
-      "reference_number": 121,
       "occurrence_audit": {
         "full_article_pages": 23,
-        "search_matches": 8,
+        "search_matches": 5,
         "excluded_other_author_matches": 0,
         "group_boxes": 3,
         "unboxed_selected_matches": 0
@@ -326,157 +443,187 @@
     },
     {
       "article": 7,
-      "title": "Hmq: Hardware friendly mixed precision quantization block for cnns",
-      "discussion_pages": [
-        1,
-        2,
-        3,
-        4
-      ],
-      "reference_page": 17,
-      "discussion_ranges": {
-        "4": [
-          [
-            "that we use in this work is similar",
-            "the one in [24]."
-          ]
-        ]
-      },
-      "reference_lines": [
-        "[24] S. R. Jain, A. Gural, M. Wu, and C. Dick. Trained quantization thresholds",
-        "for accurate and efﬁcient fixed-point inference of deep neural networks.",
-        "arXiv preprint arXiv:1903.08066, 2019."
-      ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations boxed; supplemental context and complete TQT table entries visually checked",
-      "additional_markings": [
-        {
-          "page": 1,
-          "first": "8:5",
-          "last": "8:7",
-          "start_text": "Many works address these issues using diﬀerent methods. These include pruning",
-          "end_text": "CNN co-design [14, 20, 43] and quantization [6, 13, 15, 23, 24, 46].",
-          "reason": "Grouped introductory citations to reference 24",
-          "kind": "discussion"
-        },
-        {
-          "page": 2,
-          "first": "0:4",
-          "last": "0:8",
-          "start_text": "ﬁne-tuning a pre-trained model for quantization. In addition, recent work in",
-          "end_text": "[24, 41].",
-          "reason": "Hardware-friendly power-of-two quantization schemes",
-          "kind": "discussion"
-        },
-        {
-          "page": 2,
-          "first": "2:0",
-          "last": "2:3",
-          "start_text": "An imperative requirement for many eﬃcient edge device hardware imple-",
-          "end_text": "points and real value scale factors. In this work, we introduce a novel quanti-",
-          "reason": "Hardware rationale for symmetric uniform power-of-two thresholds",
-          "kind": "discussion"
-        },
-        {
-          "page": 3,
-          "first": "3:7",
-          "last": "3:9",
-          "start_text": "updated via back-propagation. Uniform quantizers are an important family of",
-          "end_text": "[13, 24, 41]). Non-uniform quantizers include clustering, logarithmic quantiza-",
-          "reason": "Hardware benefits of uniform quantizers",
-          "kind": "discussion"
-        }
-      ],
-      "reference_number": 24,
-      "occurrence_audit": {
-        "full_article_pages": 19,
-        "search_matches": 10,
-        "excluded_other_author_matches": 0,
-        "group_boxes": 6,
-        "unboxed_selected_matches": 0
-      }
-    },
-    {
-      "article": 8,
-      "title": "Qkd: Quantization-aware knowledge distillation",
+      "title": "F8Net: Fixed-Point 8-bit Only Multiplication for Network Quantization",
       "discussion_pages": [
         2,
         3,
-        7
+        7,
+        8
       ],
-      "reference_page": 9,
+      "reference_page": 12,
       "discussion_ranges": {
         "2": [
           [
-            "Our QKD leverages these trainable approaches",
-            "baseline quantization implementation."
+            "INT32 multiplication or integer division. For example, to replace multiplication by bit shifting, Jain",
+            "we discuss and propose quantization ﬁne-tuning methods for different models. We dub our method as"
+          ]
+        ],
+        "3": [
+          [
+            "2021). In parallel, recent work (Jain et al., 2019) proposes to restrict all scaling factors as power-of-2",
+            "2017; Enderich et al., 2019a; Zhang et al., 2020; Goyal et al., 2021). This enables the model to only"
+          ]
+        ],
+        "7": [
+          [
+            "Updating Fractional Length. Different from existing work that directly trains the fractional",
+            "by inferring from current value of weight, using (1). For the fractional length of activation, we use a"
+          ]
+        ],
+        "8": [
+          [
+            "better performance. On the other hand, compared with",
+            "our approach gives better results. This might partially"
+          ],
+          [
+            "TQT (Jain et al., 2019)",
+            "71.1"
+          ],
+          [
+            "TQT (Jain et al., 2019)",
+            "71.8"
           ]
         ]
       },
       "reference_lines": [
-        "[17] Sambhav R Jain, Albert Gural, Michael Wu, and Chris H",
-        "Dick. Trained quantization thresholds for accurate and efﬁ-",
-        "cient fixed-point inference of deep neural networks. arXiv",
-        "preprint arXiv:1903.08066, 2019. 2, 3, 7"
+        "Sambhav R Jain, Albert Gural, Michael Wu, and Chris H Dick. Trained quantization thresholds for ac-",
+        "curate and efﬁcient ﬁxed-point inference of deep neural networks. arXiv preprint arXiv:1903.08066,",
+        "2019."
       ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations boxed; supplemental context and complete TQT table entries visually checked",
-      "additional_markings": [
-        {
-          "page": 2,
-          "first": "11:6",
-          "last": "11:10",
-          "start_text": "value of activation. LSQ [8] and TQT [17] introduce uni-",
-          "end_text": "the baseline quantization implementation. On top of this",
-          "reason": "TQT trainable intervals and use in the QKD baseline",
-          "kind": "discussion"
-        },
-        {
-          "page": 3,
-          "first": "6:3",
-          "last": "6:5",
-          "start_text": "acteristics. In this work, we quantize both weights and ac-",
-          "end_text": "interval values of each layer’s weight parameters and in-",
-          "reason": "Trainable weight/activation intervals, first-column continuation",
-          "kind": "discussion"
-        },
-        {
-          "page": 3,
-          "first": "7:0",
-          "last": "7:2",
-          "start_text": "put activations similar to [8, 17, 45]. These parameters can",
-          "end_text": "task and distillation losses. Considering k-bit quantization",
-          "reason": "Reference 17 for trainable intervals, second-column continuation",
-          "kind": "discussion"
-        },
-        {
-          "page": 3,
-          "first": "23:0",
-          "last": "23:3",
-          "start_text": "where ⌊·⌋is the ﬂooring operation. Note that the dequanti-",
-          "end_text": "used when emulating the effect of quantization [3, 17, 36].",
-          "reason": "Reference 17 for dequantization in simulated quantization",
-          "kind": "discussion"
-        },
-        {
-          "page": 7,
-          "first": "12:0",
-          "last": "12:6",
-          "start_text": "With W2A2, we observe a drastic drop in top-1 accuracy.",
-          "end_text": "W2A2, W3A3 or W4A4. We include these results in the",
-          "reason": "Reference 17 for depthwise-layer sensitivity and the resulting experiment",
-          "kind": "discussion"
-        }
-      ],
-      "reference_number": 17,
+      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked",
+      "additional_markings": [],
+      "reference_number": null,
       "occurrence_audit": {
-        "full_article_pages": 11,
-        "search_matches": 9,
+        "full_article_pages": 19,
+        "search_matches": 13,
+        "excluded_other_author_matches": 1,
+        "group_boxes": 7,
+        "unboxed_selected_matches": 0
+      },
+      "excluded_occurrences": [
+        {
+          "page": 11,
+          "first": "5:0",
+          "last": "5:0",
+          "start_text": "Sahaj Garg, Joe Lou, Anirudh Jain, and Mitchell Nahmias. Dynamic precision analog computing for",
+          "end_text": "Sahaj Garg, Joe Lou, Anirudh Jain, and Mitchell Nahmias. Dynamic precision analog computing for",
+          "reason": "Anirudh Jain is a coauthor of a different paper (dynamic precision analog computing)"
+        }
+      ]
+    },
+    {
+      "article": 8,
+      "title": "Improving Low-Precision Network Quantization via Bin Regularization",
+      "discussion_pages": [
+        8
+      ],
+      "reference_page": 9,
+      "discussion_ranges": {
+        "8": [
+          [
+            "TQT [19]",
+            "87.7"
+          ],
+          [
+            "tized or quantized to 8 bits).",
+            "the same low bit-widths, quantizing both inputs and outputs"
+          ],
+          [
+            "of element-wise addition modules, quantizing bias to 8 bits,",
+            "(e.g., +3.7% over TQT for 4-bit MobileNetV2). We be-"
+          ]
+        ]
+      },
+      "reference_lines": [
+        "[19] Sambhav R Jain, Albert Gural, Michael Wu, and Chris H",
+        "Dick. Trained quantization thresholds for accurate and effi-",
+        "cient fixed-point inference of deep neural networks. In ML-",
+        "Sys, 2020. 2, 8"
+      ],
+      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked; public excerpt of the IEEE print reproduces only the title, discussion and bibliography pages",
+      "additional_markings": [],
+      "reference_number": 19,
+      "occurrence_audit": {
+        "full_article_pages": 10,
+        "search_matches": 11,
         "excluded_other_author_matches": 0,
-        "group_boxes": 6,
+        "group_boxes": 4,
         "unboxed_selected_matches": 0
       }
     },
     {
-      "article": 12,
+      "article": 9,
+      "title": "A Resource Efficient Integer-Arithmetic-Only FPGA-Based CNN Accelerator for Real-Time Facial Emotion Recognition",
+      "discussion_pages": [
+        3,
+        6,
+        7,
+        10,
+        11
+      ],
+      "reference_page": 15,
+      "discussion_ranges": {
+        "3": [
+          [
+            "The quantization-aware training (QAT) method [35]–[39]",
+            "retrains parameters considering the effects of quantization."
+          ],
+          [
+            "tors learnable parameters. Jain et al. [39] proposed a method",
+            "factor conversion equation."
+          ],
+          [
+            "sary when implementing hardware. In another approach [39],",
+            "starting QAT. To compensate for these problems, a hardware-"
+          ]
+        ],
+        "6": [
+          [
+            "The current state-of-the-art quantization methods (learned",
+            "quantization. A CNN with uniform quantizers inserted, per-"
+          ],
+          [
+            "is because this is a ﬂoating-point scale factor. The TQT [39]",
+            "process. Moreover, by mapping the scale factor to the power-"
+          ]
+        ],
+        "7": [
+          [
+            "FIGURE 3. The process of a uniform quantizer using the LSQ [38], the TQT [39] method, and the proposed quantization method,",
+            "LLTQ."
+          ]
+        ],
+        "10": [
+          [
+            "of 1e-2 and weight decay of 1e-5. The quantization-aware",
+            "LSQ [38], TQT [39] and the proposed LLTQ. The hyper-"
+          ]
+        ],
+        "11": [
+          [
+            "operator. The method of [39] is hardware-friendly, but it",
+            "ﬂoating-point result. After quantization-aware training using"
+          ]
+        ]
+      },
+      "reference_lines": [
+        "[39] S. R. Jain, A. Gural, M. Wu, and C. H. Dick, ‘‘Trained quantization",
+        "thresholds for accurate and efﬁcient ﬁxed-point inference of deep neural",
+        "networks,’’ in Proc. Mach. Learn. Syst., Mar. 2020, pp. 112–128."
+      ],
+      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked; 1 match on an unselected page (background mention) left unmarked",
+      "additional_markings": [],
+      "reference_number": 39,
+      "occurrence_audit": {
+        "full_article_pages": 15,
+        "search_matches": 21,
+        "excluded_other_author_matches": 0,
+        "group_boxes": 9,
+        "unboxed_selected_matches": 0
+      }
+    },
+    {
+      "article": 10,
       "title": "Integer-Only CNNs with 4 Bit Weights and Bit-Shift Quantization Scales at Full-Precision Accuracy",
       "discussion_pages": [
         11,
@@ -627,379 +774,7 @@
       }
     },
     {
-      "article": 14,
-      "title": "F8Net: Fixed-Point 8-bit Only Multiplication for Network Quantization",
-      "discussion_pages": [
-        2,
-        3,
-        7,
-        8
-      ],
-      "reference_page": 12,
-      "discussion_ranges": {
-        "2": [
-          [
-            "INT32 multiplication or integer division. For example, to replace multiplication by bit shifting, Jain",
-            "we discuss and propose quantization ﬁne-tuning methods for different models. We dub our method as"
-          ]
-        ],
-        "3": [
-          [
-            "2021). In parallel, recent work (Jain et al., 2019) proposes to restrict all scaling factors as power-of-2",
-            "2017; Enderich et al., 2019a; Zhang et al., 2020; Goyal et al., 2021). This enables the model to only"
-          ]
-        ],
-        "7": [
-          [
-            "Updating Fractional Length. Different from existing work that directly trains the fractional",
-            "by inferring from current value of weight, using (1). For the fractional length of activation, we use a"
-          ]
-        ],
-        "8": [
-          [
-            "better performance. On the other hand, compared with",
-            "our approach gives better results. This might partially"
-          ],
-          [
-            "TQT (Jain et al., 2019)",
-            "71.1"
-          ],
-          [
-            "TQT (Jain et al., 2019)",
-            "71.8"
-          ]
-        ]
-      },
-      "reference_lines": [
-        "Sambhav R Jain, Albert Gural, Michael Wu, and Chris H Dick. Trained quantization thresholds for ac-",
-        "curate and efﬁcient ﬁxed-point inference of deep neural networks. arXiv preprint arXiv:1903.08066,",
-        "2019."
-      ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked",
-      "additional_markings": [],
-      "reference_number": null,
-      "occurrence_audit": {
-        "full_article_pages": 19,
-        "search_matches": 13,
-        "excluded_other_author_matches": 1,
-        "group_boxes": 7,
-        "unboxed_selected_matches": 0
-      },
-      "excluded_occurrences": [
-        {
-          "page": 11,
-          "first": "5:0",
-          "last": "5:0",
-          "start_text": "Sahaj Garg, Joe Lou, Anirudh Jain, and Mitchell Nahmias. Dynamic precision analog computing for",
-          "end_text": "Sahaj Garg, Joe Lou, Anirudh Jain, and Mitchell Nahmias. Dynamic precision analog computing for",
-          "reason": "Anirudh Jain is a coauthor of a different paper (dynamic precision analog computing)"
-        }
-      ]
-    },
-    {
-      "article": 15,
-      "title": "Improving Low-Precision Network Quantization via Bin Regularization",
-      "discussion_pages": [
-        8
-      ],
-      "reference_page": 9,
-      "discussion_ranges": {
-        "8": [
-          [
-            "TQT [19]",
-            "87.7"
-          ],
-          [
-            "tized or quantized to 8 bits).",
-            "the same low bit-widths, quantizing both inputs and outputs"
-          ],
-          [
-            "of element-wise addition modules, quantizing bias to 8 bits,",
-            "(e.g., +3.7% over TQT for 4-bit MobileNetV2). We be-"
-          ]
-        ]
-      },
-      "reference_lines": [
-        "[19] Sambhav R Jain, Albert Gural, Michael Wu, and Chris H",
-        "Dick. Trained quantization thresholds for accurate and effi-",
-        "cient fixed-point inference of deep neural networks. In ML-",
-        "Sys, 2020. 2, 8"
-      ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked; public excerpt of the IEEE print reproduces only the title, discussion and bibliography pages",
-      "additional_markings": [],
-      "reference_number": 19,
-      "occurrence_audit": {
-        "full_article_pages": 10,
-        "search_matches": 11,
-        "excluded_other_author_matches": 0,
-        "group_boxes": 4,
-        "unboxed_selected_matches": 0
-      }
-    },
-    {
-      "article": 16,
-      "title": "A Reduced-Precision Network for Image Reconstruction",
-      "discussion_pages": [
-        3,
-        6
-      ],
-      "reference_page": 11,
-      "discussion_ranges": {
-        "3": [
-          [
-            "tivations greatly impacts the accuracy of the network. While Ja-",
-            "precision) based on the gradients."
-          ]
-        ],
-        "6": [
-          [
-            "While Jacob et al. [2018] use the moving averages of the minimum",
-            "stability with quantized training. We derive the gradient of Q′ for"
-          ]
-        ]
-      },
-      "reference_lines": [
-        "Sambhav R Jain, Albert Gural, Michael Wu, and Chris H Dick. 2019. Trained quantization",
-        "thresholds for accurate and efficient fixed-point inference of deep neural networks.",
-        "arXiv preprint arXiv:1903.08066 (2019)."
-      ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked",
-      "additional_markings": [],
-      "reference_number": null,
-      "occurrence_audit": {
-        "full_article_pages": 12,
-        "search_matches": 6,
-        "excluded_other_author_matches": 0,
-        "group_boxes": 3,
-        "unboxed_selected_matches": 0
-      }
-    },
-    {
-      "article": 17,
-      "title": "Understanding How Orthogonality of Parameters Improves Quantization of Neural Networks",
-      "discussion_pages": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6
-      ],
-      "reference_page": 10,
-      "discussion_ranges": {
-        "1": [
-          [
-            "the accuracy loss [24]–[26]. Recently, a retraining method for",
-            "networks and is called trained quantization thresholds (TQTs)."
-          ]
-        ],
-        "2": [
-          [
-            "two or more [35]–[41]. For more practical deployment,",
-            "tensor quantization [25], and symmetric quantization [24]."
-          ],
-          [
-            "(STE) [46]. TQTs [25] report that a common problem with",
-            "of-the-art results for some networks, such as MobileNetv2."
-          ],
-          [
-            "of the quantized model. In our experiments, we combine",
-            "be explained in Section V-A."
-          ]
-        ],
-        "3": [
-          [
-            "We use the quantized retraining (ﬁne-tuning) method [25]",
-            "network architectures. In this study, we explore the effect"
-          ]
-        ],
-        "4": [
-          [
-            "or per-column (i.e., per-ﬁlter) for weight tensors [26]. Per-",
-            "both for activations and tensors. We use simulated quantization"
-          ],
-          [
-            "phase. We also train the threshold t in log-domain with",
-            "in [25], for each convolution and fully-connected layer."
-          ]
-        ],
-        "5": [
-          [
-            "As mentioned, we use TQT [25] as our baseline retraining",
-            "TQT retraining method on each of these trained models. The"
-          ],
-          [
-            "for activation and weights on the trained weights. We run the",
-            "system. There are some implementation differences in how"
-          ]
-        ],
-        "6": [
-          [
-            "we apply the TQT method compared to [25]. Namely, they",
-            "a sophisticated learning rate schedule during retraining. For"
-          ],
-          [
-            "For quantization threshold, we still use a separate learning",
-            "to [25]. We use per-tensor quantization both for activations"
-          ],
-          [
-            "This section presents the results of various networks with",
-            "(see Section V-A) and without TQT (see Section V-C)."
-          ],
-          [
-            "A. Experiments With TQT",
-            "A. Experiments With TQT"
-          ],
-          [
-            "ResNet101, and VGG19 models. In Table I, for each model",
-            "and A/W conﬁguration, the ﬁrst two rows show the cases"
-          ],
-          [
-            "without and with orthogonality regularizer, respectively, where",
-            "their pre-TQT FP32 accuracies are almost identical. Some-"
-          ],
-          [
-            "ties. This is expected as quantized training (TQT) also acts as a",
-            "regularizers being very strict."
-          ]
-        ]
-      },
-      "reference_lines": [
-        "[25] S. R. Jain, A. Gural, M. Wu, and C. H. Dick, “Trained quantization",
-        "thresholds for accurate and efﬁcient ﬁxed-point inference of deep neural",
-        "networks,” 2019, arXiv:1903.08066."
-      ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked; public excerpt of the IEEE print reproduces only the title, discussion and bibliography pages",
-      "additional_markings": [],
-      "reference_number": 25,
-      "occurrence_audit": {
-        "full_article_pages": 10,
-        "search_matches": 30,
-        "excluded_other_author_matches": 0,
-        "group_boxes": 17,
-        "unboxed_selected_matches": 0
-      }
-    },
-    {
-      "article": 18,
-      "title": "FELIX: A Ferroelectric FET Based Low Power Mixed-Signal In-Memory Architecture for DNN Acceleration",
-      "discussion_pages": [
-        17
-      ],
-      "reference_page": 23,
-      "discussion_ranges": {
-        "17": [
-          [
-            "Since our architecture performance depends on the precision of the inferred networks, we tested",
-            "presented in [17]. We measured the classification accuracy over the test dataset in the case of"
-          ]
-        ]
-      },
-      "reference_lines": [
-        "[17] Sambhav R. Jain, Albert Gural, Michael Wu, and Chris Dick. 2019. Trained Quantization Thresholds for Accurate and",
-        "Efficient Fixed-Point Inference of Deep Neural Networks. arXiv:1903.08066. Retrieved from https://arxiv.org/abs/1903.",
-        "08066."
-      ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked",
-      "additional_markings": [],
-      "reference_number": 17,
-      "occurrence_audit": {
-        "full_article_pages": 25,
-        "search_matches": 5,
-        "excluded_other_author_matches": 0,
-        "group_boxes": 2,
-        "unboxed_selected_matches": 0
-      }
-    },
-    {
-      "article": 19,
-      "title": "7 μJ/inference end-to-end gesture recognition from dynamic vision sensor data using ternarized hybrid convolutional neural networks",
-      "discussion_pages": [
-        5,
-        6,
-        9,
-        10
-      ],
-      "reference_page": 14,
-      "discussion_ranges": {
-        "5": [
-          [
-            "incorporating quantization. Most such methods [66–69] are varia-",
-            "tions of the Straight-Through-Estimator (STE). Introduced in [70],"
-          ],
-          [
-            "the clipping bounds {a, b}. The Learned Step Size Quantization",
-            "of the clipping interval log2(b −a) (in [67])."
-          ]
-        ],
-        "6": [
-          [
-            "To train the ternarized networks we evaluate, we perform QAT",
-            "using two algorithms: INQ [71] and TQT [67]. To determine the"
-          ],
-          [
-            "When using TQT, both weight and activation clipping bounds are",
-            "TQT, fake-quantization is applied to all weights simultaneously."
-          ]
-        ],
-        "9": [
-          [
-            "Table 3",
-            "Hyperparameters for QAT with TQT."
-          ],
-          [
-            "pects. The hyperparameters for QAT with TQT are shown in",
-            "Table 3, the training schedule for QAT with INQ is shown in Fig. 4."
-          ],
-          [
-            "the right y-axis measures the fraction of weights quantized. Hyperparameters",
-            "not shown in this plot are identical to those used for QAT with TQT."
-          ],
-          [
-            "the training set and users 24–29 as the validation set). Of the",
-            "using 4-fold cross-validation (CV). The results are shown in Fig. 5"
-          ]
-        ],
-        "10": [
-          [
-            "Net 1",
-            "97.0% (97.5%)"
-          ],
-          [
-            "algorithm and activation function on accuracy. As Table 4 shows,",
-            "the TQT algorithm. Since our DVS event frame representation"
-          ]
-        ]
-      },
-      "reference_lines": [
-        "[67] S.R. Jain, A. Gural, M. Wu, C.H. Dick, Trained quantization thresholds",
-        "for accurate and efficient fixed-point inference of deep neural networks,",
-        "in: Proceedings of Machine Learning and Systems, 2020, pp. 112–128,",
-        "arXiv:1903.08066."
-      ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked",
-      "additional_markings": [],
-      "reference_number": 67,
-      "occurrence_audit": {
-        "full_article_pages": 15,
-        "search_matches": 27,
-        "excluded_other_author_matches": 1,
-        "group_boxes": 11,
-        "unboxed_selected_matches": 0
-      },
-      "excluded_occurrences": [
-        {
-          "page": 13,
-          "first": "35:0",
-          "last": "35:0",
-          "start_text": "P. Joshi, N. Imam, S. Jain, Y. Liao, C.K. Lin, A. Lines, R. Liu, D. Mathaikutty,",
-          "end_text": "P. Joshi, N. Imam, S. Jain, Y. Liao, C.K. Lin, A. Lines, R. Liu, D. Mathaikutty,",
-          "reason": "S. Jain is a coauthor of a different paper (Loihi neuromorphic processor)"
-        }
-      ]
-    },
-    {
-      "article": 20,
+      "article": 11,
       "title": "Optimizing the Deployment of Tiny Transformers on Low-Power MCUs",
       "discussion_pages": [
         6
@@ -1040,7 +815,181 @@
       ]
     },
     {
-      "article": 21,
+      "article": 12,
+      "title": "Accelerating configuration of Reconfigurable Intelligent Surfaces through a hardware-enhanced deep learning approach",
+      "discussion_pages": [
+        9
+      ],
+      "reference_page": 17,
+      "discussion_ranges": {
+        "9": [
+          [
+            "model, ensuring a more stable starting point. For the quantization strategy, a power-of-two scale quantizer with training quantization ",
+            "threshold (TQT) was used [50]."
+          ]
+        ]
+      },
+      "reference_lines": [
+        "[50] Jain S, Gural A, Wu M, Dick C. Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks. Proc Mach Learn ",
+        "Syst 2020;2:112–28."
+      ],
+      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked",
+      "additional_markings": [],
+      "reference_number": 50,
+      "occurrence_audit": {
+        "full_article_pages": 17,
+        "search_matches": 5,
+        "excluded_other_author_matches": 0,
+        "group_boxes": 2,
+        "unboxed_selected_matches": 0
+      }
+    },
+    {
+      "article": 13,
+      "title": "Up or Down? Adaptive Rounding for Post-Training Quantization",
+      "discussion_pages": [
+        5
+      ],
+      "reference_page": 10,
+      "discussion_ranges": {
+        "5": [
+          [
+            "Choi et al. (2018) learns",
+            "training so that they do not have to be set manually."
+          ]
+        ]
+      },
+      "reference_lines": [
+        "Jain, S. R., Gural, A., Wu, M., and Dick, C. Trained uni-",
+        "form quantization for accurate and efﬁcient neural net-",
+        "work inference on ﬁxed-point hardware. arxiv preprint",
+        "arxiv:1903.08066, 2019."
+      ],
+      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations boxed; supplemental context and complete TQT table entries visually checked",
+      "additional_markings": [],
+      "occurrence_audit": {
+        "full_article_pages": 10,
+        "search_matches": 3,
+        "excluded_other_author_matches": 0,
+        "group_boxes": 2,
+        "unboxed_selected_matches": 0
+      }
+    },
+    {
+      "article": 14,
+      "title": "Bringing AI to edge: From deep learning’s perspective",
+      "discussion_pages": [
+        8,
+        9
+      ],
+      "reference_page": 20,
+      "discussion_ranges": {
+        "9": [
+          [
+            "Jain et al. [121] propose",
+            "point hardware."
+          ]
+        ]
+      },
+      "reference_lines": [
+        "[121] S. R. Jain, A. Gural, M. Wu, and C. Dick, “Trained uniform quantiza-",
+        "tion for accurate and efﬁcient neural network inference on fixed-point",
+        "hardware,” arXiv preprint arXiv:1903.08066, 2019."
+      ],
+      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations boxed; supplemental context and complete TQT table entries visually checked",
+      "additional_markings": [
+        {
+          "page": 8,
+          "first": "18:65",
+          "last": "18:69",
+          "start_text": "TQT [121]",
+          "end_text": "2019",
+          "reason": "TQT row in quantization-method comparison table",
+          "kind": "table_entry"
+        }
+      ],
+      "reference_number": 121,
+      "occurrence_audit": {
+        "full_article_pages": 23,
+        "search_matches": 8,
+        "excluded_other_author_matches": 0,
+        "group_boxes": 3,
+        "unboxed_selected_matches": 0
+      }
+    },
+    {
+      "article": 15,
+      "title": "Hmq: Hardware friendly mixed precision quantization block for cnns",
+      "discussion_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "reference_page": 17,
+      "discussion_ranges": {
+        "4": [
+          [
+            "that we use in this work is similar",
+            "the one in [24]."
+          ]
+        ]
+      },
+      "reference_lines": [
+        "[24] S. R. Jain, A. Gural, M. Wu, and C. Dick. Trained quantization thresholds",
+        "for accurate and efﬁcient fixed-point inference of deep neural networks.",
+        "arXiv preprint arXiv:1903.08066, 2019."
+      ],
+      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations boxed; supplemental context and complete TQT table entries visually checked",
+      "additional_markings": [
+        {
+          "page": 1,
+          "first": "8:5",
+          "last": "8:7",
+          "start_text": "Many works address these issues using diﬀerent methods. These include pruning",
+          "end_text": "CNN co-design [14, 20, 43] and quantization [6, 13, 15, 23, 24, 46].",
+          "reason": "Grouped introductory citations to reference 24",
+          "kind": "discussion"
+        },
+        {
+          "page": 2,
+          "first": "0:4",
+          "last": "0:8",
+          "start_text": "ﬁne-tuning a pre-trained model for quantization. In addition, recent work in",
+          "end_text": "[24, 41].",
+          "reason": "Hardware-friendly power-of-two quantization schemes",
+          "kind": "discussion"
+        },
+        {
+          "page": 2,
+          "first": "2:0",
+          "last": "2:3",
+          "start_text": "An imperative requirement for many eﬃcient edge device hardware imple-",
+          "end_text": "points and real value scale factors. In this work, we introduce a novel quanti-",
+          "reason": "Hardware rationale for symmetric uniform power-of-two thresholds",
+          "kind": "discussion"
+        },
+        {
+          "page": 3,
+          "first": "3:7",
+          "last": "3:9",
+          "start_text": "updated via back-propagation. Uniform quantizers are an important family of",
+          "end_text": "[13, 24, 41]). Non-uniform quantizers include clustering, logarithmic quantiza-",
+          "reason": "Hardware benefits of uniform quantizers",
+          "kind": "discussion"
+        }
+      ],
+      "reference_number": 24,
+      "occurrence_audit": {
+        "full_article_pages": 19,
+        "search_matches": 10,
+        "excluded_other_author_matches": 0,
+        "group_boxes": 6,
+        "unboxed_selected_matches": 0
+      }
+    },
+    {
+      "article": 16,
       "title": "A Low Memory Footprint Quantized Neural Network for Depth Completion of Very Sparse Time-of-Flight Depth Maps",
       "discussion_pages": [
         5
@@ -1075,100 +1024,110 @@
       }
     },
     {
-      "article": 22,
-      "title": "A Resource Efficient Integer-Arithmetic-Only FPGA-Based CNN Accelerator for Real-Time Facial Emotion Recognition",
+      "article": 17,
+      "title": "Qkd: Quantization-aware knowledge distillation",
       "discussion_pages": [
+        2,
         3,
-        6,
-        7,
-        10,
-        11
+        7
       ],
-      "reference_page": 15,
+      "reference_page": 9,
       "discussion_ranges": {
-        "3": [
+        "2": [
           [
-            "The quantization-aware training (QAT) method [35]–[39]",
-            "retrains parameters considering the effects of quantization."
-          ],
-          [
-            "tors learnable parameters. Jain et al. [39] proposed a method",
-            "factor conversion equation."
-          ],
-          [
-            "sary when implementing hardware. In another approach [39],",
-            "starting QAT. To compensate for these problems, a hardware-"
-          ]
-        ],
-        "6": [
-          [
-            "The current state-of-the-art quantization methods (learned",
-            "quantization. A CNN with uniform quantizers inserted, per-"
-          ],
-          [
-            "is because this is a ﬂoating-point scale factor. The TQT [39]",
-            "process. Moreover, by mapping the scale factor to the power-"
-          ]
-        ],
-        "7": [
-          [
-            "FIGURE 3. The process of a uniform quantizer using the LSQ [38], the TQT [39] method, and the proposed quantization method,",
-            "LLTQ."
-          ]
-        ],
-        "10": [
-          [
-            "of 1e-2 and weight decay of 1e-5. The quantization-aware",
-            "LSQ [38], TQT [39] and the proposed LLTQ. The hyper-"
-          ]
-        ],
-        "11": [
-          [
-            "operator. The method of [39] is hardware-friendly, but it",
-            "ﬂoating-point result. After quantization-aware training using"
+            "Our QKD leverages these trainable approaches",
+            "baseline quantization implementation."
           ]
         ]
       },
       "reference_lines": [
-        "[39] S. R. Jain, A. Gural, M. Wu, and C. H. Dick, ‘‘Trained quantization",
-        "thresholds for accurate and efﬁcient ﬁxed-point inference of deep neural",
-        "networks,’’ in Proc. Mach. Learn. Syst., Mar. 2020, pp. 112–128."
+        "[17] Sambhav R Jain, Albert Gural, Michael Wu, and Chris H",
+        "Dick. Trained quantization thresholds for accurate and efﬁ-",
+        "cient fixed-point inference of deep neural networks. arXiv",
+        "preprint arXiv:1903.08066, 2019. 2, 3, 7"
       ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked; 1 match on an unselected page (background mention) left unmarked",
-      "additional_markings": [],
-      "reference_number": 39,
+      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations boxed; supplemental context and complete TQT table entries visually checked",
+      "additional_markings": [
+        {
+          "page": 2,
+          "first": "11:6",
+          "last": "11:10",
+          "start_text": "value of activation. LSQ [8] and TQT [17] introduce uni-",
+          "end_text": "the baseline quantization implementation. On top of this",
+          "reason": "TQT trainable intervals and use in the QKD baseline",
+          "kind": "discussion"
+        },
+        {
+          "page": 3,
+          "first": "6:3",
+          "last": "6:5",
+          "start_text": "acteristics. In this work, we quantize both weights and ac-",
+          "end_text": "interval values of each layer’s weight parameters and in-",
+          "reason": "Trainable weight/activation intervals, first-column continuation",
+          "kind": "discussion"
+        },
+        {
+          "page": 3,
+          "first": "7:0",
+          "last": "7:2",
+          "start_text": "put activations similar to [8, 17, 45]. These parameters can",
+          "end_text": "task and distillation losses. Considering k-bit quantization",
+          "reason": "Reference 17 for trainable intervals, second-column continuation",
+          "kind": "discussion"
+        },
+        {
+          "page": 3,
+          "first": "23:0",
+          "last": "23:3",
+          "start_text": "where ⌊·⌋is the ﬂooring operation. Note that the dequanti-",
+          "end_text": "used when emulating the effect of quantization [3, 17, 36].",
+          "reason": "Reference 17 for dequantization in simulated quantization",
+          "kind": "discussion"
+        },
+        {
+          "page": 7,
+          "first": "12:0",
+          "last": "12:6",
+          "start_text": "With W2A2, we observe a drastic drop in top-1 accuracy.",
+          "end_text": "W2A2, W3A3 or W4A4. We include these results in the",
+          "reason": "Reference 17 for depthwise-layer sensitivity and the resulting experiment",
+          "kind": "discussion"
+        }
+      ],
+      "reference_number": 17,
       "occurrence_audit": {
-        "full_article_pages": 15,
-        "search_matches": 21,
+        "full_article_pages": 11,
+        "search_matches": 9,
         "excluded_other_author_matches": 0,
-        "group_boxes": 9,
+        "group_boxes": 6,
         "unboxed_selected_matches": 0
       }
     },
     {
-      "article": 23,
-      "title": "Accelerating configuration of Reconfigurable Intelligent Surfaces through a hardware-enhanced deep learning approach",
+      "article": 18,
+      "title": "FELIX: A Ferroelectric FET Based Low Power Mixed-Signal In-Memory Architecture for DNN Acceleration",
       "discussion_pages": [
-        9
+        17
       ],
-      "reference_page": 17,
+      "reference_page": 23,
       "discussion_ranges": {
-        "9": [
+        "17": [
           [
-            "model, ensuring a more stable starting point. For the quantization strategy, a power-of-two scale quantizer with training quantization ",
-            "threshold (TQT) was used [50]."
+            "Since our architecture performance depends on the precision of the inferred networks, we tested",
+            "presented in [17]. We measured the classification accuracy over the test dataset in the case of"
           ]
         ]
       },
       "reference_lines": [
-        "[50] Jain S, Gural A, Wu M, Dick C. Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks. Proc Mach Learn ",
-        "Syst 2020;2:112–28."
+        "[17] Sambhav R. Jain, Albert Gural, Michael Wu, and Chris Dick. 2019. Trained Quantization Thresholds for Accurate and",
+        "Efficient Fixed-Point Inference of Deep Neural Networks. arXiv:1903.08066. Retrieved from https://arxiv.org/abs/1903.",
+        "08066."
       ],
       "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked",
       "additional_markings": [],
-      "reference_number": 50,
+      "reference_number": 17,
       "occurrence_audit": {
-        "full_article_pages": 17,
+        "full_article_pages": 25,
         "search_matches": 5,
         "excluded_other_author_matches": 0,
         "group_boxes": 2,
@@ -1176,7 +1135,48 @@
       }
     },
     {
-      "article": 24,
+      "article": 19,
+      "title": "A white paper on neural network quantization",
+      "discussion_pages": [
+        20,
+        22
+      ],
+      "reference_page": 26,
+      "discussion_ranges": {
+        "20": [
+          [
+            "(Krishnamoorthi, 2018). In later work",
+            "and the STE, we first calculate the gradient w.r.t. the scale-factor:"
+          ]
+        ]
+      },
+      "reference_lines": [
+        "Jain, S. R., Gural, A., Wu, M., and Dick, C. Trained uniform quantization for accurate and efﬁcient",
+        "neural network inference on ﬁxed-point hardware. CoRR, abs/1903.08066, 2019. URL http:",
+        "//arxiv.org/abs/1903.08066. 20, 22"
+      ],
+      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations boxed; supplemental context and complete TQT table entries visually checked",
+      "additional_markings": [
+        {
+          "page": 22,
+          "first": "6:0",
+          "last": "6:2",
+          "start_text": "In this section, we will explore the effect of initialization for QAT. It is common practice in literature",
+          "end_text": "Jain et al., 2019). While it is clear that starting from an FP32 model is beneﬁcial, the effect of the",
+          "reason": "Initialization of QAT from pretrained FP32 models",
+          "kind": "discussion"
+        }
+      ],
+      "occurrence_audit": {
+        "full_article_pages": 27,
+        "search_matches": 6,
+        "excluded_other_author_matches": 0,
+        "group_boxes": 3,
+        "unboxed_selected_matches": 0
+      }
+    },
+    {
+      "article": 20,
       "title": "INT8 Activation Ternary or Binary Weights Networks: Unifying Between INT8 and Lower-bit Width Quantization",
       "discussion_pages": [
         2,
@@ -1233,39 +1233,7 @@
       }
     },
     {
-      "article": 25,
-      "title": "FPGA-Based Real-Time Embedded Fish Embryo Detection System",
-      "discussion_pages": [
-        4
-      ],
-      "reference_page": 15,
-      "discussion_ranges": {
-        "4": [
-          [
-            "minimize the loss of model accuracy due to quantization",
-            "(6)"
-          ]
-        ]
-      },
-      "reference_lines": [
-        "[33] A. G. Sambhav R Jain, M. Wu, and C. Dick, 2019, “Trained",
-        "quantization thresholds for accurate and eﬃcient ﬁxed-point",
-        "inference of deep neural networks” https://arxiv.org/abs/1903.",
-        "08066."
-      ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked",
-      "additional_markings": [],
-      "reference_number": 33,
-      "occurrence_audit": {
-        "full_article_pages": 15,
-        "search_matches": 5,
-        "excluded_other_author_matches": 0,
-        "group_boxes": 2,
-        "unboxed_selected_matches": 0
-      }
-    },
-    {
-      "article": 26,
+      "article": 21,
       "title": "Efficient SAR Vessel Detection for FPGA-Based On-Satellite Sensing",
       "discussion_pages": [
         5,
@@ -1399,5 +1367,35 @@
     ],
     "method": "Regenerated each discussion, table-row and bibliography box from the source text lines: one box per column of a passage, sentences followed across column breaks and into displayed formulas, headings and blank lines excluded, complete final reference lines included, and box edges kept clear of the neighbouring lines. Discussion ranges, reference lines and group counts above reflect the revision.",
     "generator": "background/working/tqt-reliance-screen-2026-10-08/make_marked.py (applicant workspace)"
+  },
+  "renumbering": {
+    "date": "2026-10-09",
+    "note": "Article numbers in \"articles\" follow the ranked list of 2026-10-09. The dated sections box_optimization, occurrence_audit and box_revision record the former numbers.",
+    "former_to_current": {
+      "1": 6,
+      "2": 13,
+      "3": 19,
+      "4": 1,
+      "5": 3,
+      "6": 14,
+      "7": 15,
+      "8": 17,
+      "12": 10,
+      "14": 7,
+      "15": 8,
+      "16": 4,
+      "17": 2,
+      "18": 18,
+      "19": 5,
+      "20": 11,
+      "21": 16,
+      "22": 9,
+      "23": 12,
+      "24": 20,
+      "26": 21
+    },
+    "withdrawn": {
+      "25": "FPGA-Based Real-Time Embedded Fish Embryo Detection System"
+    }
   }
 }

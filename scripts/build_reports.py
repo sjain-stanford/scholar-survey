@@ -38,6 +38,10 @@ def count_phrase(paper):
             else 'No cited-by count in the saved Google Scholar record')
 
 
+def selection_bases(paper):
+    return paper['venue_basis'].split('; ')
+
+
 def article_table(numbers, papers, articles, substantive):
     headings = ('<th>No.</th><th>Article / venue</th><th>Scholar</th><th>Selection basis</th>'
                 if substantive else '<th>No.</th><th>Article / venue</th><th>PDF discussion pages</th><th>Scholar</th>')
@@ -48,10 +52,11 @@ def article_table(numbers, papers, articles, substantive):
                  f'<a href="{escape(article["original_url"])}"><b>{escape(paper["title"])}</b></a>'
                  f'<br><span class="small">{escape(paper["venue"])}</span>']
         count = f'<a href="{escape(article["scholar_url"])}">{citation_count(paper)}</a>'
-        cells += ([count, escape(paper['venue_basis'])] if substantive else
+        cells += ([count, '<br>'.join(map(escape, selection_bases(paper)))] if substantive else
                   [page_ranges(json.loads(paper['body_pages'])), count])
         rows.append('<tr>' + ''.join(f'<td>{cell}</td>' for cell in cells) + '</tr>')
-    table = '<table><thead><tr>' + headings + '</tr></thead><tbody>' + ''.join(rows) + '</tbody></table>'
+    table = (('<table class="articles">' if substantive else '<table>') + '<thead><tr>' + headings
+             + '</tr></thead><tbody>' + ''.join(rows) + '</tbody></table>')
     return scrollable_table(table, 'Selected citing articles')
 
 
@@ -60,7 +65,7 @@ def article_block(number, paper, article, title):
     venue = f' Venue: {escape(article["venue_evidence"])}.' if article['venue_evidence'] else ''
     return f'''<div class="paper"><div class="kicker">Article {number:02} · {escape(title)}</div>
 <h3>{escape(paper['title'])}</h3><div class="meta">{escape(article['authors'])}<br>{escape(paper['venue'])} · {count_phrase(paper)}</div>
-<span class="badge">{escape(paper['venue_basis'])}</span>
+{''.join(f'<span class="badge">{escape(basis)}</span>' for basis in selection_bases(paper))}
 <p><b>Documented contribution.</b> {escape(article['summary'])}</p>
 <p><b>{escape(article['evidence_type'])}.</b> {escape(article['research_connection'])}</p>
 <p class="small"><b>Authorship link:</b> {escape(article['authorship_link'])} <a href="{target}">Bibliography p. {paper['bibliography_page']}</a>.</p>
@@ -144,17 +149,17 @@ def build_reports():
               'Article numbers identify the corresponding marked files.']
         for group in collection['groups']:
             md.append(f'## {group["title"]}')
-            table = ['| Article | Title / venue | Scholar citations | Discussion pages |',
+            table = ['| No. | Article / venue | Scholar | Selection basis |',
                      '|---:|---|---:|---|']
             for n in group['articles']:
                 p, a = papers[n], articles[n]
-                table.append(f'| {n} | [{p["title"]}]({a["original_url"]})<br>{p["venue"]} | [{citation_count(p)}]({a["scholar_url"]}) | {page_ranges(json.loads(p["body_pages"]))} |')
+                table.append(f'| {n:02} | [{p["title"]}]({a["original_url"]})<br>{p["venue"]} | [{citation_count(p)}]({a["scholar_url"]}) | {"<br>".join(selection_bases(p))} |')
             md.append('\n'.join(table))
         for group in collection['groups']:
             md.append(f'## {group["title"]} — article discussions')
             for n in group['articles']:
                 p, a = papers[n], articles[n]
-                md += [f'## {n}. {p["title"]}', f'{a["authors"]}\n\n{p["venue"]} · {count_phrase(p)}',
+                md += [f'## {n:02}. {p["title"]}', f'{a["authors"]}\n\n{p["venue"]} · {count_phrase(p)}',
                        a['summary'], f'**{a["evidence_type"]}:** {a["research_connection"]}',
                        f'**Authorship link:** {a["authorship_link"]} [Bibliography p. {p["bibliography_page"]}](Marked-Articles/{p["marked_filename"]}#page={p["bibliography_page"]}).',
                        f'**Reviewed version:** {p["version"]}. **Source:** {p["source_evidence"]}; {p["locator"]}. Count: {p["count_evidence"]}, {p["count_pinpoint"]}.',

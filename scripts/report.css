@@ -3,3 +3,4 @@
 @page{@bottom-right{content:"Page " counter(page) " of " counter(pages);font:8pt Arial,sans-serif;color:#517078}}
 @media screen{.table-scroll{overflow-x:auto}.table-scroll:focus-visible{outline:3px solid #d68620;outline-offset:3px}}
 @media screen and (max-width:600px){.table-scroll table{min-width:600px}.mono{overflow-wrap:anywhere}.cards{flex-wrap:wrap}.stat{flex:1 1 120px;min-width:0}}
+tr{break-inside:avoid}.articles td:nth-child(4){white-space:nowrap}
