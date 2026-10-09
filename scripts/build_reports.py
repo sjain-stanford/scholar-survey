@@ -98,7 +98,6 @@ def build_reports():
         selected = [row for row in index if row['report'] == collection['id']]
         start, end = int(selected[0]['packet_start']), int(selected[-1]['packet_end'])
         packet_pages = end - start + 1
-        packet_range = f'{start}–{end}'
         title, report, packet = collection['title'], collection['report'], f'{PACKET}#page={start}'
         pdf_link = f'<a href="{report}.pdf">Report PDF</a> · ' if collection['link_report'] else ''
         html_link = f'<a href="{report}.html">{escape(title)}</a> · ' if collection['link_report'] else ''
@@ -109,9 +108,9 @@ def build_reports():
 <div class="cards"><div class="stat"><b>{count}</b>selected articles</div><div class="stat"><b>{packet_pages}</b>marked discussion pages</div><div class="stat"><b>{survey['countries_territories']}</b>countries / territories in the wider survey</div></div>
 <h2>Selection and source documentation</h2><p>{escape(collection['selection'])}</p>
 <h2>Authorship links and documented scholarly use</h2><p>Each article identifies the cited work and authors, the specific research connection and the original discussion pages. The bibliography link establishes authorship of the corresponding work by Sambhav R. Jain and coauthors.</p>
-<p>Orange rectangles mark selected discussion, citations and TQT results; blue rectangles identify the corresponding bibliography entries. Pages {packet_range} of the marked packet follow the article order in this report and retain original page numbers. Article numbers identify the corresponding marked files.</p>
+<p>Orange rectangles mark selected discussion, citations and TQT results; blue rectangles identify the corresponding bibliography entries. The marked packet follows the article order in this report and retains original page numbers. Article numbers identify the corresponding marked files.</p>
 <div class="note"><b>International citation survey.</b> The wider survey maps {survey['mapped_works']} citing works to {survey['institution_locations']} institution/location entries across {survey['countries_territories']} countries/territories. These totals describe the broader citation network, separately from this report’s selection.</div>
-<p>{pdf_link}<a href="{packet}">Marked discussions · pages {packet_range}</a> · <a href="Comprehensive-Citation-Map.html">Interactive map</a></p>
+<p>{pdf_link}<a href="{packet}">Marked discussions</a> · <a href="Comprehensive-Citation-Map.html">Interactive map</a></p>
 <p class="small">Snapshot: October 7, 2026. <a href="https://scholar.google.com/citations?hl=en&amp;user=1mvzap4AAAAJ">Sambhav Jain’s Google Scholar profile</a>. Counts belong to the saved citing-article records or version clusters.</p></section>'''
         sections = [cover]
         if substantive:
@@ -132,7 +131,7 @@ def build_reports():
 <p>The map presents {survey['institution_locations']} institution/location entries from {survey['mapped_works']} grouped citing works in {survey['countries_territories']} countries/territories. Each pin opens the institutions, citing papers and affiliation-page evidence. Several institutions in one city share a display pin; multi-institution papers contribute several locations.</p>
 <p>Affiliations come from the reviewed publication. Explicit campus and city details determine placement; ROR supplies institution-city geography when the publication lists an institution without a city. Hollow markers show country-level affiliations. Coordinates are geographic display anchors.</p>
 <p>The map documents the geographic reach of citing authors’ publication affiliations, including coauthor- and employer-linked works. Article passages establish methodological adaptation, implementation, comparison, design connections or technical exposition. Joint attribution is retained where several methods are credited.</p>
-<h2>Research files</h2><p><a href="{packet}">Marked discussions</a>: pages {packet_range} in this report’s article order.<br><b>Marked-Articles/:</b> complete articles with original page numbers and source links.<br><b>Selected-Articles.csv:</b> selection membership, counts, evidence types and source pages.<br><b>Discussion-Page-Index.csv:</b> article-to-packet page mapping.<br><b>Sources/:</b> dated Scholar, publication, venue, geography and affiliation captures.</p>
+<h2>Research files</h2><p><a href="{packet}">Marked discussions</a>: marked source pages in this report’s article order.<br><b>Marked-Articles/:</b> complete articles with original page numbers and source links.<br><b>Selected-Articles.csv:</b> selection membership, counts, evidence types and source pages.<br><b>Discussion-Page-Index.csv:</b> article-to-packet page mapping.<br><b>Sources/:</b> dated Scholar, publication, venue, geography and affiliation captures.</p>
 <p>{html_link}<a href="Comprehensive-Citation-Map.html">Interactive map</a></p>
 <p class="small">Counts refer to the saved October 7, 2026 snapshot. Hashes and source provenance are recorded in the research manifests.</p>''', 'International research engagement'))
         outputs[report + '.html'] = ('<!doctype html><html><head><meta charset="utf-8">'
@@ -141,7 +140,7 @@ def build_reports():
             + '\n'.join(sections) + '\n</body></html>\n')
         md = [f'# {title}', f'Prepared October 7, 2026. {count} selected articles; {packet_pages} marked discussion pages.',
               collection['description'], collection['selection'],
-              f'{md_link}[Marked discussions, pages {packet_range}]({packet}) · [Interactive map](Comprehensive-Citation-Map.html)',
+              f'{md_link}[Marked discussions]({packet}) · [Interactive map](Comprehensive-Citation-Map.html)',
               'Article numbers identify the corresponding marked files.']
         for group in collection['groups']:
             md.append(f'## {group["title"]}')

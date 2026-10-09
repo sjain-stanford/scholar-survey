@@ -12,7 +12,7 @@ The article entries distinguish methodological adaptation, implementation, exper
 
 ## Marked source pages
 
-The [marked discussions](Selected-Discussion-Pages.pdf) contain 115 pages: substantive discussions on pages 1–103 and additional named discussions on pages 104–115. Section and article bookmarks follow this order. [Discussion-Page-Index.csv](Discussion-Page-Index.csv) maps each packet page range to the original article pages.
+The [marked discussions](Selected-Discussion-Pages.pdf) contain 115 pages: the substantive report’s discussions followed by the named report’s. Section and article bookmarks follow this order. [Discussion-Page-Index.csv](Discussion-Page-Index.csv) maps each packet page range to the original article pages.
 
 The 26 complete marked articles contain 416 original pages. Orange rectangles identify reviewed discussions, citations, complete TQT table entries and a figure legend; blue rectangles identify bibliography entries. Each connected marking group uses a single enclosing box. The complete articles and combined packet each contain 133 boxes, with 124 in the substantive section and 9 in the named section. Articles 14–26 were marked on October 8 with sentence- and table-row groups around every Jain/TQT occurrence and numbered citation on the selected pages, then visually reviewed. Publication text and original page numbers are preserved.
 

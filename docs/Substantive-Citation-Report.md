@@ -6,7 +6,7 @@ Twenty-two substantive citing articles in two groups: articles in A*-rated confe
 
 Group A includes articles published in conferences rated ICORE2026 A* and/or carrying at least 100 Google Scholar citations in the saved snapshot; they document methodological adaptation, technical exposition, comparison and quantizer-design connections. Group B includes articles whose own methods or experiments use, follow or extend TQT, or compare an implemented extension against it, as stated in the source passages; background mentions and statements that a design is merely similar to TQT are excluded. Counts belong to the citing articles' Scholar records or version clusters; three Group B records show no cited-by count in the saved snapshot. Each entry identifies its reviewed publication version, the citing authors' affiliations, any employer link and the contribution supported by the source passage.
 
-[Report PDF](Substantive-Citation-Report.pdf) · [Marked discussions, pages 1–103](Selected-Discussion-Pages.pdf#page=1) · [Interactive map](Comprehensive-Citation-Map.html)
+[Report PDF](Substantive-Citation-Report.pdf) · [Marked discussions](Selected-Discussion-Pages.pdf#page=1) · [Interactive map](Comprehensive-Citation-Map.html)
 
 Article numbers identify the corresponding marked files.
 

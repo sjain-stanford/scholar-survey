@@ -8,8 +8,8 @@
 
 A dated survey of research citing Sambhav R. Jain's scholarly work, based on Google Scholar records retrieved through SerpAPI on October 7, 2026. Publication text supplies the substantive discussions and author affiliations.
 
-- **Substantive report:** 22 articles in two groups, with marked discussions on pages 1–103 of the combined packet. Group A (10 articles) is selected by ICORE2026 A* venue and/or at least 100 Scholar citations; Group B (12 articles) contains articles whose methods rely on or extend TQT.
-- **Named report:** 4 additional articles with named discussion of methods, designs and research contributions in the body, with marked discussions on pages 104–115 of the combined packet.
+- **Substantive report:** 22 articles in two groups, with marked discussions in the combined packet. Group A (10 articles) is selected by ICORE2026 A* venue and/or at least 100 Scholar citations; Group B (12 articles) contains articles whose methods rely on or extend TQT.
+- **Named report:** 4 additional articles with named discussion of methods, designs and research contributions in the body, with marked discussions following the substantive section of the combined packet.
 - **Combined evidence:** 26 complete marked articles and 115 source pages in one combined packet, with each article included in one report. Article numbers identify the corresponding marked files.
 - **Map:** 210 grouped citing works, 228 institution/location entries and 30 countries/territories.
 
