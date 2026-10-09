@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Check complete papers for unboxed mentions; apply reviewed additional ranges."""
+"""Check every page of the complete papers for unboxed mentions; apply reviewed additional ranges."""
 import argparse
 import csv
 import json
@@ -14,9 +14,11 @@ from report_collections import PACKET, packet_rows, packet_toc
 
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / 'docs'
-DIRECT = re.compile(r'\bJaint?\b|\bTQT\b|trained (?:uniform quantization|quantization thresholds)'
+DIRECT = re.compile(r'\bJaint?\b|\bTQTs?\b|trained\s+(?:uniform\s+quantization|quantization\s+thresholds?)'
                     r'|1903\.08066|1706\.08948', re.I)
 NUMERIC = re.compile(r'\[([\d\s,–—-]+)\]')
+# IEEE style writes a citation range as separate brackets: "[24]–[26]" cites [25].
+NUMERIC_RANGE = re.compile(r'\[(\d+)\]\s*[–—-]\s*\[(\d+)\]')
 
 
 def text_lines(page):
@@ -57,17 +59,28 @@ def reference_numbers(citation):
 
 
 def occurrences(page, reference_number=None):
-    """Match words across PDF line breaks, including grouped/ranged citations."""
+    """Match words across PDF line breaks, including hyphenated words and grouped/ranged citations."""
+    words = page.get_text('words')
     text, positions = '', []
-    for word in page.get_text('words'):
+    for index, word in enumerate(words):
         normalized = unicodedata.normalize('NFKC', word[4])
+        following = words[index + 1] if index + 1 < len(words) else None
+        # A line-final hyphen continues the word on the next line; it is dropped only between
+        # lowercase letters ("thresh-" "olds"), so "TQT-" "based" stays hyphenated.
+        joined = (normalized.endswith('-') and len(normalized) > 1 and following is not None
+                  and tuple(following[5:7]) != tuple(word[5:7]))
         start = len(text)
-        text += normalized + ' '
-        positions.append((start, len(text) - 1, pymupdf.Rect(word[:4])))
+        if joined and normalized[-2].islower() and following[4][:1].islower():
+            text += normalized[:-1]
+        else:
+            text += normalized if joined else normalized + ' '
+        positions.append((start, len(text) - (0 if joined else 1), pymupdf.Rect(word[:4])))
     matches = list(DIRECT.finditer(text))
     if reference_number is not None:
         matches.extend(match for match in NUMERIC.finditer(text)
                        if reference_number in reference_numbers(match[1]))
+        matches.extend(match for match in NUMERIC_RANGE.finditer(text)
+                       if int(match[1]) < reference_number < int(match[2]))
     return [(match[0], [rect for start, end, rect in positions
                        if start < match.end() and end > match.start()])
             for match in sorted(matches, key=lambda match: match.start())]
@@ -101,7 +114,7 @@ def check_document(document, article):
                 counts['excluded'] += 1
             else:
                 counts['matched'] += 1
-                if page.number + 1 in selected_pages and not covered(rectangles, boxes):
+                if not covered(rectangles, boxes):
                     counts['unboxed'].append({'page': page.number + 1, 'term': term})
     for selection in article.get('additional_markings', []):
         page = document[selection['page'] - 1]

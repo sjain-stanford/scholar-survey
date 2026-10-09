@@ -18,11 +18,13 @@ The article entries distinguish methodological adaptation, implementation, exper
 
 ## Marked source pages
 
-The [marked discussions](Selected-Discussion-Pages.pdf) contain 100 pages in the report’s article order, with a bookmark for every article: each article's title page and the pages of its complete marked file that carry marking boxes. [Discussion-Page-Index.csv](Discussion-Page-Index.csv) maps each packet page range to the original article pages, and the packet build checks the marked pages against it.
+The [marked discussions](Selected-Discussion-Pages.pdf) contain 108 pages in the report’s article order, with a bookmark for every article: each article's title page and the pages of its complete marked file that carry marking boxes. [Discussion-Page-Index.csv](Discussion-Page-Index.csv) maps each packet page range to the original article pages, and the packet build checks the marked pages against it.
 
-The 21 complete marked articles contain 343 original pages. Orange rectangles identify reviewed discussions, citations, complete TQT table entries and a figure legend; blue rectangles identify bibliography entries. Each connected marking group uses a single enclosing box. The complete articles and combined packet each contain 122 boxes. Articles 02, 04, 05, 07, 08, 09, 11, 12, 16, 18, 20 and 21 were marked on October 8 with sentence- and table-row groups around every Jain/TQT occurrence and numbered citation on the selected pages, then visually reviewed. Publication text and original page numbers are preserved.
+The 21 complete marked articles contain 343 original pages. Orange rectangles identify reviewed discussions, citations, complete TQT table entries and figure and table text; blue rectangles identify bibliography entries. Each connected marking group uses a single enclosing box. The complete articles and combined packet each contain 138 boxes. Articles 02, 04, 05, 07, 08, 09, 11, 12, 16, 18, 20 and 21 were marked on October 8 with sentence- and table-row groups around every Jain/TQT occurrence and numbered citation on the selected pages, then visually reviewed. Publication text and original page numbers are preserved.
 
-[Marking-Review.json](Marking-Review.json) records the reviewed regions and distinguishes other authors with the Jain surname. Automated checks confirm that the selected occurrences and reviewed supplemental regions are boxed. Every packet page matches its complete marked article in text, dimensions and marking boxes.
+October 9 full-page review: a scan of every page, including OCR for figure and table text drawn as graphics, found 16 unmarked references in articles 02, 08, 09, 10, 11 and 16 (plural "TQTs", the IEEE range [24]–[26], related-work citation groups, Figure and Table labels, and article 02's experiments without TQT and conclusion). All are now boxed, and their pages joined the selected discussion pages: 02 pp. 7–9, 08 p. 2, 09 pp. 4 and 12, 10 p. 2, 11 p. 1 and 16 p. 2.
+
+[Marking-Review.json](Marking-Review.json) records the reviewed regions and distinguishes other authors with the Jain surname. Automated checks confirm that every Jain/TQT occurrence on every page and every reviewed supplemental region, including graphics-only labels, is boxed. Every packet page matches its complete marked article in text, dimensions and marking boxes.
 
 ## Survey measures and evidence
 

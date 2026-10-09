@@ -12,7 +12,7 @@
     "shortlist": 21,
     "named": 0,
     "selected_articles": 21,
-    "selected_unique_pages": 100,
+    "selected_unique_pages": 108,
     "display_groups": 169
   },
   "report_pages": {
@@ -33,21 +33,22 @@
     "list_a_article_links_verified": true,
     "list_b_article_venues_verified": true,
     "list_article_links_use_original_sources": true,
-    "complete_tqt_table_entries_boxed": 5,
+    "complete_tqt_table_entries_boxed": 6,
     "all_selected_occurrences_boxed": true,
-    "full_article_group_boxes": 122,
-    "packet_group_boxes": 122,
-    "packet_pages_match_articles": 100,
-    "packet_render_pages_verified": 100,
+    "full_article_group_boxes": 138,
+    "packet_group_boxes": 138,
+    "packet_pages_match_articles": 108,
+    "packet_render_pages_verified": 108,
     "full_article_hashes_preserved": true,
     "report_membership_and_order_verified": true,
     "packet_section_group_boxes": {
-      "substantive": 122
+      "substantive": 138
     },
     "citation_map_pdf_site_url_verified": true,
     "selection_basis_categories_verified": true,
     "contiguous_ranked_numbering_verified": true,
-    "report_marked_article_links": true
+    "report_marked_article_links": true,
+    "all_page_occurrences_boxed": true
   },
   "source_documents": "Source snapshots and full marked articles retain the cited text and bibliography entries.",
   "presentation_review": {
@@ -66,26 +67,26 @@
   "marking_optimization": {
     "articles": 21,
     "full_article_pages": 343,
-    "packet_pages": 100,
-    "full_article_group_boxes": 122,
-    "packet_group_boxes": 122,
-    "validation": "Each reviewed marking group has one enclosing box. All 100 packet pages match their full-article pages in text, dimensions, marking boxes and rendering; repeated optimization requires no changes."
+    "packet_pages": 108,
+    "full_article_group_boxes": 138,
+    "packet_group_boxes": 138,
+    "validation": "Each reviewed marking group has one enclosing box. All 108 packet pages match their full-article pages in text, dimensions, marking boxes and rendering; repeated optimization requires no changes."
   },
   "occurrence_audit": {
     "articles": 21,
     "full_article_pages": 343,
-    "ocr_pages": 171,
-    "packet_pages": 100,
-    "search_matches": 262,
+    "ocr_pages": 343,
+    "packet_pages": 108,
+    "search_matches": 273,
     "excluded_other_author_matches": 3,
-    "additional_reviewed_regions": 37,
-    "complete_tqt_table_entries": 5,
+    "additional_reviewed_regions": 55,
+    "complete_tqt_table_entries": 6,
     "generator": "scripts/audit_markings.py",
-    "scope": "Current selected discussion and reference pages. Articles 01, 03, 06, 10, 13, 14, 15, 17, 19: source-page and 300 dpi OCR review preserved from October 7. Articles 02, 04, 05, 07, 08, 09, 11, 12, 16, 18, 20, 21 (added October 8): word-level matching on all pages of the reviewed PDFs, generated sentence and table-row boxes, and visual review of every selected page.",
+    "scope": "Every page of the 21 complete articles since 2026-10-09: word-level matching of TQT/TQTs, Jain, the TQT titles (singular, plural and across hyphenated line breaks), arXiv identifiers and numbered citations including bracket ranges, and OCR of all pages at 220 dpi for text drawn as graphics, which is enforced through reviewed rectangles. Earlier review preserved: articles 01, 03, 06, 10, 13, 14, 15, 17, 19 with source-page and 300 dpi OCR review from October 7; articles 02, 04, 05, 07, 08, 09, 11, 12, 16, 18, 20, 21 with generated sentence and table-row boxes and visual review of every selected page from October 8.",
     "unboxed_selected_matches": 0,
-    "full_article_group_boxes": 122,
-    "packet_group_boxes": 122,
-    "unique_selected_pages": 100
+    "full_article_group_boxes": 138,
+    "packet_group_boxes": 138,
+    "unique_selected_pages": 108
   },
   "source_evidence_scope": "All 388 retained files under Sources preserve their captured hashes. Archived retrieval and profile totals describe the saved source snapshot.",
   "collections": {
@@ -114,20 +115,20 @@
         21
       ],
       "report_pages": 16,
-      "packet_pages": 100,
-      "packet_group_boxes": 122,
+      "packet_pages": 108,
+      "packet_group_boxes": 138,
       "packet_start": 1,
-      "packet_end": 100
+      "packet_end": 108
     }
   },
   "report_split": {
     "article_numbering": "Articles 01–21 numbered in ranked order since 2026-10-09; ranking_update.former_to_current maps the former numbers.",
-    "validation": "The report and the marked packet follow the article numbers. All 100 packet pages match full-article text, dimensions, marking boxes and rendering."
+    "validation": "The report and the marked packet follow the article numbers. All 108 packet pages match full-article text, dimensions, marking boxes and rendering."
   },
   "discussion_packet": {
     "file": "Selected-Discussion-Pages.pdf",
-    "pages": 100,
-    "group_boxes": 122
+    "pages": 108,
+    "group_boxes": 138
   },
   "affiliation_update": {
     "date": "2026-10-08",
@@ -270,5 +271,38 @@
     "occurrence_audit": "Search matches for articles 02, 08 and 16 now include the restored pages: article 02 pp. 7–9 (section V-C, two figure captions and the conclusion; eight TQT mentions), and one grouped related-work citation on p. 2 of articles 08 and 16. These pages lie outside the selected discussion pages and remain unmarked.",
     "packet": "The packet takes each article's title page and the pages carrying marking boxes, checked against Discussion-Page-Index.csv. It keeps its 100 pages; only the footer source note of the 16 pages from articles 02, 08, 11 and 16 changed.",
     "report_links": "The report's article table and each article entry link to the complete marked file."
+  },
+  "full_page_audit": {
+    "date": "2026-10-09",
+    "method": "Scan of all 343 pages: text-layer matching for TQT/TQTs, Jain, the TQT titles (singular, plural and across hyphenated line breaks), the arXiv identifiers and numbered citations including IEEE ranges such as [24]–[26], plus OCR of rendered pages at 220 dpi for text drawn as graphics. Sixteen unmarked places in articles 02, 08, 09, 10, 11 and 16 were boxed at the applicant's direction through additional_markings; their pages joined the selected discussion pages.",
+    "pages_added": {
+      "02": [
+        7,
+        8,
+        9
+      ],
+      "08": [
+        2
+      ],
+      "09": [
+        4,
+        12
+      ],
+      "10": [
+        2
+      ],
+      "11": [
+        1
+      ],
+      "16": [
+        2
+      ]
+    },
+    "audit": "audit_markings.py now checks every page and matches the plural, singular-title, hyphenated and bracket-range forms; graphics-only text is enforced through reviewed rectangles.",
+    "generator": "background/working/marking-gap-scan-2026-10-09/record_gap_markings.py (applicant workspace)",
+    "new_regions": 18,
+    "unmarked_places_boxed": 16,
+    "packet_pages": 108,
+    "group_boxes": 138
   }
 }

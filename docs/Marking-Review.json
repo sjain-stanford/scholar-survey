@@ -120,7 +120,10 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
       ],
       "reference_page": 10,
       "discussion_ranges": {
@@ -206,14 +209,122 @@
         "thresholds for accurate and efﬁcient ﬁxed-point inference of deep neural",
         "networks,” 2019, arXiv:1903.08066."
       ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked",
-      "additional_markings": [],
+      "review_status": "Reviewed across the complete paper: every matched Jain/TQT occurrence and corresponding numbered citation boxed on every page; generated sentence and table-row groups visually checked; figure and table text drawn as graphics boxed from reviewed rectangles",
+      "additional_markings": [
+        {
+          "page": 2,
+          "first": "2:14",
+          "last": "2:18",
+          "start_text": "VGG19, using the ImageNet dataset. We further combine",
+          "end_text": "ods. Our method signiﬁcantly improves the accuracy of the",
+          "reason": "Contribution statement: orthogonality combined with state-of-the-art TQTs",
+          "kind": "discussion"
+        },
+        {
+          "page": 4,
+          "first": "79:16",
+          "last": "79:18",
+          "start_text": "similar to previous literature [24]–[26], where 16-bit ﬂoating-",
+          "end_text": "steps.",
+          "reason": "Simulated quantization following [24]–[26], a range including TQT [25]",
+          "kind": "discussion"
+        },
+        {
+          "page": 5,
+          "rect": [
+            437,
+            108,
+            544,
+            146
+          ],
+          "reason": "Fig. 1(c) pipeline step \"Quantized retraining using TQT\", drawn as graphics and absent from text extraction",
+          "kind": "figure_text"
+        },
+        {
+          "page": 5,
+          "first": "11:0",
+          "last": "11:4",
+          "start_text": "After the initial 90-epoch training sessions with or without",
+          "end_text": "threshold values obtained by running max calibration [42] both",
+          "reason": "TQTs retraining applied to all trained models and its threshold initialization",
+          "kind": "discussion"
+        },
+        {
+          "page": 6,
+          "rect": [
+            288,
+            132,
+            498,
+            144
+          ],
+          "reason": "Table I ResNet50 headers \"FP32 accuracy before TQT\" and \"Quantized accuracy after TQT\", drawn as graphics and absent from text extraction",
+          "kind": "table_header"
+        },
+        {
+          "page": 6,
+          "rect": [
+            288,
+            199.5,
+            498,
+            211.5
+          ],
+          "reason": "Table I ResNet101 headers \"FP32 accuracy before TQT\" and \"Quantized accuracy after TQT\", drawn as graphics and absent from text extraction",
+          "kind": "table_header"
+        },
+        {
+          "page": 6,
+          "rect": [
+            288,
+            266,
+            498,
+            278
+          ],
+          "reason": "Table I VGG19 headers \"FP32 accuracy before TQT\" and \"Quantized accuracy after TQT\", drawn as graphics and absent from text extraction",
+          "kind": "table_header"
+        },
+        {
+          "page": 7,
+          "first": "13:0",
+          "last": "14:5",
+          "start_text": "C. Experiments Without TQT",
+          "end_text": "tization (using MAX calibration as explained in the main text)",
+          "reason": "Section V-C \"Experiments Without TQT\": heading and setup",
+          "kind": "discussion"
+        },
+        {
+          "page": 7,
+          "first": "15:0",
+          "last": "15:10",
+          "start_text": "after the 90-epoch training session. These results are obtained",
+          "end_text": "due to quantization is reduced. Notice that FP32 accuracies are",
+          "reason": "Results without TQT compared with TQT retraining (Section V-C)",
+          "kind": "discussion"
+        },
+        {
+          "page": 8,
+          "first": "34:0",
+          "last": "34:6",
+          "start_text": "Fig. 3.",
+          "end_text": "rise to higher quantized accuracies.",
+          "reason": "Fig. 3 caption: weight statistics before TQT and quantized accuracy obtained with TQT",
+          "kind": "discussion"
+        },
+        {
+          "page": 9,
+          "first": "7:6",
+          "last": "7:8",
+          "start_text": "We experiment with Resnet50, Resnet101, and VGG19 and",
+          "end_text": "quantized retraining method for quantization. Improvements",
+          "reason": "Conclusion: orthogonality penalty combined with a state-of-the-art TQT retraining method",
+          "kind": "discussion"
+        }
+      ],
       "reference_number": 25,
       "occurrence_audit": {
         "full_article_pages": 10,
-        "search_matches": 38,
+        "search_matches": 44,
         "excluded_other_author_matches": 0,
-        "group_boxes": 17,
+        "group_boxes": 26,
         "unboxed_selected_matches": 0
       }
     },
@@ -515,6 +626,7 @@
       "article": 8,
       "title": "Improving Low-Precision Network Quantization via Bin Regularization",
       "discussion_pages": [
+        2,
         8
       ],
       "reference_page": 9,
@@ -540,14 +652,24 @@
         "cient fixed-point inference of deep neural networks. In ML-",
         "Sys, 2020. 2, 8"
       ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked",
-      "additional_markings": [],
+      "review_status": "Reviewed across the complete paper: every matched Jain/TQT occurrence and corresponding numbered citation boxed on every page; generated sentence and table-row groups visually checked",
+      "additional_markings": [
+        {
+          "page": 2,
+          "first": "7:6",
+          "last": "7:9",
+          "start_text": "ulated weights and activations. Prior methods have been",
+          "end_text": "dients during QAT [5, 7, 12, 14, 19, 20, 41]. Another line of",
+          "reason": "Related-work QAT citation group including TQT [19]",
+          "kind": "discussion"
+        }
+      ],
       "reference_number": 19,
       "occurrence_audit": {
         "full_article_pages": 10,
         "search_matches": 12,
         "excluded_other_author_matches": 0,
-        "group_boxes": 4,
+        "group_boxes": 5,
         "unboxed_selected_matches": 0
       }
     },
@@ -556,10 +678,12 @@
       "title": "A Resource Efficient Integer-Arithmetic-Only FPGA-Based CNN Accelerator for Real-Time Facial Emotion Recognition",
       "discussion_pages": [
         3,
+        4,
         6,
         7,
         10,
-        11
+        11,
+        12
       ],
       "reference_page": 15,
       "discussion_ranges": {
@@ -611,14 +735,46 @@
         "thresholds for accurate and efﬁcient ﬁxed-point inference of deep neural",
         "networks,’’ in Proc. Mach. Learn. Syst., Mar. 2020, pp. 112–128."
       ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked; 1 match on an unselected page (background mention) left unmarked",
-      "additional_markings": [],
+      "review_status": "Reviewed across the complete paper: every matched Jain/TQT occurrence and corresponding numbered citation boxed on every page; generated sentence and table-row groups visually checked; figure and table text drawn as graphics boxed from reviewed rectangles",
+      "additional_markings": [
+        {
+          "page": 4,
+          "first": "5:6",
+          "last": "5:8",
+          "start_text": "recognition. In addition, log level threshold quantization",
+          "end_text": "the previous works [38], [39]. Moreover, a low-power, low-",
+          "reason": "LLTQ proposed to address the disadvantages of previous works [38], [39] (TQT)",
+          "kind": "discussion"
+        },
+        {
+          "page": 7,
+          "rect": [
+            203,
+            250,
+            317,
+            304
+          ],
+          "reason": "Figure 3 TQT panel (power-of-two scale s = 2^ceil(log2 t)/q_level), drawn as graphics and absent from text extraction",
+          "kind": "figure_text"
+        },
+        {
+          "page": 12,
+          "rect": [
+            63,
+            117.5,
+            528,
+            128.5
+          ],
+          "reason": "Table 1 TQT [39] row (8/8/8, power-of-two, 86.13%, -0.45), drawn as graphics and absent from text extraction",
+          "kind": "table_entry"
+        }
+      ],
       "reference_number": 39,
       "occurrence_audit": {
         "full_article_pages": 15,
-        "search_matches": 21,
+        "search_matches": 22,
         "excluded_other_author_matches": 0,
-        "group_boxes": 9,
+        "group_boxes": 12,
         "unboxed_selected_matches": 0
       }
     },
@@ -626,6 +782,7 @@
       "article": 10,
       "title": "Integer-Only CNNs with 4 Bit Weights and Bit-Shift Quantization Scales at Full-Precision Accuracy",
       "discussion_pages": [
+        2,
         11,
         12,
         13,
@@ -653,7 +810,7 @@
         "Jain, S.; Gural, A.; Wu, M.; Dick, C. Trained Quantization Thresholds for Accurate and Efﬁcient Fixed-Point Inference of Deep",
         "Neural Networks. Proc. Mach. Learn. Syst. 2020, 2, 112–128."
       ],
-      "review_status": "Selected Jain/TQT passages and table entries reviewed and boxed.",
+      "review_status": "Selected Jain/TQT passages and table entries reviewed and boxed. Introduction passage on p. 2 added 2026-10-09 after the full-page scan.",
       "additional_markings": [
         {
           "page": 11,
@@ -762,6 +919,15 @@
           "end_text": "−1.60 (76.4)",
           "reason": "Complete TQT ImageNet comparison row",
           "kind": "table_entry"
+        },
+        {
+          "page": 2,
+          "first": "2:0",
+          "last": "2:3",
+          "start_text": "Jain et al. [12] already proved that 8 bit models with per-layer quantization and power-",
+          "end_text": "and even a complete failure for MobileNets. Using 4 bit weights, 8 bit activations, and per-",
+          "reason": "Introduction: Jain et al. [12] power-of-two results and their 4-bit limitation",
+          "kind": "discussion"
         }
       ],
       "reference_number": 12,
@@ -769,7 +935,7 @@
         "full_article_pages": 25,
         "search_matches": 34,
         "excluded_other_author_matches": 0,
-        "group_boxes": 15,
+        "group_boxes": 16,
         "unboxed_selected_matches": 0
       }
     },
@@ -777,6 +943,7 @@
       "article": 11,
       "title": "Optimizing the Deployment of Tiny Transformers on Low-Power MCUs",
       "discussion_pages": [
+        1,
         6
       ],
       "reference_page": 15,
@@ -793,14 +960,24 @@
         "for accurate and efﬁcient ﬁxed-point inference of deep neural networks,”",
         "Proc. Mach. Learn. Syst., vol. 2, 2020, pp. 112–128."
       ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked",
-      "additional_markings": [],
+      "review_status": "Reviewed across the complete paper: every matched Jain/TQT occurrence and corresponding numbered citation boxed on every page; generated sentence and table-row groups visually checked",
+      "additional_markings": [
+        {
+          "page": 1,
+          "first": "14:16",
+          "last": "14:18",
+          "start_text": "to their success in solving many challenging tasks. Standard",
+          "end_text": "changes [2], data quantization [3], [4], and pruning [5]. These",
+          "reason": "Introduction: data quantization citation [3] (TQT)",
+          "kind": "discussion"
+        }
+      ],
       "reference_number": 3,
       "occurrence_audit": {
         "full_article_pages": 16,
-        "search_matches": 7,
+        "search_matches": 8,
         "excluded_other_author_matches": 1,
-        "group_boxes": 2,
+        "group_boxes": 3,
         "unboxed_selected_matches": 0
       },
       "excluded_occurrences": [
@@ -869,7 +1046,7 @@
       "additional_markings": [],
       "occurrence_audit": {
         "full_article_pages": 10,
-        "search_matches": 3,
+        "search_matches": 4,
         "excluded_other_author_matches": 0,
         "group_boxes": 2,
         "unboxed_selected_matches": 0
@@ -911,7 +1088,7 @@
       "reference_number": 121,
       "occurrence_audit": {
         "full_article_pages": 23,
-        "search_matches": 8,
+        "search_matches": 9,
         "excluded_other_author_matches": 0,
         "group_boxes": 3,
         "unboxed_selected_matches": 0
@@ -992,6 +1169,7 @@
       "article": 16,
       "title": "A Low Memory Footprint Quantized Neural Network for Depth Completion of Very Sparse Time-of-Flight Depth Maps",
       "discussion_pages": [
+        2,
         5
       ],
       "reference_page": 9,
@@ -1012,14 +1190,24 @@
         "of Machine Learning and Systems, volume 2, pages 112–",
         "128, 2020."
       ],
-      "review_status": "Reviewed across the complete paper: all matched Jain/TQT occurrences and corresponding numbered citations on the selected pages boxed; generated sentence and table-row groups visually checked",
-      "additional_markings": [],
+      "review_status": "Reviewed across the complete paper: every matched Jain/TQT occurrence and corresponding numbered citation boxed on every page; generated sentence and table-row groups visually checked",
+      "additional_markings": [
+        {
+          "page": 2,
+          "first": "17:2",
+          "last": "17:3",
+          "start_text": "sults than post-training quantization. Recent QAT meth-",
+          "end_text": "ods [2,7,10,23,30] proved effective on classiﬁcation tasks.",
+          "reason": "Related-work QAT citation group including TQT [23]",
+          "kind": "discussion"
+        }
+      ],
       "reference_number": 23,
       "occurrence_audit": {
         "full_article_pages": 10,
-        "search_matches": 6,
+        "search_matches": 7,
         "excluded_other_author_matches": 0,
-        "group_boxes": 2,
+        "group_boxes": 3,
         "unboxed_selected_matches": 0
       }
     },
@@ -1408,5 +1596,34 @@
     ],
     "method": "Placeholder pages of the four IEEE published-print excerpts replaced by the corresponding pages of the reviewed prints (E-1436, E-1437, E-1434 and E-1435), placed as on the reproduced pages above the unchanged provenance footer; the footer source note reads \"published print\" instead of \"published print; excerpt\". Selected pages, marking boxes, links and bookmarks are unchanged, and restored pages render identically to the source prints.",
     "occurrence_audit": "Search matches for articles 02, 08 and 16 now include the restored pages: article 02 pp. 7–9 (section V-C, two figure captions and the conclusion; eight TQT mentions), and one grouped related-work citation on p. 2 of articles 08 and 16. These pages lie outside the selected discussion pages and remain unmarked."
+  },
+  "full_page_audit": {
+    "date": "2026-10-09",
+    "method": "Scan of all 343 pages: text-layer matching for TQT/TQTs, Jain, the TQT titles (singular, plural and across hyphenated line breaks), the arXiv identifiers and numbered citations including IEEE ranges such as [24]–[26], plus OCR of rendered pages at 220 dpi for text drawn as graphics. Sixteen unmarked places in articles 02, 08, 09, 10, 11 and 16 were boxed at the applicant's direction through additional_markings; their pages joined the selected discussion pages.",
+    "pages_added": {
+      "02": [
+        7,
+        8,
+        9
+      ],
+      "08": [
+        2
+      ],
+      "09": [
+        4,
+        12
+      ],
+      "10": [
+        2
+      ],
+      "11": [
+        1
+      ],
+      "16": [
+        2
+      ]
+    },
+    "audit": "audit_markings.py now checks every page and matches the plural, singular-title, hyphenated and bracket-range forms; graphics-only text is enforced through reviewed rectangles.",
+    "generator": "background/working/marking-gap-scan-2026-10-09/record_gap_markings.py (applicant workspace)"
   }
 }

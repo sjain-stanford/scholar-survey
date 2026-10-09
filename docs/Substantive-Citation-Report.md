@@ -1,6 +1,6 @@
 # Substantive Citation Report
 
-Prepared October 7, 2026. 21 selected articles; 100 marked discussion pages.
+Prepared October 7, 2026. 21 selected articles; 108 marked discussion pages.
 
 Twenty-one substantive citing articles, each published in an ICORE2026 A*-rated conference, cited more than 100 times on Google Scholar, or using or extending TQT in its own methods or experiments. Articles are ordered by venue standing and citations, the citing work’s reliance on TQT and the credit it gives TQT, taken together.
 
@@ -68,7 +68,7 @@ NVIDIA and Bilkent University researchers adopt TQT as the baseline quantized re
 
 **Authorship link:** Jain, Gural, Wu and Dick (2019), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks. [Bibliography p. 10](Marked-Articles/02-Orthogonality-MARKED.pdf#page=10).
 
-**Reviewed version:** Final IEEE TNNLS print, vol. 34, no. 12. **Source:** E-1436; Physical PDF pp. 1–6 (printed pp. 10737–10742): TQT introduced as the quantized retraining method, log-domain threshold training as described in [25], TQT baseline retraining and experiments with TQT; bibliography p. 10 (printed p. 10746), reference [25]. Count: E-0402, data.organic_results[19].inline_links.cited_by.total.
+**Reviewed version:** Final IEEE TNNLS print, vol. 34, no. 12. **Source:** E-1436; Physical PDF pp. 1–9 (printed pp. 10737–10745): TQT introduced as the quantized retraining method, log-domain threshold training as described in [25], TQT baseline retraining, experiments with and without TQT (Fig. 1(c), Table I, Section V-C, Fig. 3) and the conclusion; bibliography p. 10 (printed p. 10746), reference [25]. Count: E-0402, data.organic_results[19].inline_links.cited_by.total.
 
 [Original article](https://ieeexplore.ieee.org/document/9772057) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=5939552086959198235&as_sdt=5,33&sciodt=7,33&hl=en&num=20)
 
@@ -176,7 +176,7 @@ Xilinx researchers in Beijing re-implement a hardware-friendly quantization base
 
 **Authorship link:** Jain, Gural, Wu and Dick (2020), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks. [Bibliography p. 9](Marked-Articles/08-Bin-Regularization-MARKED.pdf#page=9).
 
-**Reviewed version:** IEEE Xplore published print, ICCV 2021 proceedings. **Source:** E-1437; Physical PDF p. 8 (printed p. 5248): Section 4.8 hardware-friendly baseline following [19, 21], Table 9 TQT, TQT+L2 and TQT+BR rows and the reported +3.7% over TQT; bibliography p. 9 (printed p. 5249), reference [19]. Count: E-0391, data.organic_results[7].inline_links.cited_by.total.
+**Reviewed version:** IEEE Xplore published print, ICCV 2021 proceedings. **Source:** E-1437; Physical PDF p. 2 (printed p. 5242): related-work QAT citation group including [19]; p. 8 (printed p. 5248): Section 4.8 hardware-friendly baseline following [19, 21], Table 9 TQT, TQT+L2 and TQT+BR rows and the reported +3.7% over TQT; bibliography p. 9 (printed p. 5249), reference [19]. Count: E-0391, data.organic_results[7].inline_links.cited_by.total.
 
 [Original article](https://ieeexplore.ieee.org/document/9711384) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=8210545444854681605&as_sdt=2005&sciodt=2007&hl=en&num=20)
 
@@ -194,7 +194,7 @@ Inha University and Sangmyung University researchers build log level threshold q
 
 **Authorship link:** Jain, Gural, Wu and Dick (2020), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks. [Bibliography p. 15](Marked-Articles/09-LLTQ-MARKED.pdf#page=15).
 
-**Reviewed version:** IEEE Access open-access publisher PDF. **Source:** E-1264; Physical PDF pp. 3, 6–7, 10–11: TQT in related work, LLTQ derived as an alternative to TQT's power-of-two scale mapping, Figure 3 and the implemented LSQ/TQT/LLTQ comparison; bibliography p. 15, reference [39]. Count: E-0393, data.organic_results[0].inline_links.cited_by.total.
+**Reviewed version:** IEEE Access open-access publisher PDF. **Source:** E-1264; Physical PDF pp. 3–4, 6–7, 10–12: TQT in related work, LLTQ proposed to address the disadvantages of previous works including TQT and derived as an alternative to TQT's power-of-two scale mapping, Figure 3, the implemented LSQ/TQT/LLTQ comparison and its Table 1 TQT row; bibliography p. 15, reference [39]. Count: E-0393, data.organic_results[0].inline_links.cited_by.total.
 
 [Original article](https://doi.org/10.1109/ACCESS.2021.3099075) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=13879431573826281003&as_sdt=5,48&sciodt=7,48&hl=en&num=20)
 
@@ -212,7 +212,7 @@ KU Leuven researchers adopt TQT's quantizer: they optimize power-of-two scales b
 
 **Authorship link:** Jain, Gural, Wu and Dick (2020), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks. [Bibliography p. 23](Marked-Articles/10-Integer-Only-CNNs-MARKED.pdf#page=23).
 
-**Reviewed version:** Published journal PDF from KU Leuven repository. **Source:** E-0081; PDF/printed pp. 11–14, 17–20, quantizer design, adopted training practices and TQT Table 2 results; bibliography p. 23, reference [12]. Count: E-0459, data.organic_results[0].inline_links.cited_by.total.
+**Reviewed version:** Published journal PDF from KU Leuven repository. **Source:** E-0081; PDF/printed pp. 2, 11–14, 17–20: Jain et al. [12] in the introduction, quantizer design, adopted training practices and TQT Table 2 results; bibliography p. 23, reference [12]. Count: E-0459, data.organic_results[0].inline_links.cited_by.total.
 
 [Original article](https://lirias.kuleuven.be/retrieve/02b3b220-64bc-4e7a-833e-6e319c5dfa77) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=6471382733336911751&as_sdt=4005&sciodt=0,6&hl=en)
 
@@ -230,7 +230,7 @@ Researchers in the ETH Zürich/University of Bologna PULP group quantize their t
 
 **Authorship link:** Jain, Gural, Wu and Dick (2020), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks. [Bibliography p. 15](Marked-Articles/11-Tiny-Transformers-MARKED.pdf#page=15).
 
-**Reviewed version:** Published IEEE Transactions on Computers print. **Source:** E-1434; Physical PDF p. 6 (printed p. 531), Section IV-C: the uniform symmetric TQT quantizer used in the QuantLib flow; bibliography p. 15 (printed p. 540), reference [3]. Count: E-0375, data.organic_results[6].inline_links.cited_by.total.
+**Reviewed version:** Published IEEE Transactions on Computers print. **Source:** E-1434; Physical PDF p. 1 (printed p. 526), Section I: data quantization citation [3]; p. 6 (printed p. 531), Section IV-C: the uniform symmetric TQT quantizer used in the QuantLib flow; bibliography p. 15 (printed p. 540), reference [3]. Count: E-0375, data.organic_results[6].inline_links.cited_by.total.
 
 [Original article](https://ieeexplore.ieee.org/document/10755971) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=8176222627957634598&as_sdt=2005&sciodt=0,5&hl=en&num=20)
 
@@ -320,7 +320,7 @@ EPFL, Sony and University of Padova researchers report that their most effective
 
 **Authorship link:** Jain, Gural, Wu and Dick (2019), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks. [Bibliography p. 9](Marked-Articles/16-Depth-Completion-MARKED.pdf#page=9).
 
-**Reviewed version:** IEEE Xplore published print, CVPRW 2022 proceedings. **Source:** E-1435; Physical PDF p. 5, Section 5.1 (printed p. 2690): uniform-precision QAT using learnable qmax as in TQT [23]; bibliography p. 9 (printed p. 2694), reference [23]. Count: E-0402, data.organic_results[14].inline_links.cited_by.total.
+**Reviewed version:** IEEE Xplore published print, CVPRW 2022 proceedings. **Source:** E-1435; Physical PDF p. 2, Section 2.2 (printed p. 2687): QAT citation group including [23]; p. 5, Section 5.1 (printed p. 2690): uniform-precision QAT using learnable qmax as in TQT [23]; bibliography p. 9 (printed p. 2694), reference [23]. Count: E-0402, data.organic_results[14].inline_links.cited_by.total.
 
 [Original article](https://ieeexplore.ieee.org/document/9857469) · [Scholar cited-by list](https://scholar.google.com/scholar?cites=12696510404083872991&as_sdt=5,33&sciodt=7,33&hl=en&num=20)
 
