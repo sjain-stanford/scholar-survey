@@ -8,7 +8,7 @@ Authenticated access succeeded: seven requests returned HTTP 200 and SerpAPI sea
 | Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks | 227 | E-0356, `data.articles[0].cited_by.value`; citing cluster `1211587708316162333` |
 | Understanding and Overcoming the Challenges of Efficient Transformer Quantization | 271 | E-0357, [transformer-title-search.json](transformer-title-search.json), `data.organic_results[0].inline_links.cited_by.total`; ACL Anthology link and citing cluster `8710219284475667501` match the intended paper |
 
-The profile response contains 11 article entries. The Transformer paper's title search also returns a separate bibliographic entry with 11 citations. The report uses the profile-linked Transformer record (271) and retains the separate entry for version reconciliation.
+The profile response lists 11 entries: the ten publications in the coverage table and the MLSys 2020 slides "TQT: Trained Quantization Thresholds", which had no citations and was later removed from the profile. The Transformer paper's title search also returns a separate bibliographic entry with 11 citations. The report uses the profile-linked Transformer record (271) and retains the separate entry for version reconciliation.
 
 Public source links: [Sambhav Jain's profile](https://scholar.google.com/citations?hl=en&user=1mvzap4AAAAJ), [Transformer paper's citing list](https://scholar.google.com/scholar?cites=8710219284475667501&as_sdt=2005&sciodt=0,5&hl=en), [SerpAPI author API documentation](https://serpapi.com/google-scholar-author-api), [SerpAPI Scholar search documentation](https://serpapi.com/google-scholar-api).
 
@@ -28,7 +28,7 @@ The two 20-result TQT pages contain 32 distinct result IDs; the two 10-result pa
 
 Article-level cited-by fields and the author-profile citation table supply the dated count statements. The citation survey groups retrieved records across pages and publication versions before counting works. Source PDFs provide the body discussions and publication-time affiliations.
 
-The completed survey records 337 retrieved Scholar records, 324 grouped works and publication-sourced locations for 147 works in 29 countries/territories. Its [research report](../Substantive-Citation-Report.pdf), [citation inventory](../Citation-Inventory.csv) and [coverage table](../Coverage-by-Publication.csv) document these measures.
+The completed survey records 337 retrieved Scholar records, 323 grouped works and publication-sourced locations for 210 works in 30 countries/territories. Its [research report](../Substantive-Citation-Report.pdf), [citation inventory](../Citation-Inventory.csv) and [coverage table](../Coverage-by-Publication.csv) document these measures.
 
 This supplement preserves the initial authenticated-access snapshots alongside the subsequent source-linked research.
 
