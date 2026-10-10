@@ -66,7 +66,7 @@
     "additional_reviewed_regions": 55,
     "complete_tqt_table_entries": 6,
     "generator": "scripts/audit_markings.py",
-    "scope": "Every page of the 21 complete articles: word-level matching of TQT/TQTs, Jain, the TQT titles (singular, plural and across hyphenated line breaks), the arXiv identifiers and numbered citations, including grouped citations and bracket ranges, and OCR of all pages at 220 dpi for text drawn as graphics, which is enforced through reviewed rectangles. Articles 01, 03, 06, 10, 13, 14, 15, 17 and 19 also have source-page and 300 dpi OCR review; boxes for articles 02, 04, 05, 07, 08, 09, 11, 12, 16, 18, 20 and 21 are generated sentence and table-row groups with visual review.",
+    "scope": "Every page of the 21 complete articles: word-level matching of TQT/TQTs, Jain, the TQT titles (singular, plural and across hyphenated line breaks), the arXiv identifiers and numbered citations, including grouped citations and bracket ranges, and OCR of all pages at 220 dpi for text drawn as graphics, which is enforced through reviewed rectangles. Articles 02, 05, 07, 10, 12, 16, 17, 18 and 19 also have source-page and 300 dpi OCR review; boxes for articles 01, 03, 04, 06, 08, 09, 11, 13, 14, 15, 20 and 21 are generated sentence and table-row groups with visual review.",
     "full_article_group_boxes": 138,
     "packet_group_boxes": 138,
     "unique_selected_pages": 108,
@@ -116,13 +116,13 @@
   },
   "selection": {
     "screening": "Full texts of 265 citing works screened for TQT body discussion; candidates read in context. The screening outputs and the paper-by-paper review ledger are kept outside the published package.",
-    "ranking": "Articles are numbered in the order of the applicant's citation-strength review, which weighs venue standing and citations, reliance on TQT and the credit given to TQT; the review is kept outside the published package.",
+    "ranking": "Articles are numbered by the documented use of TQT: adoption, implementation or extension in the citing work’s own methods or experiments (01–11), comparison, credit or a single-sentence use (12–15), and citation without reported use or use through a modified implementation or vendor toolchain (16–21); depth of reliance, venue standing and independence order each group.",
     "selection_basis_counts": {
       "ICORE2026 A* venue": 8,
       ">100 Scholar citations": 7,
       "Uses or extends TQT": 15
     },
-    "zero_count_records": "Articles 12 and 20: the saved Scholar records carry no cited-by link; reported as no count shown."
+    "zero_count_records": "Articles 14 and 20: the saved Scholar records carry no cited-by link; reported as no count shown."
   },
   "affiliation_sources": {
     "supplied_pdfs": 67,

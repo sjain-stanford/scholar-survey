@@ -1,22 +1,22 @@
 report,article,title,packet_start,packet_end,source_pages,source_evidence
-substantive,1,Mixed Precision DNNs: All you need is a good parametrization,1,7,1; 2; 4; 5; 8; 9; 10,E-0087
-substantive,2,Understanding How Orthogonality of Parameters Improves Quantization of Neural Networks,8,17,1; 2; 3; 4; 5; 6; 7; 8; 9; 10,E-1436
-substantive,3,Bayesian Bits: Unifying Quantization and Pruning,18,21,1; 6; 8; 10,E-0324
-substantive,4,A Reduced-Precision Network for Image Reconstruction,22,25,1; 3; 6; 11,E-1263
-substantive,5,7 μJ/inference end-to-end gesture recognition from dynamic vision sensor data using ternarized hybrid convolutional neural networks,26,31,1; 5; 6; 9; 10; 14,E-1254
-substantive,6,Understanding and Overcoming the Challenges of Efficient Transformer Quantization,32,35,1; 3; 7; 11,E-0046
-substantive,7,F8Net: Fixed-Point 8-bit Only Multiplication for Network Quantization,36,41,1; 2; 3; 7; 8; 12,E-0725
-substantive,8,Improving Low-Precision Network Quantization via Bin Regularization,42,45,1; 2; 8; 9,E-1437
-substantive,9,A Resource Efficient Integer-Arithmetic-Only FPGA-Based CNN Accelerator for Real-Time Facial Emotion Recognition,46,54,1; 3; 4; 6; 7; 10; 11; 12; 15,E-1264
-substantive,10,Integer-Only CNNs with 4 Bit Weights and Bit-Shift Quantization Scales at Full-Precision Accuracy,55,65,1; 2; 11; 12; 13; 14; 17; 18; 19; 20; 23,E-0081
-substantive,11,Optimizing the Deployment of Tiny Transformers on Low-Power MCUs,66,68,1; 6; 15,E-1434
-substantive,12,Accelerating configuration of Reconfigurable Intelligent Surfaces through a hardware-enhanced deep learning approach,69,71,1; 9; 17,E-1185
-substantive,13,Up or Down? Adaptive Rounding for Post-Training Quantization,72,74,1; 5; 10,E-0321
-substantive,14,Bringing AI to edge: From deep learning’s perspective,75,78,1; 8; 9; 20,E-0044
-substantive,15,HMQ: Hardware Friendly Mixed Precision Quantization Block for CNNs,79,83,1; 2; 3; 4; 17,E-0043
-substantive,16,A Low Memory Footprint Quantized Neural Network for Depth Completion of Very Sparse Time-of-Flight Depth Maps,84,87,1; 2; 5; 9,E-1435
-substantive,17,QKD: Quantization-aware Knowledge Distillation,88,92,1; 2; 3; 7; 9,E-0056
-substantive,18,FELIX: A Ferroelectric FET Based Low Power Mixed-Signal In-Memory Architecture for DNN Acceleration,93,95,1; 17; 23,E-1279
-substantive,19,A White Paper on Neural Network Quantization,96,99,1; 20; 22; 26,E-0090
+substantive,1,Understanding How Orthogonality of Parameters Improves Quantization of Neural Networks,1,10,1; 2; 3; 4; 5; 6; 7; 8; 9; 10,E-1436
+substantive,2,Mixed Precision DNNs: All you need is a good parametrization,11,17,1; 2; 4; 5; 8; 9; 10,E-0087
+substantive,3,A Reduced-Precision Network for Image Reconstruction,18,21,1; 3; 6; 11,E-1263
+substantive,4,Optimizing the Deployment of Tiny Transformers on Low-Power MCUs,22,24,1; 6; 15,E-1434
+substantive,5,Integer-Only CNNs with 4 Bit Weights and Bit-Shift Quantization Scales at Full-Precision Accuracy,25,35,1; 2; 11; 12; 13; 14; 17; 18; 19; 20; 23,E-0081
+substantive,6,7 μJ/inference end-to-end gesture recognition from dynamic vision sensor data using ternarized hybrid convolutional neural networks,36,41,1; 5; 6; 9; 10; 14,E-1254
+substantive,7,Understanding and Overcoming the Challenges of Efficient Transformer Quantization,42,45,1; 3; 7; 11,E-0046
+substantive,8,A Resource Efficient Integer-Arithmetic-Only FPGA-Based CNN Accelerator for Real-Time Facial Emotion Recognition,46,54,1; 3; 4; 6; 7; 10; 11; 12; 15,E-1264
+substantive,9,A Low Memory Footprint Quantized Neural Network for Depth Completion of Very Sparse Time-of-Flight Depth Maps,55,58,1; 2; 5; 9,E-1435
+substantive,10,QKD: Quantization-aware Knowledge Distillation,59,63,1; 2; 3; 7; 9,E-0056
+substantive,11,Improving Low-Precision Network Quantization via Bin Regularization,64,67,1; 2; 8; 9,E-1437
+substantive,12,Bayesian Bits: Unifying Quantization and Pruning,68,71,1; 6; 8; 10,E-0324
+substantive,13,F8Net: Fixed-Point 8-bit Only Multiplication for Network Quantization,72,77,1; 2; 3; 7; 8; 12,E-0725
+substantive,14,Accelerating configuration of Reconfigurable Intelligent Surfaces through a hardware-enhanced deep learning approach,78,80,1; 9; 17,E-1185
+substantive,15,FELIX: A Ferroelectric FET Based Low Power Mixed-Signal In-Memory Architecture for DNN Acceleration,81,83,1; 17; 23,E-1279
+substantive,16,HMQ: Hardware Friendly Mixed Precision Quantization Block for CNNs,84,88,1; 2; 3; 4; 17,E-0043
+substantive,17,Up or Down? Adaptive Rounding for Post-Training Quantization,89,91,1; 5; 10,E-0321
+substantive,18,A White Paper on Neural Network Quantization,92,95,1; 20; 22; 26,E-0090
+substantive,19,Bringing AI to edge: From deep learning’s perspective,96,99,1; 8; 9; 20,E-0044
 substantive,20,INT8 Activation Ternary or Binary Weights Networks: Unifying Between INT8 and Lower-bit Width Quantization,100,104,1; 2; 3; 4; 5,E-0595
 substantive,21,Efficient SAR Vessel Detection for FPGA-Based On-Satellite Sensing,105,108,1; 5; 11; 16,E-1277
