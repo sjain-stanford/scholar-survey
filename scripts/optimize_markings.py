@@ -129,11 +129,9 @@ def optimize_document(document, check=False):
 
 
 def refresh_manifests(changed):
-    """Refresh only changed outputs; leave captured source hashes untouched."""
+    """Refresh only changed outputs; Imported-Package-Manifest.csv lists captured sources, which never change."""
     changed = set(changed)
-    for path in [ROOT / 'docs/Delivery-Manifest.csv',
-                 ROOT / 'provenance/Imported-Package-Manifest.csv',
-                 ROOT / 'provenance/Research-Manifest.csv']:
+    for path in [ROOT / 'docs/Delivery-Manifest.csv', ROOT / 'provenance/Research-Manifest.csv']:
         original = path.read_bytes()
         with path.open(newline='') as handle:
             reader = csv.DictReader(handle)
@@ -141,10 +139,6 @@ def refresh_manifests(changed):
             rows = list(reader)
         dirty = False
         for row in rows:
-            if (path.name == 'Imported-Package-Manifest.csv'
-                    and not (row['path'].startswith('Marked-Articles/')
-                             or row['path'] == PACKET)):
-                continue
             if row['path'] in changed:
                 data = (ROOT / 'docs' / row['path']).read_bytes()
                 row.update(bytes=str(len(data)), sha256=hashlib.sha256(data).hexdigest())

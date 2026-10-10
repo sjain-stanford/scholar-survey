@@ -55,15 +55,11 @@ def main():
         assert len(data) == int(row['bytes']), row['path']
         assert hashlib.sha256(data).hexdigest() == row['sha256'], row['path']
         assert not data.startswith(b'version https://git-lfs.github.com/spec/v1'), f'LFS pointer cannot be served: {path}'
-    initial = list(csv.DictReader((ROOT / 'provenance/Imported-Package-Manifest.csv').open()))
-    current_marked = {'Marked-Articles/' + paper['marked_filename']
-                      for paper in csv.DictReader((DOCS / 'Selected-Articles.csv').open())}
-    for row in initial:
+    # Captured source evidence is never regenerated: every listed capture keeps its recorded hash.
+    for row in csv.DictReader((ROOT / 'provenance/Imported-Package-Manifest.csv').open()):
         path = Path(row['path'])
-        if path.parts[0] == 'Marked-Articles' and row['path'] not in current_marked:
-            continue  # withdrawn article; preserved in Git history
-        if path.parts[0] in ['Sources', 'Marked-Articles'] or path.name == PACKET or ('SerpAPI Verification' in row['path'] and path.suffix == '.json'):
-            assert hashlib.sha256((DOCS/path).read_bytes()).hexdigest() == row['sha256'], row['path']
+        assert path.parts[0] == 'Sources' or ('SerpAPI Verification' in row['path'] and path.suffix == '.json'), row['path']
+        assert hashlib.sha256((DOCS / path).read_bytes()).hexdigest() == row['sha256'], row['path']
     for row in csv.DictReader((DOCS / 'Delivery-Manifest.csv').open()):
         data = (DOCS / row['path']).read_bytes()
         assert len(data) == int(row['bytes']), row['path']
@@ -109,22 +105,19 @@ def main():
                 validate_path(paper['proof'])
                 proofs.add(paper['proof'])
     selections = list(csv.DictReader((DOCS / 'Selected-Articles.csv').open()))
-    assert (len(selections), sum(p['a'] == 'True' for p in selections),
-            sum(p['named'] == 'True' for p in selections)) == (
-                survey['selected_articles'], survey['shortlist'], survey['named'])
-    assert all((p['a'] == 'True') != (p['named'] == 'True') for p in selections), \
-        'Each selected article must belong to exactly one report'
+    assert len(selections) == survey['selected_articles']
     # Articles are numbered 1..N in ranked report order.
     expected_numbers = sorted({int(paper['n']) for paper in selections})
     assert len(expected_numbers) == len(selections), 'Duplicate article numbers'
     assert expected_numbers == list(range(1, len(selections) + 1)), 'Article numbers must be contiguous'
+    assert sorted(n for collection in collections() for n in article_order(collection)) == expected_numbers, \
+        'Each selected article must belong to exactly one report'
     selected_titles = {int(paper['n']): paper['title'] for paper in selections}
-    selected_collections = {int(paper['n']): 'substantive' if paper['a'] == 'True' else 'named'
-                            for paper in selections}
+    selected_collections = {n: collection['id'] for collection in collections() for n in article_order(collection)}
     normalize_title = lambda title: re.sub(r'\W+', '', unicodedata.normalize('NFKC', title).casefold())
     inventory_selections = []
     for work in inventory:
-        match = re.fullmatch(r'Selected (substantive|named) review, article (\d+)', work['discussion_review'])
+        match = re.fullmatch(r'Selected (\w+) review, article (\d+)', work['discussion_review'])
         if match:
             number = int(match[2])
             assert number in selected_titles, work['work_id']
@@ -162,8 +155,6 @@ def main():
         order = article_order(collection)
         assert len(order) == len(set(order))
         assert order == sorted(order), 'Report order must follow article numbers'
-        assert set(order) == {int(paper['n']) for paper in selections
-                              if paper[collection['selection_field']] == 'True'}
         report = reports[collection['id']]
         markdown = (DOCS / (collection['report'] + '.md')).read_text()
         assert site_nav.nav('report') in report and site_nav.nav('map') in index, 'Site navigation'

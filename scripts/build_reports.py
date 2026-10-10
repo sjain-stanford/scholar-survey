@@ -15,17 +15,6 @@ def page(title, content, eyebrow, print_only=False):
             f'<h2>{escape(title)}</h2>\n{content}\n</section>')
 
 
-def page_ranges(numbers):
-    groups = []
-    for number in numbers:
-        if groups and number == groups[-1][-1] + 1:
-            groups[-1].append(number)
-        else:
-            groups.append([number])
-    return ', '.join(str(group[0]) if len(group) == 1 else f'{group[0]}–{group[-1]}'
-                     for group in groups)
-
-
 def scrollable_table(table, label):
     return (f'<div class="table-scroll" role="region" aria-label="{escape(label)}" tabindex="0">'
             + table + '</div>')
@@ -52,10 +41,9 @@ def marked_article(paper):
     return f'Marked-Articles/{paper["marked_filename"]}'
 
 
-def article_table(numbers, papers, articles, substantive):
+def article_table(numbers, papers, articles):
     headings = ('<th>No.</th><th>Article / venue</th><th>Scholar</th><th>Selection basis</th>'
-                if substantive else '<th>No.</th><th>Article / venue</th><th>PDF discussion pages</th><th>Scholar</th>'
-                ) + '<th>Marked article</th>'
+                '<th>Marked article</th>')
     rows = []
     for number in numbers:
         paper, article = papers[number], articles[number]
@@ -63,11 +51,9 @@ def article_table(numbers, papers, articles, substantive):
                  f'<a href="{escape(article["original_url"])}"><b>{escape(paper["title"])}</b></a>'
                  f'<br><span class="small">{escape(paper["venue"])}</span>']
         count = f'<a href="{escape(article["scholar_url"])}">{citation_count(paper)}</a>'
-        cells += ([count, badges(paper, '<br>')] if substantive else
-                  [page_ranges(json.loads(paper['body_pages'])), count])
-        cells.append(f'<a href="{escape(marked_article(paper))}">PDF</a>')
+        cells += [count, badges(paper, '<br>'), f'<a href="{escape(marked_article(paper))}">PDF</a>']
         rows.append('<tr>' + ''.join(f'<td>{cell}</td>' for cell in cells) + '</tr>')
-    table = (('<table class="articles">' if substantive else '<table>') + '<thead><tr>' + headings
+    table = ('<table class="articles"><thead><tr>' + headings
              + '</tr></thead><tbody>' + ''.join(rows) + '</tbody></table>')
     return scrollable_table(table, 'Selected citing articles')
 
@@ -119,7 +105,6 @@ def build_reports():
         pdf_link = f'<a href="{report}.pdf">Report PDF</a> · ' if collection['link_report'] else ''
         html_link = f'<a href="{report}.html">{escape(title)}</a> · ' if collection['link_report'] else ''
         md_link = f'[Report PDF]({report}.pdf) · ' if collection['link_report'] else ''
-        substantive = collection['id'] == 'substantive'
         cover = f'''<section class="page"><div class="eyebrow">Sambhav R. Jain · citation research · 7 October 2026</div>
 <h1>{escape(title)}</h1><p>{escape(collection['description'])}</p>
 <div class="cards"><div class="stat"><b>{count}</b>selected articles</div><div class="stat"><b>{packet_pages}</b>marked discussion pages</div><div class="stat"><b>{survey['countries_territories']}</b>countries / territories in the wider survey</div></div>
@@ -130,13 +115,9 @@ def build_reports():
 <p>{pdf_link}<a href="{packet}">Marked discussions</a> · <a href="index.html">Interactive map</a></p>
 <p class="small">Snapshot: October 7, 2026. <a href="https://scholar.google.com/citations?hl=en&amp;user=1mvzap4AAAAJ">Sambhav Jain’s Google Scholar profile</a>. Counts belong to the saved citing-article records or version clusters.</p></section>'''
         sections = [cover]
-        if substantive:
-            for group in collection['groups']:
-                sections.append(page(f'{group["title"]} ({len(group["articles"])})',
-                                     article_table(group['articles'], papers, articles, True), title, True))
-        else:
-            sections.append(page(f'{count} named citing articles',
-                                 article_table(numbers, papers, articles, False), title))
+        for group in collection['groups']:
+            sections.append(page(f'{group["title"]} ({len(group["articles"])})',
+                                 article_table(group['articles'], papers, articles), title, True))
         for group in collection['groups']:
             for start in range(0, len(group['articles']), 2):
                 blocks = '\n'.join(article_block(n, papers[n], articles[n], title)
