@@ -3,6 +3,6 @@
 @page{@bottom-right{content:"Page " counter(page) " of " counter(pages);font:8pt Arial,sans-serif;color:#517078}}
 @media screen{.table-scroll{overflow-x:auto}.table-scroll:focus-visible{outline:3px solid #d68620;outline-offset:3px}}
 @media screen and (max-width:600px){.table-scroll table{min-width:600px}.mono{overflow-wrap:anywhere}.cards{flex-wrap:wrap}.stat{flex:1 1 120px;min-width:0}}
-tr{break-inside:avoid}.articles td:nth-child(4){white-space:nowrap}.articles .badge{margin:0 0 4pt}.label{margin:4pt 0 2pt}
+tr{break-inside:avoid}.articles td:nth-child(4),.articles .nowrap,.articles .nowrap a{white-space:nowrap}@media print{.articles tr.page-start{break-before:page}}.articles .badge{margin:0 0 4pt}.label{margin:4pt 0 2pt}
 @media screen{body{background:#eef4f6}main.report{max-width:900px;margin:0 auto;padding:12px 40px 56px;background:#fff}.page{padding-top:24px}.paper{scroll-margin-top:20px}.print-only{display:none}}@media screen and (max-width:600px){main.report{padding:8px 18px 40px}}
 @media print{.screen-only{display:none}}

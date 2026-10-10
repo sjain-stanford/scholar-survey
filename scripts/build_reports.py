@@ -37,22 +37,27 @@ def badges(paper, separator=''):
     return separator.join(f'<span class="badge">{escape(basis)}</span>' for basis in selection_bases(paper))
 
 
+FIRST_TABLE_PAGE_ROWS = 10
+
+
 def marked_article(paper):
     return f'Marked-Articles/{paper["marked_filename"]}'
 
 
 def article_table(numbers, papers, articles):
-    headings = ('<th>No.</th><th>Article / venue</th><th>Scholar</th><th>Selection basis</th>'
-                '<th>Marked article</th>')
+    headings = '<th>No.</th><th>Article / venue</th><th>Scholar</th><th>Selection basis</th>'
     rows = []
-    for number in numbers:
+    for index, number in enumerate(numbers):
         paper, article = papers[number], articles[number]
         cells = [f'{number:02}',
                  f'<a href="{escape(article["original_url"])}"><b>{escape(paper["title"])}</b></a>'
-                 f'<br><span class="small">{escape(paper["venue"])}</span>']
+                 f'<br><span class="small">{escape(paper["venue"])} <span class="nowrap">· '
+                 f'<a href="{escape(marked_article(paper))}">Marked PDF</a></span></span>']
         count = f'<a href="{escape(article["scholar_url"])}">{citation_count(paper)}</a>'
-        cells += [count, badges(paper, '<br>'), f'<a href="{escape(marked_article(paper))}">PDF</a>']
-        rows.append('<tr>' + ''.join(f'<td>{cell}</td>' for cell in cells) + '</tr>')
+        cells += [count, badges(paper, '<br>')]
+        # The first printed table page also carries the heading, so it takes fewer rows.
+        start = ' class="page-start"' if index == FIRST_TABLE_PAGE_ROWS else ''
+        rows.append(f'<tr{start}>' + ''.join(f'<td>{cell}</td>' for cell in cells) + '</tr>')
     table = ('<table class="articles"><thead><tr>' + headings
              + '</tr></thead><tbody>' + ''.join(rows) + '</tbody></table>')
     return scrollable_table(table, 'Selected citing articles')
@@ -68,7 +73,8 @@ def article_block(number, paper, article, title):
 <p>{escape(article['summary'])}</p>
 <p class="small"><b>Authorship link:</b> {escape(article['authorship_link'])} <a href="{target}">Bibliography p. {paper['bibliography_page']}</a>.</p>
 <p class="small"><b>Reviewed version:</b> {escape(paper['version'])}. <b>Pinpoint:</b> {escape(paper['locator'])}. Source {paper['source_evidence']}; marked copy {paper['marked_evidence']}.<br><b>Count:</b> {paper['count_evidence']}, <span class="mono">{escape(paper['count_pinpoint'])}</span>.{venue}</p>
-<p class="small"><a href="{escape(article['original_url'])}">Original article</a> · <a href="{escape(article['scholar_url'])}">Scholar cited-by list</a><br>Marked file: <a class="mono" href="{escape(marked_article(paper))}">{escape(paper['marked_filename'])}</a></p></div>'''
+<p class="small"><b>Marked file:</b> <a href="{escape(marked_article(paper))}">{escape(paper['marked_filename'])}</a></p>
+<p class="small"><a href="{escape(article['original_url'])}">Original article</a> · <a href="{escape(article['scholar_url'])}">Scholar cited-by list</a></p></div>'''
 
 
 def coverage_page(coverage, survey):
@@ -145,11 +151,11 @@ def build_reports():
               'Article numbers identify the corresponding marked files.']
         for group in collection['groups']:
             md.append(f'## {group["title"]}')
-            table = ['| No. | Article / venue | Scholar | Selection basis | Marked article |',
-                     '|---:|---|---:|---|---|']
+            table = ['| No. | Article / venue | Scholar | Selection basis |',
+                     '|---:|---|---:|---|']
             for n in group['articles']:
                 p, a = papers[n], articles[n]
-                table.append(f'| {n:02} | [{p["title"]}]({a["original_url"]})<br>{p["venue"]} | [{citation_count(p)}]({a["scholar_url"]}) | {"<br>".join(f"`{basis}`" for basis in selection_bases(p))} | [PDF]({marked_article(p)}) |')
+                table.append(f'| {n:02} | [{p["title"]}]({a["original_url"]})<br>{p["venue"]} · [Marked PDF]({marked_article(p)}) | [{citation_count(p)}]({a["scholar_url"]}) | {"<br>".join(f"`{basis}`" for basis in selection_bases(p))} |')
             md.append('\n'.join(table))
         for group in collection['groups']:
             md.append(f'## {group["title"]} — article discussions')
@@ -159,8 +165,8 @@ def build_reports():
                        f'**Documented contribution:** {a["evidence_type"]}', a['summary'],
                        f'**Authorship link:** {a["authorship_link"]} [Bibliography p. {p["bibliography_page"]}](Marked-Articles/{p["marked_filename"]}#page={p["bibliography_page"]}).',
                        f'**Reviewed version:** {p["version"]}. **Source:** {p["source_evidence"]}; {p["locator"]}. Count: {p["count_evidence"]}, {p["count_pinpoint"]}.',
-                       f'[Original article]({a["original_url"]}) · [Scholar cited-by list]({a["scholar_url"]})',
-                       f'Marked file: [{p["marked_filename"]}]({marked_article(p)})']
+                       f'**Marked file:** [{p["marked_filename"]}]({marked_article(p)})',
+                       f'[Original article]({a["original_url"]}) · [Scholar cited-by list]({a["scholar_url"]})']
         md += ['## International reach and source coverage',
                f'The wider survey maps {survey["mapped_works"]} citing works across {survey["countries_territories"]} countries/territories, with {survey["institution_locations"]} institution/location entries. The inventory retains {survey["deduplicated_works"]} works from {survey["scholar_records"]} archived Scholar records; the saved profile records {survey["profile_citations"]} citations.',
                'Publication affiliations establish geographic reach, including coauthor- and employer-linked works. [Coverage by publication](Coverage-by-Publication.csv) records retrieval and affiliation-review totals. Article-specific passages establish the documented scholarly contribution or connection.']
