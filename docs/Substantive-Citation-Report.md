@@ -154,7 +154,7 @@ EMNLP 2021 · 271 Google Scholar citations
 
 **Documented contribution:** Methodological adaptation
 
-Qualcomm researchers adapt the procedure of Esser et al. and Jain et al. to learn the ranges of both weights and activations in their quantization-aware training of BERT-like transformer models (p. 7), having noted that such ranges can be learned jointly with the weights during training "as in Esser et al. (2019); Jain et al. (2019)" (p. 3).
+Qualcomm researchers adapt the procedure of Jain et al. and Esser et al. to learn the ranges of both weights and activations in their quantization-aware training of BERT-like transformer models (p. 7), having noted that such ranges can be learned jointly with the weights during training "as in Esser et al. (2019); Jain et al. (2019)" (p. 3).
 
 **Authorship link:** Jain, Gural, Wu and Dick (2019), Trained uniform quantization for accurate and efficient neural network inference on fixed-point hardware. [Bibliography p. 11](Marked-Articles/07-Transformer-Quantization-MARKED.pdf#page=11).
 
@@ -172,11 +172,11 @@ IEEE Access 9 (2021), 104367–104381 · 54 Google Scholar citations
 
 **Documented contribution:** Method extension and implemented comparison
 
-Inha University and Sangmyung University researchers identify LSQ and TQT as "the current state-of-the-art quantization methods" (p. 6) and develop log level threshold quantization (LLTQ) from TQT's power-of-two scale mapping: LLTQ maps the trainable parameter directly to a power-of-two scale and replaces TQT's pre-calibration with first-batch statistics (pp. 3–4, 6). They illustrate and train LSQ, TQT and LLTQ (pp. 7, 10) and report TQT as hardware-friendly but about 0.45% below floating-point accuracy, a gap LLTQ closes (pp. 11–12).
+Inha University and Sangmyung University researchers identify TQT and LSQ as "the current state-of-the-art quantization methods" (p. 6) and develop log level threshold quantization (LLTQ) from TQT's power-of-two scale mapping: LLTQ maps the trainable parameter directly to a power-of-two scale and replaces TQT's pre-calibration with first-batch statistics (pp. 3–4, 6). They illustrate and train TQT, LSQ and LLTQ (pp. 7, 10) and report TQT as hardware-friendly but about 0.45% below floating-point accuracy, a gap LLTQ closes (pp. 11–12).
 
 **Authorship link:** Jain, Gural, Wu and Dick (2020), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks. [Bibliography p. 15](Marked-Articles/08-LLTQ-MARKED.pdf#page=15).
 
-**Reviewed version:** IEEE Access open-access publisher PDF. **Source:** E-1264; Physical PDF pp. 3–4, 6–7, 10–12: TQT in related work, LLTQ proposed to address the disadvantages of previous works including TQT and derived as an alternative to TQT's power-of-two scale mapping, Figure 3, the implemented LSQ/TQT/LLTQ comparison and its Table 1 TQT row; bibliography p. 15, reference [39]. Count: E-0393, data.organic_results[0].inline_links.cited_by.total.
+**Reviewed version:** IEEE Access open-access publisher PDF. **Source:** E-1264; Physical PDF pp. 3–4, 6–7, 10–12: TQT in related work, LLTQ proposed to address the disadvantages of previous works including TQT and derived as an alternative to TQT's power-of-two scale mapping, Figure 3, the implemented TQT/LSQ/LLTQ comparison and its Table 1 TQT row; bibliography p. 15, reference [39]. Count: E-0393, data.organic_results[0].inline_links.cited_by.total.
 
 **Marked file:** [08-LLTQ-MARKED.pdf](Marked-Articles/08-LLTQ-MARKED.pdf)
 
@@ -208,7 +208,7 @@ arXiv preprint, 2019 · 125 Google Scholar citations
 
 **Documented contribution:** Use in the baseline implementation
 
-Seoul National University and Qualcomm researchers state that LSQ [8] and TQT [17] "introduce uniform quantization using trainable interval values" and that "Our QKD leverages these trainable approaches in the baseline quantization implementation" (p. 2), introducing trainable interval parameters for each layer's weights and input activations similar to [8, 17, 45] (p. 3). They also cite TQT on the quantization sensitivity of depthwise convolutions (p. 7). Knowledge distillation is applied on top of this baseline, so the reported results reflect the combined method.
+Seoul National University and Qualcomm researchers state that TQT [17] and LSQ [8] "introduce uniform quantization using trainable interval values" and that "Our QKD leverages these trainable approaches in the baseline quantization implementation" (p. 2), introducing trainable interval parameters for each layer's weights and input activations similar to [8, 17, 45] (p. 3). They also cite TQT on the quantization sensitivity of depthwise convolutions (p. 7). Knowledge distillation is applied on top of this baseline, so the reported results reflect the combined method.
 
 **Authorship link:** Jain, Gural, Wu and Dick (2019), Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks. [Bibliography p. 9](Marked-Articles/10-QKD-MARKED.pdf#page=9).
 
@@ -244,7 +244,7 @@ NeurIPS 2020 · 207 Google Scholar citations
 
 **Documented contribution:** Credited independent introduction; experimental comparison
 
-Qualcomm AI Research authors credit reference [15], the TQT paper, together with LSQ [8], with having "independently introduced" the learning of the quantization scale along with the model parameters for a fixed-bitwidth network; both papers, they explain, expose the scale parameter to the learning process so that it is optimized jointly with the network's parameters (p. 6). Figure 2b compares Bayesian Bits on MobileNetV2 with AdaRound, LSQ and TQT (p. 8).
+Qualcomm AI Research authors credit reference [15], the TQT paper, together with LSQ [8], with having "independently introduced" the learning of the quantization scale along with the model parameters for a fixed-bitwidth network; both papers, they explain, expose the scale parameter to the learning process so that it is optimized jointly with the network's parameters (p. 6). Figure 2b compares Bayesian Bits on MobileNetV2 with TQT, AdaRound and LSQ (p. 8).
 
 **Authorship link:** Jain, Gural, Wu and Dick (2019), Trained uniform quantization for accurate and efficient neural network inference on fixed-point hardware. [Bibliography p. 10](Marked-Articles/12-Bayesian-Bits-MARKED.pdf#page=10).
 
@@ -334,7 +334,7 @@ ICML 2020 · 1,224 Google Scholar citations
 
 **Documented contribution:** Related-work attribution
 
-In the related-work discussion of AdaRound, Qualcomm researchers credit Esser et al. and Jain et al. with learning the quantization minimum and maximum ranges during training "so that they do not have to be set manually" (p. 5). AdaRound is a post-training rounding method and does not itself apply TQT; the entry rests on the article's venue and citation count.
+In the related-work discussion of AdaRound, Qualcomm researchers credit Jain et al. and Esser et al. with learning the quantization minimum and maximum ranges during training "so that they do not have to be set manually" (p. 5). AdaRound is a post-training rounding method and does not itself apply TQT; the entry rests on the article's venue and citation count.
 
 **Authorship link:** Jain, Gural, Wu and Dick (2019), Trained uniform quantization for accurate and efficient neural network inference on fixed-point hardware. [Bibliography p. 10](Marked-Articles/17-AdaRound-MARKED.pdf#page=10).
 
@@ -352,7 +352,7 @@ arXiv / Qualcomm white paper, 2021 · 1,362 Google Scholar citations
 
 **Documented contribution:** Technical exposition
 
-Qualcomm's white paper on neural network quantization credits Esser et al., Jain et al. and Bhalgat et al. with using the straight-through estimator to calculate the gradient with respect to the quantization parameters, and then develops the gradient derivation for the scale factor (p. 20). It also cites Jain et al. among works that start quantization-aware training from a pretrained FP32 model, which it calls "common practice in literature" (p. 22).
+Qualcomm's white paper on neural network quantization credits Jain et al., Esser et al. and Bhalgat et al. with using the straight-through estimator to calculate the gradient with respect to the quantization parameters, and then develops the gradient derivation for the scale factor (p. 20). It also cites Jain et al. among works that start quantization-aware training from a pretrained FP32 model, which it calls "common practice in literature" (p. 22).
 
 **Authorship link:** Jain, Gural, Wu and Dick (2019), Trained uniform quantization for accurate and efficient neural network inference on fixed-point hardware. [Bibliography p. 26](Marked-Articles/18-White-Paper-MARKED.pdf#page=26).
 
