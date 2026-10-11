@@ -1,0 +1,1846 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=University+of+Bologna",
+  "http_status": 200,
+  "query": "University of Bologna",
+  "data": {
+    "number_of_results": 35483,
+    "time_taken": 43,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-08-07",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "unibo.it"
+        ],
+        "established": 1088,
+        "external_ids": [
+          {
+            "all": [
+              "501100005969"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.6292.f"
+            ],
+            "preferred": "grid.6292.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1757 1758"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q131262"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01111rn36",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.unibo.it"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Bologna"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "45",
+              "country_subdivision_name": "Emilia-Romagna",
+              "lat": 44.49381,
+              "lng": 11.33875,
+              "name": "Bologna"
+            },
+            "geonames_id": 3181928
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "Alma Mater Studiorum - Università di Bologna"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UNIBO"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "label"
+            ],
+            "value": "Universitat de Bolonya"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Bologna"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "label"
+            ],
+            "value": "Università di Bologna"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Universität Bologna"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de Bologne"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "IRCCS Azienda Ospedliero-Universitaria di Bologna Policlinico di Sant'Orsola",
+            "type": "related",
+            "id": "https://ror.org/00t4vnv68"
+          },
+          {
+            "label": "Istituto Nazionale di Fisica Nucleare, Sezione di Bologna",
+            "type": "related",
+            "id": "https://ror.org/04j0x0h93"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-09-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 1763 0527"
+            ],
+            "preferred": "0000 0004 1763 0527",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/029w2re51",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.bo.ingv.it"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "45",
+              "country_subdivision_name": "Emilia-Romagna",
+              "lat": 44.49381,
+              "lng": 11.33875,
+              "name": "Bologna"
+            },
+            "geonames_id": 3181928
+          }
+        ],
+        "names": [
+          {
+            "lang": "it",
+            "types": [
+              "alias"
+            ],
+            "value": "INGV Bologna"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "INGV Sezione di Bologna"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "INGV-BO"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "alias"
+            ],
+            "value": "Istituto Nazionale di Geofisica e Vulcanologia Sezione di Bologna"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Institute of Geophysics and Volcanology, Bologna Section"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Istituto Nazionale di Geofisica e Vulcanologia",
+            "type": "parent",
+            "id": "https://ror.org/00qps9a02"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1962,
+        "external_ids": [
+          {
+            "all": [
+              "grid.431818.7"
+            ],
+            "preferred": "grid.431818.7",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/008j0pa45",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.aiasbo.it/english.html"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "45",
+              "country_subdivision_name": "Emilia-Romagna",
+              "lat": 44.49381,
+              "lng": 11.33875,
+              "name": "Bologna"
+            },
+            "geonames_id": 3181928
+          }
+        ],
+        "names": [
+          {
+            "lang": "it",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "AIAS Bologna"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.469991.a"
+            ],
+            "preferred": "grid.469991.a",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/046m94028",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.aiabologna.it/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "45",
+              "country_subdivision_name": "Emilia-Romagna",
+              "lat": 44.49381,
+              "lng": 11.33875,
+              "name": "Bologna"
+            },
+            "geonames_id": 3181928
+          }
+        ],
+        "names": [
+          {
+            "lang": "it",
+            "types": [
+              "alias"
+            ],
+            "value": "A.I.A. Bologna"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "AIA"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Associazione Italiana Arbitri"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "bo.infn.it"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.470193.8"
+            ],
+            "preferred": "grid.470193.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 8343 7610"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30265275"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04j0x0h93",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.bo.infn.it"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "45",
+              "country_subdivision_name": "Emilia-Romagna",
+              "lat": 44.49381,
+              "lng": 11.33875,
+              "name": "Bologna"
+            },
+            "geonames_id": 3181928
+          }
+        ],
+        "names": [
+          {
+            "lang": "it",
+            "types": [
+              "alias"
+            ],
+            "value": "INFN Bologna"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "INFN Bologna Division"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "alias"
+            ],
+            "value": "INFN Sezione di Bologna"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "acronym"
+            ],
+            "value": "INFN-BO"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Istituto Nazionale di Fisica Nucleare, Sezione di Bologna"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "National Institute for Nuclear Physics, Bologna Division"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Istituto Nazionale di Fisica Nucleare",
+            "type": "parent",
+            "id": "https://ror.org/005ta0471"
+          },
+          {
+            "label": "University of Bologna",
+            "type": "related",
+            "id": "https://ror.org/01111rn36"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1802,
+        "external_ids": [
+          {
+            "all": [
+              "grid.465830.c"
+            ],
+            "preferred": "grid.465830.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2156 2035"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/04rqr4m92",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ababo.it/ABA/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Accademia_di_Belle_Arti_di_Bologna"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "45",
+              "country_subdivision_name": "Emilia-Romagna",
+              "lat": 44.49381,
+              "lng": 11.33875,
+              "name": "Bologna"
+            },
+            "geonames_id": 3181928
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Academy of Fine Arts of Bologna"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Accademia di Belle Arti di Bologna"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1976,
+        "external_ids": [
+          {
+            "all": [
+              "grid.423824.b"
+            ],
+            "preferred": "grid.423824.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8706 2554"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/05s7a1377",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.cencerbo.it/en/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "45",
+              "country_subdivision_name": "Emilia-Romagna",
+              "lat": 44.49381,
+              "lng": 11.33875,
+              "name": "Bologna"
+            },
+            "geonames_id": 3181928
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CC"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Centro Ceramico Bologna"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1971,
+        "external_ids": [
+          {
+            "all": [
+              "grid.435399.1"
+            ],
+            "preferred": "grid.435399.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q30290010"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04ycg6942",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.interporto.it/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "45",
+              "country_subdivision_name": "Emilia-Romagna",
+              "lat": 44.49381,
+              "lng": 11.33875,
+              "name": "Bologna"
+            },
+            "geonames_id": 3181928
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Interporto Bologna (Italy)"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-07-06",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2018,
+        "external_ids": [],
+        "id": "https://ror.org/00gqsp710",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.oas.inaf.it"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "45",
+              "country_subdivision_name": "Emilia-Romagna",
+              "lat": 44.49381,
+              "lng": 11.33875,
+              "name": "Bologna"
+            },
+            "geonames_id": 3181928
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "INAF OAS"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "alias"
+            ],
+            "value": "INAF OAS Bologna"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Osservatorio di Astrofisica e Scienza dello Spazio"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "National Institute for Astrophysics",
+            "type": "parent",
+            "id": "https://ror.org/02gh4kt33"
+          },
+          {
+            "label": "Istituto di Astrofisica Spaziale e Fisica Cosmica di Bologna",
+            "type": "predecessor",
+            "id": "https://ror.org/000sy1f36"
+          },
+          {
+            "label": "Osservatorio astronomico di Bologna",
+            "type": "predecessor",
+            "id": "https://ror.org/002hc6y19"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.462607.1"
+            ],
+            "preferred": "grid.462607.1",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/03v4rcp75",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.bo.cnr.it/index-eng.html"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "45",
+              "country_subdivision_name": "Emilia-Romagna",
+              "lat": 44.49381,
+              "lng": 11.33875,
+              "name": "Bologna"
+            },
+            "geonames_id": 3181928
+          }
+        ],
+        "names": [
+          {
+            "lang": "it",
+            "types": [
+              "label"
+            ],
+            "value": "Area Territoriale di Ricerca del CNR di Bologna"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Bologna Research Area"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "National Research Council",
+            "type": "parent",
+            "id": "https://ror.org/04zaypm56"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.469400.f"
+            ],
+            "preferred": "grid.469400.f",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/02pnpa204",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.museibologna.it/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "45",
+              "country_subdivision_name": "Emilia-Romagna",
+              "lat": 44.49381,
+              "lng": 11.33875,
+              "name": "Bologna"
+            },
+            "geonames_id": 3181928
+          }
+        ],
+        "names": [
+          {
+            "lang": "it",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Istituzione Bologna Musei"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-02-17",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1962,
+        "external_ids": [
+          {
+            "all": [
+              "grid.502776.1"
+            ],
+            "preferred": "grid.502776.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8634 3901"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1092493"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0469msm38",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.cinetecadibologna.it/en"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Cineteca_di_Bologna"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "45",
+              "country_subdivision_name": "Emilia-Romagna",
+              "lat": 44.49381,
+              "lng": 11.33875,
+              "name": "Bologna"
+            },
+            "geonames_id": 3181928
+          }
+        ],
+        "names": [
+          {
+            "lang": "it",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Cineteca di Bologna"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1955,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449797.0"
+            ],
+            "preferred": "grid.449797.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q7743414"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02nckqd02",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.sais-jhu.edu/campus-life/europe#welcome"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/The_Johns_Hopkins_University_SAIS_Europe"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "45",
+              "country_subdivision_name": "Emilia-Romagna",
+              "lat": 44.49381,
+              "lng": 11.33875,
+              "name": "Bologna"
+            },
+            "geonames_id": 3181928
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Johns Hopkins University SAIS Bologna Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Johns Hopkins University SAIS Europe"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SAIS JHU"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Johns Hopkins University",
+            "type": "parent",
+            "id": "https://ror.org/00za53h95"
+          },
+          {
+            "label": "Johns Hopkins University School of Advanced International Studies",
+            "type": "parent",
+            "id": "https://ror.org/02wt5sv47"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2011,
+        "external_ids": [
+          {
+            "all": [
+              "grid.416290.8"
+            ],
+            "preferred": "grid.416290.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1759 7093"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30280823",
+              "Q3886608"
+            ],
+            "preferred": "Q30280823",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/010tmdc88",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ausl.bologna.it/ufficio-stampa/archivio-fotografico/strutture/ospedali/maggiore"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Ospedale_Maggiore_di_Bologna"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "45",
+              "country_subdivision_name": "Emilia-Romagna",
+              "lat": 44.49381,
+              "lng": 11.33875,
+              "name": "Bologna"
+            },
+            "geonames_id": 3181928
+          }
+        ],
+        "names": [
+          {
+            "lang": "it",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Ospedale Maggiore Carlo Alberto Pizzardi"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "alias"
+            ],
+            "value": "Ospedale Maggiore di Bologna"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Azienda USL di Bologna",
+            "type": "parent",
+            "id": "https://ror.org/02mby1820"
+          },
+          {
+            "label": "Istituti di Ricovero e Cura a Carattere Scientifico",
+            "type": "parent",
+            "id": "https://ror.org/04tfzc498"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2022-06-16",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1958,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 1757 4529"
+            ],
+            "preferred": "0000 0004 1757 4529",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q54856965"
+            ],
+            "preferred": "Q54856965",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0496k0e74",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.bologna.enea.it"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "45",
+              "country_subdivision_name": "Emilia-Romagna",
+              "lat": 44.49381,
+              "lng": 11.33875,
+              "name": "Bologna"
+            },
+            "geonames_id": 3181928
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "ENEA Bologna Research Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "ENEA Bologna Research Centre"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "label"
+            ],
+            "value": "ENEA Centro Ricerche Bologna"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "National Agency for New Technologies, Energy and Sustainable Economic Development",
+            "type": "parent",
+            "id": "https://ror.org/02an8es95"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-04-06",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2014,
+        "external_ids": [
+          {
+            "all": [
+              "grid.509961.2"
+            ],
+            "preferred": "grid.509961.2",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/01c8p7c25",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.aspbologna.it/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "45",
+              "country_subdivision_name": "Emilia-Romagna",
+              "lat": 44.49381,
+              "lng": 11.33875,
+              "name": "Bologna"
+            },
+            "geonames_id": 3181928
+          }
+        ],
+        "names": [
+          {
+            "lang": "it",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "ASP Città di Bologna"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ausl.bologna.it"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.414090.8"
+            ],
+            "preferred": "grid.414090.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1763 4974"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/02mby1820",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ausl.bologna.it/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "45",
+              "country_subdivision_name": "Emilia-Romagna",
+              "lat": 44.49381,
+              "lng": 11.33875,
+              "name": "Bologna"
+            },
+            "geonames_id": 3181928
+          }
+        ],
+        "names": [
+          {
+            "lang": "it",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Azienda USL di Bologna"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Istituto delle Scienze Neurologiche di Bologna",
+            "type": "child",
+            "id": "https://ror.org/02mgzgr95"
+          },
+          {
+            "label": "Ospedale Bellaria",
+            "type": "child",
+            "id": "https://ror.org/05fz2yc38"
+          },
+          {
+            "label": "Ospedale Maggiore Carlo Alberto Pizzardi",
+            "type": "child",
+            "id": "https://ror.org/010tmdc88"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1975,
+        "external_ids": [
+          {
+            "all": [
+              "grid.423890.4"
+            ],
+            "preferred": "grid.423890.4",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/02s6bef14",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.atc.bo.it/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "45",
+              "country_subdivision_name": "Emilia-Romagna",
+              "lat": 44.49381,
+              "lng": 11.33875,
+              "name": "Bologna"
+            },
+            "geonames_id": 3181928
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ATC"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Azienda Trasporti Consorziali di Bologna"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.437049.d"
+            ],
+            "preferred": "grid.437049.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1787 4142"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/029st3z03",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ira.inaf.it/Home-ita.html"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "45",
+              "country_subdivision_name": "Emilia-Romagna",
+              "lat": 44.49381,
+              "lng": 11.33875,
+              "name": "Bologna"
+            },
+            "geonames_id": 3181928
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "INAF-IRA"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IRA"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Istituto di Radioastronomia di Bologna"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "National Institute for Astrophysics",
+            "type": "parent",
+            "id": "https://ror.org/02gh4kt33"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1837,
+        "external_ids": [
+          {
+            "all": [
+              "100007385"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.420084.a"
+            ],
+            "preferred": "grid.420084.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 1507 7770"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3661937"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0404v4f94",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.carisbo.it/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Cassa_di_Risparmio_in_Bologna"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "45",
+              "country_subdivision_name": "Emilia-Romagna",
+              "lat": 44.49381,
+              "lng": 11.33875,
+              "name": "Bologna"
+            },
+            "geonames_id": 3181928
+          }
+        ],
+        "names": [
+          {
+            "lang": "it",
+            "types": [
+              "alias"
+            ],
+            "value": "Carisbo"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Cassa di Risparmio in Bologna"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "other"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 17808
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 9008
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 4727
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 3946
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 3554
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2258
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2033
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 772
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 410
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 6010
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 4070
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2348
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2061
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1577
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 942
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 866
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 836
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 799
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 764
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 15033
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 9650
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 7267
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1991
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 949
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 594
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 35483
+        }
+      ]
+    }
+  }
+}

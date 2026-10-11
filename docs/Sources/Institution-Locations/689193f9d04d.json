@@ -1,0 +1,2152 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Universit%C3%A0+della+Svizzera+italiana",
+  "http_status": 200,
+  "query": "Università della Svizzera italiana",
+  "data": {
+    "number_of_results": 334,
+    "time_taken": 8,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "usi.ch"
+        ],
+        "established": 1996,
+        "external_ids": [
+          {
+            "all": [
+              "100030993"
+            ],
+            "preferred": "100030993",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.29078.34"
+            ],
+            "preferred": "grid.29078.34",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2203 2861"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q689617",
+              "Q27484979"
+            ],
+            "preferred": "Q689617",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03c4atk17",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.usi.ch/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Universit%C3%A0_della_Svizzera_italiana"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "CH",
+              "country_name": "Switzerland",
+              "country_subdivision_code": "TI",
+              "country_subdivision_name": "Ticino",
+              "lat": 46.01008,
+              "lng": 8.96004,
+              "name": "Lugano"
+            },
+            "geonames_id": 2659836
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "USI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Italian Switzerland"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Lugano"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Southern Switzerland"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Università della Svizzera italiana"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "Université de la Suisse italienne"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Institute of Oncology Research",
+            "type": "child",
+            "id": "https://ror.org/01dpyn972"
+          },
+          {
+            "label": "Institute for Research in Biomedicine",
+            "type": "child",
+            "id": "https://ror.org/05gfswd81"
+          },
+          {
+            "label": "Dalle Molle Institute for Artificial Intelligence Research",
+            "type": "child",
+            "id": "https://ror.org/013355g38"
+          },
+          {
+            "label": "Facoltà di Teologia di Lugano",
+            "type": "child",
+            "id": "https://ror.org/02k3baz05"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-10-29",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/0410gdv63",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.eoc.ch/ospedali-e-istituti/istituto-imaging-della-svizzera-italiana.html"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "CH",
+              "country_name": "Switzerland",
+              "country_subdivision_code": "TI",
+              "country_subdivision_name": "Ticino",
+              "lat": 46.19278,
+              "lng": 9.01703,
+              "name": "Bellinzona"
+            },
+            "geonames_id": 2661567
+          }
+        ],
+        "names": [
+          {
+            "lang": "it",
+            "types": [
+              "acronym"
+            ],
+            "value": "IIMSI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Imaging Institute of Southern Switzerland"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Istituto Imaging della Svizzera Italiana"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Ente Ospedaliero Cantonale",
+            "type": "parent",
+            "id": "https://ror.org/00sh19a92"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-10-29",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/04fnna213",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.eoc.ch/ospedali-e-istituti/istituto-pediatrico-della-svizzera-italiana.html"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "CH",
+              "country_name": "Switzerland",
+              "country_subdivision_code": "TI",
+              "country_subdivision_name": "Ticino",
+              "lat": 45.87019,
+              "lng": 8.9816,
+              "name": "Mendrisio"
+            },
+            "geonames_id": 2659689
+          },
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "CH",
+              "country_name": "Switzerland",
+              "country_subdivision_code": "TI",
+              "country_subdivision_name": "Ticino",
+              "lat": 46.01008,
+              "lng": 8.96004,
+              "name": "Lugano"
+            },
+            "geonames_id": 2659836
+          },
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "CH",
+              "country_name": "Switzerland",
+              "country_subdivision_code": "TI",
+              "country_subdivision_name": "Ticino",
+              "lat": 46.17086,
+              "lng": 8.79953,
+              "name": "Locarno"
+            },
+            "geonames_id": 2659869
+          },
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "CH",
+              "country_name": "Switzerland",
+              "country_subdivision_code": "TI",
+              "country_subdivision_name": "Ticino",
+              "lat": 46.19278,
+              "lng": 9.01703,
+              "name": "Bellinzona"
+            },
+            "geonames_id": 2661567
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IPSI"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Istituto Pediatrico della Svizzera Italiana"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Pediatric Institute of Southern Switzerland"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Ente Ospedaliero Cantonale",
+            "type": "parent",
+            "id": "https://ror.org/00sh19a92"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-11-18",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 0509 2987"
+            ],
+            "preferred": "0000 0004 0509 2987",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30280648"
+            ],
+            "preferred": "Q30280648",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04tty5b50",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.eoc.ch/ospedali-e-istituti/istituto-oncologico-della-svizzera-italiana.html"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "CH",
+              "country_name": "Switzerland",
+              "country_subdivision_code": "TI",
+              "country_subdivision_name": "Ticino",
+              "lat": 46.19278,
+              "lng": 9.01703,
+              "name": "Bellinzona"
+            },
+            "geonames_id": 2661567
+          }
+        ],
+        "names": [
+          {
+            "lang": "it",
+            "types": [
+              "acronym"
+            ],
+            "value": "IOSI"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Istituto Oncologico della Svizzera Italiana"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Oncology Institute of Southern Switzerland"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Ente Ospedaliero Cantonale",
+            "type": "parent",
+            "id": "https://ror.org/00sh19a92"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-02-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "supsi.ch"
+        ],
+        "established": 1997,
+        "external_ids": [
+          {
+            "all": [
+              "grid.16058.3a"
+            ],
+            "preferred": "grid.16058.3a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2325 2233"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q663984"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05ep8g269",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.supsi.ch"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/SUPSI"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "CH",
+              "country_name": "Switzerland",
+              "country_subdivision_code": "TI",
+              "country_subdivision_name": "Ticino",
+              "lat": 46.02885,
+              "lng": 8.91824,
+              "name": "Manno"
+            },
+            "geonames_id": 2659769
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SUPSI"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "label"
+            ],
+            "value": "Scuola Universitaria Professionale della Svizzera Italiana"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Applied Sciences and Arts of Southern Switzerland"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Dalle Molle Institute for Artificial Intelligence Research",
+            "type": "child",
+            "id": "https://ror.org/013355g38"
+          },
+          {
+            "label": "Swiss Distance University of Applied Sciences",
+            "type": "related",
+            "id": "https://ror.org/01t75ff47"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "unical.it"
+        ],
+        "established": 1972,
+        "external_ids": [
+          {
+            "all": [
+              "501100007069"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.7778.f"
+            ],
+            "preferred": "grid.7778.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1937 0319"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1752540"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02rc97e94",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.unical.it"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Calabria"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "78",
+              "country_subdivision_name": "Calabria",
+              "lat": 39.33154,
+              "lng": 16.18041,
+              "name": "Rende"
+            },
+            "geonames_id": 2523623
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UNICAL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Calabria"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "label"
+            ],
+            "value": "Università della Calabria"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Universität Kalabrien"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de la calabre"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Istituto Nazionale di Fisica Nucleare, Gruppo Collegato di Cosenza",
+            "type": "related",
+            "id": "https://ror.org/039epzh36"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "univda.it"
+        ],
+        "established": 2000,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449020.b"
+            ],
+            "preferred": "grid.449020.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1792 5560"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2319621"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03126ng80",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.univda.it/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Aosta_Valley_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "23",
+              "country_subdivision_name": "Aosta Valley",
+              "lat": 45.73764,
+              "lng": 7.31722,
+              "name": "Aosta"
+            },
+            "geonames_id": 3182997
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UNIVDA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Aosta Valley"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "label"
+            ],
+            "value": "Università della Valle d'Aosta"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de la vallée d'aoste"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "NODES S.c.a.r.l",
+            "type": "related",
+            "id": "https://ror.org/04hp1ky92"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1984,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449321.9"
+            ],
+            "preferred": "grid.449321.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2109 7639"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q548435"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02g30pd64",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://en.pusc.it/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Pontifical_University_of_the_Holy_Cross"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "62",
+              "country_subdivision_name": "Lazio",
+              "lat": 41.89193,
+              "lng": 12.51133,
+              "name": "Rome"
+            },
+            "geonames_id": 3169070
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Pontifical University of the Holy Cross"
+          },
+          {
+            "lang": "la",
+            "types": [
+              "alias"
+            ],
+            "value": "Pontificia Universitas Sanctae Crucis"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "label"
+            ],
+            "value": "Pontificia Università della Santa Croce"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Päpstliche Universität vom Heiligen Kreuz"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "label"
+            ],
+            "value": "Universitat Pontifícia de la Santa Creu"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université pontificale de la sainte-croix"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "unibas.it"
+        ],
+        "established": 1982,
+        "external_ids": [
+          {
+            "all": [
+              "501100012698"
+            ],
+            "preferred": "501100012698",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.7367.5"
+            ],
+            "preferred": "grid.7367.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 1939 1302"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1084383"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03tc05689",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://portale.unibas.it/site/home.html"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Basilicata"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "77",
+              "country_subdivision_name": "Basilicate",
+              "lat": 40.64175,
+              "lng": 15.80794,
+              "name": "Potenza"
+            },
+            "geonames_id": 3170027
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Basilicata"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "label"
+            ],
+            "value": "Università degli Studi della Basilicata"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de la basilicate"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-05-05",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "unitus.it"
+        ],
+        "established": 1979,
+        "external_ids": [
+          {
+            "all": [
+              "100016110",
+              "100019237"
+            ],
+            "preferred": "100016110",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.12597.38"
+            ],
+            "preferred": "grid.12597.38",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2298 9743"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1780458"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03svwq685",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.unitus.it"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Tuscia_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "62",
+              "country_subdivision_name": "Lazio",
+              "lat": 42.41937,
+              "lng": 12.1056,
+              "name": "Viterbo"
+            },
+            "geonames_id": 3164039
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Tuscia University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UNITUS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Tuscia"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Università degli Studi della Tuscia"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "unicampania.it",
+          "unina2.it"
+        ],
+        "established": 1991,
+        "external_ids": [
+          {
+            "all": [
+              "501100004296",
+              "501100009448"
+            ],
+            "preferred": "501100009448",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.9841.4"
+            ],
+            "preferred": "grid.9841.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2200 8888"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3551649"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02kqnpp86",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.unicampania.it"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Seconda_Universit%C3%A0_degli_Studi_di_Napoli"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "72",
+              "country_subdivision_name": "Campania",
+              "lat": 41.07262,
+              "lng": 14.33231,
+              "name": "Caserta"
+            },
+            "geonames_id": 3179866
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Second University of Naples"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "alias"
+            ],
+            "value": "UniCampania"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Campania \"Luigi Vanvitelli\""
+          },
+          {
+            "lang": "it",
+            "types": [
+              "label"
+            ],
+            "value": "Università degli Studi della Campania \"Luigi Vanvitelli\""
+          },
+          {
+            "lang": "it",
+            "types": [
+              "alias"
+            ],
+            "value": "Università della Campania Luigi Vanvitelli"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Centro Interuniversitario di Ricerca sui Peptidi Bioattivi",
+            "type": "child",
+            "id": "https://ror.org/055cpj147"
+          },
+          {
+            "label": "Azienda Ospedaliera Universitaria Università degli Studi della Campania Luigi Vanvitelli",
+            "type": "related",
+            "id": "https://ror.org/02p9ey581"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1928,
+        "external_ids": [
+          {
+            "all": [
+              "grid.483265.e"
+            ],
+            "preferred": "grid.483265.e",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/00q2tna33",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.cri.it/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "62",
+              "country_subdivision_name": "Lazio",
+              "lat": 41.89193,
+              "lng": 12.51133,
+              "name": "Rome"
+            },
+            "geonames_id": 3169070
+          }
+        ],
+        "names": [
+          {
+            "lang": "it",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Associazione della Croce Rossa Italiana"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CRI"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1985,
+        "external_ids": [
+          {
+            "all": [
+              "grid.445136.1"
+            ],
+            "preferred": "grid.445136.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2202 575X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q796723"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02c8cxz64",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.unirsm.sm"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_the_Republic_of_San_Marino"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "SM",
+              "country_name": "San Marino",
+              "country_subdivision_code": "07",
+              "country_subdivision_name": "San Marino",
+              "lat": 43.93667,
+              "lng": 12.44639,
+              "name": "City of San Marino"
+            },
+            "geonames_id": 3168070
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UNIRSM"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of the Republic of San Marino"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "label"
+            ],
+            "value": "Università degli Studi della Repubblica di San Marino"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.476129.f"
+            ],
+            "preferred": "grid.476129.f",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/02p9ey581",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.policliniconapoli.it/Home"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "72",
+              "country_subdivision_name": "Campania",
+              "lat": 40.85216,
+              "lng": 14.26811,
+              "name": "Naples"
+            },
+            "geonames_id": 3172394
+          }
+        ],
+        "names": [
+          {
+            "lang": "it",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Azienda Ospedaliera Universitaria Università degli Studi della Campania Luigi Vanvitelli"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Campania \"Luigi Vanvitelli\"",
+            "type": "related",
+            "id": "https://ror.org/02kqnpp86"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1947,
+        "external_ids": [
+          {
+            "all": [
+              "grid.433214.3"
+            ],
+            "preferred": "grid.433214.3",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/03s0stn41",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.confapi.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "62",
+              "country_subdivision_name": "Lazio",
+              "lat": 41.89193,
+              "lng": 12.51133,
+              "name": "Rome"
+            },
+            "geonames_id": 3169070
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CONFAPI"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Confederazione Italiana della Piccola e Media Industria"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "hunimed.eu"
+        ],
+        "established": 2014,
+        "external_ids": [
+          {
+            "all": [
+              "501100009431"
+            ],
+            "preferred": "501100009431",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.452490.e"
+            ],
+            "preferred": "grid.452490.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 4908 9368"
+            ],
+            "preferred": "0000 0004 4908 9368",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q59386762"
+            ],
+            "preferred": "Q59386762",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/020dggs04",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.hunimed.eu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Humanitas_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "25",
+              "country_subdivision_name": "Lombardy",
+              "lat": 45.38193,
+              "lng": 9.1559,
+              "name": "Rozzano"
+            },
+            "geonames_id": 3168837
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Humanitas University"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "alias"
+            ],
+            "value": "Università Humanitas"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "IRCCS Humanitas Research Hospital",
+            "type": "related",
+            "id": "https://ror.org/05d538656"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-01-29",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "iuline.it"
+        ],
+        "established": 2005,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449873.5"
+            ],
+            "preferred": "grid.449873.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q4005945"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02wgnr390",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.iuline.it"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Universit%C3%A0_%22Italian_University_Line%22"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "52",
+              "country_subdivision_name": "Tuscany",
+              "lat": 43.77925,
+              "lng": 11.24626,
+              "name": "Florence"
+            },
+            "geonames_id": 3176959
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IUL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Italian University Line"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "label"
+            ],
+            "value": "Università telematica"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-05-19",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-05-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "unmabro.it"
+        ],
+        "established": 1995,
+        "external_ids": [],
+        "id": "https://ror.org/023deh932",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.unambro.it/html/index.html"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "25",
+              "country_subdivision_name": "Lombardy",
+              "lat": 45.46416,
+              "lng": 9.19199,
+              "name": "Milan"
+            },
+            "geonames_id": 6542283
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Ambrosiana University"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "alias"
+            ],
+            "value": "Unambro"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University Ambrosiana"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Università Ambrosiana"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "lumsa.it"
+        ],
+        "established": 1939,
+        "external_ids": [
+          {
+            "all": [
+              "100015971"
+            ],
+            "preferred": "100015971",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.440892.3"
+            ],
+            "preferred": "grid.440892.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 1956 0575"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1454044"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02d8v0v24",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://lumsa.it"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Libera_Universit%C3%A0_Maria_SS._Assunta"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "62",
+              "country_subdivision_name": "Lazio",
+              "lat": 41.89193,
+              "lng": 12.51133,
+              "name": "Rome"
+            },
+            "geonames_id": 3169070
+          }
+        ],
+        "names": [
+          {
+            "lang": "it",
+            "types": [
+              "alias"
+            ],
+            "value": "Istituto Superiore di Magistero Maria Ss. Assunta"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "LUMSA"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Libera Università Maria SS. Assunta"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "label"
+            ],
+            "value": "Libera Università Maria Santissima Assunta"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Maria SS. Assunta University of Rome"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "alias"
+            ],
+            "value": "Università LUMSA"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1907,
+        "external_ids": [
+          {
+            "all": [
+              "grid.483020.d"
+            ],
+            "preferred": "grid.483020.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8516 7993"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/04f6f3e35",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.archaeologie-schweiz.ch/CHI-SIAMO.5.0.html?&L=4"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "CH",
+              "country_name": "Switzerland",
+              "country_subdivision_code": "BS",
+              "country_subdivision_name": "Basel-City",
+              "lat": 47.55839,
+              "lng": 7.57327,
+              "name": "Basel"
+            },
+            "geonames_id": 2661604
+          }
+        ],
+        "names": [
+          {
+            "lang": "it",
+            "types": [
+              "label"
+            ],
+            "value": "Archeologia Svizzera"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Archäologie Schweiz"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Archéologie Suisse"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SGUF"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "Schweizerische Gesellschaft für Ur- und Frühgeschichte"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Swiss Archaeology"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 149
+        },
+        {
+          "id": "education",
+          "title": "education",
+          "count": 119
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 61
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 48
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 34
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 23
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 22
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 15
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 8
+        }
+      ],
+      "countries": [
+        {
+          "id": "it",
+          "title": "Italy",
+          "count": 270
+        },
+        {
+          "id": "ch",
+          "title": "Switzerland",
+          "count": 46
+        },
+        {
+          "id": "ar",
+          "title": "Argentina",
+          "count": 4
+        },
+        {
+          "id": "sm",
+          "title": "San Marino",
+          "count": 2
+        },
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 2
+        },
+        {
+          "id": "al",
+          "title": "Albania",
+          "count": 1
+        },
+        {
+          "id": "br",
+          "title": "Brazil",
+          "count": 1
+        },
+        {
+          "id": "ca",
+          "title": "Canada",
+          "count": 1
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 1
+        },
+        {
+          "id": "gr",
+          "title": "Greece",
+          "count": 1
+        }
+      ],
+      "continents": [
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 323
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 5
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 3
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 2
+        },
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 1
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 334
+        }
+      ]
+    }
+  }
+}

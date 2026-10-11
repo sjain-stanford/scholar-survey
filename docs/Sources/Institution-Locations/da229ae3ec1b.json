@@ -1,0 +1,1994 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=University+of+W%C3%BCrzburg",
+  "http_status": 200,
+  "query": "University of Würzburg",
+  "data": {
+    "number_of_results": 35468,
+    "time_taken": 74,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uni-wuerzburg.de"
+        ],
+        "established": 1402,
+        "external_ids": [
+          {
+            "all": [
+              "501100008769",
+              "501100009379",
+              "501100020613"
+            ],
+            "preferred": "501100008769",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.8379.5"
+            ],
+            "preferred": "grid.8379.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 1958 8658"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q161976"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00fbnyb24",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uni-wuerzburg.de/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_W%C3%BCrzburg"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BY",
+              "country_subdivision_name": "Bavaria",
+              "lat": 49.79391,
+              "lng": 9.95121,
+              "name": "Würzburg"
+            },
+            "geonames_id": 2805615
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Julius Maximilian University of Würzburg"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Julius-Maximilians-Universität Würzburg"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Würzburg"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Wurzburg University"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Bavarian Polymer Institute",
+            "type": "child",
+            "id": "https://ror.org/054zwas39"
+          },
+          {
+            "label": "Complexity, Topology and Dynamics in Quantum Matter",
+            "type": "child",
+            "id": "https://ror.org/00kkpv737"
+          },
+          {
+            "label": "Comprehensive Cancer Center Mainfranken",
+            "type": "child",
+            "id": "https://ror.org/013tmk464"
+          },
+          {
+            "label": "Klinikum Coburg",
+            "type": "related",
+            "id": "https://ror.org/02d1rkr63"
+          },
+          {
+            "label": "Universitätsklinikum Würzburg",
+            "type": "related",
+            "id": "https://ror.org/03pvr2g57"
+          },
+          {
+            "label": "MAGIC Telescopes",
+            "type": "related",
+            "id": "https://ror.org/02w0r2764"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1797,
+        "external_ids": [
+          {
+            "all": [
+              "grid.466199.5"
+            ],
+            "preferred": "grid.466199.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8702 2448"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q260107"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05m1pqv80",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.hfm-wuerzburg.de/en/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Hochschule_f%C3%BCr_Musik_W%C3%BCrzburg"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BY",
+              "country_subdivision_name": "Bavaria",
+              "lat": 49.79391,
+              "lng": 9.95121,
+              "name": "Würzburg"
+            },
+            "geonames_id": 2805615
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Academic College of Music"
+          },
+          {
+            "lang": "la",
+            "types": [
+              "alias"
+            ],
+            "value": "Collegium Musicum Academicum"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Hochschule für Musik Würzburg"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Music Würzburg"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-03-26",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ukw.de"
+        ],
+        "established": 1402,
+        "external_ids": [
+          {
+            "all": [
+              "grid.411760.5"
+            ],
+            "preferred": "grid.411760.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 1378 7891"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1784848"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03pvr2g57",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ukw.de"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BY",
+              "country_subdivision_name": "Bavaria",
+              "lat": 49.79391,
+              "lng": 9.95121,
+              "name": "Würzburg"
+            },
+            "geonames_id": 2805615
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UKW"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "Universitaetsklinikum Wuerzburg - Klinikum Der Bayerischen Julius-Maximilians-Universitat"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Hospital Würzburg"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Hospital of Wuerzburg"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universitätsklinikum Würzburg"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Augenklinik Universitätsklinikum Würzburg",
+            "type": "child",
+            "id": "https://ror.org/00rwpbm87"
+          },
+          {
+            "label": "Comprehensive Cancer Center Mainfranken",
+            "type": "child",
+            "id": "https://ror.org/013tmk464"
+          },
+          {
+            "label": "Universitäts-Kinderklinik Würzburg",
+            "type": "child",
+            "id": "https://ror.org/000ph9k36"
+          },
+          {
+            "label": "University of Würzburg",
+            "type": "related",
+            "id": "https://ror.org/00fbnyb24"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1807,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449775.c"
+            ],
+            "preferred": "grid.449775.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9174 6502"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1622239"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01k5h5v15",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.thws.de"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Applied_Sciences_W%C3%BCrzburg-Schweinfurt"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BY",
+              "country_subdivision_name": "Bavaria",
+              "lat": 49.79391,
+              "lng": 9.95121,
+              "name": "Würzburg"
+            },
+            "geonames_id": 2805615
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "FHWS"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "Fachhochschule Würzburg-Schweinfurt"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "Hochschule für Angewandte Wissenschaften Würzburg-Schweinfurt"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "THWS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Technical University of Applied Sciences Würzburg-Schweinfurt"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Technische Hochschule Würzburg-Schweinfurt"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Applied Sciences Würzburg-Schweinfurt"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1922,
+        "external_ids": [
+          {
+            "all": [
+              "grid.489062.1"
+            ],
+            "preferred": "grid.489062.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9396 5127"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q50035484"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02d893y24",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://english.medmissio.de/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BY",
+              "country_subdivision_name": "Bavaria",
+              "lat": 49.79391,
+              "lng": 9.95121,
+              "name": "Würzburg"
+            },
+            "geonames_id": 2805615
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Medical Mission Institute"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Missionsärztliches Institut Würzburg"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2017,
+        "external_ids": [
+          {
+            "all": [
+              "grid.492072.a"
+            ],
+            "preferred": "grid.492072.a",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/04cm8jr24",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.kwm-klinikum.de/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BY",
+              "country_subdivision_name": "Bavaria",
+              "lat": 49.79391,
+              "lng": 9.95121,
+              "name": "Würzburg"
+            },
+            "geonames_id": 2805615
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KWM"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Klinikum Würzburg Mitte"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1840,
+        "external_ids": [
+          {
+            "all": [
+              "grid.488568.f"
+            ],
+            "preferred": "grid.488568.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0490 6520"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q43896576"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/000ph9k36",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ukw.de/kinderklinik/schwerpunkte/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BY",
+              "country_subdivision_name": "Bavaria",
+              "lat": 49.79391,
+              "lng": 9.95121,
+              "name": "Würzburg"
+            },
+            "geonames_id": 2805615
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UKW"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universitäts-Kinderklinik Würzburg"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Universitätsklinikum Würzburg",
+            "type": "parent",
+            "id": "https://ror.org/03pvr2g57"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.488580.9"
+            ],
+            "preferred": "grid.488580.9",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/00rwpbm87",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ukw.de/augenklinik/startseite/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BY",
+              "country_subdivision_name": "Bavaria",
+              "lat": 49.79391,
+              "lng": 9.95121,
+              "name": "Würzburg"
+            },
+            "geonames_id": 2805615
+          }
+        ],
+        "names": [
+          {
+            "lang": "de",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Augenklinik Universitätsklinikum Würzburg"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Universitätsklinikum Würzburg",
+            "type": "parent",
+            "id": "https://ror.org/03pvr2g57"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1998,
+        "external_ids": [
+          {
+            "all": [
+              "grid.489346.4"
+            ],
+            "preferred": "grid.489346.4",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/01abhxy31",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://wivw.de/en/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BY",
+              "country_subdivision_name": "Bavaria",
+              "lat": 49.83278,
+              "lng": 9.88167,
+              "name": "Veitshöchheim"
+            },
+            "geonames_id": 2817733
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "WIVW"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Würzburg Institute for Traffic Sciences (Germany)"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Würzburger Institut für Verkehrswissenschaften"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uvic-ucc.cat"
+        ],
+        "established": 1599,
+        "external_ids": [
+          {
+            "all": [
+              "grid.440820.a"
+            ],
+            "preferred": "grid.440820.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q935460"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/006zjws59",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://uvic-ucc.cat/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Vic_-_Central_University_of_Catalonia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "CT",
+              "country_subdivision_name": "Catalonia",
+              "lat": 41.93012,
+              "lng": 2.25486,
+              "name": "Vic"
+            },
+            "geonames_id": 3106050
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UVic-UCC"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "Universidad de Vic"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de Vic - Universidad Central de Catalunya"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "Universitat de Vic"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universitat de Vic - Universitat Central de Catalunya"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Vic"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Vic - Central University of Catalonia"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-02-17",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1957,
+        "external_ids": [
+          {
+            "all": [
+              "grid.501720.1"
+            ],
+            "preferred": "grid.501720.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q10829127"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04bm3wy68",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.dhsphue.edu.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": "26",
+              "country_subdivision_name": "Thừa Thiên Huế Province",
+              "lat": 16.4619,
+              "lng": 107.59546,
+              "name": "Huế"
+            },
+            "geonames_id": 1580240
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Hue University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Hue University of Education"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Hue University's College of Education"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label"
+            ],
+            "value": "Trường Đại học Sư phạm Huế"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Education, Hue University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-22",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "husc.edu.vn"
+        ],
+        "established": 1957,
+        "external_ids": [],
+        "id": "https://ror.org/00qpm2f14",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://husc.edu.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Thừa Thiên Huế Province",
+              "lat": 16.4619,
+              "lng": 107.59546,
+              "name": "Huế"
+            },
+            "geonames_id": 1580240
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "HUSC"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Trường Đại học Khoa học, Đại học Huế"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Sciences, Hue University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-22",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "hce.edu.vn"
+        ],
+        "established": 2002,
+        "external_ids": [],
+        "id": "https://ror.org/03x812s82",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://hce.edu.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Thừa Thiên Huế Province",
+              "lat": 16.4619,
+              "lng": 107.59546,
+              "name": "Huế"
+            },
+            "geonames_id": 1580240
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "HUE"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Trường Đại học Kinh tế, Đại học Huế"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Economics, Hue University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1964,
+        "external_ids": [
+          {
+            "all": [
+              "grid.7749.d"
+            ],
+            "preferred": "grid.7749.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0723 7738"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q719925"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/003vfy751",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ub.edu.bi/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Burundi"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "BI",
+              "country_name": "Burundi",
+              "country_subdivision_code": "BM",
+              "country_subdivision_name": "Bujumbura Mairie",
+              "lat": -3.38193,
+              "lng": 29.36142,
+              "name": "Bujumbura"
+            },
+            "geonames_id": 425378
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Burundi"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Université du Burundi"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1982,
+        "external_ids": [
+          {
+            "all": [
+              "grid.12104.36"
+            ],
+            "preferred": "grid.12104.36",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2289 8200"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1570483"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05nv2rz39",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.uniswa.sz/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Swaziland"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "SZ",
+              "country_name": "Eswatini",
+              "country_subdivision_code": "MA",
+              "country_subdivision_name": "Manzini Region",
+              "lat": -26.47675,
+              "lng": 31.33274,
+              "name": "Kwaluseni"
+            },
+            "geonames_id": 935054
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UNISWA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Eswatini"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Swaziland"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1963,
+        "external_ids": [
+          {
+            "all": [
+              "grid.430821.c"
+            ],
+            "preferred": "grid.430821.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2286 2160"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1502975"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05d8pm274",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uog.edu.gy/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Guyana"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "GY",
+              "country_name": "Guyana",
+              "country_subdivision_code": "DE",
+              "country_subdivision_name": "Demerara-Mahaica",
+              "lat": 6.80448,
+              "lng": -58.15527,
+              "name": "Georgetown"
+            },
+            "geonames_id": 3378644
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Guyana"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2008,
+        "external_ids": [
+          {
+            "all": [
+              "grid.444715.7"
+            ],
+            "preferred": "grid.444715.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8673 4005"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3551846"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03ppx1p25",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://sun.ac.jp/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Nagasaki"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "42",
+              "country_subdivision_name": "Nagasaki",
+              "lat": 33.16834,
+              "lng": 129.72502,
+              "name": "Sasebo"
+            },
+            "geonames_id": 1852899
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Nagasaki"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "長崎県立大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2004,
+        "external_ids": [
+          {
+            "all": [
+              "grid.444782.9"
+            ],
+            "preferred": "grid.444782.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q48727923"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01e0ns064",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://uoe.edu.pk/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_East"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "PK",
+              "country_name": "Pakistan",
+              "country_subdivision_code": "SD",
+              "country_subdivision_name": "Sindh",
+              "lat": 25.39689,
+              "lng": 68.37718,
+              "name": "Hyderābād"
+            },
+            "geonames_id": 1176734
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of East"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Engineering, Arts, Science and Technology"
+          },
+          {
+            "lang": "ur",
+            "types": [
+              "label"
+            ],
+            "value": "يونيورسٽي آف انجنيئرڱ، آرٽس، سائنس اينڊ ٽيڪنالاجي‎"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1991,
+        "external_ids": [
+          {
+            "all": [
+              "grid.444939.7"
+            ],
+            "preferred": "grid.444939.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0494 7410"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1334412"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03c19jm06",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.uniel.edu.al"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Elbasan"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "AL",
+              "country_name": "Albania",
+              "country_subdivision_code": "03",
+              "country_subdivision_name": "Elbasan County",
+              "lat": 41.1125,
+              "lng": 20.08222,
+              "name": "Elbasan"
+            },
+            "geonames_id": 783263
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Aleksandër Xhuvani University"
+          },
+          {
+            "lang": "sq",
+            "types": [
+              "label"
+            ],
+            "value": "Universiteti i Elbasanit"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Elbasan"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1966,
+        "external_ids": [
+          {
+            "all": [
+              "grid.444949.0"
+            ],
+            "preferred": "grid.444949.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0494 9619"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1148613"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/030rcn265",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.uart.edu.al/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Arts_(Albania)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "AL",
+              "country_name": "Albania",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Tirana",
+              "lat": 41.3275,
+              "lng": 19.81889,
+              "name": "Tirana"
+            },
+            "geonames_id": 3183875
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Academy of Arts"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Higher Institute of Arts"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Arts"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 17808
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 9006
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 4721
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 3945
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 3551
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2258
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2031
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 770
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 409
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 6010
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 4070
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2348
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2061
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1577
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 942
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 866
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 836
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 799
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 769
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 15033
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 9635
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 7267
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1991
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 949
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 594
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 35468
+        }
+      ]
+    }
+  }
+}

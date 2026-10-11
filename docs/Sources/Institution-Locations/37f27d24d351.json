@@ -1,0 +1,2083 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=South+China+Agricultural+University",
+  "http_status": 200,
+  "query": "South China Agricultural University",
+  "data": {
+    "number_of_results": 17822,
+    "time_taken": 26,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "scau.edu.cn"
+        ],
+        "established": 1909,
+        "external_ids": [
+          {
+            "all": [
+              "501100012601"
+            ],
+            "preferred": "501100012601",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.20561.30"
+            ],
+            "preferred": "grid.20561.30",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9546 5767"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7566809"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05v9jqt67",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://scau.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/South_China_Agricultural_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SCAU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "South China Agricultural College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "South China Agricultural University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "华南农业大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "State Key Laboratory For Conservation and Utilization of Subtropical Agro-Bioresources",
+            "type": "child",
+            "id": "https://ror.org/049r5zb56"
+          },
+          {
+            "label": "Zhujiang College of South China Agricultural University",
+            "type": "child",
+            "id": "https://ror.org/03afyq371"
+          },
+          {
+            "label": "South China Biological Medicine (China)",
+            "type": "related",
+            "id": "https://ror.org/01dcpdv87"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "cau.edu.cn"
+        ],
+        "established": 1905,
+        "external_ids": [
+          {
+            "all": [
+              "501100002365",
+              "501100003778"
+            ],
+            "preferred": "501100002365",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.22935.3f"
+            ],
+            "preferred": "grid.22935.3f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0530 8290"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q257655"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04v3ywz14",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://en.cau.edu.cn/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/China_Agricultural_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CAU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "China Agricultural University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Zhōngguó Nóngyè Dàxué"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中国农业大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "State Key Laboratory of Agricultural Biotechnology",
+            "type": "child",
+            "id": "https://ror.org/01gdqm013"
+          },
+          {
+            "label": "State Key Laboratory of Plant Physiology and Biochemistry",
+            "type": "child",
+            "id": "https://ror.org/02yjhrp74"
+          },
+          {
+            "label": "State Key Laboratory of Animal Nutrition",
+            "type": "child",
+            "id": "https://ror.org/03zfa9g67"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "scauzj.edu.cn"
+        ],
+        "established": 2006,
+        "external_ids": [
+          {
+            "all": [
+              "Q15897715"
+            ],
+            "preferred": "Q15897715",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03afyq371",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.scauzj.edu.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Zhujiang College of South China Agricultural University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "华南农业大学珠江学院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "South China Agricultural University",
+            "type": "parent",
+            "id": "https://ror.org/05v9jqt67"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "scnu.edu.cn"
+        ],
+        "established": 1933,
+        "external_ids": [
+          {
+            "all": [
+              "501100003169"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.263785.d"
+            ],
+            "preferred": "grid.263785.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0368 7397"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3551815"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01kq0pv72",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://scnu.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/South_China_Normal_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SCNU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "South China Normal University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "华南师范大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "usc.edu.cn"
+        ],
+        "established": 2000,
+        "external_ids": [
+          {
+            "all": [
+              "501100009020"
+            ],
+            "preferred": "501100009020",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412017.1"
+            ],
+            "preferred": "grid.412017.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0266 8918"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7896327"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03mqfn238",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.usc.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_South_China"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HN",
+              "country_subdivision_name": "Hunan",
+              "lat": 26.88946,
+              "lng": 112.61888,
+              "name": "Hengyang"
+            },
+            "geonames_id": 1808370
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of South China"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "南华大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "First Affiliated Hospital of University of South China",
+            "type": "related",
+            "id": "https://ror.org/049z3cb60"
+          },
+          {
+            "label": "Chuanshan College University of South China",
+            "type": "related",
+            "id": "https://ror.org/00pdt7079"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-05",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "cauef.cau.edu.cn"
+        ],
+        "established": 2009,
+        "external_ids": [
+          {
+            "all": [
+              "501100012454"
+            ],
+            "preferred": "501100012454",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/030m2tj68",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://cauef.cau.edu.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CAUEF"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "China Agricultural University Education Foundation"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Da Bei Nong Group Education Foundation"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中国农业大学教育基金会"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "scut.edu.cn"
+        ],
+        "established": 1952,
+        "external_ids": [
+          {
+            "all": [
+              "501100005015"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.79703.3a"
+            ],
+            "preferred": "grid.79703.3a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1764 3838"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q835366"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0530pts50",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.scut.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/South_China_University_of_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Huánán Lǐgōng Dàxué"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SCUT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "South China University of Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "华南理工大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "South China Institute of Collaborative Innovation",
+            "type": "child",
+            "id": "https://ror.org/04jnpk588"
+          },
+          {
+            "label": "State Key Laboratory of Subtropical Building Science",
+            "type": "child",
+            "id": "https://ror.org/020bzb737"
+          },
+          {
+            "label": "State Key Laboratory of Pulp and Paper Engineering",
+            "type": "child",
+            "id": "https://ror.org/02gxm3r19"
+          },
+          {
+            "label": "State Key Laboratory of Luminescent Materials and Devices",
+            "type": "child",
+            "id": "https://ror.org/03d61dw70"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1986,
+        "external_ids": [
+          {
+            "all": [
+              "grid.473209.b"
+            ],
+            "preferred": "grid.473209.b",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/018ggen26",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.zgnybwg.com.cn/en/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CAM"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "China Agricultural Museum"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-09-21",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/01dcpdv87",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.gzscbm.com"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SCBM"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "South China Biological Medicine"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "South China Biological Medicine (China)"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "广州市华南农大生物药品有限公司"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "South China Agricultural University",
+            "type": "related",
+            "id": "https://ror.org/05v9jqt67"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1999,
+        "external_ids": [
+          {
+            "all": [
+              "grid.464395.9"
+            ],
+            "preferred": "grid.464395.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1791 9013"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1022190"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04n0f2b96",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.csgc.com.cn/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/China_South_Industries_Group"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CSGC"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "China Ordnance Equipment Group"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "China South Industries Group (China)"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中国兵器装备集团有限公司"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Southwest Technology and Engineering Research Institute (China)",
+            "type": "child",
+            "id": "https://ror.org/03jenrn17"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2001,
+        "external_ids": [
+          {
+            "all": [
+              "Q10907069"
+            ],
+            "preferred": "Q10907069",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00pdt7079",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://csxy.usc.edu.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HN",
+              "country_subdivision_name": "Hunan",
+              "lat": 26.88946,
+              "lng": 112.61888,
+              "name": "Hengyang"
+            },
+            "geonames_id": 1808370
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Chuanshan College University of South China"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "南华大学船山学院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of South China",
+            "type": "related",
+            "id": "https://ror.org/03mqfn238"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2013,
+        "external_ids": [
+          {
+            "all": [
+              "grid.495685.3"
+            ],
+            "preferred": "grid.495685.3",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/00hw5pa98",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.agriculturechemical.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HN",
+              "country_subdivision_name": "Hunan",
+              "lat": 28.19874,
+              "lng": 112.97087,
+              "name": "Changsha"
+            },
+            "geonames_id": 1815577
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Hunan Agricultural Products (China)"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "湖南农产品"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-04-06",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-11-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "abchina.com"
+        ],
+        "established": 1951,
+        "external_ids": [
+          {
+            "all": [
+              "grid.510358.a"
+            ],
+            "preferred": "grid.510358.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0153 7289"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q26298"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/015g9sa94",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.abchina.com/cn/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Agricultural_Bank_of_China"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ABC"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "AgBank"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Agricultural Bank of China"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "scbg.ac.cn"
+        ],
+        "established": 1929,
+        "external_ids": [
+          {
+            "all": [
+              "grid.458495.1"
+            ],
+            "preferred": "grid.458495.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 1014 7864"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5946290"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01xqdxh54",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.scbg.ac.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/South_China_Botanical_Garden"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Institute of Agriculture and Forestry"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "SCBG"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "South China Botanical Garden"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "South China Institute of Botany"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中国科学院华南植物园"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Dinghushan National Nature Reserve",
+            "type": "child",
+            "id": "https://ror.org/012gnk944"
+          },
+          {
+            "label": "Chinese Academy of Sciences",
+            "type": "parent",
+            "id": "https://ror.org/034t30j35"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-10-29",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "gwng.edu.cn"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 4914 2333"
+            ],
+            "preferred": "0000 0004 4914 2333",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q112676957"
+            ],
+            "preferred": "Q112676957",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03adm0793",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.gwng.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://zh.wikipedia.org/zh-hans/%E5%B9%BF%E4%B8%9C%E5%A4%96%E8%AF%AD%E5%A4%96%E8%B4%B8%E5%A4%A7%E5%AD%A6%E5%8D%97%E5%9B%BD%E5%95%86%E5%AD%A6%E9%99%A2"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Guangdong University of Foreign Studies South China Business College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "South China Business College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "South China Business College Guangdong University of Foreign Studies"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "广东外语外贸大学南国商学院"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "廣東外語外貿大學南國商學院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Guangdong University of Foreign Studies",
+            "type": "parent",
+            "id": "https://ror.org/00fhc9y79"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "southuniversity.edu"
+        ],
+        "established": 1899,
+        "external_ids": [
+          {
+            "all": [
+              "grid.462889.9"
+            ],
+            "preferred": "grid.462889.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0635 0351"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7568720"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01rjfjt94",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.southuniversity.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/South_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "GA",
+              "country_subdivision_name": "Georgia",
+              "lat": 32.08354,
+              "lng": -81.09983,
+              "name": "Savannah"
+            },
+            "geonames_id": 4221552
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "South University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-02-13",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1887,
+        "external_ids": [
+          {
+            "all": [
+              "100012372"
+            ],
+            "preferred": "100012372",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "0000 0001 2185 8418"
+            ],
+            "preferred": "0000 0001 2185 8418",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/00qkgfc37",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.sdstate.edu/south-dakota-agricultural-experiment-station-sdsu"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "SD",
+              "country_subdivision_name": "South Dakota",
+              "lat": 44.31136,
+              "lng": -96.79839,
+              "name": "Brookings"
+            },
+            "geonames_id": 5226534
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "SDAES"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "South Dakota Agricultural Experiment Station"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "South Dakota State University",
+            "type": "parent",
+            "id": "https://ror.org/015jmes13"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-04-24",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2007,
+        "external_ids": [
+          {
+            "all": [
+              "501100012453",
+              "501100010203",
+              "501100009997",
+              "501100012438",
+              "501100015336"
+            ],
+            "preferred": "501100012453",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/03p5eky76",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.cars.ren"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://zh.wikipedia.org/wiki/%E7%8E%B0%E4%BB%A3%E5%86%9C%E4%B8%9A%E4%BA%A7%E4%B8%9A%E6%8A%80%E6%9C%AF%E4%BD%93%E7%B3%BB"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Agricultural Research System of China"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CARS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "China Agriculture Research System"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "China's Agricultural Research System"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "现代农业产业技术体系"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Ministry of Agriculture and Rural Affairs",
+            "type": "parent",
+            "id": "https://ror.org/05ckt8b96"
+          },
+          {
+            "label": "Ministry of Finance of the People's Republic of China",
+            "type": "parent",
+            "id": "https://ror.org/02jnxpg76"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1924,
+        "external_ids": [
+          {
+            "all": [
+              "grid.444661.5"
+            ],
+            "preferred": "grid.444661.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0686 9856"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q8053355"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/025q7w350",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.yau.edu.mm/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Yezin_Agricultural_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MM",
+              "country_name": "Myanmar",
+              "country_subdivision_code": "18",
+              "country_subdivision_name": "Nay Pyi Taw",
+              "lat": 19.7381,
+              "lng": 96.20742,
+              "name": "Pyinmana"
+            },
+            "geonames_id": 1298987
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "YAU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Yezin Agricultural University"
+          },
+          {
+            "lang": "my",
+            "types": [
+              "label"
+            ],
+            "value": "ရေဆင်းစိုက်ပျိုးရေးတက္ကသိုလ်"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1981,
+        "external_ids": [
+          {
+            "all": [
+              "grid.444698.3"
+            ],
+            "preferred": "grid.444698.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0667 7168"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q13184031"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03a7ksb41",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.bauranchi.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Birsa_Agricultural_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "IN",
+              "country_name": "India",
+              "country_subdivision_code": "JH",
+              "country_subdivision_name": "Jharkhand",
+              "lat": 23.34316,
+              "lng": 85.3094,
+              "name": "Ranchi"
+            },
+            "geonames_id": 1258526
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BAU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Birsa Agricultural University"
+          },
+          {
+            "lang": "hi",
+            "types": [
+              "label"
+            ],
+            "value": "बिरसा कृषि विश्वविद्यालय"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 13084
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 4671
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 1747
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 1321
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 714
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 373
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 302
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 221
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 68
+        }
+      ],
+      "countries": [
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 3003
+        },
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 2237
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 1084
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 895
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 868
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 487
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 456
+        },
+        {
+          "id": "ph",
+          "title": "Philippines",
+          "count": 392
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 390
+        },
+        {
+          "id": "ir",
+          "title": "Iran",
+          "count": 357
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 9701
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 3264
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 2766
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1368
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 544
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 180
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 17822
+        }
+      ]
+    }
+  }
+}

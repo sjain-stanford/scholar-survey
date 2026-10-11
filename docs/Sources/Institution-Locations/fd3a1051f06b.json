@@ -1,0 +1,2056 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Shandong+University",
+  "http_status": 200,
+  "query": "Shandong University",
+  "data": {
+    "number_of_results": 14806,
+    "time_taken": 38,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "sdu.edu.cn"
+        ],
+        "established": 1901,
+        "external_ids": [
+          {
+            "all": [
+              "100009108",
+              "100014417",
+              "501100010084"
+            ],
+            "preferred": "100009108",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.27255.37"
+            ],
+            "preferred": "grid.27255.37",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1761 1174"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q604470",
+              "Q39654170"
+            ],
+            "preferred": "Q604470",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0207yh398",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.sdu.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Shandong_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SD",
+              "country_subdivision_name": "Shandong",
+              "lat": 36.66833,
+              "lng": 116.99722,
+              "name": "Jinan"
+            },
+            "geonames_id": 1805753
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SDU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Shandong University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Shāndōng Dàxué,"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "山东大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "State Key Laboratory of Crystal Materials",
+            "type": "child",
+            "id": "https://ror.org/01jjraa45"
+          },
+          {
+            "label": "State Key Laboratory of Microbial Technology",
+            "type": "child",
+            "id": "https://ror.org/03x08qn04"
+          },
+          {
+            "label": "Jinan Central Hospital",
+            "type": "related",
+            "id": "https://ror.org/01fr19c68"
+          },
+          {
+            "label": "Jinan Infectious Disease Hospital",
+            "type": "related",
+            "id": "https://ror.org/05mp6hg50"
+          },
+          {
+            "label": "Second Hospital of Shandong University",
+            "type": "related",
+            "id": "https://ror.org/01fd86n56"
+          },
+          {
+            "label": "Shandong Mental Health Center",
+            "type": "related",
+            "id": "https://ror.org/024x8v141"
+          },
+          {
+            "label": "Shandong Provincial Hospital",
+            "type": "related",
+            "id": "https://ror.org/02ar2nf05"
+          },
+          {
+            "label": "Linyi People's Hospital",
+            "type": "related",
+            "id": "https://ror.org/011r8ce56"
+          },
+          {
+            "label": "Hospital for Reproductive Medicine Affiliated to Shandong University",
+            "type": "related",
+            "id": "https://ror.org/0168ksk34"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1956,
+        "external_ids": [
+          {
+            "all": [
+              "501100009017"
+            ],
+            "preferred": "501100009017",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.460017.4"
+            ],
+            "preferred": "grid.460017.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1761 5941"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/01848hk04",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://english.sdjtu.edu.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SD",
+              "country_subdivision_name": "Shandong",
+              "lat": 36.66833,
+              "lng": 116.99722,
+              "name": "Jinan"
+            },
+            "geonames_id": 1805753
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Shandong Communications College"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Shandong Jiaotong University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1998,
+        "external_ids": [
+          {
+            "all": [
+              "grid.488178.a"
+            ],
+            "preferred": "grid.488178.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1796 3516"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/00qhrkk71",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://eng.ycxy.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SD",
+              "country_subdivision_name": "Shandong",
+              "lat": 36.66833,
+              "lng": 116.99722,
+              "name": "Jinan"
+            },
+            "geonames_id": 1805753
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Shandong Yingcai University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "山东英才学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1993,
+        "external_ids": [
+          {
+            "all": [
+              "grid.495263.f"
+            ],
+            "preferred": "grid.495263.f",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/01bx4e159",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.sdxiehe.com/home/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SD",
+              "country_subdivision_name": "Shandong",
+              "lat": 36.66833,
+              "lng": 116.99722,
+              "name": "Jinan"
+            },
+            "geonames_id": 1805753
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Shandong Xiehe University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "XHU"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "山东协和学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "sdnu.edu.cn"
+        ],
+        "established": 1950,
+        "external_ids": [
+          {
+            "all": [
+              "grid.410585.d"
+            ],
+            "preferred": "grid.410585.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0495 1805"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4570128"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01wy3h363",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.sdnu.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Shandong_Normal_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SD",
+              "country_subdivision_name": "Shandong",
+              "lat": 36.66833,
+              "lng": 116.99722,
+              "name": "Jinan"
+            },
+            "geonames_id": 1805753
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SDNU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Shandong Normal College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Shandong Normal University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "山东师范大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "sdpei.edu.cn"
+        ],
+        "established": 1958,
+        "external_ids": [
+          {
+            "all": [
+              "grid.443422.7"
+            ],
+            "preferred": "grid.443422.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1762 7109"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30294486",
+              "Q11043900"
+            ],
+            "preferred": "Q30294486",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/026b4k258",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.sdpei.edu.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SD",
+              "country_subdivision_name": "Shandong",
+              "lat": 36.66833,
+              "lng": 116.99722,
+              "name": "Jinan"
+            },
+            "geonames_id": 1805753
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Shandong Sport University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "山东体育学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "sdmu.edu.cn"
+        ],
+        "established": 1938,
+        "external_ids": [
+          {
+            "all": [
+              "grid.495260.c"
+            ],
+            "preferred": "grid.495260.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1791 7210"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/00vzprm14",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.sdmu.edu.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SD",
+              "country_subdivision_name": "Shandong",
+              "lat": 36.66833,
+              "lng": 116.99722,
+              "name": "Jinan"
+            },
+            "geonames_id": 1805753
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Shandong Institute of Management"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Shandong Management University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "山东管理大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "sdwu.edu.cn"
+        ],
+        "established": 1952,
+        "external_ids": [
+          {
+            "all": [
+              "grid.495262.e"
+            ],
+            "preferred": "grid.495262.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1777 7369"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q11044009"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03rp8h078",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.sdwu.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Shandong_Women%27s_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SD",
+              "country_subdivision_name": "Shandong",
+              "lat": 36.66833,
+              "lng": 116.99722,
+              "name": "Jinan"
+            },
+            "geonames_id": 1805753
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SDWU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Shandong Women’s University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Shāndōng Nǚzǐ Xuéyuàn"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "山东女子学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "sdau.edu.cn"
+        ],
+        "established": 1906,
+        "external_ids": [
+          {
+            "all": [
+              "501100004306"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.440622.6"
+            ],
+            "preferred": "grid.440622.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9482 4676"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7487918"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02ke8fw32",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.sdau.edu.cn/esdau/ver2011/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Shandong_Agricultural_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SD",
+              "country_subdivision_name": "Shandong",
+              "lat": 36.18528,
+              "lng": 117.12,
+              "name": "Tai’an"
+            },
+            "geonames_id": 1793724
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SDAU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Shandong Agricultural University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Shāndōng Nóngyè Dàxué"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "山东农业大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "State Key Laboratory of Crop Biology",
+            "type": "child",
+            "id": "https://ror.org/04axhqr63"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "sdou.edu.cn"
+        ],
+        "established": 1979,
+        "external_ids": [
+          {
+            "all": [
+              "Q112811212"
+            ],
+            "preferred": "Q112811212",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03eedgp16",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.sdou.edu.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SD",
+              "country_subdivision_name": "Shandong",
+              "lat": 36.66833,
+              "lng": 116.99722,
+              "name": "Jinan"
+            },
+            "geonames_id": 1805753
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Shandong Open University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "山东广播电视大学"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "山东开放大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "sdjzu.edu.cn"
+        ],
+        "established": 1956,
+        "external_ids": [
+          {
+            "all": [
+              "501100007927"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.440623.7"
+            ],
+            "preferred": "grid.440623.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0304 7531"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7487930"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01gbfax37",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.sdjzu.edu.cn/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Shandong_Jianzhu_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SD",
+              "country_subdivision_name": "Shandong",
+              "lat": 36.66833,
+              "lng": 116.99722,
+              "name": "Jinan"
+            },
+            "geonames_id": 1805753
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Shandong Jianzhu University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Shandong University of Architecture and Engineering"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "山东建筑大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Shandong Provincial Key Laboratory of Renewable Energy Building Application Technology",
+            "type": "child",
+            "id": "https://ror.org/04bjzcz61"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "sdxd.edu.cn"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "Q112676659"
+            ],
+            "preferred": "Q112676659",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01k496r06",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.sdxd.edu.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SD",
+              "country_subdivision_name": "Shandong",
+              "lat": 36.66833,
+              "lng": 116.99722,
+              "name": "Jinan"
+            },
+            "geonames_id": 1805753
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Shandong Modern University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Shandong Xiandai University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "山东现代学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-10-13",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "sdca.edu.cn"
+        ],
+        "established": 1958,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0000 8799 4845"
+            ],
+            "preferred": "0000 0000 8799 4845",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q15917097"
+            ],
+            "preferred": "Q15917097",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04pa05368",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.sdca.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://zh.wikipedia.org/zh-hans/%E5%B1%B1%E4%B8%9C%E8%89%BA%E6%9C%AF%E5%AD%A6%E9%99%A2"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SD",
+              "country_subdivision_name": "Shandong",
+              "lat": 36.66833,
+              "lng": 116.99722,
+              "name": "Jinan"
+            },
+            "geonames_id": 1805753
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "SDCA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Shandong College of Arts"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Shandong University of Arts"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "山东艺术专科学校"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "山东艺术学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1984,
+        "external_ids": [
+          {
+            "all": [
+              "Q112811214"
+            ],
+            "preferred": "Q112811214",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0140qwe75",
+        "links": [],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SD",
+              "country_subdivision_name": "Shandong",
+              "lat": 36.66833,
+              "lng": 116.99722,
+              "name": "Jinan"
+            },
+            "geonames_id": 1805753
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Shandong Finance Workers University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "山东财政职工大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "sdfmu.edu.cn"
+        ],
+        "established": 1958,
+        "external_ids": [
+          {
+            "all": [
+              "501100015508",
+              "501100015507"
+            ],
+            "preferred": "501100015508",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.410587.f"
+            ],
+            "preferred": "grid.410587.f",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/05jb9pq57",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.sdfmu.edu.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SD",
+              "country_subdivision_name": "Shandong",
+              "lat": 36.66833,
+              "lng": 116.99722,
+              "name": "Jinan"
+            },
+            "geonames_id": 1805753
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Shandong Academy of Medical Science"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Shandong First Medical University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Shandong First Medical University & Shandong Academy of Medical Sciences"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Shandong Medical Sciences"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "山东省医学科学院"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "山东第一医科大学"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "山东第一医科大学（山东省医学科学院)"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Jinan City People's Hospital",
+            "type": "related",
+            "id": "https://ror.org/05b2ycy47"
+          },
+          {
+            "label": "Shandong Tumor Hospital",
+            "type": "related",
+            "id": "https://ror.org/01413r497"
+          },
+          {
+            "label": "Jinan Central Hospital",
+            "type": "related",
+            "id": "https://ror.org/01fr19c68"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "sdut.edu.cn"
+        ],
+        "established": 1956,
+        "external_ids": [
+          {
+            "all": [
+              "501100017606",
+              "501100018629"
+            ],
+            "preferred": "501100017606",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412509.b"
+            ],
+            "preferred": "grid.412509.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1808 3414"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7487937"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02mr3ar13",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.sdut.edu.cn/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Shandong_University_of_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SD",
+              "country_subdivision_name": "Shandong",
+              "lat": 36.79056,
+              "lng": 118.06333,
+              "name": "Zibo"
+            },
+            "geonames_id": 1785286
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SDTU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Shandong University of Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "山东理工大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-08-03",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "sdua.edu.cn"
+        ],
+        "established": 1958,
+        "external_ids": [
+          {
+            "all": [
+              "501100008676"
+            ],
+            "preferred": "501100008676",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.454879.3"
+            ],
+            "preferred": "grid.454879.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1757 2013"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3551568"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05frpfj73",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.sdua.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Binzhou_University"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Shandong_University_of_Aeronautics"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SD",
+              "country_subdivision_name": "Shandong",
+              "lat": 37.36667,
+              "lng": 118.01667,
+              "name": "Binzhou"
+            },
+            "geonames_id": 1816336
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Binzhou University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Shandong University of Aeronautics"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "山东航空学院"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "滨州学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1987,
+        "external_ids": [
+          {
+            "all": [
+              "grid.452704.0"
+            ],
+            "preferred": "grid.452704.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 7475 0672"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30296362"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01fd86n56",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://sdey.net/english/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SD",
+              "country_subdivision_name": "Shandong",
+              "lat": 36.66833,
+              "lng": 116.99722,
+              "name": "Jinan"
+            },
+            "geonames_id": 1805753
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SHSU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Second Hospital of Shandong University"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Shandong University",
+            "type": "related",
+            "id": "https://ror.org/0207yh398"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1890,
+        "external_ids": [
+          {
+            "all": [
+              "100012655"
+            ],
+            "preferred": "100012655",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.452402.5"
+            ],
+            "preferred": "grid.452402.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1808 3430"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30296170"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/056ef9489",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.qiluhospital.com/site2/eng/09/10101.shtml"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SD",
+              "country_subdivision_name": "Shandong",
+              "lat": 36.66833,
+              "lng": 116.99722,
+              "name": "Jinan"
+            },
+            "geonames_id": 1805753
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Qilu Hospital of Shandong University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "huayu.edu.cn"
+        ],
+        "established": 2004,
+        "external_ids": [
+          {
+            "all": [
+              "Q85879163"
+            ],
+            "preferred": "Q85879163",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04x3snb65",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.huayu.edu.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SD",
+              "country_subdivision_name": "Shandong",
+              "lat": 37.44661,
+              "lng": 116.36706,
+              "name": "Dezhou"
+            },
+            "geonames_id": 1812955
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Shandong Huayu University of Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "山东华宇工学院"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "山东华宇职业技术学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 12938
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 4161
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 1241
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 340
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 122
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 77
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 42
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 34
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 24
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 1980
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 1705
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 1001
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 836
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 467
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 443
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 443
+        },
+        {
+          "id": "ph",
+          "title": "Philippines",
+          "count": 384
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 382
+        },
+        {
+          "id": "ir",
+          "title": "Iran",
+          "count": 354
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 7527
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 3011
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 2487
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1151
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 530
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 100
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 14806
+        }
+      ]
+    }
+  }
+}

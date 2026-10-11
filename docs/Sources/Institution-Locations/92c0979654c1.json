@@ -1,0 +1,2440 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=University+of+Washington",
+  "http_status": 200,
+  "query": "University of Washington",
+  "data": {
+    "number_of_results": 35543,
+    "time_taken": 55,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "washington.edu"
+        ],
+        "established": 1861,
+        "external_ids": [
+          {
+            "all": [
+              "100007812",
+              "100010500",
+              "100008342",
+              "100008244",
+              "100008142",
+              "100009542",
+              "100009037",
+              "100007813",
+              "100012485",
+              "100013350",
+              "100011248",
+              "100011276",
+              "100011867",
+              "100012374",
+              "100012375",
+              "100013039",
+              "100013222",
+              "100013347",
+              "100014234",
+              "100014466",
+              "100014963",
+              "100017507",
+              "100019039",
+              "100019191",
+              "100032717",
+              "100022680"
+            ],
+            "preferred": "100007812",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.34477.33"
+            ],
+            "preferred": "grid.34477.33",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2298 6657"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q219563"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00cvxb145",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.washington.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Washington"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "WA",
+              "country_subdivision_name": "Washington",
+              "lat": 47.60621,
+              "lng": -122.33207,
+              "name": "Seattle"
+            },
+            "geonames_id": 5809844
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UW"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de Washington"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Washington"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de Washington"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Center for Effective Global Action",
+            "type": "child",
+            "id": "https://ror.org/03djjyk45"
+          },
+          {
+            "label": "Harborview Injury Prevention and Research Center",
+            "type": "child",
+            "id": "https://ror.org/0394z0v14"
+          },
+          {
+            "label": "Health Alliance International",
+            "type": "child",
+            "id": "https://ror.org/022c13n15"
+          },
+          {
+            "label": "Seattle Epidemiologic Information and Research Center",
+            "type": "child",
+            "id": "https://ror.org/0155sw530"
+          },
+          {
+            "label": "University of Washington Applied Physics Laboratory",
+            "type": "child",
+            "id": "https://ror.org/03d17d270"
+          },
+          {
+            "label": "Washington Sea Grant",
+            "type": "child",
+            "id": "https://ror.org/047fr0y29"
+          },
+          {
+            "label": "Washington Space Grant Consortium",
+            "type": "child",
+            "id": "https://ror.org/01bfczx74"
+          },
+          {
+            "label": "Friday Harbor Laboratories",
+            "type": "child",
+            "id": "https://ror.org/052w21a87"
+          },
+          {
+            "label": "University of Washington Bothell",
+            "type": "child",
+            "id": "https://ror.org/02ygzhr13"
+          },
+          {
+            "label": "University of Washington Tacoma",
+            "type": "child",
+            "id": "https://ror.org/05n8t2628"
+          },
+          {
+            "label": "Cooperative Institute for Climate, Ocean, & Ecosystem Studies",
+            "type": "child",
+            "id": "https://ror.org/054bfvp24"
+          },
+          {
+            "label": "CloudBank",
+            "type": "child",
+            "id": "https://ror.org/02whst089"
+          },
+          {
+            "label": "Burke Museum of Natural History and Culture",
+            "type": "child",
+            "id": "https://ror.org/015ypce77"
+          },
+          {
+            "label": "Northwest Climate Adaptation Science Center",
+            "type": "child",
+            "id": "https://ror.org/00ykw3513"
+          },
+          {
+            "label": "Harborview Medical Center",
+            "type": "related",
+            "id": "https://ror.org/059jq5127"
+          },
+          {
+            "label": "Kootenai Medical Center",
+            "type": "related",
+            "id": "https://ror.org/0513nfd47"
+          },
+          {
+            "label": "Northwest Hospital and Medical Center",
+            "type": "related",
+            "id": "https://ror.org/02eypkr92"
+          },
+          {
+            "label": "Seattle Children's Hospital",
+            "type": "related",
+            "id": "https://ror.org/01njes783"
+          },
+          {
+            "label": "University of Washington Medical Center",
+            "type": "related",
+            "id": "https://ror.org/00wbzw723"
+          },
+          {
+            "label": "VA Puget Sound Health Care System",
+            "type": "related",
+            "id": "https://ror.org/00ky3az31"
+          },
+          {
+            "label": "Valley Medical Center",
+            "type": "related",
+            "id": "https://ror.org/01vjngb81"
+          },
+          {
+            "label": "Washington Research Foundation",
+            "type": "related",
+            "id": "https://ror.org/00hasdx88"
+          },
+          {
+            "label": "NSF Ocean Observatories Initiative",
+            "type": "related",
+            "id": "https://ror.org/00vnfmn19"
+          },
+          {
+            "label": "Atlas of Variant Effects Alliance",
+            "type": "related",
+            "id": "https://ror.org/00p2ftz29"
+          },
+          {
+            "label": "Cancer Consortium",
+            "type": "related",
+            "id": "https://ror.org/009tqys91"
+          },
+          {
+            "label": "Institute for Prostate Cancer Research",
+            "type": "related",
+            "id": "https://ror.org/02t1vje51"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "wustl.edu"
+        ],
+        "established": 1853,
+        "external_ids": [
+          {
+            "all": [
+              "100007268",
+              "100007930",
+              "100009607",
+              "100006586",
+              "100011912",
+              "100014451",
+              "100014536",
+              "100018625",
+              "100018646",
+              "100018647",
+              "100022751",
+              "100023940",
+              "100023930"
+            ],
+            "preferred": "100007268",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.4367.6"
+            ],
+            "preferred": "grid.4367.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2355 7002",
+              "0000 0004 1936 9350"
+            ],
+            "preferred": "0000 0004 1936 9350",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q777403"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01yc7t268",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://wustl.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Washington_University_in_St._Louis"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MO",
+              "country_subdivision_name": "Missouri",
+              "lat": 38.62727,
+              "lng": -90.19789,
+              "name": "St Louis"
+            },
+            "geonames_id": 4407066
+          }
+        ],
+        "names": [
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Washington en San Luis"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université Washington à Saint-louis"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "WUSTL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Washington University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Washington University in St. Louis"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Children’s Discovery Institute",
+            "type": "child",
+            "id": "https://ror.org/02swjdp46"
+          },
+          {
+            "label": "Washington University Physicians",
+            "type": "child",
+            "id": "https://ror.org/03qn8ky51"
+          },
+          {
+            "label": "Taylor Family Institute for Innovative Psychiatric Research",
+            "type": "child",
+            "id": "https://ror.org/03x3g5467"
+          },
+          {
+            "label": "Tyson Research Center",
+            "type": "child",
+            "id": "https://ror.org/04vrw9r19"
+          },
+          {
+            "label": "Barnes-Jewish Hospital",
+            "type": "related",
+            "id": "https://ror.org/04wyvkr12"
+          },
+          {
+            "label": "Central Institute for the Deaf",
+            "type": "related",
+            "id": "https://ror.org/04ymee833"
+          },
+          {
+            "label": "St. Louis Children's Hospital",
+            "type": "related",
+            "id": "https://ror.org/00qw1qw03"
+          },
+          {
+            "label": "Washington University Medical Center",
+            "type": "related",
+            "id": "https://ror.org/036c27j91"
+          },
+          {
+            "label": "Taylor Geospatial Institute",
+            "type": "related",
+            "id": "https://ror.org/0573j3j10"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1908,
+        "external_ids": [
+          {
+            "all": [
+              "grid.266671.2"
+            ],
+            "preferred": "grid.266671.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9565 4349"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q657374"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03b48gv34",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.umw.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Mary_Washington"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "VA",
+              "country_subdivision_name": "Virginia",
+              "lat": 38.30318,
+              "lng": -77.46054,
+              "name": "Fredericksburg"
+            },
+            "geonames_id": 4760059
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UMW"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Mary Washington"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de mary washington"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1990,
+        "external_ids": [
+          {
+            "all": [
+              "100019963"
+            ],
+            "preferred": "100019963",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.462982.3"
+            ],
+            "preferred": "grid.462982.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8883 2602"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7896565"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02ygzhr13",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uwb.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Washington_Bothell"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "WA",
+              "country_subdivision_name": "Washington",
+              "lat": 47.76232,
+              "lng": -122.2054,
+              "name": "Bothell"
+            },
+            "geonames_id": 5787829
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "UW Bothell"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Washington Bothell"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Washington",
+            "type": "parent",
+            "id": "https://ror.org/00cvxb145"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1990,
+        "external_ids": [
+          {
+            "all": [
+              "grid.462984.5"
+            ],
+            "preferred": "grid.462984.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9494 3202"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7896583"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05n8t2628",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.tacoma.uw.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Washington_Tacoma"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "WA",
+              "country_subdivision_name": "Washington",
+              "lat": 47.25288,
+              "lng": -122.44429,
+              "name": "Tacoma"
+            },
+            "geonames_id": 5812944
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "UW Tacoma"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Washington Tacoma"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Washington",
+            "type": "parent",
+            "id": "https://ror.org/00cvxb145"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "wuv.edu"
+        ],
+        "established": 1982,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 4904 1129"
+            ],
+            "preferred": "0000 0004 4904 1129",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q141543522"
+            ],
+            "preferred": "Q141543522",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05krwah94",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://wuv.edu"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "VA",
+              "country_subdivision_name": "Virginia",
+              "lat": 38.83039,
+              "lng": -77.19637,
+              "name": "Annandale"
+            },
+            "geonames_id": 4744468
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "BCSW"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Baptist College and Seminary of Washington"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "WBU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "WUV"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Washington Baptist Theological Seminary"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Washington Baptist University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Washington University of Virginia"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "버지니아워싱턴대학교"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1904,
+        "external_ids": [
+          {
+            "all": [
+              "grid.421369.b"
+            ],
+            "preferred": "grid.421369.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0165 4848"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3551510"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/035hvd463",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.wau.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Washington_Adventist_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Maryland",
+              "lat": 38.97789,
+              "lng": -77.00748,
+              "name": "Takoma Park"
+            },
+            "geonames_id": 4370890
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université adventiste de washington"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "WAU "
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Washington Adventist University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1897,
+        "external_ids": [
+          {
+            "all": [
+              "grid.421854.e"
+            ],
+            "preferred": "grid.421854.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1936 9529"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3539296"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/035756473",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.trinitydc.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Trinity_Washington_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "DC",
+              "country_subdivision_name": "District of Columbia",
+              "lat": 38.89511,
+              "lng": -77.03637,
+              "name": "Washington"
+            },
+            "geonames_id": 4140963
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Trinity Washington University"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Trinity Washington"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-09-21",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 4667 7244"
+            ],
+            "preferred": "0000 0004 4667 7244",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/03qn8ky51",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://physicians.wustl.edu"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MO",
+              "country_subdivision_name": "Missouri",
+              "lat": 38.62727,
+              "lng": -90.19789,
+              "name": "St Louis"
+            },
+            "geonames_id": 4407066
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Washington University Physicians"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Washington University in St. Louis",
+            "type": "parent",
+            "id": "https://ror.org/01yc7t268"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ewu.edu"
+        ],
+        "established": 1882,
+        "external_ids": [
+          {
+            "all": [
+              "100008079"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.255416.1"
+            ],
+            "preferred": "grid.255416.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9067 4332"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1278253"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/002g57a93",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ewu.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Eastern_Washington_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "WA",
+              "country_subdivision_name": "Washington",
+              "lat": 47.48739,
+              "lng": -117.57576,
+              "name": "Cheney"
+            },
+            "geonames_id": 5789856
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "EWU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Eastern Washington University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-05-05",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "wsu.edu"
+        ],
+        "established": 1890,
+        "external_ids": [
+          {
+            "all": [
+              "100007588",
+              "100007593",
+              "100009500",
+              "100004202",
+              "100010950",
+              "100013628",
+              "100017872"
+            ],
+            "preferred": "100007588",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.30064.31"
+            ],
+            "preferred": "grid.30064.31",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2157 6568"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q597236"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05dk0ce17",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://wsu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Washington_State_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "WA",
+              "country_subdivision_name": "Washington",
+              "lat": 46.73127,
+              "lng": -117.17962,
+              "name": "Pullman"
+            },
+            "geonames_id": 5807540
+          }
+        ],
+        "names": [
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Estatal de Washington"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université d'État de washington"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "WSU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Washington State University"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Washington State University Spokane",
+            "type": "child",
+            "id": "https://ror.org/04vfs5h36"
+          },
+          {
+            "label": "Washington State University Tri-Cities",
+            "type": "child",
+            "id": "https://ror.org/02sjef319"
+          },
+          {
+            "label": "Washington State University Vancouver",
+            "type": "child",
+            "id": "https://ror.org/00g2fk805"
+          },
+          {
+            "label": "Bioproducts Institute",
+            "type": "child",
+            "id": "https://ror.org/03wpv8896"
+          },
+          {
+            "label": "Nuclear Science and Technology Institute",
+            "type": "child",
+            "id": "https://ror.org/039fx6g98"
+          },
+          {
+            "label": "Advanced Grid Institute",
+            "type": "child",
+            "id": "https://ror.org/014vdsh37"
+          },
+          {
+            "label": "Materials Science in Extreme Environments University Research Alliance",
+            "type": "related",
+            "id": "https://ror.org/04n07f274"
+          },
+          {
+            "label": "Rocky Mountain Advanced Computing Consortium",
+            "type": "related",
+            "id": "https://ror.org/019q0z051"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-05-05",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "cwu.edu"
+        ],
+        "established": 1891,
+        "external_ids": [
+          {
+            "all": [
+              "100015847",
+              "100015825"
+            ],
+            "preferred": "100015847",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.253923.c"
+            ],
+            "preferred": "grid.253923.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2195 7053"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1054064"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/049c8eh51",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.cwu.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Central_Washington_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "WA",
+              "country_subdivision_name": "Washington",
+              "lat": 46.99651,
+              "lng": -120.54785,
+              "name": "Ellensburg"
+            },
+            "geonames_id": 5793639
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CWU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Central Washington University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "gwu.edu"
+        ],
+        "established": 1821,
+        "external_ids": [
+          {
+            "all": [
+              "100007108",
+              "100008449",
+              "100007815",
+              "100005905",
+              "100014746",
+              "100015466",
+              "100019659"
+            ],
+            "preferred": "100007108",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.253615.6"
+            ],
+            "preferred": "grid.253615.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1936 9510"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q432637"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00y4zzh67",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.gwu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/George_Washington_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "DC",
+              "country_subdivision_name": "District of Columbia",
+              "lat": 38.89511,
+              "lng": -77.03637,
+              "name": "Washington"
+            },
+            "geonames_id": 4140963
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "GW"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "GWU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "George Washington University"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad George Washington"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Corcoran College of Art and Design",
+            "type": "child",
+            "id": "https://ror.org/01n673471"
+          },
+          {
+            "label": "Epigenetics, Data, Politics",
+            "type": "child",
+            "id": "https://ror.org/00rg8bd79"
+          },
+          {
+            "label": "Children's National",
+            "type": "related",
+            "id": "https://ror.org/03wa2q724"
+          },
+          {
+            "label": "George Washington University Hospital",
+            "type": "related",
+            "id": "https://ror.org/00fwdyt59"
+          },
+          {
+            "label": "Holy Cross Hospital",
+            "type": "related",
+            "id": "https://ror.org/04g8hwy69"
+          },
+          {
+            "label": "Inova Fairfax Hospital",
+            "type": "related",
+            "id": "https://ror.org/0212h5y77"
+          },
+          {
+            "label": "Jacobs Institute of Women's Health",
+            "type": "related",
+            "id": "https://ror.org/03gpsj088"
+          },
+          {
+            "label": "Northern Virginia Mental Health Institute",
+            "type": "related",
+            "id": "https://ror.org/053wq6q28"
+          },
+          {
+            "label": "Providence Hospital",
+            "type": "related",
+            "id": "https://ror.org/0123meh57"
+          },
+          {
+            "label": "Sibley Memorial Hospital",
+            "type": "related",
+            "id": "https://ror.org/056jn9s46"
+          },
+          {
+            "label": "St. Elizabeths Hospital",
+            "type": "related",
+            "id": "https://ror.org/022w03s59"
+          },
+          {
+            "label": "Walter Reed National Military Medical Center",
+            "type": "related",
+            "id": "https://ror.org/025cem651"
+          },
+          {
+            "label": "Virginia Coast Reserve Long Term Ecological Research",
+            "type": "related",
+            "id": "https://ror.org/013zder45"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-06-02",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "wwu.edu"
+        ],
+        "established": 1893,
+        "external_ids": [
+          {
+            "all": [
+              "100009608",
+              "100016130"
+            ],
+            "preferred": "100009608",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.281386.6"
+            ],
+            "preferred": "grid.281386.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2165 7413"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q284777"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05wn7r715",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.wwu.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Western_Washington_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "WA",
+              "country_subdivision_name": "Washington",
+              "lat": 48.75955,
+              "lng": -122.48822,
+              "name": "Bellingham"
+            },
+            "geonames_id": 5786899
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "WWU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Western Washington University"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Northern Gulf of Alaska Long Term Ecological Research",
+            "type": "related",
+            "id": "https://ror.org/01csn4944"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1959,
+        "external_ids": [
+          {
+            "all": [
+              "grid.412623.0"
+            ],
+            "preferred": "grid.412623.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8535 6057"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7896576"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00wbzw723",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.uwmedicine.org/uw-medical-center"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Washington_Medical_Center"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "WA",
+              "country_subdivision_name": "Washington",
+              "lat": 47.60621,
+              "lng": -122.33207,
+              "name": "Seattle"
+            },
+            "geonames_id": 5809844
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UWMC "
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Washington Medical Center"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Harborview Medical Center",
+            "type": "child",
+            "id": "https://ror.org/059jq5127"
+          },
+          {
+            "label": "University of Washington",
+            "type": "related",
+            "id": "https://ror.org/00cvxb145"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-05",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "wa.gov"
+        ],
+        "established": 1889,
+        "external_ids": [
+          {
+            "all": [
+              "100023082"
+            ],
+            "preferred": "100023082",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/02v5yps25",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://wa.gov"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Government_of_Washington_(state)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "WA",
+              "country_subdivision_name": "Washington",
+              "lat": 47.04491,
+              "lng": -122.90169,
+              "name": "Olympia"
+            },
+            "geonames_id": 5805687
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "State of Washington"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "The Evergreen State"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "WA.gov"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-09-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "100017542"
+            ],
+            "preferred": "100017542",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "0000 0001 2157 2225"
+            ],
+            "preferred": "0000 0001 2157 2225",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2696688"
+            ],
+            "preferred": "Q2696688",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/052w21a87",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://fhl.uw.edu"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "WA",
+              "country_subdivision_name": "Washington",
+              "lat": 47.60621,
+              "lng": -122.33207,
+              "name": "Seattle"
+            },
+            "geonames_id": 5809844
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "FHL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Friday Harbor Laboratories"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UW FHL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "UW Friday Harbor Laboratories"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Washington Friday Harbor Laboratories"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Washington",
+            "type": "parent",
+            "id": "https://ror.org/00cvxb145"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-02-17",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1943,
+        "external_ids": [
+          {
+            "all": [
+              "grid.504155.0"
+            ],
+            "preferred": "grid.504155.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0493 4767"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/03d17d270",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.apl.washington.edu/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "WA",
+              "country_subdivision_name": "Washington",
+              "lat": 47.60621,
+              "lng": -122.33207,
+              "name": "Seattle"
+            },
+            "geonames_id": 5809844
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "APL-UW"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Washington Applied Physics Laboratory"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Washington",
+            "type": "parent",
+            "id": "https://ror.org/00cvxb145"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1962,
+        "external_ids": [
+          {
+            "all": [
+              "grid.411019.c"
+            ],
+            "preferred": "grid.411019.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q7972506"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/036c27j91",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://medicine.wustl.edu/about/medical-center/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Washington_University_Medical_Center"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MO",
+              "country_subdivision_name": "Missouri",
+              "lat": 38.62727,
+              "lng": -90.19789,
+              "name": "St Louis"
+            },
+            "geonames_id": 4407066
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "WUMC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Washington University Medical Center"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Washington University in St. Louis",
+            "type": "related",
+            "id": "https://ror.org/01yc7t268"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-02-17",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1989,
+        "external_ids": [
+          {
+            "all": [
+              "100012529"
+            ],
+            "preferred": "100012529",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.502359.8"
+            ],
+            "preferred": "grid.502359.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8936 4310"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7972305"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00g2fk805",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.vancouver.wsu.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Washington_State_University_Vancouver"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "WA",
+              "country_subdivision_name": "Washington",
+              "lat": 45.63873,
+              "lng": -122.66149,
+              "name": "Vancouver"
+            },
+            "geonames_id": 5814616
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "WSU Vancouver"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "WSUV"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Washington State University Vancouver"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Washington State University",
+            "type": "parent",
+            "id": "https://ror.org/05dk0ce17"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 17823
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 9022
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 4725
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 3956
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 3575
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2269
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2036
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 772
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 413
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 6088
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 4070
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2348
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2061
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1577
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 943
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 866
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 836
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 799
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 764
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 15033
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 9632
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 7345
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1991
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 949
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 594
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 35543
+        }
+      ]
+    }
+  }
+}

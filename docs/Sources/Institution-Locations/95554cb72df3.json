@@ -1,0 +1,2034 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Hunan+Normal+University",
+  "http_status": 200,
+  "query": "Hunan Normal University",
+  "data": {
+    "number_of_results": 14854,
+    "time_taken": 22,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "hunnu.edu.cn"
+        ],
+        "established": 1938,
+        "external_ids": [
+          {
+            "all": [
+              "501100002664"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.411427.5"
+            ],
+            "preferred": "grid.411427.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0089 3695"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5942027"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/053w1zy07",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.hunnu.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Hunan_Normal_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HN",
+              "country_subdivision_name": "Hunan",
+              "lat": 28.19874,
+              "lng": 112.97087,
+              "name": "Changsha"
+            },
+            "geonames_id": 1815577
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "HNU"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "HUNNU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Hunan Normal University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Húnán Shīfàn Dàxué"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "湖南师范大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Hunan Provincial People's Hospital",
+            "type": "related",
+            "id": "https://ror.org/03wwr4r78"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "hnfnu.edu.cn"
+        ],
+        "established": 1903,
+        "external_ids": [
+          {
+            "all": [
+              "grid.448863.5"
+            ],
+            "preferred": "grid.448863.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1759 9902"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4126742"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00s9d1a36",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.hnfnu.edu.cn/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Hunan_First_Normal_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HN",
+              "country_subdivision_name": "Hunan",
+              "lat": 28.19874,
+              "lng": 112.97087,
+              "name": "Changsha"
+            },
+            "geonames_id": 1815577
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "HNFNU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Hunan First Normal University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "湖南第一师范学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-06-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "hnu.edu.cn"
+        ],
+        "established": 976,
+        "external_ids": [
+          {
+            "all": [
+              "501100003824"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.67293.39"
+            ],
+            "preferred": "grid.67293.39",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q649868",
+              "Q17023539"
+            ],
+            "preferred": "Q649868",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05htk5m33",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.hnu.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Hunan_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HN",
+              "country_subdivision_name": "Hunan",
+              "lat": 28.19874,
+              "lng": 112.97087,
+              "name": "Changsha"
+            },
+            "geonames_id": 1815577
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Hunan University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Húnán Dàxué"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "湖南大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "State Key Laboratory of Advanced Design and Manufacturing of Automobile Body",
+            "type": "child",
+            "id": "https://ror.org/02xrb7c43"
+          },
+          {
+            "label": "State Key Laboratory of Chemobiosensing and Chemometrics",
+            "type": "child",
+            "id": "https://ror.org/05vg20182"
+          },
+          {
+            "label": "National Supercomputing Changsha Center",
+            "type": "child",
+            "id": "https://ror.org/05kvtff09"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1985,
+        "external_ids": [
+          {
+            "all": [
+              "grid.464350.0"
+            ],
+            "preferred": "grid.464350.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1765 8802"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q15965526"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/032bw1116",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.hnnd.com.cn/index.html"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Hunan_Women%27s_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HN",
+              "country_subdivision_name": "Hunan",
+              "lat": 28.19874,
+              "lng": 112.97087,
+              "name": "Changsha"
+            },
+            "geonames_id": 1815577
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Hunan Women'S University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Húnán Nǚzǐ Xuéyuàn"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "湖南女子学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "hncu.edu.cn"
+        ],
+        "established": 1970,
+        "external_ids": [
+          {
+            "all": [
+              "100019171"
+            ],
+            "preferred": "100019171",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.464328.f"
+            ],
+            "preferred": "grid.464328.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1800 0236"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q15692487"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01vd7vb53",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.hncu.edu.cn/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Hunan_City_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HN",
+              "country_subdivision_name": "Hunan",
+              "lat": 28.56938,
+              "lng": 112.34733,
+              "name": "Heshan"
+            },
+            "geonames_id": 1808316
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Hunan City University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Húnán Chéngshì Xuéyuàn"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "湖南城市学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "hunau.edu.cn"
+        ],
+        "established": 1951,
+        "external_ids": [
+          {
+            "all": [
+              "501100008959"
+            ],
+            "preferred": "501100008959",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.257160.7"
+            ],
+            "preferred": "grid.257160.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1761 0331"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5941995"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01dzed356",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.hunau.edu.cn/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Hunan_Agricultural_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HN",
+              "country_subdivision_name": "Hunan",
+              "lat": 28.19874,
+              "lng": 112.97087,
+              "name": "Changsha"
+            },
+            "geonames_id": 1815577
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "HAU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Hunan Agricultural University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "湖南农业大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2000,
+        "external_ids": [
+          {
+            "all": [
+              "grid.452648.9"
+            ],
+            "preferred": "grid.452648.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1762 8988"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/02ad7ap24",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.qjnu.edu.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "YN",
+              "country_subdivision_name": "Yunnan",
+              "lat": 25.48333,
+              "lng": 103.78333,
+              "name": "Qujing"
+            },
+            "geonames_id": 1797318
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "QJNU "
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Qujing Normal University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "曲靖师范学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1955,
+        "external_ids": [
+          {
+            "all": [
+              "501100004498"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.453300.1"
+            ],
+            "preferred": "grid.453300.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0496 6791"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/04enz2k98",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.cdnu.edu.cn/english/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SC",
+              "country_subdivision_name": "Sichuan",
+              "lat": 30.66667,
+              "lng": 104.06667,
+              "name": "Chengdu"
+            },
+            "geonames_id": 1815286
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CDNU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Chengdu Normal University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Sichuan College of Education"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1958,
+        "external_ids": [
+          {
+            "all": [
+              "grid.443241.4"
+            ],
+            "preferred": "grid.443241.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1765 959X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30294455"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01djkf495",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.bcsfxy.com"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "JL",
+              "country_subdivision_name": "Jilin",
+              "lat": 45.61751,
+              "lng": 122.83302,
+              "name": "Baicheng"
+            },
+            "geonames_id": 2038569
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "BaiCheng Normal University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Baicheng Teachers College"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "白城师范学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1921,
+        "external_ids": [
+          {
+            "all": [
+              "grid.443276.0"
+            ],
+            "preferred": "grid.443276.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0300 0370"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1822432"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/011xrgv27",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.lnu.edu.ph/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Leyte_Normal_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "PH",
+              "country_name": "Philippines",
+              "country_subdivision_code": "08",
+              "country_subdivision_name": "Eastern Visayas",
+              "lat": 11.36687,
+              "lng": 124.48239,
+              "name": "Leyte"
+            },
+            "geonames_id": 1706801
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "LNU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Leyte Normal School"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Leyte Normal University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Leyte Provincial Normal School"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Leyte State College"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-10-12",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1904,
+        "external_ids": [
+          {
+            "all": [
+              "Q48975826"
+            ],
+            "preferred": "Q48975826",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02caqw325",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.hjnu.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://zh.wikipedia.org/wiki/%E6%B1%89%E6%B1%9F%E5%B8%88%E8%8C%83%E5%AD%A6%E9%99%A2"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HB",
+              "country_subdivision_name": "Hubei",
+              "lat": 32.6475,
+              "lng": 110.77806,
+              "name": "Shiyan"
+            },
+            "geonames_id": 1794903
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "HJNU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Hanjiang Normal University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "汉江师范学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-12-20",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "Q56271873"
+            ],
+            "preferred": "Q56271873",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03mqkaa34",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.yuznu.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://zh.wikipedia.org/wiki/%E8%B1%AB%E7%AB%A0%E5%B8%88%E8%8C%83%E5%AD%A6%E9%99%A2"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "JX",
+              "country_subdivision_name": "Jiangxi",
+              "lat": 28.68396,
+              "lng": 115.85306,
+              "name": "Nanchang"
+            },
+            "geonames_id": 1800163
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Yuzhang Normal University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "豫章师范学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1946,
+        "external_ids": [
+          {
+            "all": [
+              "501100014904"
+            ],
+            "preferred": "501100014904",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.440817.e"
+            ],
+            "preferred": "grid.440817.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1804 3383"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6485993"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05kyq2m47",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.lfsfxy.edu.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HE",
+              "country_subdivision_name": "Hebei",
+              "lat": 39.52079,
+              "lng": 116.71471,
+              "name": "Langfang"
+            },
+            "geonames_id": 1804540
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Langfang Normal University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Langfang Teachers College"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "廊坊师范学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2009,
+        "external_ids": [
+          {
+            "all": [
+              "501100013800"
+            ],
+            "preferred": "501100013800",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.459704.b"
+            ],
+            "preferred": "grid.459704.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 6473 2841"
+            ],
+            "preferred": "0000 0004 6473 2841",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/038d7ve10",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.lpssy.edu.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GZ",
+              "country_subdivision_name": "Guizhou",
+              "lat": 26.59444,
+              "lng": 104.83333,
+              "name": "Liupanshui"
+            },
+            "geonames_id": 8533133
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "LPU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Liupanshui Normal University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1931,
+        "external_ids": [
+          {
+            "all": [
+              "grid.452558.b"
+            ],
+            "preferred": "grid.452558.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 7387 8498"
+            ],
+            "preferred": "0000 0004 7387 8498",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/00he9fz79",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.jntc.nm.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "NM",
+              "country_subdivision_name": "Inner Mongolia",
+              "lat": 41.0275,
+              "lng": 113.10583,
+              "name": "Jining"
+            },
+            "geonames_id": 2036458
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "JNU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Jining Normal University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "501100017597"
+            ],
+            "preferred": "501100017597",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.459456.f"
+            ],
+            "preferred": "grid.459456.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 7221 6177"
+            ],
+            "preferred": "0000 0004 7221 6177",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/03saxfv98",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.nxtu.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "NM",
+              "country_subdivision_name": "Inner Mongolia",
+              "lat": 50.93697,
+              "lng": 124.31154,
+              "name": "Guyuan"
+            },
+            "geonames_id": 2037106
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Ningxia Normal University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1923,
+        "external_ids": [
+          {
+            "all": [
+              "501100008874"
+            ],
+            "preferred": "501100008874",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.443615.1"
+            ],
+            "preferred": "grid.443615.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1797 7790"
+            ],
+            "preferred": "0000 0004 1797 7790",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/00n2kc060",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.wntc.edu.cn/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Weinan_Normal_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SN",
+              "country_subdivision_name": "Shaanxi",
+              "lat": 34.50355,
+              "lng": 109.50891,
+              "name": "Weinan"
+            },
+            "geonames_id": 1791636
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Chishui Vocational School"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Weinan Normal University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "渭南师范学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1905,
+        "external_ids": [
+          {
+            "all": [
+              "501100010650"
+            ],
+            "preferred": "501100010650",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.443405.2"
+            ],
+            "preferred": "grid.443405.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 1893 9268"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q11177091"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/007gf6e19",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.hgnc.net/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Huanggang_Normal_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HB",
+              "country_subdivision_name": "Hubei",
+              "lat": 30.45,
+              "lng": 114.8,
+              "name": "Huangzhou"
+            },
+            "geonames_id": 1807112
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "HNU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Huanggang Normal University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Huangzhou Normal School"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "黄冈师范学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1998,
+        "external_ids": [
+          {
+            "all": [
+              "501100013079"
+            ],
+            "preferred": "501100013079",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.464376.4"
+            ],
+            "preferred": "grid.464376.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1759 6007"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/02bc8tz70",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.njtc.edu.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SC",
+              "country_subdivision_name": "Sichuan",
+              "lat": 29.58354,
+              "lng": 105.06216,
+              "name": "Neijiang"
+            },
+            "geonames_id": 1799491
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Neijiang Normal University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "内江师范学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1958,
+        "external_ids": [
+          {
+            "all": [
+              "501100011998"
+            ],
+            "preferred": "501100011998",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.443847.8"
+            ],
+            "preferred": "grid.443847.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0805 3594"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q15900644"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02dzkdp68",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.mdjnu.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HL",
+              "country_subdivision_name": "Heilongjiang",
+              "lat": 44.54804,
+              "lng": 129.62594,
+              "name": "Mudanjiang"
+            },
+            "geonames_id": 2035715
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Bei’an Teachers’ College"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MNU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Mudanjiang Normal University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Nen’jiang Department of Northeast Agricultural Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Ning’an Teachers’ College"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "牡丹江师范学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 13007
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 4162
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 1236
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 326
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 122
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 78
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 40
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 33
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 24
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 1986
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 1715
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 1001
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 836
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 467
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 444
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 443
+        },
+        {
+          "id": "ph",
+          "title": "Philippines",
+          "count": 385
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 382
+        },
+        {
+          "id": "ir",
+          "title": "Iran",
+          "count": 354
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 7538
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 3015
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 2515
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1155
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 531
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 100
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 14854
+        }
+      ]
+    }
+  }
+}

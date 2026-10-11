@@ -1,0 +1,2101 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=New+York+University+Abu+Dhabi",
+  "http_status": 200,
+  "query": "New York University Abu Dhabi",
+  "data": {
+    "number_of_results": 15738,
+    "time_taken": 29,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-05-05",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2008,
+        "external_ids": [
+          {
+            "all": [
+              "100012025",
+              "100014958",
+              "100020770"
+            ],
+            "preferred": "100012025",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.440573.1"
+            ],
+            "preferred": "grid.440573.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1755 5934"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q566189"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00e5k0821",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://nyuad.nyu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/New_York_University_Abu_Dhabi"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "AE",
+              "country_name": "United Arab Emirates",
+              "country_subdivision_code": "AZ",
+              "country_subdivision_name": "Abu Dhabi",
+              "lat": 24.45118,
+              "lng": 54.39696,
+              "name": "Abu Dhabi"
+            },
+            "geonames_id": 292968
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "NYU Abu Dhabi"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "New York University Abu Dhabi"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "جامعة نيويورك أبوظبي"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "New York University",
+            "type": "parent",
+            "id": "https://ror.org/0190ak572"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "adu.ac.ae"
+        ],
+        "established": 2003,
+        "external_ids": [
+          {
+            "all": [
+              "100020871"
+            ],
+            "preferred": "100020871",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.444459.c"
+            ],
+            "preferred": "grid.444459.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1762 9315"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4670157"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01r3kjq03",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.adu.ac.ae/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Abu_Dhabi_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "AE",
+              "country_name": "United Arab Emirates",
+              "country_subdivision_code": "AZ",
+              "country_subdivision_name": "Abu Dhabi",
+              "lat": 24.45118,
+              "lng": 54.39696,
+              "name": "Abu Dhabi"
+            },
+            "geonames_id": 292968
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ADU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Abu Dhabi University"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "جامعة ابوظبي"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2006,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449223.a"
+            ],
+            "preferred": "grid.449223.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1754 9534"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3551475"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03e1ymy32",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.sorbonne.ae/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Sorbonne_University_Abu_Dhabi"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "AE",
+              "country_name": "United Arab Emirates",
+              "country_subdivision_code": "AZ",
+              "country_subdivision_name": "Abu Dhabi",
+              "lat": 24.45118,
+              "lng": 54.39696,
+              "name": "Abu Dhabi"
+            },
+            "geonames_id": 292968
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Paris-Sorbonne University Abu Dhabi"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Sorbonne University Abu Dhabi"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "جامعة السوربون أبوظبي"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-12-09",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "louvreabudhabi.ae"
+        ],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/00t5ccq33",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.louvreabudhabi.ae"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "AE",
+              "country_name": "United Arab Emirates",
+              "country_subdivision_code": "AZ",
+              "country_subdivision_name": "Abu Dhabi",
+              "lat": 24.45118,
+              "lng": 54.39696,
+              "name": "Abu Dhabi"
+            },
+            "geonames_id": 292968
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Louvre Abou Dabi"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Louvre Abu Dhabi"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "اللوفر أبوظبي"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "alias"
+            ],
+            "value": "متحف اللوفر أبوظبي"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-08-06",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-08-07",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "dct.gov.ae",
+          "dctabudhabi.ae"
+        ],
+        "established": 2016,
+        "external_ids": [
+          {
+            "all": [
+              "Q16125875"
+            ],
+            "preferred": "Q16125875",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02nf7r014",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://dct.gov.ae/en/default.aspx"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Abu_Dhabi_Department_of_Culture_and_Tourism"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "AE",
+              "country_name": "United Arab Emirates",
+              "country_subdivision_code": "AZ",
+              "country_subdivision_name": "Abu Dhabi",
+              "lat": 24.45118,
+              "lng": 54.39696,
+              "name": "Abu Dhabi"
+            },
+            "geonames_id": 292968
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Abu Dhabi Department of Culture and Tourism"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "DCT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "DCT Abu Dhabi"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Department of Culture and Tourism"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Department of Culture and Tourism Abu Dhabi"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "Département de la Culture et du Tourisme d'Abu Dhabi"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "alias"
+            ],
+            "value": "دائرة الثقافة والسياحة"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1999,
+        "external_ids": [
+          {
+            "all": [
+              "grid.440205.7"
+            ],
+            "preferred": "grid.440205.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0526 3870"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4670129"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/048s0v676",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.falconhospital.com"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Abu_Dhabi_Falcon_Hospital"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "AE",
+              "country_name": "United Arab Emirates",
+              "country_subdivision_code": "AZ",
+              "country_subdivision_name": "Abu Dhabi",
+              "lat": 24.45118,
+              "lng": 54.39696,
+              "name": "Abu Dhabi"
+            },
+            "geonames_id": 292968
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ADFH"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Abu Dhabi Falcon Hospital"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "مستشفى أبو ظبي للصقور"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-11-07",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2007,
+        "external_ids": [
+          {
+            "all": [
+              "grid.507374.2"
+            ],
+            "preferred": "grid.507374.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1756 0733"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/016bjqk65",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.seha.ae"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "AE",
+              "country_name": "United Arab Emirates",
+              "country_subdivision_code": "AZ",
+              "country_subdivision_name": "Abu Dhabi",
+              "lat": 24.45118,
+              "lng": 54.39696,
+              "name": "Abu Dhabi"
+            },
+            "geonames_id": 292968
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Abu Dhabi Health Services"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "SEHA"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "شركة أبوظبي للخدمات الصحية - صحة"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Al Ain Hospital",
+            "type": "parent",
+            "id": "https://ror.org/000c39f30"
+          },
+          {
+            "label": "Corniche Hospital",
+            "type": "parent",
+            "id": "https://ror.org/02rn83489"
+          },
+          {
+            "label": "Shaikh Khalifa Medical City",
+            "type": "parent",
+            "id": "https://ror.org/03gd1jf50"
+          },
+          {
+            "label": "Tawam Hospital",
+            "type": "parent",
+            "id": "https://ror.org/007a5h107"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1996,
+        "external_ids": [
+          {
+            "all": [
+              "grid.419128.7"
+            ],
+            "preferred": "grid.419128.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0546 3942"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q18353711"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00p2bx870",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ead.ae/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Environment_Agency_Abu_Dhabi"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "AE",
+              "country_name": "United Arab Emirates",
+              "country_subdivision_code": "AZ",
+              "country_subdivision_name": "Abu Dhabi",
+              "lat": 24.45118,
+              "lng": 54.39696,
+              "name": "Abu Dhabi"
+            },
+            "geonames_id": 292968
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "EAD"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Environment Agency Abu Dhabi"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "هيئة البيئة"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-05-30",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-06-02",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "clevelandclinicabudhabi.ae"
+        ],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/00042rr39",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.clevelandclinicabudhabi.ae"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "AE",
+              "country_name": "United Arab Emirates",
+              "country_subdivision_code": "AZ",
+              "country_subdivision_name": "Abu Dhabi",
+              "lat": 24.45118,
+              "lng": 54.39696,
+              "name": "Abu Dhabi"
+            },
+            "geonames_id": 292968
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Cleveland Clinic Abu Dhabi"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2005,
+        "external_ids": [
+          {
+            "all": [
+              "100012810",
+              "501100015520"
+            ],
+            "preferred": "100012810",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.466491.8"
+            ],
+            "preferred": "grid.466491.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1763 0420"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q40380206"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02x5wtf56",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.adek.gov.ae"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Abu_Dhabi_Education_Council"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "AE",
+              "country_name": "United Arab Emirates",
+              "country_subdivision_code": "AZ",
+              "country_subdivision_name": "Abu Dhabi",
+              "lat": 24.45118,
+              "lng": 54.39696,
+              "name": "Abu Dhabi"
+            },
+            "geonames_id": 292968
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ADEC"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ADEK"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Abu Dhabi Department of Education and Knowledge"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Abu Dhabi Education Council"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Department of Education and Knowledge"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "دائرة التعليم والمعرفة"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "alias"
+            ],
+            "value": "مجلس أبو ظبي التعليم"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-03-17",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-03-17",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "abudhabi.iitd.ac.in"
+        ],
+        "established": 2024,
+        "external_ids": [],
+        "id": "https://ror.org/027jdar49",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://abudhabi.iitd.ac.in"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "AE",
+              "country_name": "United Arab Emirates",
+              "country_subdivision_code": "AZ",
+              "country_subdivision_name": "Abu Dhabi",
+              "lat": 24.45118,
+              "lng": 54.39696,
+              "name": "Abu Dhabi"
+            },
+            "geonames_id": 292968
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "IIT Delhi Abu Dhabi"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "IITD-AD"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Indian Institute of Technology Delhi Abu Dhabi"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-06-24",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-06-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "adsm.ac.ae"
+        ],
+        "established": 2011,
+        "external_ids": [
+          {
+            "all": [
+              "Q134359499"
+            ],
+            "preferred": "Q134359499",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02apwhd52",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://adsm.ac.ae"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "AE",
+              "country_name": "United Arab Emirates",
+              "country_subdivision_code": "AZ",
+              "country_subdivision_name": "Abu Dhabi",
+              "lat": 24.45118,
+              "lng": 54.39696,
+              "name": "Abu Dhabi"
+            },
+            "geonames_id": 292968
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "ADSM"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Abu Dhabi School of Management"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "كلية أبوظبي للإدارة"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-04-02",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-04-03",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "adscc.ae"
+        ],
+        "established": 2019,
+        "external_ids": [],
+        "id": "https://ror.org/01nbken06",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://adscc.ae"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "AE",
+              "country_name": "United Arab Emirates",
+              "country_subdivision_code": "AZ",
+              "country_subdivision_name": "Abu Dhabi",
+              "lat": 24.45118,
+              "lng": 54.39696,
+              "name": "Abu Dhabi"
+            },
+            "geonames_id": 292968
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "ADSCC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Abu Dhabi Stem Cells Center"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nyu.edu"
+        ],
+        "established": 1831,
+        "external_ids": [
+          {
+            "all": [
+              "100006732",
+              "100005593",
+              "100008208",
+              "100006966",
+              "100007153",
+              "100005481",
+              "100008929",
+              "100006720",
+              "100006941",
+              "100006805",
+              "100016027",
+              "100031460"
+            ],
+            "preferred": "100006732",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.137628.9"
+            ],
+            "preferred": "grid.137628.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1936 8753"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q49210",
+              "Q75478"
+            ],
+            "preferred": "Q49210",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0190ak572",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.nyu.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/New_York_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 40.71427,
+              "lng": -74.00597,
+              "name": "New York"
+            },
+            "geonames_id": 5128581
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NYU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "New York University"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de Nueva York"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de New York"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Courant Institute of Mathematical Sciences",
+            "type": "child",
+            "id": "https://ror.org/037tm7f56"
+          },
+          {
+            "label": "New York University Abu Dhabi",
+            "type": "child",
+            "id": "https://ror.org/00e5k0821"
+          },
+          {
+            "label": "New York University Florence",
+            "type": "child",
+            "id": "https://ror.org/02pthyn77"
+          },
+          {
+            "label": "New York University Paris",
+            "type": "child",
+            "id": "https://ror.org/05mq03431"
+          },
+          {
+            "label": "New York University Press",
+            "type": "child",
+            "id": "https://ror.org/01rz15025"
+          },
+          {
+            "label": "New York University Shanghai",
+            "type": "child",
+            "id": "https://ror.org/02vpsdb40"
+          },
+          {
+            "label": "NYU Grossman Long Island School of Medicine",
+            "type": "child",
+            "id": "https://ror.org/04w8msd94"
+          },
+          {
+            "label": "Bellevue Hospital Center",
+            "type": "related",
+            "id": "https://ror.org/01ky34z31"
+          },
+          {
+            "label": "Brookdale University Hospital and Medical Center",
+            "type": "related",
+            "id": "https://ror.org/0065vkd37"
+          },
+          {
+            "label": "Coleridge Initiative",
+            "type": "related",
+            "id": "https://ror.org/05j5k1t23"
+          },
+          {
+            "label": "NYU Langone Health",
+            "type": "related",
+            "id": "https://ror.org/005dvqh91"
+          },
+          {
+            "label": "New York University Langone Orthopedic Hospital",
+            "type": "related",
+            "id": "https://ror.org/05d789537"
+          },
+          {
+            "label": "Rusk Rehabilitation",
+            "type": "related",
+            "id": "https://ror.org/05bk0c386"
+          },
+          {
+            "label": "VA NY Harbor Healthcare System",
+            "type": "related",
+            "id": "https://ror.org/03s5r4e84"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-05",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "adafsa.gov.ae"
+        ],
+        "established": 2019,
+        "external_ids": [
+          {
+            "all": [
+              "100030986"
+            ],
+            "preferred": "100030986",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/036m6v143",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.adafsa.gov.ae"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "AE",
+              "country_name": "United Arab Emirates",
+              "country_subdivision_code": "AZ",
+              "country_subdivision_name": "Abu Dhabi",
+              "lat": 24.45118,
+              "lng": 54.39696,
+              "name": "Abu Dhabi"
+            },
+            "geonames_id": 292968
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ADAFSA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Abu Dhabi Agriculture & Food Safety Authority"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Abu Dhabi Agriculture and Food Safety Authority"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "هيئة أبوظبي للزراعة والسلامة الغذائية"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1916,
+        "external_ids": [
+          {
+            "all": [
+              "grid.447172.3"
+            ],
+            "preferred": "grid.447172.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2202 9902"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7014807"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01rz15025",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://nyupress.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/New_York_University_Press"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 40.71427,
+              "lng": -74.00597,
+              "name": "New York"
+            },
+            "geonames_id": 5128581
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NYU PRESS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "New York University Press"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "New York University",
+            "type": "parent",
+            "id": "https://ror.org/0190ak572"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2012,
+        "external_ids": [
+          {
+            "all": [
+              "100008410"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.449457.f"
+            ],
+            "preferred": "grid.449457.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 5376 0118"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q13652966"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02vpsdb40",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://shanghai.nyu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/New_York_University_Shanghai"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SH",
+              "country_subdivision_name": "Shanghai",
+              "lat": 31.22222,
+              "lng": 121.45806,
+              "name": "Shanghai"
+            },
+            "geonames_id": 1796236
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "NYU Shanghai"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "New York University Shanghai"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "上海紐約大學"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "上海纽约大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "New York University",
+            "type": "parent",
+            "id": "https://ror.org/0190ak572"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1969,
+        "external_ids": [
+          {
+            "all": [
+              "grid.479986.d"
+            ],
+            "preferred": "grid.479986.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0644 5596"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q24204433"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05mq03431",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.nyu.edu/paris.html"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/NYU_Paris"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "FR",
+              "country_name": "France",
+              "country_subdivision_code": "IDF",
+              "country_subdivision_name": "Île-de-France",
+              "lat": 48.85341,
+              "lng": 2.3488,
+              "name": "Paris"
+            },
+            "geonames_id": 2988507
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "NYU Paris"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "New York University Paris"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "New York University",
+            "type": "parent",
+            "id": "https://ror.org/0190ak572"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1994,
+        "external_ids": [
+          {
+            "all": [
+              "grid.473731.5"
+            ],
+            "preferred": "grid.473731.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 5897 8079"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q24204434"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02pthyn77",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.nyu.edu/florence.html"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/NYU_Florence"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "52",
+              "country_subdivision_name": "Tuscany",
+              "lat": 43.77925,
+              "lng": 11.24626,
+              "name": "Florence"
+            },
+            "geonames_id": 3176959
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NYU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "NYU Florence"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "New York University Florence"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "New York University",
+            "type": "parent",
+            "id": "https://ror.org/0190ak572"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "adnoc.ae"
+        ],
+        "established": 1971,
+        "external_ids": [
+          {
+            "all": [
+              "501100002672"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.467170.3"
+            ],
+            "preferred": "grid.467170.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0155 8274"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q166729"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/010e8pt90",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.adnoc.ae/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Abu_Dhabi_National_Oil_Company"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "AE",
+              "country_name": "United Arab Emirates",
+              "country_subdivision_code": "AZ",
+              "country_subdivision_name": "Abu Dhabi",
+              "lat": 24.45118,
+              "lng": 54.39696,
+              "name": "Abu Dhabi"
+            },
+            "geonames_id": 292968
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ADNOC"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Abu Dhabi National Oil (United Arab Emirates)"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "شركة بترول أبوظبي الوطنية"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company",
+          "funder"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 13041
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 4469
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 1325
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 415
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 376
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 180
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 173
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 165
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 81
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 2520
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 1630
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 1034
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 855
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 470
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 450
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 445
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 389
+        },
+        {
+          "id": "ph",
+          "title": "Philippines",
+          "count": 386
+        },
+        {
+          "id": "ir",
+          "title": "Iran",
+          "count": 354
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 7533
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 3095
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 3047
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1160
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 532
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 371
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 15738
+        }
+      ]
+    }
+  }
+}

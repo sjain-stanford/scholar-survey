@@ -1,0 +1,1981 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=University+of+Freiburg",
+  "http_status": 200,
+  "query": "University of Freiburg",
+  "data": {
+    "number_of_results": 35477,
+    "time_taken": 43,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uni-freiburg.de"
+        ],
+        "established": 1457,
+        "external_ids": [
+          {
+            "all": [
+              "501100002714",
+              "501100003190",
+              "501100021729"
+            ],
+            "preferred": "501100002714",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.5963.9"
+            ],
+            "preferred": "grid.5963.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0491 7203"
+            ],
+            "preferred": "0000 0004 0491 7203",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q153987"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0245cg223",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uni-freiburg.de"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Freiburg"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BW",
+              "country_subdivision_name": "Baden-Wurttemberg",
+              "lat": 47.9959,
+              "lng": 7.85222,
+              "name": "Freiburg im Breisgau"
+            },
+            "geonames_id": 2925177
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Albert Ludwig University of Freiburg"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Albert-Ludwigs University Freiburg"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "Albert-Ludwigs-Universitaet Freiburg"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Albert-Ludwigs-University Freiburg"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Albert-Ludwigs-University of Freiburg"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Albert-Ludwigs-Universität Freiburg"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Freiburg University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Freiburg"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University Medical Center Freiburg",
+            "type": "related",
+            "id": "https://ror.org/03vzbgh69"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ph-freiburg.de"
+        ],
+        "established": 1962,
+        "external_ids": [
+          {
+            "all": [
+              "grid.461778.b"
+            ],
+            "preferred": "grid.461778.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9752 9146"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/02rtsfd15",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ph-freiburg.de/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BW",
+              "country_subdivision_name": "Baden-Wurttemberg",
+              "lat": 47.9959,
+              "lng": 7.85222,
+              "name": "Freiburg im Breisgau"
+            },
+            "geonames_id": 2925177
+          }
+        ],
+        "names": [
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Pädagogische Hochschule Freiburg"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Education Freiburg"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "Université des Sciences de l'Education Freiburg"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uniklinik-freiburg.de"
+        ],
+        "established": 1457,
+        "external_ids": [
+          {
+            "all": [
+              "grid.7708.8"
+            ],
+            "preferred": "grid.7708.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9428 7911"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q127773"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03vzbgh69",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uniklinik-freiburg.de/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_Medical_Center_Freiburg"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BW",
+              "country_subdivision_name": "Baden-Wurttemberg",
+              "lat": 47.9959,
+              "lng": 7.85222,
+              "name": "Freiburg im Breisgau"
+            },
+            "geonames_id": 2925177
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Freiburg University Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Freiburg University Medical Center"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "Universitaetsklinikum Freiburg"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Hospital Freiburg"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University Medical Center Freiburg"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Medical Centre Freiburg"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Universitätsklinikum Freiburg"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Klinik für Frauenheilkunde",
+            "type": "child",
+            "id": "https://ror.org/00a0bqh48"
+          },
+          {
+            "label": "Klinik für Neuropädiatrie und Muskelerkrankungen",
+            "type": "child",
+            "id": "https://ror.org/03cba0s60"
+          },
+          {
+            "label": "Universitäts-Herzzentrum Freiburg-Bad Krozingen",
+            "type": "child",
+            "id": "https://ror.org/02w6m7e50"
+          },
+          {
+            "label": "University of Freiburg",
+            "type": "related",
+            "id": "https://ror.org/0245cg223"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-05",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "fr.ch"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "501100020081"
+            ],
+            "preferred": "501100020081",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/00d4v9a50",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.fr.ch"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "CH",
+              "country_name": "Switzerland",
+              "country_subdivision_code": "FR",
+              "country_subdivision_name": "Fribourg",
+              "lat": 46.80237,
+              "lng": 7.15128,
+              "name": "Fribourg"
+            },
+            "geonames_id": 2660718
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Canton de Fribourg"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Canton of Freiburg"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Canton of Fribourg"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Kanton Freiburg"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "universitaets-herzzentrum.de"
+        ],
+        "established": 2011,
+        "external_ids": [
+          {
+            "all": [
+              "grid.418466.9"
+            ],
+            "preferred": "grid.418466.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0493 2307"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/02w6m7e50",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uniklinik-freiburg.de/herzzentrum.html"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BW",
+              "country_subdivision_name": "Baden-Wurttemberg",
+              "lat": 47.91667,
+              "lng": 7.7,
+              "name": "Bad Krozingen"
+            },
+            "geonames_id": 2953414
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UHC"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "Universitaets-Herzzentrum Freiburg-Bad Krozingen"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University Heart Center Freiburg"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Heart Center Freiburg-Bad Krozingen"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Heart Centre Freiburg-Bad Krozingen"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universitäts-Herzzentrum Freiburg-Bad Krozingen"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University Medical Center Freiburg",
+            "type": "parent",
+            "id": "https://ror.org/03vzbgh69"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-01-29",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "kh-freiburg.de"
+        ],
+        "established": 1971,
+        "external_ids": [
+          {
+            "all": [
+              "grid.465922.e"
+            ],
+            "preferred": "grid.465922.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9498 0046"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1736342"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00vd2h880",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.kh-freiburg.de"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Catholic_University_of_Applied_Sciences_Freiburg"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BW",
+              "country_subdivision_name": "Baden-Wurttemberg",
+              "lat": 47.9959,
+              "lng": 7.85222,
+              "name": "Freiburg im Breisgau"
+            },
+            "geonames_id": 2925177
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Catholic University of Applied Sciences Freiburg"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Katholische Hochschule Freiburg"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-01-29",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "eh-freiburg.de"
+        ],
+        "established": 1918,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449362.e"
+            ],
+            "preferred": "grid.449362.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0378 8604"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q880440"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03w3a0h43",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.eh-freiburg.de"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Protestant_University_for_Applied_Sciences_Freiburg"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BW",
+              "country_subdivision_name": "Baden-Wurttemberg",
+              "lat": 47.9959,
+              "lng": 7.85222,
+              "name": "Freiburg im Breisgau"
+            },
+            "geonames_id": 2925177
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "EH"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Evangelische Hochschule Freiburg"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Protestant University of Applied Sciences Freiburg"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.491752.c"
+            ],
+            "preferred": "grid.491752.c",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/01ccgqb68",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.dermatologie-freiburg.de/en/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BW",
+              "country_subdivision_name": "Baden-Wurttemberg",
+              "lat": 47.9959,
+              "lng": 7.85222,
+              "name": "Freiburg im Breisgau"
+            },
+            "geonames_id": 2925177
+          }
+        ],
+        "names": [
+          {
+            "lang": "de",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Dermatologie Freiburg"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1803,
+        "external_ids": [
+          {
+            "all": [
+              "grid.482986.9"
+            ],
+            "preferred": "grid.482986.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 1087 6952"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/00rath085",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.fr.ch/aef/de/pub/index.cfm"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "CH",
+              "country_name": "Switzerland",
+              "country_subdivision_code": "FR",
+              "country_subdivision_name": "Fribourg",
+              "lat": 46.80237,
+              "lng": 7.15128,
+              "name": "Fribourg"
+            },
+            "geonames_id": 2660718
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "AEF"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "Archives de l’Etat de Fribourg"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Staatsarchiv Freiburg"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-04-30",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 7667 4765"
+            ],
+            "preferred": "0000 0004 7667 4765",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/038taf935",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.cvua-freiburg.de"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BW",
+              "country_subdivision_name": "Baden-Wurttemberg",
+              "lat": 47.9959,
+              "lng": 7.85222,
+              "name": "Freiburg im Breisgau"
+            },
+            "geonames_id": 2925177
+          }
+        ],
+        "names": [
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "CVUA Freiburg"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Chemical and Veterinary Investigations Office Freiburg"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Chemisches und Veterinäruntersuchungsamt Freiburg"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Landesregierung von Baden-Württemberg",
+            "type": "parent",
+            "id": "https://ror.org/0522eh277"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-07-15",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.413366.5"
+            ],
+            "preferred": "grid.413366.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0511 7283"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/00fz8k419",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.h-fr.ch/de/unsere-standorte/hfr-freiburg-kantonsspital"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "CH",
+              "country_name": "Switzerland",
+              "country_subdivision_code": "FR",
+              "country_subdivision_name": "Fribourg",
+              "lat": 46.80237,
+              "lng": 7.15128,
+              "name": "Fribourg"
+            },
+            "geonames_id": 2660718
+          }
+        ],
+        "names": [
+          {
+            "lang": "de",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "HFR Freiburg Kantonsspital"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "HFR Fribourg"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "HFR Fribourg - Hôpital cantonal"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "Hôpital Cantonal Fribourg"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "Kantonsspital Freiburg"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "freiburger spital (HFR) Universitäres Lehr- und Forschungsspital"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "hôpital fribourgeois (HFR) Hôpital de formation universitaire et de recherche"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Fribourg",
+            "type": "related",
+            "id": "https://ror.org/022fs9h90"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-06-02",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "unifr.ch"
+        ],
+        "established": 1889,
+        "external_ids": [
+          {
+            "all": [
+              "501100005869",
+              "501100013788"
+            ],
+            "preferred": "501100005869",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.8534.a"
+            ],
+            "preferred": "grid.8534.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0478 1713"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q36188"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/022fs9h90",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.unifr.ch"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Fribourg"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "CH",
+              "country_name": "Switzerland",
+              "country_subdivision_code": "FR",
+              "country_subdivision_name": "Fribourg",
+              "lat": 46.80237,
+              "lng": 7.15128,
+              "name": "Fribourg"
+            },
+            "geonames_id": 2660718
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Fribourg"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "label"
+            ],
+            "value": "Università di Friburgo"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Universität Freiburg"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de Fribourg"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Adolphe Merkle Institute",
+            "type": "child",
+            "id": "https://ror.org/01yx62742"
+          },
+          {
+            "label": "HFR Freiburg Kantonsspital",
+            "type": "related",
+            "id": "https://ror.org/00fz8k419"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1930,
+        "external_ids": [
+          {
+            "all": [
+              "grid.451232.3"
+            ],
+            "preferred": "grid.451232.3",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/02q5vez72",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://freiburg.schwarzwaldmilch.de/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BW",
+              "country_subdivision_name": "Baden-Wurttemberg",
+              "lat": 47.9959,
+              "lng": 7.85222,
+              "name": "Freiburg im Breisgau"
+            },
+            "geonames_id": 2925177
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Schwarzwaldmilch Freiburg (Germany)"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.492141.b"
+            ],
+            "preferred": "grid.492141.b",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/05scpew87",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://rkk-klinikum.de/das-rkk-klinikum/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BW",
+              "country_subdivision_name": "Baden-Wurttemberg",
+              "lat": 47.9959,
+              "lng": 7.85222,
+              "name": "Freiburg im Breisgau"
+            },
+            "geonames_id": 2925177
+          }
+        ],
+        "names": [
+          {
+            "lang": "de",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "St. Josefskrankenhaus Freiburg"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Regionalverbund kirchlicher Krankenhäuser",
+            "type": "parent",
+            "id": "https://ror.org/00k01hv15"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1920,
+        "external_ids": [
+          {
+            "all": [
+              "grid.482633.8"
+            ],
+            "preferred": "grid.482633.8",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/04s3f1024",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.wbi-bw.de/pb/,Lde/Startseite"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BW",
+              "country_subdivision_name": "Baden-Wurttemberg",
+              "lat": 47.9959,
+              "lng": 7.85222,
+              "name": "Freiburg im Breisgau"
+            },
+            "geonames_id": 2925177
+          }
+        ],
+        "names": [
+          {
+            "lang": "de",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Staatliches Weinbauinstitut Freiburg"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "100032907"
+            ],
+            "preferred": "100032907",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.492241.8"
+            ],
+            "preferred": "grid.492241.8",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/03twz1019",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.wissges.uni-freiburg.de/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BW",
+              "country_subdivision_name": "Baden-Wurttemberg",
+              "lat": 47.9959,
+              "lng": 7.85222,
+              "name": "Freiburg im Breisgau"
+            },
+            "geonames_id": 2925177
+          }
+        ],
+        "names": [
+          {
+            "lang": "de",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Wissenschaftliche Gesellschaft Freiburg"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.483302.e"
+            ],
+            "preferred": "grid.483302.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0445 2688"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q33121300"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02kkwkt79",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.hefr.ch/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "CH",
+              "country_name": "Switzerland",
+              "country_subdivision_code": "FR",
+              "country_subdivision_name": "Fribourg",
+              "lat": 46.80237,
+              "lng": 7.15128,
+              "name": "Fribourg"
+            },
+            "geonames_id": 2660718
+          }
+        ],
+        "names": [
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Fachhochschule Westschweiz Freiburg"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "HES-SO Fribourg"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Haute École Spécialisée de Suisse Occidentale de Fribourg"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Applied Sciences and Arts Western Switzerland Fribourg"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "HES-SO University of Applied Sciences and Arts Western Switzerland",
+            "type": "parent",
+            "id": "https://ror.org/01xkakk17"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1946,
+        "external_ids": [
+          {
+            "all": [
+              "grid.466440.4"
+            ],
+            "preferred": "grid.466440.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0426 8661"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q650345"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03bavdz78",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.mh-freiburg.de/en/home/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Hochschule_f%C3%BCr_Musik_Freiburg"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BW",
+              "country_subdivision_name": "Baden-Wurttemberg",
+              "lat": 47.9959,
+              "lng": 7.85222,
+              "name": "Freiburg im Breisgau"
+            },
+            "geonames_id": 2925177
+          }
+        ],
+        "names": [
+          {
+            "lang": "de",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Hochschule für Musik Freiburg"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2004,
+        "external_ids": [
+          {
+            "all": [
+              "grid.455090.d"
+            ],
+            "preferred": "grid.455090.d",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/010p50m34",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.nncn.de/en/the-network/Network-Partners/BCCN-en/BCCN%20Freiburg"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BW",
+              "country_subdivision_name": "Baden-Wurttemberg",
+              "lat": 47.9959,
+              "lng": 7.85222,
+              "name": "Freiburg im Breisgau"
+            },
+            "geonames_id": 2925177
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BCCN"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Bernstein Center for Computational Neuroscience Freiburg"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "National Bernstein Network Computational Neuroscience",
+            "type": "parent",
+            "id": "https://ror.org/00n8pjn35"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-06-02",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1896,
+        "external_ids": [
+          {
+            "all": [
+              "grid.483327.9"
+            ],
+            "preferred": "grid.483327.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0446 0506"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/00px2aj27",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.heia-fr.ch/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "CH",
+              "country_name": "Switzerland",
+              "country_subdivision_code": "FR",
+              "country_subdivision_name": "Fribourg",
+              "lat": 46.80237,
+              "lng": 7.15128,
+              "name": "Fribourg"
+            },
+            "geonames_id": 2660718
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "HEIA-FR"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Haute École d'ingénierie et d'architecture de Fribourg"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Hochschule für Technik und Architektur Freiburg"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "School of Engineering and Architecture of Fribourg"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "École d'ingénieurs et d'architectes de Fribourg"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "HES-SO University of Applied Sciences and Arts Western Switzerland",
+            "type": "parent",
+            "id": "https://ror.org/01xkakk17"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 17810
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 9007
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 4724
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 3947
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 3551
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2258
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2031
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 771
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 410
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 6010
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 4070
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2348
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2061
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1577
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 942
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 866
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 836
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 799
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 776
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 15033
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 9644
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 7267
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1991
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 949
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 594
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 35477
+        }
+      ]
+    }
+  }
+}

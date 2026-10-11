@@ -1,0 +1,565 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cites": "4771408704216507266,20156749286290710",
+    "hl": "en",
+    "num": 20,
+    "start": 60,
+    "filter": 0,
+    "as_vis": 0,
+    "as_sdt": 7
+  },
+  "accessed_at_utc": "2026-10-07T12:39:15.033104+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63d73f357f646276c0ab1",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/WYNuVdhvmAEx19sywuWNJpEjVFRfoN-RKszoEGAle7c/6ac63d73f357f646276c0ab1.json",
+      "markdown_endpoint": "https://serpapi.com/searches/WYNuVdhvmAEx19sywuWNJpEjVFRfoN-RKszoEGAle7c/6ac63d73f357f646276c0ab1.md",
+      "created_at": "2026-10-07 12:39:15 UTC",
+      "processed_at": "2026-10-07 12:39:15 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cites=4771408704216507266,20156749286290710&hl=en&start=60&num=21&filter=0&as_sdt=7&as_vis=0&scipsc=1",
+      "raw_html_file": "https://serpapi.com/searches/WYNuVdhvmAEx19sywuWNJpEjVFRfoN-RKszoEGAle7c/6ac63d73f357f646276c0ab1.html",
+      "total_time_taken": 1.98
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cites": "4771408704216507266,20156749286290710",
+      "hl": "en",
+      "start": 60,
+      "num": "20",
+      "filter": "0",
+      "as_sdt": "7",
+      "as_vis": "0"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 71,
+      "page_number": 4,
+      "time_taken_displayed": 0.03
+    },
+    "citations_per_year": [
+      {
+        "year": 2019,
+        "citations": 7
+      },
+      {
+        "year": 2020,
+        "citations": 16
+      },
+      {
+        "year": 2021,
+        "citations": 16
+      },
+      {
+        "year": 2022,
+        "citations": 15
+      },
+      {
+        "year": 2023,
+        "citations": 4
+      },
+      {
+        "year": 2024,
+        "citations": 9
+      },
+      {
+        "year": 2025,
+        "citations": 4
+      }
+    ],
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Adaptive neural networks for edge intelligence",
+        "result_id": "oiUAva-AL1kJ",
+        "type": "Pdf",
+        "link": "https://dr.ntu.edu.sg/server/api/core/bitstreams/d5144962-9c83-4a2e-8fd8-8c8ef85ed719/content",
+        "snippet": "Deep neural networks (DNNs) have achieved remarkable results and have become the mainstay of many applications including autonomous driving and emerging AI-enabled …",
+        "publication_info": {
+          "summary": "H Kong - 2023 - dr.ntu.edu.sg",
+          "authors": [
+            {
+              "name": "H Kong"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "ntu.edu.sg",
+            "file_format": "PDF",
+            "link": "https://dr.ntu.edu.sg/server/api/core/bitstreams/d5144962-9c83-4a2e-8fd8-8c8ef85ed719/content"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=oiUAva-AL1kJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:oiUAva-AL1kJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AoiUAva-AL1kJ%3Ascholar.google.com%2F&start=60",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=6426496685559522722&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "6426496685559522722",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=6426496685559522722&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:oiUAva-AL1kJ:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007"
+        }
+      },
+      {
+        "position": 2,
+        "title": "Towards sample bias-aware deep neural network compression",
+        "result_id": "RjeBvo33pv0J",
+        "link": "https://theses.lib.polyu.edu.hk/handle/200/13522",
+        "snippet": "Deep neural networks (DNNs) have achieved remarkable success in various fields like image classification, natural language processing, and speech synthesis. Their success …",
+        "publication_info": {
+          "summary": "Y Wang - 2024 - theses.lib.polyu.edu.hk",
+          "authors": [
+            {
+              "name": "Y Wang"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "polyu.edu.hk",
+            "file_format": "PDF",
+            "link": "https://theses.lib.polyu.edu.hk/bitstream/200/13522/3/7973.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=RjeBvo33pv0J",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:RjeBvo33pv0J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&q=related%3ARjeBvo33pv0J%3Ascholar.google.com%2F&start=60",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=18277568325888325446&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "18277568325888325446",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=18277568325888325446&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:RjeBvo33pv0J:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007"
+        }
+      },
+      {
+        "position": 3,
+        "title": "Fix-net: pure fixed-point representation of deep neural networks",
+        "result_id": "B-E8vxoGSyUJ",
+        "link": "https://openreview.net/forum?id=rJgKzlSKPH",
+        "snippet": "Deep neural networks (DNNs) dominate current research in machine learning. Due to massive GPU parallelization DNN training is no longer a bottleneck, and large models with …",
+        "publication_info": {
+          "summary": "L Enderich, F Timm, L Rosenbaum, W Burgard - 2019 - openreview.net",
+          "authors": [
+            {
+              "name": "L Enderich"
+            },
+            {
+              "name": "F Timm",
+              "link": "https://scholar.google.com/citations?user=Ak5CAXoAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "Ak5CAXoAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Ak5CAXoAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "L Rosenbaum",
+              "link": "https://scholar.google.com/citations?user=kBzsTHMAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "kBzsTHMAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=kBzsTHMAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "W Burgard",
+              "link": "https://scholar.google.com/citations?user=zj6FavAAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "zj6FavAAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=zj6FavAAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "openreview.net",
+            "file_format": "PDF",
+            "link": "https://openreview.net/pdf?id=rJgKzlSKPH"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=B-E8vxoGSyUJ",
+          "cited_by": {
+            "total": 1,
+            "link": "https://scholar.google.com/scholar?cites=2687248314603987207&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "2687248314603987207",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=2687248314603987207&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:B-E8vxoGSyUJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AB-E8vxoGSyUJ%3Ascholar.google.com%2F&start=60",
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:B-E8vxoGSyUJ:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007"
+        }
+      },
+      {
+        "position": 4,
+        "title": "Rethinking Neural Network Quantization",
+        "result_id": "2p7HGBV6iBUJ",
+        "link": "https://openreview.net/forum?id=HygQ7TNtPr",
+        "snippet": "Quantization reduces computation costs of neural networks but suffers from performance degeneration. Is this accuracy drop due to the reduced capacity, or inefficient training during …",
+        "publication_info": {
+          "summary": "Q Jin, L Yang, Z Liao - 2020 - openreview.net",
+          "authors": [
+            {
+              "name": "Q Jin"
+            },
+            {
+              "name": "L Yang",
+              "link": "https://scholar.google.com/citations?user=XptEO8oAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "XptEO8oAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=XptEO8oAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "Z Liao"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "openreview.net",
+            "file_format": "PDF",
+            "link": "https://openreview.net/pdf?id=HygQ7TNtPr"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=2p7HGBV6iBUJ",
+          "cited_by": {
+            "total": 1,
+            "link": "https://scholar.google.com/scholar?cites=1551624302657773274&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "1551624302657773274",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1551624302657773274&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:2p7HGBV6iBUJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&q=related%3A2p7HGBV6iBUJ%3Ascholar.google.com%2F&start=60",
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:2p7HGBV6iBUJ:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007"
+        }
+      },
+      {
+        "position": 5,
+        "title": "Learning under Data Irregularity and Uncertainty",
+        "result_id": "6Ey1RGaG99sJ",
+        "link": "https://oaktrust.library.tamu.edu/items/5a4d42dc-8fee-4ae7-9b14-b2f7cd0ea324",
+        "snippet": "Abstract Artificial Intelligent and Machine Learning (AI/ML) systems have been widely adopted with the increasing availability of data in a variety of applications such as computer …",
+        "publication_info": {
+          "summary": "R Ardywibowo - 2022 - oaktrust.library.tamu.edu",
+          "authors": [
+            {
+              "name": "R Ardywibowo",
+              "link": "https://scholar.google.com/citations?user=NnAqNsYAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "NnAqNsYAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NnAqNsYAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "tamu.edu",
+            "file_format": "PDF",
+            "link": "https://oaktrust.library.tamu.edu/bitstreams/6f253074-e43a-4427-bba2-172e3b122553/download"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=6Ey1RGaG99sJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:6Ey1RGaG99sJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&q=related%3A6Ey1RGaG99sJ%3Ascholar.google.com%2F&start=60",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=15850285187351268584&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "15850285187351268584",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=15850285187351268584&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:6Ey1RGaG99sJ:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007"
+        }
+      },
+      {
+        "position": 6,
+        "title": "Mixed Low-bit Quantization for Model Compression with Layer Importance and Gradient Estimations",
+        "result_id": "3lplYHgLJjQJ",
+        "type": "Pdf",
+        "link": "https://ualberta.scholaris.ca/bitstreams/018c059e-99ae-460f-a3d2-f5ed23b535dc/download",
+        "snippet": "Deep neural networks (DNNs) have been widely used in the modern world in recent years. However, due to the substantial memory consumption and high computational power use of …",
+        "publication_info": {
+          "summary": "H Liu - 2022 - ualberta.scholaris.ca",
+          "authors": [
+            {
+              "name": "H Liu"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "scholaris.ca",
+            "file_format": "PDF",
+            "link": "https://ualberta.scholaris.ca/bitstreams/018c059e-99ae-460f-a3d2-f5ed23b535dc/download"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=3lplYHgLJjQJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:3lplYHgLJjQJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&q=related%3A3lplYHgLJjQJ%3Ascholar.google.com%2F&start=60",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=3757703550728493790&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "3757703550728493790",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=3757703550728493790&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 7,
+        "title": "Parametric Power-Of-2 Clipping Activations for Quantization for Convolutional Neural Networks",
+        "result_id": "J-ADRBspJDkJ",
+        "link": "https://patents.google.com/patent/US20240394543A1/en",
+        "snippet": "the executing of the PACT2 function includes determining a distribution for the set of data; discarding a portion of the data corresponding to a tail of the distribution to form a remaining …",
+        "publication_info": {
+          "summary": "M Mathew, K Desappan, SN NAGORI… - US Patent App. 18 …, 2024 - Google Patents",
+          "authors": [
+            {
+              "name": "M Mathew"
+            },
+            {
+              "name": "K Desappan",
+              "link": "https://scholar.google.com/citations?user=JrRwKHIAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "JrRwKHIAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JrRwKHIAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "SN NAGORI",
+              "link": "https://scholar.google.com/citations?user=mr3lTgwAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "mr3lTgwAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=mr3lTgwAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=J-ADRBspJDkJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:J-ADRBspJDkJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AJ-ADRBspJDkJ%3Ascholar.google.com%2F&start=60",
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:J-ADRBspJDkJ:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007"
+        }
+      },
+      {
+        "position": 8,
+        "title": "Training and application method apparatus system and stroage medium of neural network model",
+        "result_id": "EVkUK9G3_l0J",
+        "link": "https://patents.google.com/patent/US20210065011A1/en",
+        "snippet": "(57) ABSTRACT A training and application method, apparatus, system and storage medium of a neural network model is provided. The training method comprises: determining a …",
+        "publication_info": {
+          "summary": "J Liu, T Chen, D Wen, W Tao, D Wang - US Patent App. 17/003,384, 2021 - Google Patents",
+          "authors": [
+            {
+              "name": "J Liu",
+              "link": "https://scholar.google.com/citations?user=sW0Jk-0AAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "sW0Jk-0AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=sW0Jk-0AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "T Chen",
+              "link": "https://scholar.google.com/citations?user=eBTQFN0AAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "eBTQFN0AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=eBTQFN0AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "D Wen",
+              "link": "https://scholar.google.com/citations?user=CIEFqfYAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "CIEFqfYAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=CIEFqfYAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "W Tao"
+            },
+            {
+              "name": "D Wang"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "googleapis.com",
+            "file_format": "PDF",
+            "link": "https://patentimages.storage.googleapis.com/78/72/29/b482f31fb33d0a/US20210065011A1.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=EVkUK9G3_l0J",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:EVkUK9G3_l0J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AEVkUK9G3_l0J%3Ascholar.google.com%2F&start=60",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=6773052998610606353&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "6773052998610606353",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=6773052998610606353&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:EVkUK9G3_l0J:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007"
+        }
+      },
+      {
+        "position": 9,
+        "title": "Ultra-low Loss Quantization Method for Deep Neural Network Compression",
+        "result_id": "pt1N08Nhd5QJ",
+        "link": "https://www.sciengine.com/doi/10.13328/j.cnki.jos.006189",
+        "snippet": "Deep neural network (DNN) quantization is an efficient model compression method, in which parameters and intermediate results are expressed by low bit width. The bit width of …",
+        "publication_info": {
+          "summary": "C GONG, Y LU, SR DAI, FX LIU, XW CHEN… - Journal of Software, 2021 - sciengine.com",
+          "authors": [
+            {
+              "name": "C GONG"
+            },
+            {
+              "name": "Y LU"
+            },
+            {
+              "name": "SR DAI"
+            },
+            {
+              "name": "FX LIU"
+            },
+            {
+              "name": "XW CHEN"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "sciengine.com",
+            "file_format": "PDF",
+            "link": "https://www.sciengine.com/doi/pdf/BC57D9A204D3449F90289743D59984F0"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=pt1N08Nhd5QJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:pt1N08Nhd5QJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&q=related%3Apt1N08Nhd5QJ%3Ascholar.google.com%2F&start=60",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=10698126933533515174&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "10698126933533515174",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=10698126933533515174&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:pt1N08Nhd5QJ:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007"
+        }
+      },
+      {
+        "position": 10,
+        "title": "一种超低损失的深度神经网络量化压缩方法",
+        "result_id": "5iUDDewj-SAJ",
+        "type": "Pdf",
+        "link": "https://www.sciengine.com/sci-open/doi/pdf/BC57D9A204D3449F90289743D59984F0",
+        "snippet": "深度神经网络(deep neural network, 简称DNN) 量化是一种高效的模型压缩方法, 使用少量位宽表示模型计算过程中的参数和中间结果数据. 数据位宽会直接影响内存占用 …",
+        "publication_info": {
+          "summary": "龚成， 卢冶， 代素蓉， 刘方鑫， 陈新伟， 李涛 - Journal of Software, 2021 - sciengine.com",
+          "authors": [
+            {
+              "name": "龚成， 卢冶， 代素蓉， 刘方鑫， 陈新伟， 李涛"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "sciengine.com",
+            "file_format": "PDF",
+            "link": "https://www.sciengine.com/sci-open/doi/pdf/BC57D9A204D3449F90289743D59984F0"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=5iUDDewj-SAJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:5iUDDewj-SAJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&q=related%3A5iUDDewj-SAJ%3Ascholar.google.com%2F&start=60",
+          "versions": {
+            "total": 7,
+            "link": "https://scholar.google.com/scholar?cluster=2375969775152211430&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "2375969775152211430",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=2375969775152211430&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:5iUDDewj-SAJ:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007"
+        }
+      },
+      {
+        "position": 11,
+        "title": "MIXED PRECISION DNNS: ALL YOU NEED IS A GOOD PARAMETRIZATION",
+        "result_id": "k2tRFSt95rgJ",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+          "summary": "ALL YOU",
+          "authors": [
+            {
+              "name": "ALL YOU"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=k2tRFSt95rgJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:k2tRFSt95rgJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&q=related%3Ak2tRFSt95rgJ%3Ascholar.google.com%2F&start=60"
+        }
+      }
+    ],
+    "pagination": {
+      "current": 4,
+      "previous": "https://scholar.google.com/scholar?start=40&hl=en&num=20&as_sdt=2007&sciodt=2007&cites=4771408704216507266,20156749286290710&scipsc=1",
+      "next": null,
+      "other_pages": {
+        "1": "https://scholar.google.com/scholar?start=0&hl=en&num=20&as_sdt=2007&sciodt=2007&cites=4771408704216507266,20156749286290710&scipsc=1",
+        "2": "https://scholar.google.com/scholar?start=20&hl=en&num=20&as_sdt=2007&sciodt=2007&cites=4771408704216507266,20156749286290710&scipsc=1",
+        "3": "https://scholar.google.com/scholar?start=40&hl=en&num=20&as_sdt=2007&sciodt=2007&cites=4771408704216507266,20156749286290710&scipsc=1"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 4,
+      "previous_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&start=40",
+      "previous": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&start=40",
+      "other_pages": {
+        "1": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&start=0",
+        "2": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&start=20",
+        "3": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&start=40"
+      }
+    }
+  }
+}

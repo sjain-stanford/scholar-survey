@@ -1,0 +1,83 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cites": "1310050738644832908",
+    "hl": "en",
+    "num": 20,
+    "start": 20,
+    "filter": 0,
+    "as_vis": 0,
+    "as_sdt": 7
+  },
+  "accessed_at_utc": "2026-10-07T12:39:29.926987+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63d82b77a0a762e4fe1ac",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/2Q2xMclwqd4syI7TBqTqCooiIq1lzQuq8WxmE4mLvqI/6ac63d82b77a0a762e4fe1ac.json",
+      "markdown_endpoint": "https://serpapi.com/searches/2Q2xMclwqd4syI7TBqTqCooiIq1lzQuq8WxmE4mLvqI/6ac63d82b77a0a762e4fe1ac.md",
+      "created_at": "2026-10-07 12:39:30 UTC",
+      "processed_at": "2026-10-07 12:39:30 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cites=1310050738644832908&hl=en&start=20&num=21&filter=0&as_sdt=7&as_vis=0&scipsc=1",
+      "raw_html_file": "https://serpapi.com/searches/2Q2xMclwqd4syI7TBqTqCooiIq1lzQuq8WxmE4mLvqI/6ac63d82b77a0a762e4fe1ac.html",
+      "total_time_taken": 1.66
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cites": "1310050738644832908",
+      "hl": "en",
+      "start": 20,
+      "num": "20",
+      "filter": "0",
+      "as_sdt": "7",
+      "as_vis": "0"
+    },
+    "search_information": {
+      "organic_results_state": "Fully empty",
+      "total_results": 2,
+      "page_number": 2,
+      "time_taken_displayed": 0.02
+    },
+    "error": "Google hasn't returned any results for this query.",
+    "citations_per_year": [
+      {
+        "year": 2016,
+        "citations": 5
+      },
+      {
+        "year": 2017,
+        "citations": 2
+      },
+      {
+        "year": 2019,
+        "citations": 1
+      },
+      {
+        "year": 2020,
+        "citations": 1
+      },
+      {
+        "year": 2021,
+        "citations": 2
+      },
+      {
+        "year": 2022,
+        "citations": 1
+      },
+      {
+        "year": 2023,
+        "citations": 1
+      },
+      {
+        "year": 2025,
+        "citations": 1
+      },
+      {
+        "year": 2026,
+        "citations": 1
+      }
+    ]
+  }
+}

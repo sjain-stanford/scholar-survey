@@ -1,0 +1,2008 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=University+of+Notre+Dame",
+  "http_status": 200,
+  "query": "University of Notre Dame",
+  "data": {
+    "number_of_results": 35470,
+    "time_taken": 42,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1948,
+        "external_ids": [
+          {
+            "all": [
+              "grid.443030.0"
+            ],
+            "preferred": "grid.443030.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0466 9027"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7063479"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04mwhg379",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ndu.edu.ph/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Notre_Dame_University_(Philippines)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "PH",
+              "country_name": "Philippines",
+              "country_subdivision_code": "14",
+              "country_subdivision_name": "Autonomous Region in Muslim Mindanao",
+              "lat": 7.22361,
+              "lng": 124.24639,
+              "name": "Cotabato City"
+            },
+            "geonames_id": 1716771
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NDU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Notre Dame College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Notre Dame University"
+          },
+          {
+            "lang": "tl",
+            "types": [
+              "label"
+            ],
+            "value": "Pamantasang Notre Dame"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-05-05",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nd.edu"
+        ],
+        "established": 1842,
+        "external_ids": [
+          {
+            "all": [
+              "100008109",
+              "100005683",
+              "100008110",
+              "100006050",
+              "100005961",
+              "100005880",
+              "100012463"
+            ],
+            "preferred": "100008109",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.131063.6"
+            ],
+            "preferred": "grid.131063.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2168 0066"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q178848"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00mkhxb43",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.nd.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Notre_Dame"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IN",
+              "country_subdivision_name": "Indiana",
+              "lat": 41.70019,
+              "lng": -86.23793,
+              "name": "Notre Dame"
+            },
+            "geonames_id": 8469294
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Notre Dame"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université notre-dame"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Mike and Josie Harper Cancer Research Institute",
+            "type": "child",
+            "id": "https://ror.org/030jvtg87"
+          },
+          {
+            "label": "NSF CI Compass",
+            "type": "child",
+            "id": "https://ror.org/001zwgm84"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1953,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449551.8"
+            ],
+            "preferred": "grid.449551.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9072 3202"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q11007435"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/009yjbg58",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.nddu.edu.ph/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Notre_Dame_of_Dadiangas_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "PH",
+              "country_name": "Philippines",
+              "country_subdivision_code": "12",
+              "country_subdivision_name": "Soccsksargen",
+              "lat": 6.11278,
+              "lng": 125.17167,
+              "name": "General Santos"
+            },
+            "geonames_id": 1713022
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NDDU"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Notre Dame"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Notre Dame of Dadiangas College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Notre Dame of Dadiangas University"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Notre Dame of Kidapawan College",
+            "type": "related",
+            "id": "https://ror.org/04ayn0973"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1995,
+        "external_ids": [
+          {
+            "all": [
+              "grid.441568.a"
+            ],
+            "preferred": "grid.441568.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 6016 1105"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1654386"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0072e5x58",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.undh.edu.ht/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Universit%C3%A9_Notre_Dame_d'Ha%C3%AFti"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "HT",
+              "country_name": "Haiti",
+              "country_subdivision_code": "OU",
+              "country_subdivision_name": "Ouest",
+              "lat": 18.54349,
+              "lng": -72.33881,
+              "name": "Port-au-Prince"
+            },
+            "geonames_id": 3718426
+          }
+        ],
+        "names": [
+          {
+            "lang": "ht",
+            "types": [
+              "label"
+            ],
+            "value": "University Notre Dame of Haiti"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Université Notre Dame d'Haïti"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1945,
+        "external_ids": [
+          {
+            "all": [
+              "grid.443104.6"
+            ],
+            "preferred": "grid.443104.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0639 6632"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q10965600"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03q5fwy02",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ndmu.edu.ph/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Notre_Dame_of_Marbel_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "PH",
+              "country_name": "Philippines",
+              "country_subdivision_code": "12",
+              "country_subdivision_name": "Soccsksargen",
+              "lat": 6.24501,
+              "lng": 124.98743,
+              "name": "Koronadal"
+            },
+            "geonames_id": 1708523
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NDMU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Notre Dame of Marbel College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Notre Dame of Marbel High School"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Notre Dame of Marbel University"
+          },
+          {
+            "lang": "tl",
+            "types": [
+              "label"
+            ],
+            "value": "Pamantasang Notre Dame ng Marbel"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1873,
+        "external_ids": [
+          {
+            "all": [
+              "grid.421318.d"
+            ],
+            "preferred": "grid.421318.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0373 6371"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7063504"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00dncgb07",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ndm.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Notre_Dame_of_Maryland_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Maryland",
+              "lat": 39.29038,
+              "lng": -76.61219,
+              "name": "Baltimore"
+            },
+            "geonames_id": 4347778
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "College of Notre Dame of Maryland"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Notre Dame of Maryland University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1886,
+        "external_ids": [
+          {
+            "all": [
+              "grid.412289.4"
+            ],
+            "preferred": "grid.412289.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9135 1965"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3551469"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04t4jzh38",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ndsu.ac.jp/english/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Notre_Dame_Seishin_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "33",
+              "country_subdivision_name": "Okayama",
+              "lat": 34.65,
+              "lng": 133.93333,
+              "name": "Okayama"
+            },
+            "geonames_id": 1854383
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Nohtoru damu seishin joshi daigaku"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Notre Dame Seishin University"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "ノートルダム清心女子大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1961,
+        "external_ids": [
+          {
+            "all": [
+              "grid.444219.e"
+            ],
+            "preferred": "grid.444219.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0523 3434"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6452180"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04mfefe23",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.notredame.ac.jp"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Kyoto_Notre_Dame_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "26",
+              "country_subdivision_name": "Kyoto",
+              "lat": 35.02107,
+              "lng": 135.75385,
+              "name": "Kyoto"
+            },
+            "geonames_id": 1857910
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KNDU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Kyoto Notre Dame University"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "京都ノートルダム女子大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-08-26",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ndu.edu.lb"
+        ],
+        "established": 1987,
+        "external_ids": [
+          {
+            "all": [
+              "100012984"
+            ],
+            "preferred": "100012984",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.440405.1"
+            ],
+            "preferred": "grid.440405.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0747 2412"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1529514"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/030br0314",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ndu.edu.lb/home"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Notre_Dame_University_%E2%80%93_Louaize"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "LB",
+              "country_name": "Lebanon",
+              "country_subdivision_code": "JL",
+              "country_subdivision_name": "Mont-Liban",
+              "lat": 33.95667,
+              "lng": 35.62,
+              "name": "Zouk Mosbeh"
+            },
+            "geonames_id": 265749
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Louaize College for Higher Education"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NDU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Notre Dame University – Louaize"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "جامعة سيدة اللويزة"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-10-27",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-10-28",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ndub.edu.bd"
+        ],
+        "established": 2013,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 4683 5193"
+            ],
+            "preferred": "0000 0004 4683 5193",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q18601435"
+            ],
+            "preferred": "Q18601435",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/035j0vf10",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ndub.edu.bd"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Notre_Dame_University_Bangladesh"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "BD",
+              "country_name": "Bangladesh",
+              "country_subdivision_code": "C",
+              "country_subdivision_name": "Dhaka Division",
+              "lat": 23.7104,
+              "lng": 90.40744,
+              "name": "Dhaka"
+            },
+            "geonames_id": 1185241
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "NDUB"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Notre Dame University Bangladesh"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1851,
+        "external_ids": [
+          {
+            "all": [
+              "grid.421316.3"
+            ],
+            "preferred": "grid.421316.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0375 1774"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7063485"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03qvjfg54",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ndnu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Notre_Dame_de_Namur_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 37.52021,
+              "lng": -122.2758,
+              "name": "Belmont"
+            },
+            "geonames_id": 5327455
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "College of Notre Dame "
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Notre Dame de Namur University"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université notre-dame-de-namur"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1922,
+        "external_ids": [
+          {
+            "all": [
+              "grid.422845.d"
+            ],
+            "preferred": "grid.422845.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0536 4946"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7063387"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02wmjtd85",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.notredamecollege.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Notre_Dame_College"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "OH",
+              "country_subdivision_name": "Ohio",
+              "lat": 41.52311,
+              "lng": -81.51846,
+              "name": "South Euclid"
+            },
+            "geonames_id": 5172485
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NDC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Notre Dame College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Notre Dame College of Ohio"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1880,
+        "external_ids": [
+          {
+            "all": [
+              "grid.414246.1"
+            ],
+            "preferred": "grid.414246.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0377 6832"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3145191"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01w7qz648",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ciusss-centresudmtl.gouv.qc.ca/etablissement/hopital-notre-dame"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/H%C3%B4pital_Notre-Dame"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "QC",
+              "country_subdivision_name": "Quebec",
+              "lat": 45.50884,
+              "lng": -73.58781,
+              "name": "Montreal"
+            },
+            "geonames_id": 6077243
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Hôpital Notre-Dame"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Notre-Dame Hospital"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Centre Hospitalier de l’Université de Montréal",
+            "type": "parent",
+            "id": "https://ror.org/0410a8y51"
+          },
+          {
+            "label": "Université de Montréal",
+            "type": "related",
+            "id": "https://ror.org/0161xgx34"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1923,
+        "external_ids": [
+          {
+            "all": [
+              "grid.465735.6"
+            ],
+            "preferred": "grid.465735.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0438 3440"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7063476"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03k94d886",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://nds.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Notre_Dame_Seminary"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "LA",
+              "country_subdivision_name": "Louisiana",
+              "lat": 29.95465,
+              "lng": -90.07507,
+              "name": "New Orleans"
+            },
+            "geonames_id": 4335045
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NDS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Notre Dame Seminary"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nd.edu.au"
+        ],
+        "established": 1989,
+        "external_ids": [
+          {
+            "all": [
+              "501100001800"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.266886.4"
+            ],
+            "preferred": "grid.266886.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0402 6494"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1887921"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02stey378",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.notredame.edu.au"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Notre_Dame_Australia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "OC",
+              "continent_name": "Oceania",
+              "country_code": "AU",
+              "country_name": "Australia",
+              "country_subdivision_code": "WA",
+              "country_subdivision_name": "Western Australia",
+              "lat": -32.05632,
+              "lng": 115.74557,
+              "name": "Fremantle"
+            },
+            "geonames_id": 2071223
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "The University of Notre Dame Australia"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UNDA"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Auburn Hospital",
+            "type": "related",
+            "id": "https://ror.org/04dk1kp26"
+          },
+          {
+            "label": "Calvary Riverina Hospital",
+            "type": "related",
+            "id": "https://ror.org/01rmh6e96"
+          },
+          {
+            "label": "Sir Charles Gairdner Hospital",
+            "type": "related",
+            "id": "https://ror.org/01hhqsm59"
+          },
+          {
+            "label": "Digitisation Centre of Western Australia",
+            "type": "related",
+            "id": "https://ror.org/00jjz9s23"
+          },
+          {
+            "label": "Catholic Institute of Sydney",
+            "type": "related",
+            "id": "https://ror.org/05dcc9c26"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-13",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ndtc.edu.ph"
+        ],
+        "established": 1950,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 0410 3314"
+            ],
+            "preferred": "0000 0004 0410 3314",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7063509"
+            ],
+            "preferred": "Q7063509",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03fzn5q91",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ndtc.edu.ph"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "PH",
+              "country_name": "Philippines",
+              "country_subdivision_code": "12",
+              "country_subdivision_name": "Soccsksargen",
+              "lat": 6.6925,
+              "lng": 124.67639,
+              "name": "Tacurong"
+            },
+            "geonames_id": 1684681
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "NDTC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Notre Dame of Tacurong College"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-13",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ndkc.edu.ph"
+        ],
+        "established": 1948,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 0624 5957"
+            ],
+            "preferred": "0000 0004 0624 5957",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7063501"
+            ],
+            "preferred": "Q7063501",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04ayn0973",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ndkc.edu.ph"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "PH",
+              "country_name": "Philippines",
+              "country_subdivision_code": "12",
+              "country_subdivision_name": "Soccsksargen",
+              "lat": 7.00833,
+              "lng": 125.08944,
+              "name": "Kidapawan"
+            },
+            "geonames_id": 1708824
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "NDKC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Notre Dame of Kidapawan College"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Notre Dame of Dadiangas University",
+            "type": "related",
+            "id": "https://ror.org/009yjbg58"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-13",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ndmc.edu.ph"
+        ],
+        "established": 1941,
+        "external_ids": [
+          {
+            "all": [
+              "Q7063506"
+            ],
+            "preferred": "Q7063506",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02wg16120",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ndmc.edu.ph"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "PH",
+              "country_name": "Philippines",
+              "country_subdivision_code": "12",
+              "country_subdivision_name": "Soccsksargen",
+              "lat": 7.19083,
+              "lng": 124.53028,
+              "name": "Midsayap"
+            },
+            "geonames_id": 1699755
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "NDMC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Notre Dame of Midsayap College"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1957,
+        "external_ids": [
+          {
+            "all": [
+              "grid.469132.b"
+            ],
+            "preferred": "grid.469132.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0428 4055"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7063438"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/016q7rz35",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ndnj.org/page"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Notre_Dame_High_School_(New_Jersey)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NJ",
+              "country_subdivision_name": "New Jersey",
+              "lat": 40.29733,
+              "lng": -74.7296,
+              "name": "Lawrenceville"
+            },
+            "geonames_id": 5100356
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Notre Dame High School"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1967,
+        "external_ids": [
+          {
+            "all": [
+              "grid.498818.4"
+            ],
+            "preferred": "grid.498818.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 6431 7154"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2935615"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00h7z1q27",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.cndf.qc.ca"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "QC",
+              "country_subdivision_name": "Quebec",
+              "lat": 46.81228,
+              "lng": -71.21454,
+              "name": "Québec"
+            },
+            "geonames_id": 6325494
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CNDF"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Campus Notre-Dame-de-Foy"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 17812
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 9006
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 4721
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 3945
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 3551
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2257
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2031
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 770
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 408
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 6012
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 4070
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2348
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2061
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1577
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 942
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 866
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 836
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 800
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 764
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 15034
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 9631
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 7271
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1992
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 949
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 594
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 35470
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1952 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=University+of+M%C3%BCnster",
+  "http_status": 200,
+  "query": "University of Münster",
+  "data": {
+    "number_of_results": 35471,
+    "time_taken": 61,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uni-muenster.de"
+        ],
+        "established": 1780,
+        "external_ids": [
+          {
+            "all": [
+              "501100004869",
+              "501100004870"
+            ],
+            "preferred": "501100004869",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.5949.1"
+            ],
+            "preferred": "grid.5949.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2172 9288"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q168426"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00pd74e08",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uni-muenster.de/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_M%C3%BCnster"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "NW",
+              "country_subdivision_name": "North Rhine-Westphalia",
+              "lat": 51.96236,
+              "lng": 7.62571,
+              "name": "Münster"
+            },
+            "geonames_id": 2867543
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Muenster University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Münster University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UM"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "Universitaet Muenster"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Muenster"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Münster"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Universität Münster"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "Westfälische Wilhelms-Universität Münster"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Institut für vergleichende Städtegeschichte",
+            "type": "child",
+            "id": "https://ror.org/015sha269"
+          },
+          {
+            "label": "University Hospital Münster",
+            "type": "related",
+            "id": "https://ror.org/01856cw59"
+          },
+          {
+            "label": "European Research Center for Information Systems",
+            "type": "related",
+            "id": "https://ror.org/032a28f65"
+          },
+          {
+            "label": "CeNTech",
+            "type": "related",
+            "id": "https://ror.org/00wk05f95"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ukmuenster.de"
+        ],
+        "established": 1994,
+        "external_ids": [
+          {
+            "all": [
+              "grid.16149.3b"
+            ],
+            "preferred": "grid.16149.3b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0551 4246"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/01856cw59",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://klinikum.uni-muenster.de"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "NW",
+              "country_subdivision_name": "North Rhine-Westphalia",
+              "lat": 51.96236,
+              "lng": 7.62571,
+              "name": "Münster"
+            },
+            "geonames_id": 2867543
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Muenster University Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Münster University Hospital"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UKM"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Hospital Muenster"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University Hospital Münster"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Hospital of Muenster"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Hospital of Münster"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Medical Center Münster"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Universitätsklinikum Münster"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Münster",
+            "type": "related",
+            "id": "https://ror.org/00pd74e08"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "fh-muenster.de"
+        ],
+        "established": 1971,
+        "external_ids": [
+          {
+            "all": [
+              "grid.440964.b"
+            ],
+            "preferred": "grid.440964.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9477 5237"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q554425"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00pv45a02",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.fh-muenster.de/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Fachhochschule_M%C3%BCnster"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "NW",
+              "country_subdivision_name": "North Rhine-Westphalia",
+              "lat": 51.96236,
+              "lng": 7.62571,
+              "name": "Münster"
+            },
+            "geonames_id": 2867543
+          }
+        ],
+        "names": [
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "FH Muenster"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "FH Muenster University of Applied Sciences"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "FH Münster"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "FH Münster University of Applied Sciences"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "acronym"
+            ],
+            "value": "FHMS"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "Fachhochschule Muenster"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Fachhochschule Münster"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Muenster University of Applied Sciences"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Münster University of Applied Sciences"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1733,
+        "external_ids": [
+          {
+            "all": [
+              "grid.500057.7"
+            ],
+            "preferred": "grid.500057.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0559 8961"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/042a1e381",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.clemenshospital.de/ch"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "NW",
+              "country_subdivision_name": "North Rhine-Westphalia",
+              "lat": 51.96236,
+              "lng": 7.62571,
+              "name": "Münster"
+            },
+            "geonames_id": 2867543
+          }
+        ],
+        "names": [
+          {
+            "lang": "de",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Clemenshospital Münster"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1908,
+        "external_ids": [
+          {
+            "all": [
+              "grid.492105.b"
+            ],
+            "preferred": "grid.492105.b",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/03y9e9713",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.raphaelsklinik.de/rk"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "NW",
+              "country_subdivision_name": "North Rhine-Westphalia",
+              "lat": 51.96236,
+              "lng": 7.62571,
+              "name": "Münster"
+            },
+            "geonames_id": 2867543
+          }
+        ],
+        "names": [
+          {
+            "lang": "de",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Raphaelsklinik Münster"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-08-30",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0000 9757 9645"
+            ],
+            "preferred": "0000 0000 9757 9645",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1231884"
+            ],
+            "preferred": "Q1231884",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/032ebdh83",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.dioezesanbibliothek-muenster.de"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "NW",
+              "country_subdivision_name": "North Rhine-Westphalia",
+              "lat": 51.96236,
+              "lng": 7.62571,
+              "name": "Münster"
+            },
+            "geonames_id": 2867543
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Diocesan Library Muenster"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Diözesanbibliothek Münster"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1971,
+        "external_ids": [
+          {
+            "all": [
+              "grid.465825.8"
+            ],
+            "preferred": "grid.465825.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2034 7798"
+            ],
+            "preferred": "0000 0001 2034 7798",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/00ztzxf77",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.kunstakademie-muenster.de/aktuell/?no_cache=1"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "NW",
+              "country_subdivision_name": "North Rhine-Westphalia",
+              "lat": 51.96236,
+              "lng": 7.62571,
+              "name": "Münster"
+            },
+            "geonames_id": 2867543
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Academy of Fine Arts Münster"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Kunstakademie Münster"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-04-02",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "reha-muenster.at"
+        ],
+        "established": 2011,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0005 1811 6607"
+            ],
+            "preferred": "0000 0005 1811 6607",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/04r478t60",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.reha-muenster.at"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "AT",
+              "country_name": "Austria",
+              "country_subdivision_code": "7",
+              "country_subdivision_name": "Tyrol",
+              "lat": 47.42164,
+              "lng": 11.83356,
+              "name": "Münster"
+            },
+            "geonames_id": 2771028
+          }
+        ],
+        "names": [
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "REHA Münster"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "REHA Zentrum Münster"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Reha Zentrum Münster Betriebs GmbH"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-11-07",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1901,
+        "external_ids": [
+          {
+            "all": [
+              "grid.506805.e"
+            ],
+            "preferred": "grid.506805.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q1285495"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04pe43p62",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.stadtwerke-muenster.de"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "NW",
+              "country_subdivision_name": "North Rhine-Westphalia",
+              "lat": 51.96236,
+              "lng": 7.62571,
+              "name": "Münster"
+            },
+            "geonames_id": 2867543
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Stadtwerke Münster (Germany)"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.461895.7"
+            ],
+            "preferred": "grid.461895.7",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/04ktat366",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.helmholtz.de/en/about_us/networks_and_cooperation/helmholtz_institutes/helmholtz_institute_muenster/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "NW",
+              "country_subdivision_name": "North Rhine-Westphalia",
+              "lat": 51.96236,
+              "lng": 7.62571,
+              "name": "Münster"
+            },
+            "geonames_id": 2867543
+          }
+        ],
+        "names": [
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Helmholtz-Institut Münster"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Helmholtz-Institute Münster"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Forschungszentrum Jülich",
+            "type": "parent",
+            "id": "https://ror.org/02nv7yv05"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-04-06",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "mtu.ie"
+        ],
+        "established": 2021,
+        "external_ids": [
+          {
+            "all": [
+              "501100022728"
+            ],
+            "preferred": "501100022728",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.510393.d"
+            ],
+            "preferred": "grid.510393.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 9343 1765"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q58307972"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/013xpqh61",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.mtu.ie/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Munster_Technological_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IE",
+              "country_name": "Ireland",
+              "country_subdivision_code": "M",
+              "country_subdivision_name": "Munster",
+              "lat": 51.89797,
+              "lng": -8.47061,
+              "name": "Cork"
+            },
+            "geonames_id": 2965140
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Cork Institute of Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Institute of Technology, Tralee"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MTU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Munster Technological University"
+          },
+          {
+            "lang": "ga",
+            "types": [
+              "label"
+            ],
+            "value": "Ollscoil Teicneolaíochta na Mumhan"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Irish Research eLibrary",
+            "type": "related",
+            "id": "https://ror.org/05c347015"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2000,
+        "external_ids": [
+          {
+            "all": [
+              "grid.434966.a"
+            ],
+            "preferred": "grid.434966.a",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/025jq6667",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.bioanalytik-muenster.de/_rubric/index.php?rubric=DE+Home"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "NW",
+              "country_subdivision_name": "North Rhine-Westphalia",
+              "lat": 51.96236,
+              "lng": 7.62571,
+              "name": "Münster"
+            },
+            "geonames_id": 2867543
+          }
+        ],
+        "names": [
+          {
+            "lang": "de",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Gesellschaft für Bioanalytik Münster"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-11-07",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1971,
+        "external_ids": [
+          {
+            "all": [
+              "grid.506505.3"
+            ],
+            "preferred": "grid.506505.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 5345 6810"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2088268"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00717c553",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.pth-muenster.de/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "NW",
+              "country_subdivision_name": "North Rhine-Westphalia",
+              "lat": 51.96236,
+              "lng": 7.62571,
+              "name": "Münster"
+            },
+            "geonames_id": 2867543
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PTH"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Philosophisch-Theologische Hochschule Münster"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uvic-ucc.cat"
+        ],
+        "established": 1599,
+        "external_ids": [
+          {
+            "all": [
+              "grid.440820.a"
+            ],
+            "preferred": "grid.440820.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q935460"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/006zjws59",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://uvic-ucc.cat/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Vic_-_Central_University_of_Catalonia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "CT",
+              "country_subdivision_name": "Catalonia",
+              "lat": 41.93012,
+              "lng": 2.25486,
+              "name": "Vic"
+            },
+            "geonames_id": 3106050
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UVic-UCC"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "Universidad de Vic"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de Vic - Universidad Central de Catalunya"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "Universitat de Vic"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universitat de Vic - Universitat Central de Catalunya"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Vic"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Vic - Central University of Catalonia"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-02-17",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1957,
+        "external_ids": [
+          {
+            "all": [
+              "grid.501720.1"
+            ],
+            "preferred": "grid.501720.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q10829127"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04bm3wy68",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.dhsphue.edu.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": "26",
+              "country_subdivision_name": "Thừa Thiên Huế Province",
+              "lat": 16.4619,
+              "lng": 107.59546,
+              "name": "Huế"
+            },
+            "geonames_id": 1580240
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Hue University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Hue University of Education"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Hue University's College of Education"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label"
+            ],
+            "value": "Trường Đại học Sư phạm Huế"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Education, Hue University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-22",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "husc.edu.vn"
+        ],
+        "established": 1957,
+        "external_ids": [],
+        "id": "https://ror.org/00qpm2f14",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://husc.edu.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Thừa Thiên Huế Province",
+              "lat": 16.4619,
+              "lng": 107.59546,
+              "name": "Huế"
+            },
+            "geonames_id": 1580240
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "HUSC"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Trường Đại học Khoa học, Đại học Huế"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Sciences, Hue University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-22",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "hce.edu.vn"
+        ],
+        "established": 2002,
+        "external_ids": [],
+        "id": "https://ror.org/03x812s82",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://hce.edu.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Thừa Thiên Huế Province",
+              "lat": 16.4619,
+              "lng": 107.59546,
+              "name": "Huế"
+            },
+            "geonames_id": 1580240
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "HUE"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Trường Đại học Kinh tế, Đại học Huế"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Economics, Hue University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1964,
+        "external_ids": [
+          {
+            "all": [
+              "grid.7749.d"
+            ],
+            "preferred": "grid.7749.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0723 7738"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q719925"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/003vfy751",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ub.edu.bi/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Burundi"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "BI",
+              "country_name": "Burundi",
+              "country_subdivision_code": "BM",
+              "country_subdivision_name": "Bujumbura Mairie",
+              "lat": -3.38193,
+              "lng": 29.36142,
+              "name": "Bujumbura"
+            },
+            "geonames_id": 425378
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Burundi"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Université du Burundi"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1982,
+        "external_ids": [
+          {
+            "all": [
+              "grid.12104.36"
+            ],
+            "preferred": "grid.12104.36",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2289 8200"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1570483"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05nv2rz39",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.uniswa.sz/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Swaziland"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "SZ",
+              "country_name": "Eswatini",
+              "country_subdivision_code": "MA",
+              "country_subdivision_name": "Manzini Region",
+              "lat": -26.47675,
+              "lng": 31.33274,
+              "name": "Kwaluseni"
+            },
+            "geonames_id": 935054
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UNISWA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Eswatini"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Swaziland"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1963,
+        "external_ids": [
+          {
+            "all": [
+              "grid.430821.c"
+            ],
+            "preferred": "grid.430821.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2286 2160"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1502975"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05d8pm274",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uog.edu.gy/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Guyana"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "GY",
+              "country_name": "Guyana",
+              "country_subdivision_code": "DE",
+              "country_subdivision_name": "Demerara-Mahaica",
+              "lat": 6.80448,
+              "lng": -58.15527,
+              "name": "Georgetown"
+            },
+            "geonames_id": 3378644
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Guyana"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 17809
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 9006
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 4721
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 3946
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 3552
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2258
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2030
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 771
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 409
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 6010
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 4070
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2348
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2061
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1577
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 942
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 866
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 836
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 799
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 771
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 15033
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 9638
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 7267
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1991
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 949
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 594
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 35471
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "q": "intitle:\"Hardware Friendly Mixed Precision\"",
+    "hl": "en",
+    "num": 10
+  },
+  "accessed_at_utc": "2026-10-07T12:40:03.107267+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63da31de06445dac92e14",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/yODq-DrXB_TNxsjltQBzJUi5lAOS0tz4Je2fx75KI7U/6ac63da31de06445dac92e14.json",
+      "markdown_endpoint": "https://serpapi.com/searches/yODq-DrXB_TNxsjltQBzJUi5lAOS0tz4Je2fx75KI7U/6ac63da31de06445dac92e14.md",
+      "created_at": "2026-10-07 12:40:03 UTC",
+      "processed_at": "2026-10-07 12:40:03 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?q=intitle%3A%22Hardware+Friendly+Mixed+Precision%22&hl=en&num=10",
+      "raw_html_file": "https://serpapi.com/searches/yODq-DrXB_TNxsjltQBzJUi5lAOS0tz4Je2fx75KI7U/6ac63da31de06445dac92e14.html",
+      "total_time_taken": 2.54
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "q": "intitle:\"Hardware Friendly Mixed Precision\"",
+      "hl": "en",
+      "num": "10"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 4,
+      "time_taken_displayed": 0.16,
+      "query_displayed": "intitle:\"Hardware Friendly Mixed Precision\""
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Hmq: Hardware friendly mixed precision quantization block for cnns",
+        "result_id": "b0ElFRRzKXEJ",
+        "link": "https://link.springer.com/chapter/10.1007/978-3-030-58574-7_27",
+        "snippet": "… In this work, we introduce the Hardware Friendly Mixed Precision Quantization Block (HMQ) in order to meet this requirement. The HMQ is a mixed precision quantization block that …",
+        "publication_info": {
+          "summary": "HV Habi, RH Jennings, A Netzer - European conference on computer …, 2020 - Springer",
+          "authors": [
+            {
+              "name": "HV Habi",
+              "link": "https://scholar.google.com/citations?user=SKLM278AAAAJ&hl=en&oi=sra",
+              "author_id": "SKLM278AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=SKLM278AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "RH Jennings",
+              "link": "https://scholar.google.com/citations?user=uq-yNcQAAAAJ&hl=en&oi=sra",
+              "author_id": "uq-yNcQAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=uq-yNcQAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "A Netzer",
+              "link": "https://scholar.google.com/citations?user=uAzZQ0gAAAAJ&hl=en&oi=sra",
+              "author_id": "uAzZQ0gAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=uAzZQ0gAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2007.09952"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=b0ElFRRzKXEJ",
+          "cited_by": {
+            "total": 95,
+            "link": "https://scholar.google.com/scholar?cites=8154175130422296943&as_sdt=5,45&sciodt=0,45&hl=en",
+            "cites_id": "8154175130422296943",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C45&cites=8154175130422296943&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:b0ElFRRzKXEJ:scholar.google.com/&scioq=intitle:%22Hardware+Friendly+Mixed+Precision%22&hl=en&as_sdt=0,45",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C45&engine=google_scholar&hl=en&num=10&q=related%3Ab0ElFRRzKXEJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 7,
+            "link": "https://scholar.google.com/scholar?cluster=8154175130422296943&hl=en&as_sdt=0,45",
+            "cluster_id": "8154175130422296943",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C45&cluster=8154175130422296943&engine=google_scholar&hl=en"
+          }
+        }
+      },
+      {
+        "position": 2,
+        "title": "SFMP: Fine-Grained, Hardware-Friendly and Search-Free Mixed-Precision Quantization for Large Language Models",
+        "result_id": "pLLTm6oeEr8J",
+        "link": "https://arxiv.org/abs/2602.01027",
+        "snippet": "… We propose SFMP, a search-free and hardwarefriendly mixed-precision quantization framework for large language models. SFMP defines a theoretically simple objective for mixed…",
+        "publication_info": {
+          "summary": "X Nie, H Zhang, L Dong, B Feng, J Weng… - arXiv preprint arXiv …, 2026 - arxiv.org",
+          "authors": [
+            {
+              "name": "X Nie"
+            },
+            {
+              "name": "H Zhang"
+            },
+            {
+              "name": "L Dong"
+            },
+            {
+              "name": "B Feng"
+            },
+            {
+              "name": "J Weng"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2602.01027"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=pLLTm6oeEr8J",
+          "cited_by": {
+            "total": 1,
+            "link": "https://scholar.google.com/scholar?cites=13768100728932643492&as_sdt=5,45&sciodt=0,45&hl=en",
+            "cites_id": "13768100728932643492",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C45&cites=13768100728932643492&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:pLLTm6oeEr8J:scholar.google.com/&scioq=intitle:%22Hardware+Friendly+Mixed+Precision%22&hl=en&as_sdt=0,45",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C45&engine=google_scholar&hl=en&num=10&q=related%3ApLLTm6oeEr8J%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cluster=13768100728932643492&hl=en&as_sdt=0,45",
+            "cluster_id": "13768100728932643492",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C45&cluster=13768100728932643492&engine=google_scholar&hl=en"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:pLLTm6oeEr8J:scholar.google.com/+intitle:%22Hardware+Friendly+Mixed+Precision%22&hl=en&as_sdt=0,45"
+        }
+      },
+      {
+        "position": 3,
+        "title": "Cim²pq: An arraywise and hardware-friendly mixed precision quantization method for analog computing-in-memory",
+        "result_id": "zEQlq6xW-PsJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10414004/",
+        "snippet": "Computing-in-memory (CIM) architecture is a promising convolutional neural network (CNN) accelerator known for its highly efficient matrix-vector multiplications (MVMs). However, due …",
+        "publication_info": {
+          "summary": "S Sun, J Bai, Z Shi, W Zhao… - IEEE Transactions on …, 2024 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "S Sun",
+              "link": "https://scholar.google.com/citations?user=qdh438YAAAAJ&hl=en&oi=sra",
+              "author_id": "qdh438YAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qdh438YAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "J Bai",
+              "link": "https://scholar.google.com/citations?user=xdBFHgoAAAAJ&hl=en&oi=sra",
+              "author_id": "xdBFHgoAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xdBFHgoAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "Z Shi"
+            },
+            {
+              "name": "W Zhao",
+              "link": "https://scholar.google.com/citations?user=iFoz4kQAAAAJ&hl=en&oi=sra",
+              "author_id": "iFoz4kQAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=iFoz4kQAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=zEQlq6xW-PsJ",
+          "cited_by": {
+            "total": 17,
+            "link": "https://scholar.google.com/scholar?cites=18156357197349864652&as_sdt=5,45&sciodt=0,45&hl=en",
+            "cites_id": "18156357197349864652",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C45&cites=18156357197349864652&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:zEQlq6xW-PsJ:scholar.google.com/&scioq=intitle:%22Hardware+Friendly+Mixed+Precision%22&hl=en&as_sdt=0,45",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C45&engine=google_scholar&hl=en&num=10&q=related%3AzEQlq6xW-PsJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cluster=18156357197349864652&hl=en&as_sdt=0,45",
+            "cluster_id": "18156357197349864652",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C45&cluster=18156357197349864652&engine=google_scholar&hl=en"
+          }
+        }
+      },
+      {
+        "position": 4,
+        "title": "Hardware-friendly mixed-precision neu-ral networks",
+        "result_id": "DgZk9CVaqeUJ",
+        "type": "Pdf",
+        "link": "https://openreview.net/pdf?id=PJ9o1HzPpW",
+        "snippet": "… Therefore, we did a thorough evaluation of mixed-precision quantization of neural networks in this work and propose Hardware-Friendly Mixed-Precision Neural Networks where this …",
+        "publication_info": {
+          "summary": "S Javed - 2021 - openreview.net",
+          "authors": [
+            {
+              "name": "S Javed",
+              "link": "https://scholar.google.com/citations?user=ab54tpYAAAAJ&hl=en&oi=sra",
+              "author_id": "ab54tpYAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ab54tpYAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "openreview.net",
+            "file_format": "PDF",
+            "link": "https://openreview.net/pdf?id=PJ9o1HzPpW"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=DgZk9CVaqeUJ",
+          "cited_by": {
+            "total": 1,
+            "link": "https://scholar.google.com/scholar?cites=16548857424810083854&as_sdt=5,45&sciodt=0,45&hl=en",
+            "cites_id": "16548857424810083854",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C45&cites=16548857424810083854&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:DgZk9CVaqeUJ:scholar.google.com/&scioq=intitle:%22Hardware+Friendly+Mixed+Precision%22&hl=en&as_sdt=0,45",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C45&engine=google_scholar&hl=en&num=10&q=related%3ADgZk9CVaqeUJ%3Ascholar.google.com%2F",
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:DgZk9CVaqeUJ:scholar.google.com/+intitle:%22Hardware+Friendly+Mixed+Precision%22&hl=en&as_sdt=0,45"
+        }
+      }
+    ]
+  }
+}

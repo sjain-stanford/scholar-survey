@@ -1,0 +1,1969 @@
+{
+  "query": "University of Rochester",
+  "url": "https://api.ror.org/v2/organizations?query=University+of+Rochester",
+  "access_date": "2026-10-08",
+  "status": 200,
+  "data": {
+    "number_of_results": 35479,
+    "time_taken": 57,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "rochester.edu"
+        ],
+        "established": 1850,
+        "external_ids": [
+          {
+            "all": [
+              "100008091",
+              "100005836",
+              "100008243",
+              "100011125"
+            ],
+            "preferred": "100008091",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.16416.34"
+            ],
+            "preferred": "grid.16416.34",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1936 9174"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q149990"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/022kthw22",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.rochester.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Rochester"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 43.15478,
+              "lng": -77.61556,
+              "name": "Rochester"
+            },
+            "geonames_id": 5134086
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "URochester"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de Rochester"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Rochester"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de Rochester"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Rochester Medicine",
+            "type": "child",
+            "id": "https://ror.org/00trqv719"
+          },
+          {
+            "label": "Laboratory for Laser Energetics",
+            "type": "child",
+            "id": "https://ror.org/006rjbv46"
+          },
+          {
+            "label": "Highland Hospital",
+            "type": "related",
+            "id": "https://ror.org/00z9qkg54"
+          },
+          {
+            "label": "Strong Memorial Hospital",
+            "type": "related",
+            "id": "https://ror.org/0583j8v67"
+          },
+          {
+            "label": "Materials Science in Extreme Environments University Research Alliance",
+            "type": "related",
+            "id": "https://ror.org/04n07f274"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1966,
+        "external_ids": [
+          {
+            "all": [
+              "grid.440713.5"
+            ],
+            "preferred": "grid.440713.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0418 2868"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7895805"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02rh4fw73",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://r.umn.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Minnesota_Rochester"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MN",
+              "country_subdivision_name": "Minnesota",
+              "lat": 44.02163,
+              "lng": -92.4699,
+              "name": "Rochester"
+            },
+            "geonames_id": 5043473
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Minnesota Rochester"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Minnesota System",
+            "type": "parent",
+            "id": "https://ror.org/03grvy078"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1921,
+        "external_ids": [
+          {
+            "all": [
+              "100009750",
+              "100011124",
+              "100015425"
+            ],
+            "preferred": "100009750",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412750.5"
+            ],
+            "preferred": "grid.412750.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1936 9166"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7896217"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00trqv719",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.urmc.rochester.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Rochester_Medical_Center"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 43.15478,
+              "lng": -77.61556,
+              "name": "Rochester"
+            },
+            "geonames_id": 5134086
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "UR Medicine"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "URMC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "URochester Medicine"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Rochester Medical Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "University of Rochester Medicine"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Golisano Children's Hospital",
+            "type": "child",
+            "id": "https://ror.org/02rcfyf15"
+          },
+          {
+            "label": "Highland Hospital",
+            "type": "child",
+            "id": "https://ror.org/00z9qkg54"
+          },
+          {
+            "label": "Strong Memorial Hospital",
+            "type": "child",
+            "id": "https://ror.org/0583j8v67"
+          },
+          {
+            "label": "University of Rochester",
+            "type": "parent",
+            "id": "https://ror.org/022kthw22"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-01-15",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "rcu.edu"
+        ],
+        "established": 1959,
+        "external_ids": [
+          {
+            "all": [
+              "grid.430277.5"
+            ],
+            "preferred": "grid.430277.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0537 5039"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7353961"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04sgyk254",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://rcu.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Rochester_College"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MI",
+              "country_subdivision_name": "Michigan",
+              "lat": 42.65837,
+              "lng": -83.14993,
+              "name": "Rochester Hills"
+            },
+            "geonames_id": 5007402
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "RC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Rochester Christian University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Rochester College"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1917,
+        "external_ids": [
+          {
+            "all": [
+              "grid.486978.c"
+            ],
+            "preferred": "grid.486978.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0574 1895"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7738914"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02a03v538",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.harleyschool.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/The_Harley_School"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 43.15478,
+              "lng": -77.61556,
+              "name": "Rochester"
+            },
+            "geonames_id": 5134086
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "The Children’s University School of Rochester"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "The Harley School"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2015,
+        "external_ids": [
+          {
+            "all": [
+              "grid.487030.8"
+            ],
+            "preferred": "grid.487030.8",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/03hd5ck45",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.rochesterroots.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 43.15478,
+              "lng": -77.61556,
+              "name": "Rochester"
+            },
+            "geonames_id": 5134086
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ROOTS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Rochester Roots"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-09-23",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1999,
+        "external_ids": [
+          {
+            "all": [
+              "grid.511765.1"
+            ],
+            "preferred": "grid.511765.1",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/00kfe0n78",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.gastrogroupofrochester.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 43.15478,
+              "lng": -77.61556,
+              "name": "Rochester"
+            },
+            "geonames_id": 5134086
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "GGR"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Gastroenterology Group of Rochester"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1881,
+        "external_ids": [
+          {
+            "all": [
+              "100011435"
+            ],
+            "preferred": "100011435",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "0000 0001 0940 8270"
+            ],
+            "preferred": "0000 0001 0940 8270",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q70060834"
+            ],
+            "preferred": "Q70060834",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/056nnzb78",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.rasny.org"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 43.15478,
+              "lng": -77.61556,
+              "name": "Rochester"
+            },
+            "geonames_id": 5134086
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "RAS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Rochester Academy of Science"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "rit.edu"
+        ],
+        "established": 1829,
+        "external_ids": [
+          {
+            "all": [
+              "100015853",
+              "100013846",
+              "100015826"
+            ],
+            "preferred": "100015853",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.262613.2"
+            ],
+            "preferred": "grid.262613.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2323 3518"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2140778"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00v4yb702",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.rit.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 43.15478,
+              "lng": -77.61556,
+              "name": "Rochester"
+            },
+            "geonames_id": 5134086
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "RIT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Rochester Athenaeum and Mechanics Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Rochester Institute of Technology"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Rochester Institute of Technology Croatia",
+            "type": "related",
+            "id": "https://ror.org/03jgxzm03"
+          },
+          {
+            "label": "Great Lakes Research Consortium",
+            "type": "related",
+            "id": "https://ror.org/05cshtm26"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-02-24",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "rochester.edu"
+        ],
+        "established": 1970,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0001 2111 6211"
+            ],
+            "preferred": "0000 0001 2111 6211",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6467294"
+            ],
+            "preferred": "Q6467294",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/006rjbv46",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.lle.rochester.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Laboratory_for_Laser_Energetics"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 43.15478,
+              "lng": -77.61556,
+              "name": "Rochester"
+            },
+            "geonames_id": 5134086
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "LLE"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Laboratory for Laser Energetics"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Laboratory for Laser Energetics, University of Rochester"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "UR Laboratory for Laser Energetics"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "URLLE"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Rochester",
+            "type": "parent",
+            "id": "https://ror.org/022kthw22"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2002,
+        "external_ids": [
+          {
+            "all": [
+              "grid.448866.0"
+            ],
+            "preferred": "grid.448866.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 4687 3368"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4745312"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00xtqnh37",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://kosovo.rit.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/RIT_Kosovo"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "XK",
+              "country_name": "Kosovo",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Pristina",
+              "lat": 42.67272,
+              "lng": 21.16688,
+              "name": "Pristina"
+            },
+            "geonames_id": 786714
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "AUK"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "American University in Kosovo"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "RIT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Rochester Institute of Technology Kosovo"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2008,
+        "external_ids": [
+          {
+            "all": [
+              "grid.494532.d"
+            ],
+            "preferred": "grid.494532.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 5902 8657"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7353990"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03zmfa837",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.rit.edu/dubai/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology_-_Dubai"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "AE",
+              "country_name": "United Arab Emirates",
+              "country_subdivision_code": "DU",
+              "country_subdivision_name": "Dubai",
+              "lat": 25.07725,
+              "lng": 55.30927,
+              "name": "Dubai"
+            },
+            "geonames_id": 292223
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "RIT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Rochester Institute of Technology - Dubai"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "معهد روتشستر للتكنولوجيا - دبي"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1997,
+        "external_ids": [
+          {
+            "all": [
+              "grid.465850.a"
+            ],
+            "preferred": "grid.465850.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0436 7176"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3512154"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03jgxzm03",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.croatia.rit.edu//"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology_Croatia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "HR",
+              "country_name": "Croatia",
+              "country_subdivision_code": "19",
+              "country_subdivision_name": "Dubrovnik-Neretva",
+              "lat": 42.64125,
+              "lng": 18.10909,
+              "name": "Dubrovnik"
+            },
+            "geonames_id": 3201047
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ACMT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "American College of Management and Technology"
+          },
+          {
+            "lang": "hr",
+            "types": [
+              "label"
+            ],
+            "value": "Američka Visoka Skola za Menadžment i Tehnologiju"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "RIT"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "RIT Croatia"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Rochester Institute of Technology Croatia"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Rochester Institute of Technology",
+            "type": "related",
+            "id": "https://ror.org/00v4yb702"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-20",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "bccr.org"
+        ],
+        "established": 1998,
+        "external_ids": [
+          {
+            "all": [
+              "100012288"
+            ],
+            "preferred": "100012288",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "Q4959763"
+            ],
+            "preferred": "Q4959763",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00z2qtd80",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://bccr.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 43.15478,
+              "lng": -77.61556,
+              "name": "Rochester"
+            },
+            "geonames_id": 5134086
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "BCCR"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Breast Cancer Coalition of Rochester"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1864,
+        "external_ids": [
+          {
+            "all": [
+              "grid.416016.4"
+            ],
+            "preferred": "grid.416016.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0456 3003"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/01jk6xr82",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.rochestergeneral.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 43.15478,
+              "lng": -77.61556,
+              "name": "Rochester"
+            },
+            "geonames_id": 5134086
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Rochester General Hospital"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1944,
+        "external_ids": [
+          {
+            "all": [
+              "grid.417998.a"
+            ],
+            "preferred": "grid.417998.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q30281540"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04n7g4f11",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.rochesterarea.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MN",
+              "country_subdivision_name": "Minnesota",
+              "lat": 44.02163,
+              "lng": -92.4699,
+              "name": "Rochester"
+            },
+            "geonames_id": 5043473
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "RAF"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Rochester Area Foundation"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1860,
+        "external_ids": [
+          {
+            "all": [
+              "grid.447330.7"
+            ],
+            "preferred": "grid.447330.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9791 0721"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/00869mm41",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.rochesterhistory.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 43.15478,
+              "lng": -77.61556,
+              "name": "Rochester"
+            },
+            "geonames_id": 5134086
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "RHS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Rochester Historical Society"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1912,
+        "external_ids": [
+          {
+            "all": [
+              "grid.427337.6"
+            ],
+            "preferred": "grid.427337.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2292 5141"
+            ],
+            "preferred": "0000 0001 2292 5141",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7354000"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03ykge061",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://rmsc.org"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Rochester_Museum_and_Science_Center"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 43.15478,
+              "lng": -77.61556,
+              "name": "Rochester"
+            },
+            "geonames_id": 5134086
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "RMSC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Rochester Municipal Museum"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Rochester Museum and Science Center"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1919,
+        "external_ids": [
+          {
+            "all": [
+              "grid.430281.c"
+            ],
+            "preferred": "grid.430281.c",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/02nmc8040",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.rochesterrehab.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 43.15478,
+              "lng": -77.61556,
+              "name": "Rochester"
+            },
+            "geonames_id": 5134086
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Rochester Rehabilitation Center"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1897,
+        "external_ids": [
+          {
+            "all": [
+              "grid.488079.a"
+            ],
+            "preferred": "grid.488079.a",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/01jeebd83",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.roceng.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 43.15478,
+              "lng": -77.61556,
+              "name": "Rochester"
+            },
+            "geonames_id": 5134086
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "RES"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Rochester Engineering Society"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "other"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 17811
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 9008
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 4721
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 3945
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 3556
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2259
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2031
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 772
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 409
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 6026
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 4070
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2348
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2061
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1577
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 942
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 866
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 836
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 799
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 764
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 15033
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 9630
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 7283
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1991
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 949
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 594
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 35479
+        }
+      ]
+    }
+  }
+}

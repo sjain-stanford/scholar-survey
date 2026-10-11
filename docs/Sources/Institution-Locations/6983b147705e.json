@@ -1,0 +1,2443 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Fermi+National+Accelerator+Laboratory",
+  "http_status": 200,
+  "query": "Fermi National Accelerator Laboratory",
+  "data": {
+    "number_of_results": 6012,
+    "time_taken": 65,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-03-26",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "fnal.gov"
+        ],
+        "established": 1967,
+        "external_ids": [
+          {
+            "all": [
+              "100006230"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.417851.e"
+            ],
+            "preferred": "grid.417851.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0675 0679"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q337641"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/020hgte69",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.fnal.gov"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Fermilab"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 41.85003,
+              "lng": -88.31257,
+              "name": "Batavia"
+            },
+            "geonames_id": 4884192
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Fermi National Accelerator Laboratory"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Fermilab"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Accelerator Laboratory"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "U.S. Department of Energy Office of Science Fermi National Accelerator Laboratory"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "United States Department of Energy Office of Science Fermi National Accelerator Laboratory"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Fermilab Accelerator Complex",
+            "type": "child",
+            "id": "https://ror.org/0415p6x27"
+          },
+          {
+            "label": "Office of Science",
+            "type": "parent",
+            "id": "https://ror.org/00mmn6b08"
+          },
+          {
+            "label": "Fermi Research Alliance",
+            "type": "parent",
+            "id": "https://ror.org/02j58f715"
+          },
+          {
+            "label": "Universities Research Association",
+            "type": "related",
+            "id": "https://ror.org/009djdq91"
+          },
+          {
+            "label": "University of Chicago",
+            "type": "related",
+            "id": "https://ror.org/024mw5h28"
+          },
+          {
+            "label": "Research Infrastructure for Fermilab Experiments",
+            "type": "related",
+            "id": "https://ror.org/02mebaz96"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-12-20",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2012,
+        "external_ids": [
+          {
+            "all": [
+              "Q123951889"
+            ],
+            "preferred": "Q123951889",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0415p6x27",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.fnal.gov/pub/science/particle-accelerators/accelerator-complex.html"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 41.85003,
+              "lng": -88.31257,
+              "name": "Batavia"
+            },
+            "geonames_id": 4884192
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Fermi National Accelerator Laboratory Fermilab Accelerator Complex"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Fermilab Accelerator Complex"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "U.S. Department of Energy Office of Science Fermi National Accelerator Laboratory Fermilab Accelerator Complex"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "United States Department of Energy Office of Science Fermi National Accelerator Laboratory Fermilab Accelerator Complex"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Fermi National Accelerator Laboratory",
+            "type": "parent",
+            "id": "https://ror.org/020hgte69"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-08-07",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1962,
+        "external_ids": [
+          {
+            "all": [
+              "100011664"
+            ],
+            "preferred": "100011664",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.445003.6"
+            ],
+            "preferred": "grid.445003.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0725 7771"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q915217"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05gzmn429",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www6.slac.stanford.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/SLAC_National_Accelerator_Laboratory"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 37.45383,
+              "lng": -122.18219,
+              "name": "Menlo Park"
+            },
+            "geonames_id": 5372223
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Centre de l'Accélérateur Linéaire de Stanford"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Office of Science SLAC National Accelerator Laboratory"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SLAC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "SLAC National Accelerator Laboratory"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Stanford Linear Accelerator Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "United States Department of Energy Office of Science SLAC National Accelerator Laboratory"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Kavli Institute for Particle Astrophysics and Cosmology",
+            "type": "child",
+            "id": "https://ror.org/00pwqz914"
+          },
+          {
+            "label": "Linac Coherent Light Source",
+            "type": "child",
+            "id": "https://ror.org/02vkaa689"
+          },
+          {
+            "label": "Stanford Synchrotron Radiation Lightsource",
+            "type": "child",
+            "id": "https://ror.org/02vzbm991"
+          },
+          {
+            "label": "Facility for Advanced Accelerator Experimental Tests-II",
+            "type": "child",
+            "id": "https://ror.org/023py8175"
+          },
+          {
+            "label": "NSF-DOE Vera C. Rubin Observatory",
+            "type": "child",
+            "id": "https://ror.org/048g3cy84"
+          },
+          {
+            "label": "Office of Science",
+            "type": "parent",
+            "id": "https://ror.org/00mmn6b08"
+          },
+          {
+            "label": "Stanford University",
+            "type": "parent",
+            "id": "https://ror.org/00f54p054"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-12-07",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/01qradn92",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www2.kek.jp/accl/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "08",
+              "country_subdivision_name": "Ibaraki",
+              "lat": 36.2,
+              "lng": 140.1,
+              "name": "Tsukuba"
+            },
+            "geonames_id": 2110683
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KEK ACCL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "KEK Accelerator Laboratory"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "加速器研究施設"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "alias"
+            ],
+            "value": "大学共同利用機関法人高エネルギー加速器研究機構加速器研究施設"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "High Energy Accelerator Research Organization",
+            "type": "parent",
+            "id": "https://ror.org/01g5y5k24"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-03-16",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1988,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 0632 5770"
+            ],
+            "preferred": "0000 0004 0632 5770",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q47495146"
+            ],
+            "preferred": "Q47495146",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02gntzb40",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://pal.postech.ac.kr"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "47",
+              "country_subdivision_name": "Gyeongsangbuk-do",
+              "lat": 36.02917,
+              "lng": 129.36481,
+              "name": "Pohang"
+            },
+            "geonames_id": 1839071
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PAL, PLS-II, PAL-XFEL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Pohang Accelerator Laboratory"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "포항가속기연구소로고"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Pohang University of Science and Technology",
+            "type": "parent",
+            "id": "https://ror.org/04xysgw12"
+          },
+          {
+            "label": "Ministry of Science and ICT",
+            "type": "parent",
+            "id": "https://ror.org/01wpjm123"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-12-20",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1992,
+        "external_ids": [
+          {
+            "all": [
+              "Q55642852"
+            ],
+            "preferred": "Q55642852",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0580dnq61",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.bnl.gov/atf/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Accelerator_Test_Facility_%28New_York%29"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 40.86954,
+              "lng": -72.88677,
+              "name": "Upton"
+            },
+            "geonames_id": 5142042
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ATF"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Accelerator Test Facility"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BNL ATF"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Brookhaven National Laboratory ATF"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Brookhaven National Laboratory Accelerator Test Facility"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "U.S. Department of Energy Office of Science Brookhaven National Laboratory Accelerator Test Facility"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "United States Department of Energy Office of Science Brookhaven National Laboratory Accelerator Test Facility"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Brookhaven National Laboratory",
+            "type": "parent",
+            "id": "https://ror.org/02ex6cf31"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-10-26",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-04-14",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2021,
+        "external_ids": [
+          {
+            "all": [
+              "Q123207563"
+            ],
+            "preferred": "Q123207563",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02wq1s711",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://fermi.univ-tlse3.fr"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "FR",
+              "country_name": "France",
+              "country_subdivision_code": "OCC",
+              "country_subdivision_name": "Occitanie",
+              "lat": 43.60426,
+              "lng": 1.44367,
+              "name": "Toulouse"
+            },
+            "geonames_id": 2972315
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "FR 2051"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "FR2051"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "FeRMI"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Fédération de recherche Matière et Interactions"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "Fédération de recherche Matière et Interactions – FeRMI"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Institut National des Sciences Appliquées de Toulouse",
+            "type": "parent",
+            "id": "https://ror.org/01h8pf755"
+          },
+          {
+            "label": "Centre National de la Recherche Scientifique",
+            "type": "parent",
+            "id": "https://ror.org/02feahw73"
+          },
+          {
+            "label": "Université de Toulouse",
+            "type": "parent",
+            "id": "https://ror.org/01ahyrz84"
+          },
+          {
+            "label": "Institut de Recherche sur les Systèmes Atomiques et Moléculaires Complexes",
+            "type": "predecessor",
+            "id": "https://ror.org/02h158026"
+          },
+          {
+            "label": "Laboratoire Collisions Agrégats Réactivité",
+            "type": "related",
+            "id": "https://ror.org/0416g8z79"
+          },
+          {
+            "label": "Laboratoire de Chimie et Physique Quantiques",
+            "type": "related",
+            "id": "https://ror.org/056g7f250"
+          },
+          {
+            "label": "Laboratoire de Physique Théorique",
+            "type": "related",
+            "id": "https://ror.org/01w0hda30"
+          },
+          {
+            "label": "Laboratoire de Physique et Chimie des Nano-Objets",
+            "type": "related",
+            "id": "https://ror.org/042xmz674"
+          },
+          {
+            "label": "Centre d’Élaboration de Matériaux et d’Études Structurales",
+            "type": "related",
+            "id": "https://ror.org/03kwnqq69"
+          },
+          {
+            "label": "Laboratoire National des Champs Magnétiques Intenses",
+            "type": "related",
+            "id": "https://ror.org/045ktmd28"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-12-18",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1997,
+        "external_ids": [
+          {
+            "all": [
+              "grid.507477.6"
+            ],
+            "preferred": "grid.507477.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1763 654X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q8343687"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00r1wwd23",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://cna.us.es"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Centro_Nacional_de_Aceleradores"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "AN",
+              "country_subdivision_name": "Andalusia",
+              "lat": 37.38283,
+              "lng": -5.97317,
+              "name": "Seville"
+            },
+            "geonames_id": 2510911
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CNA"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Centro Nacional de Aceleradores"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Accelerator Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "National Center of Accelerators"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Spanish National Accelerator Center"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Junta de Andalucía",
+            "type": "parent",
+            "id": "https://ror.org/01jem9c82"
+          },
+          {
+            "label": "Consejo Superior de Investigaciones Científicas",
+            "type": "parent",
+            "id": "https://ror.org/02gfc7t72"
+          },
+          {
+            "label": "Universidad de Sevilla",
+            "type": "parent",
+            "id": "https://ror.org/03yxnpp24"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1983,
+        "external_ids": [
+          {
+            "all": [
+              "grid.462638.d"
+            ],
+            "preferred": "grid.462638.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0696 719X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q25613931"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/002kje223",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://tlabs.ac.za/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "ZA",
+              "country_name": "South Africa",
+              "country_subdivision_code": "WC",
+              "country_subdivision_name": "Western Cape",
+              "lat": -33.93462,
+              "lng": 18.86676,
+              "name": "Stellenbosch"
+            },
+            "geonames_id": 3361025
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NAC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Accelerator Centre"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "iThemba Laboratory"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "National Research Foundation",
+            "type": "parent",
+            "id": "https://ror.org/05s0g1g46"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-12-20",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2012,
+        "external_ids": [
+          {
+            "all": [
+              "Q123951829"
+            ],
+            "preferred": "Q123951829",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/023py8175",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://facet-ii.slac.stanford.edu"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 37.45383,
+              "lng": -122.18219,
+              "name": "Menlo Park"
+            },
+            "geonames_id": 5372223
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "FACET-II"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Facility for Advanced Accelerator Experimental Tests-II"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SLAC FACET-II"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "SLAC National Accelerator Laboratory Facility for Advanced Accelerator Experimental Tests-II"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "U.S. Department of Energy Office of Science SLAC National Accelerator Laboratory Facility for Advanced Accelerator Experimental Tests-II"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "United States Department of Energy Office of Science SLAC National Accelerator Laboratory Facility for Advanced Accelerator Experimental Tests-II"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "SLAC National Accelerator Laboratory",
+            "type": "parent",
+            "id": "https://ror.org/05gzmn429"
+          },
+          {
+            "label": "Stanford University",
+            "type": "parent",
+            "id": "https://ror.org/00f54p054"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-09-23",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2009,
+        "external_ids": [
+          {
+            "all": [
+              "grid.512023.7"
+            ],
+            "preferred": "grid.512023.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 6047 9447"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q20826880"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02vkaa689",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://lcls.slac.stanford.edu/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 37.45383,
+              "lng": -122.18219,
+              "name": "Menlo Park"
+            },
+            "geonames_id": 5372223
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "LCLS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Linac Coherent Light Source"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "SLAC National Accelerator Laboratory Linac Coherent Light Source"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "U.S. Department of Energy Linac Coherent Light Source"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "U.S. Department of Energy Office of Science SLAC National Accelerator Laboratory Linac Coherent Light Source"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "United States Department of Energy Linac Coherent Light Source"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "United States Department of Energy Office of Science SLAC National Accelerator Laboratory Linac Coherent Light Source"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "SLAC National Accelerator Laboratory",
+            "type": "parent",
+            "id": "https://ror.org/05gzmn429"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-09-23",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1973,
+        "external_ids": [
+          {
+            "all": [
+              "grid.511397.8"
+            ],
+            "preferred": "grid.511397.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0452 8128"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7598799"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02vzbm991",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www-ssrl.slac.stanford.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Stanford_Synchrotron_Radiation_Lightsource"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 37.45383,
+              "lng": -122.18219,
+              "name": "Menlo Park"
+            },
+            "geonames_id": 5372223
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "SLAC National Accelerator Laboratory Stanford Synchotron Radiation Lightsource"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SSRL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Stanford Synchrotron Radiation Laboratory"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Stanford Synchrotron Radiation Lightsource"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "U.S. Department of Energy Office of Science SLAC National Accelerator Laboratory Stanford Synchotron Radiation Lightsource"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "U.S. Department of Energy Stanford Synchotron Radiation Lightsource"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "United States Department of Energy Office of Science SLAC National Accelerator Laboratory Stanford Synchotron Radiation Lightsource"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "United States Department of Energy Stanford Synchotron Radiation Lightsource"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "SLAC National Accelerator Laboratory",
+            "type": "parent",
+            "id": "https://ror.org/05gzmn429"
+          },
+          {
+            "label": "Stanford University",
+            "type": "parent",
+            "id": "https://ror.org/00f54p054"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-12-20",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1985,
+        "external_ids": [
+          {
+            "all": [
+              "Q4789690"
+            ],
+            "preferred": "Q4789690",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04b15va38",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.anl.gov/atlas"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Argonne_Tandem_Linear_Accelerator_System"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 41.67364,
+              "lng": -88.00173,
+              "name": "Lemont"
+            },
+            "geonames_id": 4899581
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ANL ATLAS"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ATLAS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Argonne National Laboratory Argonne Tandem Linac Accelerator System"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Argonne Tandem Linac Accelerator System"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "U.S. Department of Energy Office of Science Argonne National Laboratory Argonne Tandem Linac Accelerator System"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "United States Department of Energy Office of Science Argonne National Laboratory Argonne Tandem Linac Accelerator System"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Argonne National Laboratory",
+            "type": "parent",
+            "id": "https://ror.org/05gvnxz63"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ganil-spiral2.eu"
+        ],
+        "established": 1983,
+        "external_ids": [
+          {
+            "all": [
+              "grid.72943.3b"
+            ],
+            "preferred": "grid.72943.3b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0000 1888"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1137800"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/042dc0x18",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ganil-spiral2.eu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://fr.wikipedia.org/wiki/Grand_acc%C3%A9l%C3%A9rateur_national_d%27ions_lourds"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "FR",
+              "country_name": "France",
+              "country_subdivision_code": "NOR",
+              "country_subdivision_name": "Normandy",
+              "lat": 49.18585,
+              "lng": -0.35912,
+              "name": "Caen"
+            },
+            "geonames_id": 3029241
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "GANIL"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "GANIL SPIRAL2"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "GANIL SPIRAL2: Grand Accélérateur National d'Ions Lourds"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "GANIL: Grand Accélérateur National d'Ions Lourds"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Grand Accélérateur National d'Ions Lourds"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Large Heavy Ion National Accelerator"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "UAR 3266"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "UAR3266"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Direction de la Recherche Fondamentale",
+            "type": "parent",
+            "id": "https://ror.org/01yvj5k91"
+          },
+          {
+            "label": "Institut National de Physique Nucléaire et de Physique des Particules",
+            "type": "parent",
+            "id": "https://ror.org/03fd77x13"
+          },
+          {
+            "label": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+            "type": "parent",
+            "id": "https://ror.org/00jjx8s55"
+          },
+          {
+            "label": "Centre National de la Recherche Scientifique",
+            "type": "parent",
+            "id": "https://ror.org/02feahw73"
+          },
+          {
+            "label": "Système de Production d’Ions Radioactifs Accélérés en Ligne",
+            "type": "related",
+            "id": "https://ror.org/02fjdfm19"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "jlab.org"
+        ],
+        "established": 1984,
+        "external_ids": [
+          {
+            "all": [
+              "100011665"
+            ],
+            "preferred": "100011665",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.450315.6"
+            ],
+            "preferred": "grid.450315.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2236 1964"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1540109"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02vwzrd76",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.jlab.org"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Thomas_Jefferson_National_Accelerator_Facility"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "VA",
+              "country_subdivision_name": "Virginia",
+              "lat": 36.98038,
+              "lng": -76.42975,
+              "name": "Newport News"
+            },
+            "geonames_id": 4776024
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "JLab"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Jefferson Lab"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Office of Science Thomas Jefferson National Accelerator Facility"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TJNAF"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Thomas Jefferson National Accelerator Facility"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "U.S. Department of Energy Office of Science Thomas Jefferson National Accelerator Facility"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "United States Department of Energy Office of Science Thomas Jefferson National Accelerator Facility"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Continuous Electron Beam Accelerator Facility",
+            "type": "child",
+            "id": "https://ror.org/033wxpt21"
+          },
+          {
+            "label": "Office of Science",
+            "type": "parent",
+            "id": "https://ror.org/00mmn6b08"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-12-20",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1994,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0001 2105 142X"
+            ],
+            "preferred": "0000 0001 2105 142X",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q123951817"
+            ],
+            "preferred": "Q123951817",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/033wxpt21",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.jlab.org/accelerator"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "VA",
+              "country_subdivision_name": "Virginia",
+              "lat": 36.98038,
+              "lng": -76.42975,
+              "name": "Newport News"
+            },
+            "geonames_id": 4776024
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CEBAF"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Continuous Electron Beam Accelerator Facility"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TJNAF CEBAF"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Thomas Jefferson National Accelerator Facility Continuous Beam Accelerator Facility"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "U.S. Department of Energy Office of Science Thomas Jefferson National Accelerator Facility Continuous Beam Accelerator Facility"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "United States Department of Energy Office of Science Thomas Jefferson National Accelerator Facility Continuous Beam Accelerator Facility"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Thomas Jefferson National Accelerator Facility",
+            "type": "parent",
+            "id": "https://ror.org/02vwzrd76"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2007,
+        "external_ids": [
+          {
+            "all": [
+              "grid.421388.4"
+            ],
+            "preferred": "grid.421388.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0442 6471"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/02j58f715",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.fra-hq.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 41.85003,
+              "lng": -88.31257,
+              "name": "Batavia"
+            },
+            "geonames_id": 4884192
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "FRA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Fermi Research Alliance"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Fermi National Accelerator Laboratory",
+            "type": "child",
+            "id": "https://ror.org/020hgte69"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-03-24",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-04-14",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/01cpx3z71",
+        "links": [],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "12",
+              "country_subdivision_name": "Chiba",
+              "lat": 35.6486,
+              "lng": 140.11312,
+              "name": "Inage Ku"
+            },
+            "geonames_id": 7465516
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Accelerator Engineering"
+          },
+          {
+            "lang": null,
+            "types": [
+              "label"
+            ],
+            "value": "Accelerator Engineering Corporation"
+          },
+          {
+            "lang": null,
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Accelerator Engineering Corporation (Japan)"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "加速器エンジニアリング株式会社"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1950,
+        "external_ids": [
+          {
+            "all": [
+              "501100019108"
+            ],
+            "preferred": "501100019108",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.417643.3"
+            ],
+            "preferred": "grid.417643.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 4905 7788"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3101007"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/057mn3690",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ncl-india.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/National_Chemical_Laboratory"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "IN",
+              "country_name": "India",
+              "country_subdivision_code": "MH",
+              "country_subdivision_name": "Maharashtra",
+              "lat": 18.51957,
+              "lng": 73.85535,
+              "name": "Pune"
+            },
+            "geonames_id": 1259229
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NCL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Chemical Laboratory"
+          },
+          {
+            "lang": "mr",
+            "types": [
+              "label"
+            ],
+            "value": "राष्ट्रीय रासायनिक प्रयोगशाळा"
+          },
+          {
+            "lang": "hi",
+            "types": [
+              "label"
+            ],
+            "value": "राष्ट्रीय रासायनिकी प्रयोगशाला"
+          },
+          {
+            "lang": "ml",
+            "types": [
+              "label"
+            ],
+            "value": "നാഷണൽ കെമിക്കൽ ലാബറട്ടറി"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Council of Scientific and Industrial Research",
+            "type": "parent",
+            "id": "https://ror.org/021wm7p51"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2008,
+        "external_ids": [
+          {
+            "all": [
+              "100018256"
+            ],
+            "preferred": "100018256",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.270117.2"
+            ],
+            "preferred": "grid.270117.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0522 0977"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6974595"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/051n2dc24",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.nnl.co.uk/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/National_Nuclear_Laboratory"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 54.39831,
+              "lng": -3.47961,
+              "name": "Seascale"
+            },
+            "geonames_id": 2638282
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NNL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Nuclear Laboratory"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Nexia Solutions"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 2003
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 1669
+        },
+        {
+          "id": "education",
+          "title": "education",
+          "count": 1039
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 980
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 686
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 414
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 389
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 347
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 194
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 1137
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 699
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 437
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 409
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 295
+        },
+        {
+          "id": "ua",
+          "title": "Ukraine",
+          "count": 286
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 212
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 173
+        },
+        {
+          "id": "ca",
+          "title": "Canada",
+          "count": 118
+        },
+        {
+          "id": "it",
+          "title": "Italy",
+          "count": 94
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 2204
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 1759
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 1335
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 392
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 231
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 93
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 6012
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2088 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Kyushu+Institute+of+Technology",
+  "http_status": 200,
+  "query": "Kyushu Institute of Technology",
+  "data": {
+    "number_of_results": 35606,
+    "time_taken": 44,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "kyutech.ac.jp"
+        ],
+        "established": 1907,
+        "external_ids": [
+          {
+            "all": [
+              "501100007780"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.258806.1"
+            ],
+            "preferred": "grid.258806.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2110 1386"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1150245",
+              "Q39793931"
+            ],
+            "preferred": "Q1150245",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02278tr80",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.kyutech.ac.jp"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Kyushu_Institute_of_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "40",
+              "country_subdivision_name": "Fukuoka",
+              "lat": 33.85181,
+              "lng": 130.85034,
+              "name": "Kitakyushu"
+            },
+            "geonames_id": 1859307
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KIT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Kyushu Institute of Technology"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Kyutech"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "九州工業大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-01-12",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-01-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/007kqr982",
+        "links": [],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "40",
+              "country_subdivision_name": "Fukuoka",
+              "lat": 33.6,
+              "lng": 130.41667,
+              "name": "Fukuoka"
+            },
+            "geonames_id": 1863967
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Kyushu Industrial Technology Center"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "一般財団法人九州産業技術センター"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "alias"
+            ],
+            "value": "九州産業技術センター"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1998,
+        "external_ids": [
+          {
+            "all": [
+              "grid.443470.0"
+            ],
+            "preferred": "grid.443470.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0371 5001"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6452801"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01pt4x202",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.kiis.ac.jp/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Kyushu_Institute_of_Information_Sciences"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "40",
+              "country_subdivision_name": "Fukuoka",
+              "lat": 33.51278,
+              "lng": 130.52389,
+              "name": "Dazaifu"
+            },
+            "geonames_id": 7422816
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Kyushu Institute of Information Sciences"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Kyūshū jōhō daigaku"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "九州情報大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-06-14",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-06-23",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ri2t.kyushu-u.ac.jp"
+        ],
+        "established": 2007,
+        "external_ids": [
+          {
+            "all": [
+              "501100020579"
+            ],
+            "preferred": "501100020579",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/01zbgr676",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ri2t.kyushu-u.ac.jp"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "40",
+              "country_subdivision_name": "Fukuoka",
+              "lat": 33.6,
+              "lng": 130.41667,
+              "name": "Fukuoka"
+            },
+            "geonames_id": 1863967
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "RIIT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Research Institute for Information Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Research Institute for Information Technology, Kyushu University"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "九州大学情報基盤研究開発センター"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-03-30",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-03-31",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "bioreg.kyushu-u.ac.jp"
+        ],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/02zmxpe85",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.bioreg.kyushu-u.ac.jp"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": null,
+              "country_subdivision_name": null,
+              "lat": 32.33546,
+              "lng": 130.85082,
+              "name": "Kyushu"
+            },
+            "geonames_id": 1857891
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Kyushu University Medical Institute of Bioregulation"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Medical Institute of Bioregulation"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Medical Institute of Bioregulation, Kyushu University"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "九州大学 生体防御医学研究所"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Kyushu University",
+            "type": "related",
+            "id": "https://ror.org/00p4k0j84"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-29",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-03",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ker.co.jp"
+        ],
+        "established": 1990,
+        "external_ids": [],
+        "id": "https://ror.org/01p54y233",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ker.co.jp"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "46",
+              "country_subdivision_name": "Kagoshima",
+              "lat": 31.56667,
+              "lng": 130.55,
+              "name": "Kagoshima"
+            },
+            "geonames_id": 1860827
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Kagoshima Economic Research Institute"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Kagoshima Regional Economic Research Institute"
+          },
+          {
+            "lang": null,
+            "types": [
+              "label"
+            ],
+            "value": "Kyushu Economic Research Institute"
+          },
+          {
+            "lang": null,
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Kyushu Economic Research Institute (Japan)"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "alias"
+            ],
+            "value": "株式会社鹿児島地域経済研究所"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "株式会社鹿児島地域経済研究所"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "alias"
+            ],
+            "value": "株式会社鹿児島経済研究所"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "株式会社鹿児島経済研究所"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1950,
+        "external_ids": [
+          {
+            "all": [
+              "grid.444094.9"
+            ],
+            "preferred": "grid.444094.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9695 7544"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q848138"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02s22e816",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.kiu.ac.jp/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Kyushu_International_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "40",
+              "country_subdivision_name": "Fukuoka",
+              "lat": 33.85181,
+              "lng": 130.85034,
+              "name": "Kitakyushu"
+            },
+            "geonames_id": 1859307
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Kyushu College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Kyushu International University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Tobata College"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Yahata College"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Yahata University"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "九州国際大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.460253.6"
+            ],
+            "preferred": "grid.460253.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0569 5497"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q11370179"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01pnpvk61",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://kyusyu.jcho.go.jp/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "40",
+              "country_subdivision_name": "Fukuoka",
+              "lat": 33.85181,
+              "lng": 130.85034,
+              "name": "Kitakyushu"
+            },
+            "geonames_id": 1859307
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Kyushu Hospital"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "独立行政法人地域医療機能推進機構九州病院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Japan Community Healthcare Organization",
+            "type": "parent",
+            "id": "https://ror.org/03q11y497"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1903,
+        "external_ids": [
+          {
+            "all": [
+              "501100004096",
+              "501100007068",
+              "501100009382"
+            ],
+            "preferred": "501100004096",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.177174.3"
+            ],
+            "preferred": "grid.177174.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2242 4849"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1188786"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00p4k0j84",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.kyushu-u.ac.jp/english/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Kyushu_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "40",
+              "country_subdivision_name": "Fukuoka",
+              "lat": 33.6,
+              "lng": 130.41667,
+              "name": "Fukuoka"
+            },
+            "geonames_id": 1863967
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Kyushu University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Kyūshū Daigaku"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "九州大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Kyushu University Hospital",
+            "type": "child",
+            "id": "https://ror.org/00ex2fc97"
+          },
+          {
+            "label": "Kyushu University Beppu Hospital",
+            "type": "child",
+            "id": "https://ror.org/04qdbg778"
+          },
+          {
+            "label": "Organic Photonics and Electronics International Laboratory",
+            "type": "child",
+            "id": "https://ror.org/025xynk85"
+          },
+          {
+            "label": "Medical Institute of Bioregulation, Kyushu University",
+            "type": "related",
+            "id": "https://ror.org/02zmxpe85"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-29",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-03",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "fujisash.co.jp"
+        ],
+        "established": 2001,
+        "external_ids": [],
+        "id": "https://ror.org/04atekb34",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.fujisash.co.jp/ss/kyusyu/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "40",
+              "country_subdivision_name": "Fukuoka",
+              "lat": 33.6,
+              "lng": 130.41667,
+              "name": "Fukuoka"
+            },
+            "geonames_id": 1863967
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "label"
+            ],
+            "value": "Fujisash Kyushu Co., Ltd."
+          },
+          {
+            "lang": null,
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Fujisash Kyushu Co., Ltd. (Japan)"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Kyushu Fujisash"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "株式会社不二サッシ九州"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-01-25",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-01-29",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "kiai.gr.jp"
+        ],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/00zpffn93",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.kiai.gr.jp"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "43",
+              "country_subdivision_name": "Kumamoto",
+              "lat": 32.80589,
+              "lng": 130.69181,
+              "name": "Kumamoto"
+            },
+            "geonames_id": 1858421
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Kyushu Island Alliance of ICT"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "一般社団法人九州テレコム振興センター"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-06-02",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "phoenix.ac.jp"
+        ],
+        "established": 1998,
+        "external_ids": [
+          {
+            "all": [
+              "grid.410787.d"
+            ],
+            "preferred": "grid.410787.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0373 4624"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q11370166"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01banz567",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.phoenix.ac.jp"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Kyushu_University_of_Health_and_Welfare"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "45",
+              "country_subdivision_name": "Miyazaki",
+              "lat": 32.58333,
+              "lng": 131.66667,
+              "name": "Nobeoka"
+            },
+            "geonames_id": 1855095
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KUHW"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Kyushu University of Health and Welfare"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Kyushu University of Medical Science"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "alias"
+            ],
+            "value": "九州保健福祉大学"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "九州医療科学大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1917,
+        "external_ids": [
+          {
+            "all": [
+              "grid.8784.3"
+            ],
+            "preferred": "grid.8784.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q6973726"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03bqt8z64",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://teknologisk.no/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/National_Institute_of_Technology_(Norway)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "NO",
+              "country_name": "Norway",
+              "country_subdivision_code": "03",
+              "country_subdivision_name": "Oslo",
+              "lat": 59.91273,
+              "lng": 10.74609,
+              "name": "Oslo"
+            },
+            "geonames_id": 3143244
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Institute of Technology"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "STI"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Statens teknologiske institutt"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TI"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Teknologisk Institutt AS"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1924,
+        "external_ids": [
+          {
+            "all": [
+              "grid.444730.0"
+            ],
+            "preferred": "grid.444730.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 6781 1051"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q8048626"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/008pxsf13",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ytu.edu.mm/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Yangon_Technological_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MM",
+              "country_name": "Myanmar",
+              "country_subdivision_code": "06",
+              "country_subdivision_name": "Yangon",
+              "lat": 16.80528,
+              "lng": 96.15611,
+              "name": "Yangon"
+            },
+            "geonames_id": 1298824
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "RIT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Rangoon Institute of Technology"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "YTU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Yangon Technological University"
+          },
+          {
+            "lang": "my",
+            "types": [
+              "label"
+            ],
+            "value": "ရန်ကုန်နည်းပညာတက္ကသိုလ်"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Technological University Mawlamyaing",
+            "type": "related",
+            "id": "https://ror.org/02sw73p72"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1999,
+        "external_ids": [
+          {
+            "all": [
+              "grid.444873.8"
+            ],
+            "preferred": "grid.444873.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 1504 2631"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q19892677"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04jte2n37",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://kasbit.edu.pk/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Khadim_Ali_Shah_Bukhari_Institute_of_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "PK",
+              "country_name": "Pakistan",
+              "country_subdivision_code": "SD",
+              "country_subdivision_name": "Sindh",
+              "lat": 24.8608,
+              "lng": 67.0104,
+              "name": "Karachi"
+            },
+            "geonames_id": 1174872
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "KASB Institute of Technology"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KASBIT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Khadim Ali Shah Bukhari Institute of Technology"
+          },
+          {
+            "lang": "sd",
+            "types": [
+              "label"
+            ],
+            "value": "خادم علي شاه بخاري انسٽيٽيوٽ آف تيڪنالاجي"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1990,
+        "external_ids": [
+          {
+            "all": [
+              "grid.445025.2"
+            ],
+            "preferred": "grid.445025.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0532 2244"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5243137"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03c6e8r26",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.dyu.edu.tw/english/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Dayeh_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TW",
+              "country_name": "Taiwan",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Taiwan",
+              "lat": 24.0,
+              "lng": 120.55,
+              "name": "Dacun"
+            },
+            "geonames_id": 1667668
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "DYU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Dayeh Institute of Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Dayeh University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "大葉大學"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1965,
+        "external_ids": [
+          {
+            "all": [
+              "grid.445031.7"
+            ],
+            "preferred": "grid.445031.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1797 2471"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q370230"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05d293n36",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.wfu.edu.tw/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/WuFeng_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TW",
+              "country_name": "Taiwan",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Taiwan",
+              "lat": 23.55606,
+              "lng": 120.43047,
+              "name": "Minxiong"
+            },
+            "geonames_id": 1671913
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "WFIT"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "WFU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "WuFeng Institute of Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "WuFeng University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "吳鳳科技大學"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1990,
+        "external_ids": [
+          {
+            "all": [
+              "grid.445071.3"
+            ],
+            "preferred": "grid.445071.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0639 3001"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5925062"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02x5hb316",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.hfu.edu.tw/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Huafan_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TW",
+              "country_name": "Taiwan",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Taiwan",
+              "lat": 25.05306,
+              "lng": 121.52639,
+              "name": "Taipei"
+            },
+            "geonames_id": 1668341
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "HFU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Huafan Institute of Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Huafan University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "華梵大學"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1975,
+        "external_ids": [
+          {
+            "all": [
+              "grid.446015.2"
+            ],
+            "preferred": "grid.446015.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9768 3004"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4064597"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03fws8b96",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.amursu.ru/index.php?lang=en"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Amur_State_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "RU",
+              "country_name": "Russia",
+              "country_subdivision_code": "AMU",
+              "country_subdivision_name": "Amur Oblast",
+              "lat": 50.27961,
+              "lng": 127.5405,
+              "name": "Blagoveshchensk"
+            },
+            "geonames_id": 2026609
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Amur State University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BIT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Blagoveshchensk Institute of Technology"
+          },
+          {
+            "lang": "ru",
+            "types": [
+              "label"
+            ],
+            "value": "Амурский государственный университет"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1992,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449652.8"
+            ],
+            "preferred": "grid.449652.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1797 1022"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q11574133"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0314ahf24",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.twu.edu.tw/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/TransWorld_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TW",
+              "country_name": "Taiwan",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Taiwan",
+              "lat": 23.70944,
+              "lng": 120.54333,
+              "name": "Douliu"
+            },
+            "geonames_id": 1665196
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TWU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "TransWorld University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Transworld Institute of Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Transworld Junior College of Commerce"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "環球科技大學"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 11807
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 8348
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 7372
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 5211
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 4455
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2480
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 1959
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 1559
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 799
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 6794
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 4112
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2351
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 1710
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1552
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 1191
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 1094
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 904
+        },
+        {
+          "id": "ca",
+          "title": "Canada",
+          "count": 898
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 667
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 13217
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 10924
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 8147
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1707
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 912
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 702
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 35606
+        }
+      ]
+    }
+  }
+}

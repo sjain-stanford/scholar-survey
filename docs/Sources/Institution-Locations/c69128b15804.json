@@ -1,0 +1,1919 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Skolkovo+Institute+of+Science+and+Technology",
+  "http_status": 200,
+  "query": "Skolkovo Institute of Science and Technology",
+  "data": {
+    "number_of_results": 42966,
+    "time_taken": 57,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "skoltech.ru"
+        ],
+        "established": 2011,
+        "external_ids": [
+          {
+            "all": [
+              "501100007455"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.454320.4"
+            ],
+            "preferred": "grid.454320.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0555 3608"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4422083"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03f9nc143",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.skoltech.ru/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Skolkovo_Institute_of_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "RU",
+              "country_name": "Russia",
+              "country_subdivision_code": "MOS",
+              "country_subdivision_name": "Moscow Oblast",
+              "lat": 55.68784,
+              "lng": 37.36836,
+              "name": "Skolkovo"
+            },
+            "geonames_id": 492396
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Skolkovo Institute of Science and Technology"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Skoltech"
+          },
+          {
+            "lang": "ru",
+            "types": [
+              "label"
+            ],
+            "value": "Сколковский институт науки и технологий"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-05-27",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 5904 3574"
+            ],
+            "preferred": "0000 0004 5904 3574",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q28183913"
+            ],
+            "preferred": "Q28183913",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02wxm3f24",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://iost.tu.edu.np"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Institute_of_Science_and_Technology%2C_TU"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "NP",
+              "country_name": "Nepal",
+              "country_subdivision_code": "P3",
+              "country_subdivision_name": "Bagmati Province",
+              "lat": 27.70169,
+              "lng": 85.3206,
+              "name": "Kathmandu"
+            },
+            "geonames_id": 1283240
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "IOST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Institute of Science and Technology"
+          },
+          {
+            "lang": "ne",
+            "types": [
+              "label"
+            ],
+            "value": "विज्ञान तथा प्रविधि अध्ययन संस्थान"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Tribhuvan University",
+            "type": "parent",
+            "id": "https://ror.org/02rg1r889"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-22",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/03s3tnc63",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ist.rac.gov.kh"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KH",
+              "country_name": "Cambodia",
+              "country_subdivision_code": "12",
+              "country_subdivision_name": "Phnom Penh",
+              "lat": 11.56245,
+              "lng": 104.91601,
+              "name": "Phnom Penh"
+            },
+            "geonames_id": 1821306
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "IST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Institute of Science and Technology"
+          },
+          {
+            "lang": "km",
+            "types": [
+              "alias"
+            ],
+            "value": "វិទ្យាស្ថានវិទ្យាសាស្ត្រនិងបច្ចេកវិទ្យា"
+          },
+          {
+            "lang": "km",
+            "types": [
+              "label"
+            ],
+            "value": "វិទ្យាស្ថានវិទ្យាសាស្រ្ត និងបច្ចេកវិទ្យា"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2010,
+        "external_ids": [
+          {
+            "all": [
+              "grid.484655.e"
+            ],
+            "preferred": "grid.484655.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 4652 837X"
+            ],
+            "preferred": "0000 0004 4652 837X",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/05qj99v29",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://sk.ru/news/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "RU",
+              "country_name": "Russia",
+              "country_subdivision_code": "MOS",
+              "country_subdivision_name": "Moscow Oblast",
+              "lat": 55.68784,
+              "lng": 37.36836,
+              "name": "Skolkovo"
+            },
+            "geonames_id": 492396
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Skolkovo Foundation"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "westi.com.cn"
+        ],
+        "established": 1974,
+        "external_ids": [
+          {
+            "all": [
+              "grid.495497.2"
+            ],
+            "preferred": "grid.495497.2",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/04ez3r306",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.westi.com.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HB",
+              "country_subdivision_name": "Hubei",
+              "lat": 30.58333,
+              "lng": 114.26667,
+              "name": "Wuhan"
+            },
+            "geonames_id": 1791247
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Municipal Institute of Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Science and Technology Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display"
+            ],
+            "value": "Wuhan Engineering Science & Technology Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Wuhan Engineering Science and Technology Research Center"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "武汉市工科院"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "武汉市工程科学技术研究院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-05",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "asti.dost.gov.ph"
+        ],
+        "established": 1987,
+        "external_ids": [
+          {
+            "all": [
+              "100015406"
+            ],
+            "preferred": "100015406",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/00fpcda25",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://asti.dost.gov.ph"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Advanced_Science_and_Technology_Institute_(Philippines)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "PH",
+              "country_name": "Philippines",
+              "country_subdivision_code": "00",
+              "country_subdivision_name": "National Capital Region",
+              "lat": 14.6488,
+              "lng": 121.0509,
+              "name": "Quezon City"
+            },
+            "geonames_id": 1692192
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ASTI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Advanced Science and Technology Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "DOST Advanced Science and Technology Institute"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "DOST-ASTI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "DOST-Advanced Science and Technology Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Department of Science and Technology – Advanced Science and Technology Institute"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2007,
+        "external_ids": [
+          {
+            "all": [
+              "501100005749"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.442493.c"
+            ],
+            "preferred": "grid.442493.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q4689798"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05rcqrz41",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.aust.edu.ng/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/African_University_of_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "NG",
+              "country_name": "Nigeria",
+              "country_subdivision_code": "FC",
+              "country_subdivision_name": "FCT",
+              "lat": 9.05785,
+              "lng": 7.49508,
+              "name": "Abuja"
+            },
+            "geonames_id": 2352778
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "AUST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "African Institute of Science and Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "African University of Science and Technology"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1947,
+        "external_ids": [
+          {
+            "all": [
+              "grid.464604.4"
+            ],
+            "preferred": "grid.464604.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1804 4044"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30262827"
+            ],
+            "preferred": "Q30262827",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00bzgd159",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ictp.csic.es/ICTP2/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Madrid",
+              "lat": 40.4165,
+              "lng": -3.70256,
+              "name": "Madrid"
+            },
+            "geonames_id": 3117735
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ICTP"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Institute of Polymer Science and Technology"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Instituto de Ciencia y Tecnología de Polímeros"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Consejo Superior de Investigaciones Científicas",
+            "type": "parent",
+            "id": "https://ror.org/02gfc7t72"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2009,
+        "external_ids": [
+          {
+            "all": [
+              "grid.479583.4"
+            ],
+            "preferred": "grid.479583.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0586 8394"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/04dchsd96",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://rist.ro/en.html"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "RO",
+              "country_name": "Romania",
+              "country_subdivision_code": "CJ",
+              "country_subdivision_name": "Cluj County",
+              "lat": 46.76667,
+              "lng": 23.6,
+              "name": "Cluj-Napoca"
+            },
+            "geonames_id": 681290
+          }
+        ],
+        "names": [
+          {
+            "lang": "ro",
+            "types": [
+              "label"
+            ],
+            "value": "Institutul Român de Ştiinţă şi Tehnologie"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "RIST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Romanian Institute of Science and Technology"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1985,
+        "external_ids": [
+          {
+            "all": [
+              "501100010839"
+            ],
+            "preferred": "501100010839",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.464311.5"
+            ],
+            "preferred": "grid.464311.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1757 5521"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5613630"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01wq2p249",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.gdit.edu.cn/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Guangdong_Institute_of_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "GIST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Guangdong Institute of Science and Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Guangdong Polytechnic of Science and Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "广东科学技术职业学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-09-23",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1956,
+        "external_ids": [
+          {
+            "all": [
+              "grid.512356.6"
+            ],
+            "preferred": "grid.512356.6",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/051yz4204",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://itst.gov.vn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": "HN",
+              "country_subdivision_name": "Hanoi",
+              "lat": 21.0245,
+              "lng": 105.84117,
+              "name": "Hanoi"
+            },
+            "geonames_id": 1581130
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ITST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Institute of Transport Science and Technology"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label"
+            ],
+            "value": "Viện Khoa học và Công nghệ Giao thông vận tải"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1998,
+        "external_ids": [
+          {
+            "all": [
+              "grid.418572.d"
+            ],
+            "preferred": "grid.418572.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0617 3279"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5102286"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/037xccs34",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.chitose.ac.jp/english/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Chitose_Institute_of_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "01",
+              "country_subdivision_name": "Hokkaido",
+              "lat": 42.81944,
+              "lng": 141.65222,
+              "name": "Chitose"
+            },
+            "geonames_id": 2130452
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CIST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Chitose Institute of Science and Technology"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Chitose Kagaku Gijutsu Daigaku"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "千歳科学技術大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1940,
+        "external_ids": [
+          {
+            "all": [
+              "grid.472410.4"
+            ],
+            "preferred": "grid.472410.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1798 4624"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/032qr1v70",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.dst.ac.kr/eng"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "30",
+              "country_subdivision_name": "Daejeon",
+              "lat": 36.34913,
+              "lng": 127.38493,
+              "name": "Daejeon"
+            },
+            "geonames_id": 1835235
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "DST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Daejeon Institute of Science and Technology"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "기술 대전 대학교"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1938,
+        "external_ids": [
+          {
+            "all": [
+              "grid.464875.c"
+            ],
+            "preferred": "grid.464875.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1777 2330"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q18126036"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04xs1rp67",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://iwst.icfre.gov.in/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Institute_of_Wood_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "IN",
+              "country_name": "India",
+              "country_subdivision_code": "KA",
+              "country_subdivision_name": "Karnataka",
+              "lat": 12.97194,
+              "lng": 77.59369,
+              "name": "Bengaluru"
+            },
+            "geonames_id": 1277333
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IWST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Institute of Wood Science and Technology"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Indian Council of Forestry Research and Education",
+            "type": "parent",
+            "id": "https://ror.org/04r2bgz73"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1977,
+        "external_ids": [
+          {
+            "all": [
+              "grid.466533.1"
+            ],
+            "preferred": "grid.466533.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 6018 4024"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q624332"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00r3dxy86",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://bithome.bit.ac.kr/english_new/index/index.php"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Busan_Institute_of_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "26",
+              "country_subdivision_name": "Busan",
+              "lat": 35.10168,
+              "lng": 129.03004,
+              "name": "Busan"
+            },
+            "geonames_id": 1838524
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BIST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Busan College of Information Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Busan Institute of Science and Technology"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "부산과학기술대학교"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2008,
+        "external_ids": [
+          {
+            "all": [
+              "grid.495444.c"
+            ],
+            "preferred": "grid.495444.c",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/02tzmrb07",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.nepri.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "JS",
+              "country_subdivision_name": "Jiangsu",
+              "lat": 32.06167,
+              "lng": 118.77778,
+              "name": "Nanjing"
+            },
+            "geonames_id": 1799962
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Guodian Institute of Science and Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Guodian Science and Technology Research Institute"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "国电科学技术研究院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2003,
+        "external_ids": [
+          {
+            "all": [
+              "grid.495700.f"
+            ],
+            "preferred": "grid.495700.f",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/01s5dew76",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://english.foodcaas.ac.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IFST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Institute of Food Science and Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "食品科学与技术研究所"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Chinese Academy of Agricultural Sciences",
+            "type": "parent",
+            "id": "https://ror.org/0313jb750"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2000,
+        "external_ids": [
+          {
+            "all": [
+              "grid.496416.8"
+            ],
+            "preferred": "grid.496416.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 5934 6655"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/04qh86j58",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://kasts.jams.or.kr/co/main/jmMain.kci"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Korea Institute of Science and Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Korean Association Of Science and Technology Studies"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "한국 과학 기술 학회"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-06-01",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-06-02",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "inutech.org.br"
+        ],
+        "established": 2018,
+        "external_ids": [],
+        "id": "https://ror.org/00bd6j521",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.inutech.org.br"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "BR",
+              "country_name": "Brazil",
+              "country_subdivision_code": "DF",
+              "country_subdivision_name": "Federal District",
+              "lat": -15.77972,
+              "lng": -47.92972,
+              "name": "Brasília"
+            },
+            "geonames_id": 3469058
+          }
+        ],
+        "names": [
+          {
+            "lang": "pt",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Instituto Nutech de Pesquisa Aplicada em Ciência, Tecnologia e Inovação"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Nutech Institute for Applied Research in Science, Technology and Innovation"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "alias"
+            ],
+            "value": "iNuTech"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "iNuTech - Institute of Science and Technology"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "alias"
+            ],
+            "value": "iNuTech ICT"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-07-08",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "masdar.ac.ae"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "501100004174"
+            ],
+            "preferred": "501100004174",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "Q4117960"
+            ],
+            "preferred": "Q4117960",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02xqgcz97",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www2.masdar.ac.ae"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Masdar_Institute"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "AE",
+              "country_name": "United Arab Emirates",
+              "country_subdivision_code": "AZ",
+              "country_subdivision_name": "Abu Dhabi",
+              "lat": 24.45118,
+              "lng": 54.39696,
+              "name": "Abu Dhabi"
+            },
+            "geonames_id": 292968
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Masdar Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Masdar Institute of Science and Technology"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 12816
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 10012
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 8703
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 6976
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 5317
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 3197
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2645
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 2300
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 1037
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 8782
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 4750
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2757
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2108
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 1652
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1606
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 1454
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 1409
+        },
+        {
+          "id": "ca",
+          "title": "Canada",
+          "count": 1162
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 756
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 15271
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 13404
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 10431
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1977
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 980
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 906
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 42966
+        }
+      ]
+    }
+  }
+}

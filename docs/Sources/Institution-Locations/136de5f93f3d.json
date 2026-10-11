@@ -1,0 +1,2116 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=University+of+California%2C+Los+Angeles",
+  "http_status": 200,
+  "query": "University of California, Los Angeles",
+  "data": {
+    "number_of_results": 35712,
+    "time_taken": 69,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ucla.edu"
+        ],
+        "established": 1919,
+        "external_ids": [
+          {
+            "all": [
+              "100007185",
+              "100007111",
+              "100008337",
+              "100008623",
+              "100008204",
+              "100008216",
+              "100008371",
+              "100005916",
+              "100006834",
+              "100008574",
+              "100007799",
+              "100006429",
+              "100011075",
+              "100011076",
+              "100011078",
+              "100011113",
+              "100012735",
+              "100016539",
+              "100017823",
+              "100017824",
+              "100019139",
+              "100023561"
+            ],
+            "preferred": "100007185",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.19006.3e"
+            ],
+            "preferred": "grid.19006.3e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9632 6718",
+              "0000 0001 2167 8097"
+            ],
+            "preferred": "0000 0001 2167 8097",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q174710"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/046rm7j60",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ucla.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_California,_Los_Angeles"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 34.05223,
+              "lng": -118.24368,
+              "name": "Los Angeles"
+            },
+            "geonames_id": 5368361
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "State Normal School at Los Angeles"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "UC Los Angeles"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UCLA"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de California en Los Ángeles"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of California Southern Branch"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of California at Los Angeles"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of California, Los Angeles"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de Californie à Los Angeles"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "California NanoSystems Institute",
+            "type": "child",
+            "id": "https://ror.org/00q7fqf35"
+          },
+          {
+            "label": "UCLA Clinical and Translational Science Institute",
+            "type": "child",
+            "id": "https://ror.org/04kpwcf85"
+          },
+          {
+            "label": "NSF-Simons AI Institute for Cosmic Origins",
+            "type": "child",
+            "id": "https://ror.org/0424mzx13"
+          },
+          {
+            "label": "Higher Education Research Institute",
+            "type": "child",
+            "id": "https://ror.org/035jch041"
+          },
+          {
+            "label": "University of California System",
+            "type": "parent",
+            "id": "https://ror.org/00pjdza24"
+          },
+          {
+            "label": "Cedars-Sinai Medical Center",
+            "type": "related",
+            "id": "https://ror.org/02pammg90"
+          },
+          {
+            "label": "Education and Research Institute",
+            "type": "related",
+            "id": "https://ror.org/03gkbdq83"
+          },
+          {
+            "label": "Good Samaritan Hospital",
+            "type": "related",
+            "id": "https://ror.org/05hm6ny55"
+          },
+          {
+            "label": "Harbor–UCLA Medical Center",
+            "type": "related",
+            "id": "https://ror.org/05h4zj272"
+          },
+          {
+            "label": "Kern Medical Center",
+            "type": "related",
+            "id": "https://ror.org/01eyb5f38"
+          },
+          {
+            "label": "The Lundquist Institute",
+            "type": "related",
+            "id": "https://ror.org/025j2nd68"
+          },
+          {
+            "label": "Martin Luther King, Jr. Community Hospital",
+            "type": "related",
+            "id": "https://ror.org/0253es752"
+          },
+          {
+            "label": "Mattel Children's Hospital",
+            "type": "related",
+            "id": "https://ror.org/04p5baq95"
+          },
+          {
+            "label": "Olive View-UCLA Medical Center",
+            "type": "related",
+            "id": "https://ror.org/03b66rp04"
+          },
+          {
+            "label": "Ronald Reagan UCLA Medical Center",
+            "type": "related",
+            "id": "https://ror.org/04k3jt835"
+          },
+          {
+            "label": "St. Mary Medical Center",
+            "type": "related",
+            "id": "https://ror.org/0466fwq98"
+          },
+          {
+            "label": "UCLA Health",
+            "type": "related",
+            "id": "https://ror.org/01d88se56"
+          },
+          {
+            "label": "UCLA Medical Center",
+            "type": "related",
+            "id": "https://ror.org/04vq5kb54"
+          },
+          {
+            "label": "VA Long Beach Healthcare System",
+            "type": "related",
+            "id": "https://ror.org/058p1kn93"
+          },
+          {
+            "label": "VA West Los Angeles Medical Center",
+            "type": "related",
+            "id": "https://ror.org/01xfgtq85"
+          },
+          {
+            "label": "Jornada Basin Long Term Ecological Research",
+            "type": "related",
+            "id": "https://ror.org/05976ta47"
+          },
+          {
+            "label": "Santa Barbara Coastal Long Term Ecological Research",
+            "type": "related",
+            "id": "https://ror.org/05hnkta08"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "calstatela.edu"
+        ],
+        "established": 1947,
+        "external_ids": [
+          {
+            "all": [
+              "grid.253561.6"
+            ],
+            "preferred": "grid.253561.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0806 2909"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1026932"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0294hxs80",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.calstatela.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/California_State_University,_Los_Angeles"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 34.05223,
+              "lng": -118.24368,
+              "name": "Los Angeles"
+            },
+            "geonames_id": 5368361
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CSULA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Cal State LA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "California State University Los Angeles"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Estatal de California, Los Ángeles"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université d'État de californie à los angeles"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "California State University System",
+            "type": "parent",
+            "id": "https://ror.org/020qm1538"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1903,
+        "external_ids": [
+          {
+            "all": [
+              "grid.427835.f"
+            ],
+            "preferred": "grid.427835.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q30286580"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01djrwd47",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.breathela.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 34.05223,
+              "lng": -118.24368,
+              "name": "Los Angeles"
+            },
+            "geonames_id": 5368361
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "BREATHE LA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Breathe California of Los Angeles County"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1966,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449816.6"
+            ],
+            "preferred": "grid.449816.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0675 5146"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7896603"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/045zwes19",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://uwla.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_West_Los_Angeles"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 33.96168,
+              "lng": -118.35313,
+              "name": "Inglewood"
+            },
+            "geonames_id": 5359488
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UWLA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of West Los Angeles"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1972,
+        "external_ids": [
+          {
+            "all": [
+              "grid.441021.2"
+            ],
+            "preferred": "grid.441021.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0582 9416"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4775037"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03dnnq935",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.antioch.edu/los-angeles/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Antioch_University_Los_Angeles"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 34.02112,
+              "lng": -118.39647,
+              "name": "Culver City"
+            },
+            "geonames_id": 5341114
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "AULA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Antioch University Los Angeles"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1906,
+        "external_ids": [
+          {
+            "all": [
+              "grid.441186.e"
+            ],
+            "preferred": "grid.441186.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0634 1244"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/02j5qmn70",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.dula.edu/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 34.05223,
+              "lng": -118.24368,
+              "name": "Los Angeles"
+            },
+            "geonames_id": 5368361
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "DULA"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Dongguk Royal University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Dongguk University Los Angeles"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1856,
+        "external_ids": [
+          {
+            "all": [
+              "grid.416572.3"
+            ],
+            "preferred": "grid.416572.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q7592097"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02h2qwk37",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://stvincent.dochs.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/St._Vincent_Medical_Center_(Los_Angeles)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 34.05223,
+              "lng": -118.24368,
+              "name": "Los Angeles"
+            },
+            "geonames_id": 5368361
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Los Angeles Infirmary"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SVMC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "St Vincent Medical Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "St. Vincent Hospital"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Daughters of Charity Health System",
+            "type": "parent",
+            "id": "https://ror.org/004mzjh28"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uladech.edu.pe"
+        ],
+        "established": 1985,
+        "external_ids": [
+          {
+            "all": [
+              "grid.441721.5"
+            ],
+            "preferred": "grid.441721.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q15217527"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/054rm6z62",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uladech.edu.pe/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Catholic_University_Los_Angeles_of_Chimbote"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "PE",
+              "country_name": "Peru",
+              "country_subdivision_code": "ANC",
+              "country_subdivision_name": "Ancash",
+              "lat": -9.07508,
+              "lng": -78.59373,
+              "name": "Chimbote"
+            },
+            "geonames_id": 3698304
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Catholic University Los Angeles of Chimbote"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "Uladech"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "Uladech Católica"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Católica Los Ángeles de Chimbote"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-07-08",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "100016206"
+            ],
+            "preferred": "100016206",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/04kpwcf85",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ctsi.ucla.edu/researcher-resources/ucla-clinical-and-translational-research-center"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 34.05223,
+              "lng": -118.24368,
+              "name": "Los Angeles"
+            },
+            "geonames_id": 5368361
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "CTSI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "UCLA CTSI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "UCLA Clinical and Translational Science Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of California Los Angeles Clinical and Translational Science Institute"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of California, Los Angeles",
+            "type": "parent",
+            "id": "https://ror.org/046rm7j60"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.422455.0"
+            ],
+            "preferred": "grid.422455.0",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/01hwxey28",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.voala.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 34.05223,
+              "lng": -118.24368,
+              "name": "Los Angeles"
+            },
+            "geonames_id": 5368361
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "VOALA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Volunteers of America Los Angeles"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1908,
+        "external_ids": [
+          {
+            "all": [
+              "100010883"
+            ],
+            "preferred": "100010883",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.411695.e"
+            ],
+            "preferred": "grid.411695.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8544 8939"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q864450"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02han2n82",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.biola.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Biola_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 33.91724,
+              "lng": -118.01201,
+              "name": "La Mirada"
+            },
+            "geonames_id": 5364007
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Bible Institute Of Los Angeles"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Biola University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1872,
+        "external_ids": [
+          {
+            "all": [
+              "grid.475218.d"
+            ],
+            "preferred": "grid.475218.d",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/03b242h08",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://lfla.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 34.05223,
+              "lng": -118.24368,
+              "name": "Los Angeles"
+            },
+            "geonames_id": 5368361
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Library Foundation of Los Angeles"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "chla.org"
+        ],
+        "established": 1901,
+        "external_ids": [
+          {
+            "all": [
+              "100006459"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.239546.f"
+            ],
+            "preferred": "grid.239546.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2153 6013"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1072787"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00412ts95",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.chla.org"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Children%27s_Hospital_Los_Angeles"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 34.05223,
+              "lng": -118.24368,
+              "name": "Los Angeles"
+            },
+            "geonames_id": 5368361
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CHLA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Children's Hospital Society of Los Angeles"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Children's Hospital of Los Angeles"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Southern California Clinical and Translational Science Institute",
+            "type": "related",
+            "id": "https://ror.org/01ncqna34"
+          },
+          {
+            "label": "University of Southern California",
+            "type": "related",
+            "id": "https://ror.org/03taz7m60"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1878,
+        "external_ids": [
+          {
+            "all": [
+              "grid.411409.9"
+            ],
+            "preferred": "grid.411409.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0084 1895"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6682058"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04xzj3x20",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://dhs.lacounty.gov/wps/portal/dhs/lacusc/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/LAC%2BUSC_Medical_Center"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 34.05223,
+              "lng": -118.24368,
+              "name": "Los Angeles"
+            },
+            "geonames_id": 5368361
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "County/USC"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "LAC+USC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "LAC+USC Medical Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Los Angeles County General"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Los Angeles County Department of Health Services",
+            "type": "parent",
+            "id": "https://ror.org/03xyjdy64"
+          },
+          {
+            "label": "University of Southern California",
+            "type": "related",
+            "id": "https://ror.org/03taz7m60"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1945,
+        "external_ids": [
+          {
+            "all": [
+              "grid.420807.9"
+            ],
+            "preferred": "grid.420807.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9139 7277"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5328880"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00qs2ka20",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.elac.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/East_Los_Angeles_College"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 34.06251,
+              "lng": -118.12285,
+              "name": "Monterey Park"
+            },
+            "geonames_id": 5374406
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ELAC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "East Los Angeles College"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Los Angeles Community College District",
+            "type": "parent",
+            "id": "https://ror.org/058aed112"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1982,
+        "external_ids": [
+          {
+            "all": [
+              "grid.422205.3"
+            ],
+            "preferred": "grid.422205.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9752 5655"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4651878"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05rvwbr49",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.apla.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/AIDS_Project_Los_Angeles"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 34.05223,
+              "lng": -118.24368,
+              "name": "Los Angeles"
+            },
+            "geonames_id": 5368361
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "AIDS Project Los Angeles"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "APLA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "APLA Health"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.414855.9"
+            ],
+            "preferred": "grid.414855.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0445 0551"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/00spys463",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://thrive.kaiserpermanente.org/care-near-you/southern-california/los-angeles/locations/los-angeles-medical-center/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 34.05223,
+              "lng": -118.24368,
+              "name": "Los Angeles"
+            },
+            "geonames_id": 5368361
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Los Angeles Medical Center"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Kaiser Permanente",
+            "type": "parent",
+            "id": "https://ror.org/00t60zh31"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1967,
+        "external_ids": [
+          {
+            "all": [
+              "grid.435926.f"
+            ],
+            "preferred": "grid.435926.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0401 1487"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6682339"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00wr6qv54",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.lasc.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Los_Angeles_Southwest_College"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 34.05223,
+              "lng": -118.24368,
+              "name": "Los Angeles"
+            },
+            "geonames_id": 5368361
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "LASC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Los Angeles Southwest College"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Los Angeles Community College District",
+            "type": "parent",
+            "id": "https://ror.org/058aed112"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1872,
+        "external_ids": [
+          {
+            "all": [
+              "grid.446960.9"
+            ],
+            "preferred": "grid.446960.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0671 4715"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4817385"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/000wr2p83",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.lapl.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Los_Angeles_Public_Library"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 34.05223,
+              "lng": -118.24368,
+              "name": "Los Angeles"
+            },
+            "geonames_id": 5368361
+          }
+        ],
+        "names": [
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Biblioteca Pública de Los Ángeles"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Bibliothèque publique de los angeles"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "LAPL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Los Angeles Public Library"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1984,
+        "external_ids": [
+          {
+            "all": [
+              "grid.447551.6"
+            ],
+            "preferred": "grid.447551.6",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/05v0vxa20",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.laep.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 34.05223,
+              "lng": -118.24368,
+              "name": "Los Angeles"
+            },
+            "geonames_id": 5368361
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "LAEP"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Los Angeles Education Partnership"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 17851
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 9071
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 4740
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 3977
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 3609
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2300
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2054
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 787
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 416
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 6217
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 4070
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2348
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2061
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1577
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 943
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 866
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 836
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 799
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 765
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 15034
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 9642
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 7485
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1991
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 967
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 594
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 35712
+        }
+      ]
+    }
+  }
+}

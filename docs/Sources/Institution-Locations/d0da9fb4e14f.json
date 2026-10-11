@@ -1,0 +1,1924 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=University+of+Waterloo",
+  "http_status": 200,
+  "query": "University of Waterloo",
+  "data": {
+    "number_of_results": 35468,
+    "time_taken": 66,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uwaterloo.ca"
+        ],
+        "established": 1956,
+        "external_ids": [
+          {
+            "all": [
+              "501100008411",
+              "501100004490",
+              "501100024430"
+            ],
+            "preferred": "501100004490",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.46078.3d"
+            ],
+            "preferred": "grid.46078.3d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8644 1405"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1049470",
+              "Q3799227"
+            ],
+            "preferred": "Q1049470",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01aff2v68",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://uwaterloo.ca/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Waterloo"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.4668,
+              "lng": -80.51639,
+              "name": "Waterloo"
+            },
+            "geonames_id": 6176823
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UW"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "UWaterloo"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Waterloo"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de waterloo"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Future Cities Institute",
+            "type": "child",
+            "id": "https://ror.org/01sqgq073"
+          },
+          {
+            "label": "Canadian Association for Leisure Studies",
+            "type": "related",
+            "id": "https://ror.org/02czb6c47"
+          },
+          {
+            "label": "Grand River Hospital",
+            "type": "related",
+            "id": "https://ror.org/02j3zn476"
+          },
+          {
+            "label": "St. Jerome's University",
+            "type": "related",
+            "id": "https://ror.org/05fwyj602"
+          },
+          {
+            "label": "Ontario Advanced Manufacturing Consortium",
+            "type": "related",
+            "id": "https://ror.org/01x8r0006"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-11-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "regionofwaterloo.ca"
+        ],
+        "established": 1973,
+        "external_ids": [
+          {
+            "all": [
+              "grid.451488.4"
+            ],
+            "preferred": "grid.451488.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0407 2706"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q175735"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04apt4x36",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.regionofwaterloo.ca/en/index.aspx"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Regional_Municipality_of_Waterloo"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.4668,
+              "lng": -80.51639,
+              "name": "Waterloo"
+            },
+            "geonames_id": 6176823
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Region of Waterloo"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Regional Municipality of Waterloo"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Waterloo Region"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1905,
+        "external_ids": [
+          {
+            "all": [
+              "grid.447620.3"
+            ],
+            "preferred": "grid.447620.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0522 8063"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q28125793"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03gpmrn65",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.waterloopubliclibrary.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Waterloo_Public_Library_(West_Branch)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IA",
+              "country_subdivision_name": "Iowa",
+              "lat": 42.49276,
+              "lng": -92.34296,
+              "name": "Waterloo"
+            },
+            "geonames_id": 4880889
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Waterloo Public Library"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2007,
+        "external_ids": [
+          {
+            "all": [
+              "100012107"
+            ],
+            "preferred": "100012107",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.484713.d"
+            ],
+            "preferred": "grid.484713.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 6431 579X"
+            ],
+            "preferred": "0000 0004 6431 579X",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/01cwc0f90",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.waterloofoundation.org.uk/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "WLS",
+              "country_subdivision_name": "Wales",
+              "lat": 51.48,
+              "lng": -3.18,
+              "name": "Cardiff"
+            },
+            "geonames_id": 2653822
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TWF"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "The Waterloo Foundation"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2003,
+        "external_ids": [
+          {
+            "all": [
+              "grid.422528.b"
+            ],
+            "preferred": "grid.422528.b",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/04ag73z67",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.watcfd.com/index.html"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.4668,
+              "lng": -80.51639,
+              "name": "Waterloo"
+            },
+            "geonames_id": 6176823
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Waterloo CFD Engineering Consulting"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2003,
+        "external_ids": [
+          {
+            "all": [
+              "grid.498789.3"
+            ],
+            "preferred": "grid.498789.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q7670237"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05xrp5e17",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://themuseum.ca/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/TheMuseum"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.42537,
+              "lng": -80.5112,
+              "name": "Kitchener"
+            },
+            "geonames_id": 5992996
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "TheMuseum"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Waterloo Regional Children's Museum"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.473644.6"
+            ],
+            "preferred": "grid.473644.6",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/044ytah36",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.widm.ca/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.4668,
+              "lng": -80.51639,
+              "name": "Waterloo"
+            },
+            "geonames_id": 6176823
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "WIDM"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Waterloo Institute for Disaster Management"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uvic-ucc.cat"
+        ],
+        "established": 1599,
+        "external_ids": [
+          {
+            "all": [
+              "grid.440820.a"
+            ],
+            "preferred": "grid.440820.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q935460"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/006zjws59",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://uvic-ucc.cat/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Vic_-_Central_University_of_Catalonia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "CT",
+              "country_subdivision_name": "Catalonia",
+              "lat": 41.93012,
+              "lng": 2.25486,
+              "name": "Vic"
+            },
+            "geonames_id": 3106050
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UVic-UCC"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "Universidad de Vic"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de Vic - Universidad Central de Catalunya"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "Universitat de Vic"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universitat de Vic - Universitat Central de Catalunya"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Vic"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Vic - Central University of Catalonia"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-02-17",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1957,
+        "external_ids": [
+          {
+            "all": [
+              "grid.501720.1"
+            ],
+            "preferred": "grid.501720.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q10829127"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04bm3wy68",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.dhsphue.edu.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": "26",
+              "country_subdivision_name": "Thừa Thiên Huế Province",
+              "lat": 16.4619,
+              "lng": 107.59546,
+              "name": "Huế"
+            },
+            "geonames_id": 1580240
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Hue University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Hue University of Education"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Hue University's College of Education"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label"
+            ],
+            "value": "Trường Đại học Sư phạm Huế"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Education, Hue University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-22",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "husc.edu.vn"
+        ],
+        "established": 1957,
+        "external_ids": [],
+        "id": "https://ror.org/00qpm2f14",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://husc.edu.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Thừa Thiên Huế Province",
+              "lat": 16.4619,
+              "lng": 107.59546,
+              "name": "Huế"
+            },
+            "geonames_id": 1580240
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "HUSC"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Trường Đại học Khoa học, Đại học Huế"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Sciences, Hue University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-22",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "hce.edu.vn"
+        ],
+        "established": 2002,
+        "external_ids": [],
+        "id": "https://ror.org/03x812s82",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://hce.edu.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Thừa Thiên Huế Province",
+              "lat": 16.4619,
+              "lng": 107.59546,
+              "name": "Huế"
+            },
+            "geonames_id": 1580240
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "HUE"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Trường Đại học Kinh tế, Đại học Huế"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Economics, Hue University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1961,
+        "external_ids": [
+          {
+            "all": [
+              "grid.448988.1"
+            ],
+            "preferred": "grid.448988.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1761 2679"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6124050"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02syyrn67",
+        "links": [
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/PLA_Army_Service_Academy"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "CQ",
+              "country_subdivision_name": "Chongqing",
+              "lat": 29.56026,
+              "lng": 106.55771,
+              "name": "Chongqing"
+            },
+            "geonames_id": 1814906
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Logistical Engineering University of PLA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "PLA Army Service Academy"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Logistics"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中国人民解放军后勤工程学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2002,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449430.e"
+            ],
+            "preferred": "grid.449430.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 5985 027X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q721109"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/013tad429",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://bu.edu.so/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Benadir_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "SO",
+              "country_name": "Somalia",
+              "country_subdivision_code": "BN",
+              "country_subdivision_name": "Banaadir",
+              "lat": 2.03711,
+              "lng": 45.34375,
+              "name": "Mogadishu"
+            },
+            "geonames_id": 53654
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Benadir University"
+          },
+          {
+            "lang": "so",
+            "types": [
+              "label"
+            ],
+            "value": "Jaamacada Banaadir"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Benadir"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "جامعـــة بنـــادر‎"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2000,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449629.4"
+            ],
+            "preferred": "grid.449629.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q7446579"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04w7k2121",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.fukuchiyama.ac.jp"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Fukuchiyama"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "26",
+              "country_subdivision_name": "Kyoto",
+              "lat": 35.3,
+              "lng": 135.11667,
+              "name": "Fukuchiyama"
+            },
+            "geonames_id": 1864009
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Kyoto Sosei University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Seibi University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Fukuchiyama"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "福知山公立大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2002,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449677.f"
+            ],
+            "preferred": "grid.449677.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0648 8692"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7895388"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00v23bh67",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ufairfax.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Fairfax"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "VA",
+              "country_subdivision_name": "Virginia",
+              "lat": 37.27097,
+              "lng": -79.94143,
+              "name": "Roanoke"
+            },
+            "geonames_id": 4782167
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UF"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Fairfax"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1993,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449716.9"
+            ],
+            "preferred": "grid.449716.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 6011 507X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3551591"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03a6cpb51",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://ww1.unigom.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Goma"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "CD",
+              "country_name": "DR Congo",
+              "country_subdivision_code": "NK",
+              "country_subdivision_name": "Nord Kivu",
+              "lat": -1.67409,
+              "lng": 29.22845,
+              "name": "Goma"
+            },
+            "geonames_id": 216281
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Goma"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de goma"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1965,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449719.6"
+            ],
+            "preferred": "grid.449719.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0489 9111"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q890541"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/044qb6z05",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.unigoroka.ac.pg/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Goroka"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "OC",
+              "continent_name": "Oceania",
+              "country_code": "PG",
+              "country_name": "Papua New Guinea",
+              "country_subdivision_code": "EHG",
+              "country_subdivision_name": "Eastern Highlands Province",
+              "lat": -6.085,
+              "lng": 145.38667,
+              "name": "Goroka"
+            },
+            "geonames_id": 2096742
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UOG"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Goroka"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2000,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449725.9"
+            ],
+            "preferred": "grid.449725.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 5986 1358"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3357563"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/023tegq12",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.uoh-edu.net/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Hargeisa"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "SO",
+              "country_name": "Somalia",
+              "country_subdivision_code": "WO",
+              "country_subdivision_name": "Woqooyi Galbeed",
+              "lat": 9.56,
+              "lng": 44.065,
+              "name": "Hargeisa"
+            },
+            "geonames_id": 57289
+          }
+        ],
+        "names": [
+          {
+            "lang": "so",
+            "types": [
+              "label"
+            ],
+            "value": "Jaamacadda Hargeysa"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UOH"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Hargeisa"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "جامعة هرجيسا"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2013,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449766.e"
+            ],
+            "preferred": "grid.449766.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q17028130"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03zka7717",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.universidadtifariti.org/en/home2/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Tifariti"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "EH",
+              "country_name": "Western Sahara",
+              "country_subdivision_code": null,
+              "country_subdivision_name": null,
+              "lat": 26.1579,
+              "lng": -10.55889,
+              "name": "Tifariti"
+            },
+            "geonames_id": 2461667
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Tifariti"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "جامعة تيفاريتي"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1958,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449794.3"
+            ],
+            "preferred": "grid.449794.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1764 2579"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1707483"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/035rzdj42",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://universityofasmara.com"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Asmara"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "ER",
+              "country_name": "Eritrea",
+              "country_subdivision_code": "MA",
+              "country_subdivision_name": "Maekel",
+              "lat": 15.33805,
+              "lng": 38.93184,
+              "name": "Asmara"
+            },
+            "geonames_id": 343300
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Catholic College of Santa Famiglia"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Asmara"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 17808
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 9007
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 4721
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 3946
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 3552
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2255
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2030
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 772
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 409
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 6011
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 4070
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2348
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2061
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1577
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 943
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 866
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 836
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 799
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 764
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 15033
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 9631
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 7271
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1991
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 949
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 594
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 35468
+        }
+      ]
+    }
+  }
+}

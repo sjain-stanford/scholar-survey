@@ -1,0 +1,1913 @@
+{
+  "query": "Shanghai Artificial Intelligence Laboratory",
+  "url": "https://api.ror.org/v2/organizations?query=Shanghai+Artificial+Intelligence+Laboratory",
+  "access_date": "2026-10-08",
+  "status": 200,
+  "data": {
+    "number_of_results": 1917,
+    "time_taken": 14,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2024-01-10",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "pjlab.org.cn"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "100031931"
+            ],
+            "preferred": "100031931",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "0000 0005 0475 7227"
+            ],
+            "preferred": "0000 0005 0475 7227",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/03wkvpx79",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.shlab.org.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SH",
+              "country_subdivision_name": "Shanghai",
+              "lat": 31.22222,
+              "lng": 121.45806,
+              "name": "Shanghai"
+            },
+            "geonames_id": 1796236
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Shanghai AI Lab"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Shanghai AI Laboratory"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Shanghai Artificial Intelligence Laboratory"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "上海人工智能实验室"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-21",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "mailab.io"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0005 1488 131X"
+            ],
+            "preferred": "0000 0005 1488 131X",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/05sdzff81",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://mailab.io"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "NG",
+              "country_name": "Nigeria",
+              "country_subdivision_code": "LA",
+              "country_subdivision_name": "Lagos",
+              "lat": 6.45407,
+              "lng": 3.39467,
+              "name": "Lagos"
+            },
+            "geonames_id": 2332459
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "MAI Lab"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "MAILAB"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Medical Artificial Intelligence Laboratory"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-06-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0005 1089 5714"
+            ],
+            "preferred": "0000 0005 1089 5714",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/013x8r926",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://2ai.ipca.pt"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "PT",
+              "country_name": "Portugal",
+              "country_subdivision_code": "03",
+              "country_subdivision_name": "Braga",
+              "lat": 41.53174,
+              "lng": -8.61843,
+              "name": "Barcelos"
+            },
+            "geonames_id": 2742416
+          }
+        ],
+        "names": [
+          {
+            "lang": "pt",
+            "types": [
+              "acronym"
+            ],
+            "value": "2AI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Applied Artificial Intelligence Laboratory"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "alias"
+            ],
+            "value": "Instituto Politécnico do Cávado e do Ave Laboratório de Inteligência Artificial Aplicada"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Laboratório de Inteligência Artificial Aplicada"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Universidade Politécnica do Cávado e do Ave",
+            "type": "parent",
+            "id": "https://ror.org/0448qsq10"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-02-13",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/03eeee209",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.etsmtl.ca/laboratoires/livia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "QC",
+              "country_subdivision_name": "Quebec",
+              "lat": 45.50884,
+              "lng": -73.58781,
+              "name": "Montreal"
+            },
+            "geonames_id": 6077243
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Imaging, Vision and Artificial Intelligence Laboratory"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "LIVIA"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Laboratoire d'imagerie, de vision et d'intelligence artificielle"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "École de Technologie Supérieure",
+            "type": "parent",
+            "id": "https://ror.org/0020snb74"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-12-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-12-15",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "csail.mit.edu"
+        ],
+        "established": 2003,
+        "external_ids": [
+          {
+            "all": [
+              "100018319"
+            ],
+            "preferred": "100018319",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "0000 0004 0497 6422"
+            ],
+            "preferred": "0000 0004 0497 6422",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1354917"
+            ],
+            "preferred": "Q1354917",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01e85r662",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.csail.mit.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MA",
+              "country_subdivision_name": "Massachusetts",
+              "lat": 42.3751,
+              "lng": -71.10561,
+              "name": "Cambridge"
+            },
+            "geonames_id": 4931972
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "MIT CSAIL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "MIT Computer Science and Artificial Intelligence Laboratory"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Massachusetts Institute of Technology",
+            "type": "parent",
+            "id": "https://ror.org/042nb2s44"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-12-07",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2019,
+        "external_ids": [
+          {
+            "all": [
+              "100017266"
+            ],
+            "preferred": "100017266",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "0000 0005 0277 1404"
+            ],
+            "preferred": "0000 0005 0277 1404",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/00536t873",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.energy.gov/ai/artificial-intelligence-technology-office"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "DC",
+              "country_subdivision_name": "District of Columbia",
+              "lat": 38.89511,
+              "lng": -77.03637,
+              "name": "Washington"
+            },
+            "geonames_id": 4140963
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "AITO"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Artificial Intelligence & Technology Office"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Artificial Intelligence and Technology Office"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "U.S. Department of Energy Artificial Intelligence & Technology Office"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "U.S. Department of Energy Artificial Intelligence and Technology Office"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "United States Department of Energy Artificial Intelligence & Technology Office"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "United States Department of Energy Artificial Intelligence and Technology Office"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "United States Department of Energy",
+            "type": "parent",
+            "id": "https://ror.org/01bj3aw27"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2020-03-15",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1985,
+        "external_ids": [
+          {
+            "all": [
+              "grid.507639.e"
+            ],
+            "preferred": "grid.507639.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2289 1711"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/03c0ach84",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.iiia.csic.es"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "CT",
+              "country_subdivision_name": "Catalonia",
+              "lat": 41.49109,
+              "lng": 2.14079,
+              "name": "Cerdanyola del Vallès"
+            },
+            "geonames_id": 3109402
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Artificial Intelligence Research Institute"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IIIA"
+          },
+          {
+            "lang": "ca",
+            "types": [
+              "label"
+            ],
+            "value": "Institut d'Investigació en Intel·ligència Artificial"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Instituto de Investigación en Inteligencia Artificial"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Research Institute for Artificial Intelligence"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Consejo Superior de Investigaciones Científicas",
+            "type": "parent",
+            "id": "https://ror.org/02gfc7t72"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-04-06",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-12-15",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "mila.quebec"
+        ],
+        "established": 1993,
+        "external_ids": [
+          {
+            "all": [
+              "grid.510486.e"
+            ],
+            "preferred": "grid.510486.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q67182995"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05c22rx21",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://mila.quebec"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Mila_(research_institute)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "QC",
+              "country_subdivision_name": "Quebec",
+              "lat": 45.50884,
+              "lng": -73.58781,
+              "name": "Montreal"
+            },
+            "geonames_id": 6077243
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "Institut québécois d’intelligence artificielle"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Mila"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Mila - Institut québécois d’intelligence artificielle"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Mila - Quebec Artificial Intelligence Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Mila-Quebec AI Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Montreal Institute for Learning Algorithms"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Quebec Artificial Intelligence Institute"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "International Laboratory on Learning Systems",
+            "type": "child",
+            "id": "https://ror.org/02bkw1m29"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-08-04",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-08-07",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "stes.fi"
+        ],
+        "established": 1986,
+        "external_ids": [
+          {
+            "all": [
+              "Q121598138"
+            ],
+            "preferred": "Q121598138",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02fvcqy63",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.stes.fi"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "FI",
+              "country_name": "Finland",
+              "country_subdivision_code": "18",
+              "country_subdivision_name": "Uusimaa",
+              "lat": 60.16952,
+              "lng": 24.93545,
+              "name": "Helsinki"
+            },
+            "geonames_id": 658225
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Finnish Artificial Intelligence Society"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Finnish Artificial Intelligence Society (FAIS)"
+          },
+          {
+            "lang": "fi",
+            "types": [
+              "acronym"
+            ],
+            "value": "STeS"
+          },
+          {
+            "lang": "fi",
+            "types": [
+              "alias"
+            ],
+            "value": "Suomen Tekoälyseura"
+          },
+          {
+            "lang": "fi",
+            "types": [
+              "label"
+            ],
+            "value": "Suomen Tekoälyseura (STeS)"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-06-14",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-06-23",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "airc.aist.go.jp"
+        ],
+        "established": 2015,
+        "external_ids": [
+          {
+            "all": [
+              "100018202"
+            ],
+            "preferred": "100018202",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/009x1ke56",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.airc.aist.go.jp"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "13",
+              "country_subdivision_name": "Tokyo",
+              "lat": 35.6895,
+              "lng": 139.69171,
+              "name": "Tokyo"
+            },
+            "geonames_id": 1850147
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "AIRC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Artificial Intelligence Research Center"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "人工知能研究センター"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-02-24",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2025,
+        "external_ids": [],
+        "id": "https://ror.org/01zthd343",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://inria.fr/regalia"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "FR",
+              "country_name": "France",
+              "country_subdivision_code": "NAQ",
+              "country_subdivision_name": "New Aquitaine",
+              "lat": 44.84124,
+              "lng": -0.58046,
+              "name": "Bordeaux"
+            },
+            "geonames_id": 3031582
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "acronym"
+            ],
+            "value": "REGALIA"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "REGALIA: Régulation de l'Intelligence Artificielle"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Regulations for Artificial Intelligence"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Institut national de recherche en sciences et technologies du numérique",
+            "type": "parent",
+            "id": "https://ror.org/02kvxyf05"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-19",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "aitalentum.com"
+        ],
+        "established": 2013,
+        "external_ids": [],
+        "id": "https://ror.org/00z1h4239",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.aitalentum.com"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "MC",
+              "country_subdivision_name": "Murcia",
+              "lat": 37.98704,
+              "lng": -1.13004,
+              "name": "Murcia"
+            },
+            "geonames_id": 2513416
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "AI Talentum"
+          },
+          {
+            "lang": null,
+            "types": [
+              "label"
+            ],
+            "value": "Artificial Intelligence Talentum, SL"
+          },
+          {
+            "lang": null,
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Artificial Intelligence Talentum, SL (Spain)"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-22",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2022,
+        "external_ids": [],
+        "id": "https://ror.org/03bmtr981",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://uet.vnu.edu.vn/vien-tri-tue-nhan-tao/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Hanoi",
+              "lat": 21.0245,
+              "lng": 105.84117,
+              "name": "Hanoi"
+            },
+            "geonames_id": 1581130
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "IAI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Institute for Artificial Intelligence"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Viện Trí tuệ nhân tạo"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2011,
+        "external_ids": [
+          {
+            "all": [
+              "grid.430401.2"
+            ],
+            "preferred": "grid.430401.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q30288770"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/013jm0v29",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.saia.ro/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "RO",
+              "country_name": "Romania",
+              "country_subdivision_code": "CJ",
+              "country_subdivision_name": "Cluj County",
+              "lat": 46.76667,
+              "lng": 23.6,
+              "name": "Cluj-Napoca"
+            },
+            "geonames_id": 681290
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SAIA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Solutions of Artificial Intelligence Applications"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1984,
+        "external_ids": [
+          {
+            "all": [
+              "grid.432019.d"
+            ],
+            "preferred": "grid.432019.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 4665 013X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q306606"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04j47vk14",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ofai.at/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Austrian_Research_Institute_for_Artificial_Intelligence"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "AT",
+              "country_name": "Austria",
+              "country_subdivision_code": "9",
+              "country_subdivision_name": "Vienna",
+              "lat": 48.20849,
+              "lng": 16.37208,
+              "name": "Vienna"
+            },
+            "geonames_id": 2761369
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Austrian Research Institute for Artificial Intelligence"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "OFAI"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Österreichisches Forschungsinstitut für Artificial Intelligence"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Austrian Society for Cybernetic Studies",
+            "type": "parent",
+            "id": "https://ror.org/01rckyv04"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1983,
+        "external_ids": [
+          {
+            "all": [
+              "grid.432209.e"
+            ],
+            "preferred": "grid.432209.e",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/05p590m36",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.aim.ca/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.70643,
+              "lng": -79.39864,
+              "name": "Toronto"
+            },
+            "geonames_id": 6167865
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "AIM"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Artificial Intelligence in Medicine (Canada)"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1979,
+        "external_ids": [
+          {
+            "all": [
+              "grid.298530.5"
+            ],
+            "preferred": "grid.298530.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2111 3731"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/02eb0rk31",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.aaai.org/home.html"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Intelligence"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 37.44188,
+              "lng": -122.14302,
+              "name": "Palo Alto"
+            },
+            "geonames_id": 5380748
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "AAAI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "American Association for Artificial Intelligence"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Association for the Advancement of Artificial Intelligence"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-02-17",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2013,
+        "external_ids": [
+          {
+            "all": [
+              "100017005"
+            ],
+            "preferred": "100017005",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.502992.5"
+            ],
+            "preferred": "grid.502992.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 6359 9524"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q16002567"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05w520734",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://allenai.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Allen_Institute_for_Artificial_Intelligence"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "WA",
+              "country_subdivision_name": "Washington",
+              "lat": 47.60621,
+              "lng": -122.33207,
+              "name": "Seattle"
+            },
+            "geonames_id": 5809844
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "AI2"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Allen Institute for AI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Allen Institute for Artificial Intelligence"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2000,
+        "external_ids": [
+          {
+            "all": [
+              "grid.466881.5"
+            ],
+            "preferred": "grid.466881.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1522 2263"
+            ],
+            "preferred": "0000 0004 1522 2263",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2040269"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01h4ass90",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://intelligence.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Machine_Intelligence_Research_Institute"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 37.87159,
+              "lng": -122.27275,
+              "name": "Berkeley"
+            },
+            "geonames_id": 5327684
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MIRI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Machine Intelligence Research Institute"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SIAI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Singularity Institute for Artificial Intelligence"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-09-23",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1991,
+        "external_ids": [
+          {
+            "all": [
+              "grid.511093.f"
+            ],
+            "preferred": "grid.511093.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q106420866"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01y1b1844",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ipai.net.ua"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "UA",
+              "country_name": "Ukraine",
+              "country_subdivision_code": "30",
+              "country_subdivision_name": "Kyiv City",
+              "lat": 50.45466,
+              "lng": 30.5238,
+              "name": "Kyiv"
+            },
+            "geonames_id": 703448
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Institute of Artificial Intelligence Problems"
+          },
+          {
+            "lang": "uk",
+            "types": [
+              "label"
+            ],
+            "value": "ІНСТИТУТ ПРОБЛЕМ ШТУЧНОГО ІНТЕЛЕКТУ"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ІПШІ"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "National Academy of Sciences of Ukraine",
+            "type": "parent",
+            "id": "https://ror.org/00je4t102"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 1319
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 572
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 197
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 134
+        },
+        {
+          "id": "education",
+          "title": "education",
+          "count": 128
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 83
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 48
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 27
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 8
+        }
+      ],
+      "countries": [
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 858
+        },
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 291
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 287
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 86
+        },
+        {
+          "id": "ca",
+          "title": "Canada",
+          "count": 40
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 40
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 38
+        },
+        {
+          "id": "pt",
+          "title": "Portugal",
+          "count": 29
+        },
+        {
+          "id": "ch",
+          "title": "Switzerland",
+          "count": 22
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 19
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 1038
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 492
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 336
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 26
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 14
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 12
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 1917
+        }
+      ]
+    }
+  }
+}

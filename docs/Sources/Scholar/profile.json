@@ -1,0 +1,425 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar_author",
+    "author_id": "1mvzap4AAAAJ",
+    "hl": "en",
+    "num": 100
+  },
+  "accessed_at_utc": "2026-10-07T12:38:38.590990+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63b572c2bb4902569d70b",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/NblWiIFoJtmgzmdAF8agq3WL6YKbsVte3WPB_Ac_PFU/6ac63b572c2bb4902569d70b.json",
+      "markdown_endpoint": "https://serpapi.com/searches/NblWiIFoJtmgzmdAF8agq3WL6YKbsVte3WPB_Ac_PFU/6ac63b572c2bb4902569d70b.md",
+      "created_at": "2026-10-07 12:30:15 UTC",
+      "processed_at": "2026-10-07 12:30:15 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=1mvzap4AAAAJ&hl=en&pagesize=100",
+      "raw_html_file": "https://serpapi.com/searches/NblWiIFoJtmgzmdAF8agq3WL6YKbsVte3WPB_Ac_PFU/6ac63b572c2bb4902569d70b.html",
+      "total_time_taken": 1.11
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "1mvzap4AAAAJ",
+      "hl": "en",
+      "num": "100"
+    },
+    "author": {
+      "name": "Sambhav Jain",
+      "affiliations": "Principal Engineer, AMD",
+      "email": "Verified email at alumni.stanford.edu",
+      "website": "http://bit.ly/sjain-stanford",
+      "interests": [
+        {
+          "title": "ML Compilers",
+          "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:ml_compilers",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aml_compilers"
+        },
+        {
+          "title": "AI Acceleration",
+          "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:ai_acceleration",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aai_acceleration"
+        },
+        {
+          "title": "DL Optimization",
+          "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:dl_optimization",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adl_optimization"
+        },
+        {
+          "title": "Quantization",
+          "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:quantization",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aquantization"
+        },
+        {
+          "title": "Deep Neural Networks",
+          "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:deep_neural_networks",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adeep_neural_networks"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=1mvzap4AAAAJ&citpid=5"
+    },
+    "articles": [
+      {
+        "title": "Trained quantization thresholds for accurate and efficient fixed-point inference of deep neural networks",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1mvzap4AAAAJ&pagesize=100&citation_for_view=1mvzap4AAAAJ:qxL8FJ1GzNcC",
+        "citation_id": "1mvzap4AAAAJ:qxL8FJ1GzNcC",
+        "authors": "S Jain, A Gural, M Wu, C Dick",
+        "publication": "Proceedings of Machine Learning and Systems 2, 112-128, 2020",
+        "cited_by": {
+          "value": 227,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1211587708316162333",
+          "serpapi_link": "https://serpapi.com/search.json?cites=1211587708316162333&engine=google_scholar&hl=en",
+          "cites_id": "1211587708316162333"
+        },
+        "year": "2020"
+      },
+      {
+        "title": "Trained uniform quantization for accurate and efficient neural network inference on fixed-point hardware",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1mvzap4AAAAJ&pagesize=100&citation_for_view=1mvzap4AAAAJ:aqlVkmm33-oC",
+        "citation_id": "1mvzap4AAAAJ:aqlVkmm33-oC",
+        "authors": "SR Jain, A Gural, M Wu, C Dick",
+        "publication": "arXiv preprint arXiv:1903.08066 6 (6), 3, 2019",
+        "cited_by": {
+          "value": 71,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4771408704216507266,20156749286290710",
+          "serpapi_link": "https://serpapi.com/search.json?cites=4771408704216507266%2C20156749286290710&engine=google_scholar&hl=en",
+          "cites_id": "4771408704216507266,20156749286290710"
+        },
+        "year": "2019"
+      },
+      {
+        "title": "Degradation of 2DEG transport properties in GaN-capped AlGaN/GaN heterostructures at 600° C in oxidizing and inert environments",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1mvzap4AAAAJ&pagesize=100&citation_for_view=1mvzap4AAAAJ:UebtZRa9Y70C",
+        "citation_id": "1mvzap4AAAAJ:UebtZRa9Y70C",
+        "authors": "M Hou, SR Jain, H So, TA Heuser, X Xu, AJ Suria, DG Senesky",
+        "publication": "Journal of Applied Physics 122 (19), 2017",
+        "cited_by": {
+          "value": 22,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4870271334637308438",
+          "serpapi_link": "https://serpapi.com/search.json?cites=4870271334637308438&engine=google_scholar&hl=en",
+          "cites_id": "4870271334637308438"
+        },
+        "year": "2017"
+      },
+      {
+        "title": "Interdigitated Pt-GaN Schottky interfaces for high-temperature soot-particulate sensing",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1mvzap4AAAAJ&pagesize=100&citation_for_view=1mvzap4AAAAJ:_FxGoFyzp5QC",
+        "citation_id": "1mvzap4AAAAJ:_FxGoFyzp5QC",
+        "authors": "H So, M Hou, SR Jain, J Lim, DG Senesky",
+        "publication": "Applied Surface Science 368, 104-109, 2016",
+        "cited_by": {
+          "value": 15,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1310050738644832908",
+          "serpapi_link": "https://serpapi.com/search.json?cites=1310050738644832908&engine=google_scholar&hl=en",
+          "cites_id": "1310050738644832908"
+        },
+        "year": "2016"
+      },
+      {
+        "title": "Training a fully convolutional neural network to route integrated Circuits",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1mvzap4AAAAJ&pagesize=100&citation_for_view=1mvzap4AAAAJ:Se3iqnhoufwC",
+        "citation_id": "1mvzap4AAAAJ:Se3iqnhoufwC",
+        "authors": "SR Jain, K Okabe",
+        "publication": "arXiv preprint arXiv:1706.08948, 2017",
+        "cited_by": {
+          "value": 13,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11063097314330123367",
+          "serpapi_link": "https://serpapi.com/search.json?cites=11063097314330123367&engine=google_scholar&hl=en",
+          "cites_id": "11063097314330123367"
+        },
+        "year": "2017"
+      },
+      {
+        "title": "A novel self-consistent model based optimal filter design for the improved dynamic performance of 3-phase PLLs for phase tracking under grid imperfections (Part 2)",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1mvzap4AAAAJ&pagesize=100&citation_for_view=1mvzap4AAAAJ:roLk4NBRz8UC",
+        "citation_id": "1mvzap4AAAAJ:roLk4NBRz8UC",
+        "authors": "SR Jain, P Ravikirthi, N Chilakapati",
+        "publication": "Journal of Control, Automation and Electrical Systems 25 (5), 620-628, 2014",
+        "cited_by": {
+          "value": 4,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13401979949234564250",
+          "serpapi_link": "https://serpapi.com/search.json?cites=13401979949234564250&engine=google_scholar&hl=en",
+          "cites_id": "13401979949234564250"
+        },
+        "year": "2014"
+      },
+      {
+        "title": "System and method for implementing neural networks in integrated circuits",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1mvzap4AAAAJ&pagesize=100&citation_for_view=1mvzap4AAAAJ:M3ejUd6NZC8C",
+        "citation_id": "1mvzap4AAAAJ:M3ejUd6NZC8C",
+        "authors": "AT Gural, SR Jain, CH Dick",
+        "publication": "US Patent 11,586,908, 2023",
+        "cited_by": {
+          "value": 1,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1087022848043546642",
+          "serpapi_link": "https://serpapi.com/search.json?cites=1087022848043546642&engine=google_scholar&hl=en",
+          "cites_id": "1087022848043546642"
+        },
+        "year": "2023"
+      },
+      {
+        "title": "Gallium Nitride Microelectronics for High-Temperature Environments",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1mvzap4AAAAJ&pagesize=100&citation_for_view=1mvzap4AAAAJ:LkGwnXOMwfcC",
+        "citation_id": "1mvzap4AAAAJ:LkGwnXOMwfcC",
+        "authors": "DG Senesky, H So, AJ Suria, AS Yalamarthy, SR Jain, CA Chapin, ...",
+        "publication": "Semiconductor-Based Sensors, 395-433, 2017",
+        "cited_by": {
+          "value": 1,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2775616270392012484",
+          "serpapi_link": "https://serpapi.com/search.json?cites=2775616270392012484&engine=google_scholar&hl=en",
+          "cites_id": "2775616270392012484"
+        },
+        "year": "2017"
+      },
+      {
+        "title": "An ML Compilation Stack for Autonomous Vehicles using MLIR",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1mvzap4AAAAJ&pagesize=100&citation_for_view=1mvzap4AAAAJ:Wp0gIr-vW9MC",
+        "citation_id": "1mvzap4AAAAJ:Wp0gIr-vW9MC",
+        "authors": "R Raman, S Jain",
+        "publication": "LLVM Developers Meeting, MLIR Workshop 2024, 2024",
+        "cited_by": {
+          "value": null
+        },
+        "year": "2024"
+      },
+      {
+        "title": "Systematic DL Optimizations for Accurate and Efficient TensorRT Deployments on Cruise's Self-Driving Fleet",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1mvzap4AAAAJ&pagesize=100&citation_for_view=1mvzap4AAAAJ:4TOpqqG69KYC",
+        "citation_id": "1mvzap4AAAAJ:4TOpqqG69KYC",
+        "authors": "SR Jain",
+        "publication": "NVIDIA GPU Tech Conference, GTC 2022, 2022",
+        "cited_by": {
+          "value": null
+        },
+        "year": "2022"
+      },
+      {
+        "title": "TQT: Trained Quantization Thresholds",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1mvzap4AAAAJ&pagesize=100&citation_for_view=1mvzap4AAAAJ:ULOm3_A8WrAC",
+        "citation_id": "1mvzap4AAAAJ:ULOm3_A8WrAC",
+        "authors": "SR Jain, A Gural, M Wu, CH Dick",
+        "publication": "Third Conference on Machine Learning and Systems (MLSys 2020), 2020",
+        "cited_by": {
+          "value": null
+        },
+        "year": "2020"
+      }
+    ],
+    "cited_by": {
+      "table": [
+        {
+          "citations": {
+            "all": 354,
+            "since_2021": 295
+          }
+        },
+        {
+          "h_index": {
+            "all": 5,
+            "since_2021": 5
+          }
+        },
+        {
+          "i10_index": {
+            "all": 5,
+            "since_2021": 3
+          }
+        }
+      ],
+      "graph": [
+        {
+          "year": 2016,
+          "citations": 6
+        },
+        {
+          "year": 2017,
+          "citations": 3
+        },
+        {
+          "year": 2018,
+          "citations": 1
+        },
+        {
+          "year": 2019,
+          "citations": 13
+        },
+        {
+          "year": 2020,
+          "citations": 35
+        },
+        {
+          "year": 2021,
+          "citations": 65
+        },
+        {
+          "year": 2022,
+          "citations": 77
+        },
+        {
+          "year": 2023,
+          "citations": 41
+        },
+        {
+          "year": 2024,
+          "citations": 54
+        },
+        {
+          "year": 2025,
+          "citations": 41
+        },
+        {
+          "year": 2026,
+          "citations": 17
+        }
+      ]
+    },
+    "co_authors": [
+      {
+        "name": "Albert Gural",
+        "link": "https://scholar.google.com/citations?user=k4aA_p8AAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=k4aA_p8AAAAJ&engine=google_scholar_author&hl=en&num=100",
+        "author_id": "k4aA_p8AAAAJ",
+        "affiliations": "Graduate Student in Electrical Engineering, Stanford University",
+        "email": "Verified email at stanford.edu",
+        "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+      },
+      {
+        "name": "Michael Wu",
+        "link": "https://scholar.google.com/citations?user=o7pZJNAAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=o7pZJNAAAAAJ&engine=google_scholar_author&hl=en&num=100",
+        "author_id": "o7pZJNAAAAAJ",
+        "affiliations": "AMD",
+        "email": "Verified email at amd.com",
+        "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+      },
+      {
+        "name": "Dr Chris Dick",
+        "link": "https://scholar.google.com/citations?user=CLpLRD8AAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=CLpLRD8AAAAJ&engine=google_scholar_author&hl=en&num=100",
+        "author_id": "CLpLRD8AAAAJ",
+        "affiliations": "Nvidia",
+        "email": "Verified email at nvidia.com",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=CLpLRD8AAAAJ&citpid=1"
+      },
+      {
+        "name": "Minmin Hou",
+        "link": "https://scholar.google.com/citations?user=TDWUh9MAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=TDWUh9MAAAAJ&engine=google_scholar_author&hl=en&num=100",
+        "author_id": "TDWUh9MAAAAJ",
+        "affiliations": "Stanford University",
+        "email": "Verified email at stanford.edu",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=TDWUh9MAAAAJ&citpid=3"
+      },
+      {
+        "name": "Debbie G. Senesky, Ph.D.",
+        "link": "https://scholar.google.com/citations?user=SvjvDusAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=SvjvDusAAAAJ&engine=google_scholar_author&hl=en&num=100",
+        "author_id": "SvjvDusAAAAJ",
+        "affiliations": "Associate Professor, Stanford University",
+        "email": "Verified email at stanford.edu",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=SvjvDusAAAAJ&citpid=9"
+      },
+      {
+        "name": "Hongyun So",
+        "link": "https://scholar.google.com/citations?user=nTJgFaIAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=nTJgFaIAAAAJ&engine=google_scholar_author&hl=en&num=100",
+        "author_id": "nTJgFaIAAAAJ",
+        "affiliations": "Professor, Mechanical Engineering, Hanyang University, Seoul, Korea",
+        "email": "Verified email at hanyang.ac.kr",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nTJgFaIAAAAJ&citpid=3"
+      },
+      {
+        "name": "Ateeq J. Suria",
+        "link": "https://scholar.google.com/citations?user=Ig46FVcAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=Ig46FVcAAAAJ&engine=google_scholar_author&hl=en&num=100",
+        "author_id": "Ig46FVcAAAAJ",
+        "affiliations": "Product Marketing Manager, Lam Research Corporation",
+        "email": "Verified email at alumni.stanford.edu",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Ig46FVcAAAAJ&citpid=4"
+      },
+      {
+        "name": "Thomas Heuser",
+        "link": "https://scholar.google.com/citations?user=VBiO5b0AAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=VBiO5b0AAAAJ&engine=google_scholar_author&hl=en&num=100",
+        "author_id": "VBiO5b0AAAAJ",
+        "affiliations": "Ph.D Candidate, Stanford University",
+        "email": "Verified email at stanford.edu",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=VBiO5b0AAAAJ&citpid=4"
+      },
+      {
+        "name": "Jongwoo Lim",
+        "link": "https://scholar.google.com/citations?user=x3EW4bkAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=x3EW4bkAAAAJ&engine=google_scholar_author&hl=en&num=100",
+        "author_id": "x3EW4bkAAAAJ",
+        "affiliations": "Seoul National University",
+        "email": "Verified email at snu.ac.kr",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=x3EW4bkAAAAJ&citpid=1"
+      },
+      {
+        "name": "Nagamani Chilakapati",
+        "link": "https://scholar.google.com/citations?user=shITP6sAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=shITP6sAAAAJ&engine=google_scholar_author&hl=en&num=100",
+        "author_id": "shITP6sAAAAJ",
+        "affiliations": "Professor of Electrical & Electronics Engineering, N.I.T., Tiruchirappalli",
+        "email": "Verified email at nitt.edu",
+        "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+      },
+      {
+        "name": "Ananth Saran Yalamarthy",
+        "link": "https://scholar.google.com/citations?user=QzSlVd4AAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=QzSlVd4AAAAJ&engine=google_scholar_author&hl=en&num=100",
+        "author_id": "QzSlVd4AAAAJ",
+        "affiliations": "PhD, Stanford, Director of Engineering at Frore Systems",
+        "email": "Verified email at stanford.edu",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QzSlVd4AAAAJ&citpid=10"
+      },
+      {
+        "name": "Fan Ren",
+        "link": "https://scholar.google.com/citations?user=stpKHXUAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=stpKHXUAAAAJ&engine=google_scholar_author&hl=en&num=100",
+        "author_id": "stpKHXUAAAAJ",
+        "affiliations": "University of Florida, Bell Lab, AT&T",
+        "email": "Verified email at che.ufl.edu",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=stpKHXUAAAAJ&citpid=1"
+      },
+      {
+        "name": "Sheng-Po Fang",
+        "link": "https://scholar.google.com/citations?user=pW5u6dwAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=pW5u6dwAAAAJ&engine=google_scholar_author&hl=en&num=100",
+        "author_id": "pW5u6dwAAAAJ",
+        "affiliations": "University of Florida",
+        "email": "Verified email at ufl.edu",
+        "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+      },
+      {
+        "name": "Stephen Pearton",
+        "link": "https://scholar.google.com/citations?user=4FORIaAAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=4FORIaAAAAAJ&engine=google_scholar_author&hl=en&num=100",
+        "author_id": "4FORIaAAAAAJ",
+        "affiliations": "Professor of Materials Science and Engineering, University of Florida",
+        "email": "Verified email at mse.ufl.edu",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4FORIaAAAAAJ&citpid=2"
+      },
+      {
+        "name": "Todd Schumann",
+        "link": "https://scholar.google.com/citations?user=EwdlaJoAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=EwdlaJoAAAAJ&engine=google_scholar_author&hl=en&num=100",
+        "author_id": "EwdlaJoAAAAJ",
+        "affiliations": "PhD Student, University of Florida",
+        "email": "Verified email at ufl.edu",
+        "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+      },
+      {
+        "name": "Raghavan Raman",
+        "link": "https://scholar.google.com/citations?user=FgEhYEwAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=FgEhYEwAAAAJ&engine=google_scholar_author&hl=en&num=100",
+        "author_id": "FgEhYEwAAAAJ",
+        "affiliations": "Rivian",
+        "email": "Verified email at rivian.com",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=FgEhYEwAAAAJ&citpid=4"
+      }
+    ]
+  }
+}

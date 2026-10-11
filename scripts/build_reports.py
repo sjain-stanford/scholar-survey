@@ -1,0 +1,181 @@
+#!/usr/bin/env python3
+"""Build the citation reports from shared article data and ordered collections."""
+import argparse
+import csv
+import json
+from html import escape
+
+import site_nav
+from report_collections import DOCS, ROOT, PACKET, article_order, collections, packet_rows
+
+
+def page(title, content, eyebrow, print_only=False):
+    label = 'eyebrow print-only' if print_only else 'eyebrow'
+    return (f'<section class="page"><div class="{label}">{escape(eyebrow)}</div>\n'
+            f'<h2>{escape(title)}</h2>\n{content}\n</section>')
+
+
+def scrollable_table(table, label):
+    return (f'<div class="table-scroll" role="region" aria-label="{escape(label)}" tabindex="0">'
+            + table + '</div>')
+
+
+def citation_count(paper):
+    return f'{int(paper["count"]):,}' if int(paper['count']) else 'None shown'
+
+
+def count_phrase(paper):
+    return (f'{int(paper["count"]):,} Google Scholar citations' if int(paper['count'])
+            else 'No cited-by count in the saved Google Scholar record')
+
+
+def selection_bases(paper):
+    return paper['venue_basis'].split('; ')
+
+
+def badges(paper, separator=''):
+    return separator.join(f'<span class="badge">{escape(basis)}</span>' for basis in selection_bases(paper))
+
+
+FIRST_TABLE_PAGE_ROWS = 9
+
+
+def marked_article(paper):
+    return f'Marked-Articles/{paper["marked_filename"]}'
+
+
+def affiliations(article):
+    return article['affiliations'].split('; ')
+
+
+def article_url(article):
+    return article['published_url'] or article['original_url']
+
+
+def source_links(article):
+    if not article['published_url']:
+        return f'<a href="{escape(article["original_url"])}">Original article</a>'
+    reviewed = 'Reviewed arXiv version' if 'arxiv.org/' in article['original_url'] else 'Reviewed version'
+    return (f'<a href="{escape(article["published_url"])}">Original article</a> · '
+            f'<a href="{escape(article["original_url"])}">{reviewed}</a>')
+
+
+def article_table(numbers, papers, articles):
+    headings = '<th>No.</th><th>Article / venue</th><th>Affiliations</th><th>Scholar</th><th>Selection basis</th>'
+    rows = []
+    for index, number in enumerate(numbers):
+        paper, article = papers[number], articles[number]
+        cells = [f'{number:02}',
+                 f'<a href="{escape(article_url(article))}"><b>{escape(paper["title"])}</b></a>'
+                 f'<br><span class="small">{escape(paper["venue"])} <span class="nowrap">· '
+                 f'<a href="{escape(marked_article(paper))}">Marked PDF</a></span></span>',
+                 '<span class="small">' + '<br>'.join(escape(name) for name in affiliations(article)) + '</span>']
+        count = f'<a href="{escape(article["scholar_url"])}">{citation_count(paper)}</a>'
+        cells += [count, badges(paper, '<br>')]
+        # The first printed table page also carries the heading, so it takes fewer rows.
+        start = ' class="page-start"' if index == FIRST_TABLE_PAGE_ROWS else ''
+        rows.append(f'<tr{start}>' + ''.join(f'<td>{cell}</td>' for cell in cells) + '</tr>')
+    table = ('<table class="articles"><thead><tr>' + headings
+             + '</tr></thead><tbody>' + ''.join(rows) + '</tbody></table>')
+    return scrollable_table(table, 'Selected citing articles')
+
+
+def article_block(number, paper, article, title):
+    target = f'Marked-Articles/{paper["marked_filename"]}#page={paper["bibliography_page"]}'
+    venue = f' Venue: {escape(article["venue_evidence"])}.' if article['venue_evidence'] else ''
+    return f'''<div class="paper" id="article-{number:02}"><div class="kicker print-only">Article {number:02} · {escape(title)}</div><div class="kicker screen-only">Article {number:02}</div>
+<h3>{escape(paper['title'])}</h3><div class="meta">{escape(article['authors'])}<br>{escape(paper['venue'])} · {count_phrase(paper)}</div>
+{badges(paper)}
+<p class="label"><b>Documented contribution:</b> {escape(article['evidence_type'])}</p>
+<p>{escape(article['summary'])}</p>
+<p class="small"><b>Authorship link:</b> {escape(article['authorship_link'])} <a href="{target}">Bibliography p. {paper['bibliography_page']}</a>.</p>
+<p class="small"><b>Reviewed version:</b> {escape(paper['version'])}. <b>Pinpoint:</b> {escape(paper['locator'])}.<br><b>Count:</b> {paper['count_evidence']}, <span class="mono">{escape(paper['count_pinpoint'])}</span>.{venue}</p>
+<p class="small"><b>Marked file:</b> <a href="{escape(marked_article(paper))}">{escape(paper['marked_filename'])}</a></p>
+<p class="small">{source_links(article)} · <a href="{escape(article['scholar_url'])}">Scholar cited-by list</a></p></div>'''
+
+
+def coverage_page(coverage, survey):
+    fields = ['title', 'profile_citations', 'retrieved_scholar_records', 'deduplicated_works', 'mapped_works']
+    rows = ''.join('<tr><td>' + f'{int(row["profile_entry"]):02}' + '</td>'
+                   + ''.join(f'<td>{escape(row[field])}</td>' for field in fields) + '</tr>' for row in coverage)
+    table = ('<table><thead><tr><th>Entry</th><th>Cited work</th><th>Profile citations</th>'
+             '<th>Records retrieved</th><th>Grouped works</th><th>Mapped works</th></tr></thead>'
+             '<tbody>' + rows + '</tbody></table>')
+    return page('Citation coverage across the research portfolio', scrollable_table(table, 'Citation coverage by publication') + f'''
+<p class="small">A citing work can appear in several publication rows. Unique survey totals group overlapping records and publication versions.</p>
+<p>The saved Scholar profile records {survey['profile_citations']} citations. The inventory retains {survey['deduplicated_works']} works from {survey['scholar_records']} archived Scholar records. Publication affiliations and patent applicant addresses establish locations for {survey['mapped_works']} works; the remaining {survey['deduplicated_works'] - survey['mapped_works']} have their review status recorded in the inventory.</p>
+<p class="small">Dated Scholar responses document discovery and article-level counts. Source PDFs establish the selected discussions and affiliation evidence. The coverage table and inventory provide the denominators for each measure.</p>''', 'Survey scope and sources')
+
+
+def build_reports():
+    with (DOCS / 'Selected-Articles.csv').open(newline='') as handle:
+        papers = {int(row['n']): row for row in csv.DictReader(handle)}
+    articles = {row['n']: row for row in json.loads((ROOT / 'data/article-discussions.json').read_text())['articles']}
+    reviews = {row['article']: row for row in json.loads((DOCS / 'Marking-Review.json').read_text())['articles']}
+    survey = json.loads((DOCS / 'Verification.json').read_text())['survey']
+    with (DOCS / 'Coverage-by-Publication.csv').open(newline='') as handle:
+        coverage = list(csv.DictReader(handle))
+    index = packet_rows(papers, reviews)
+    style = (ROOT / 'scripts/report.css').read_text()
+    outputs = {}
+    for collection in collections():
+        numbers = article_order(collection)
+        count = len(numbers)
+        selected = [row for row in index if row['report'] == collection['id']]
+        start, end = int(selected[0]['packet_start']), int(selected[-1]['packet_end'])
+        packet_pages = end - start + 1
+        title, report, packet = collection['title'], collection['report'], f'{PACKET}#page={start}'
+        pdf_link = f'<a href="{report}.pdf">Report PDF</a> · ' if collection['link_report'] else ''
+        html_link = f'<a href="{report}.html">{escape(title)}</a> · ' if collection['link_report'] else ''
+        cover = f'''<section class="page"><div class="eyebrow">Sambhav Jain · citation research · prepared 10 October 2026</div>
+<h1>{escape(title)}</h1><p>{escape(collection['description'])}</p>
+<div class="cards"><div class="stat"><b>{count}</b>selected articles</div><div class="stat"><b>{packet_pages}</b>marked discussion pages</div><div class="stat"><b>{survey['countries_territories']}</b>countries / territories in the wider survey</div></div>
+<h2>Selection and source documentation</h2><p>{escape(collection['selection'])}</p>
+<h2>Authorship links and documented scholarly use</h2><p>Each article identifies the cited work and authors, the specific research connection and the original discussion pages. The bibliography link establishes authorship of the corresponding work by Sambhav Jain and coauthors.</p>
+<p>Orange rectangles mark selected discussion, citations and TQT results; blue rectangles identify the corresponding bibliography entries. The marked packet follows the article order in this report and retains original page numbers. Article numbers identify the corresponding marked files.</p>
+<div class="note"><b>International citation survey.</b> The wider survey maps {survey['mapped_works']} citing works to {survey['institution_locations']} institution/location entries across {survey['countries_territories']} countries/territories. These totals describe the broader citation network, separately from this report’s selection.</div>
+<p>{pdf_link}<a href="{packet}">Marked discussions</a> · <a href="index.html">Interactive map</a></p>
+<p class="small">Snapshot: October 7, 2026. <a href="https://scholar.google.com/citations?hl=en&amp;user=1mvzap4AAAAJ">Sambhav Jain’s Google Scholar profile</a>. Counts belong to the saved citing-article records or version clusters.</p></section>'''
+        sections = [cover]
+        for group in collection['groups']:
+            sections.append(page(f'{group["title"]} ({len(group["articles"])})',
+                                 article_table(group['articles'], papers, articles), title, True))
+        for group in collection['groups']:
+            for start in range(0, len(group['articles']), 2):
+                blocks = '\n'.join(article_block(n, papers[n], articles[n], title)
+                                   for n in group['articles'][start:start + 2])
+                # A compact label leaves enough space for two complete article entries; on screen it
+                # appears once, before the first pair.
+                label = 'eyebrow print-only' if start else 'eyebrow'
+                sections.append(f'<section class="page"><div class="{label}">{escape(group["title"])}</div>\n{blocks}\n</section>')
+        sections.append(coverage_page(coverage, survey))
+        sections.append(page('Publication-sourced affiliations and research connections', f'''
+<p>The map presents {survey['institution_locations']} institution/location entries from {survey['mapped_works']} grouped citing works in {survey['countries_territories']} countries/territories. Each pin opens the institutions, citing papers and affiliation-page evidence. Several institutions in one city share a display pin; multi-institution papers contribute several locations.</p>
+<p>Affiliations come from the reviewed publication; citing patents are placed at the applicant or assignee address printed on the front page. Explicit campus and city details determine placement; ROR supplies institution-city geography when the publication lists an institution without a city. Hollow markers show country-level affiliations. Coordinates are geographic display anchors.</p>
+<p>The map documents the geographic reach of citing authors’ publication affiliations and citing patents’ applicants, including coauthor- and employer-linked works. Article passages establish methodological adaptation, implementation, comparison, design connections or technical exposition. Joint attribution is retained where several methods are credited.</p>
+<h2>Research files</h2><p><a href="{packet}">Marked discussions</a>: marked source pages in this report’s article order.<br><b>Marked-Articles/:</b> complete articles with original page numbers and source links.<br><b>Selected-Articles.csv:</b> selection membership, counts, evidence types and source pages.<br><b>Discussion-Page-Index.csv:</b> article-to-packet page mapping.<br><b>Citation-Inventory.csv:</b> every grouped citing work with its map and review status.<br><b>Source-Ledger.csv:</b> the file, source URL and SHA-256 behind each evidence ID.<br><b>Sources/:</b> dated Scholar, publication, venue, geography, affiliation and patent captures.</p>
+<p>{html_link}<a href="index.html">Interactive map</a></p>
+<p class="small">Counts refer to the saved October 7, 2026 snapshot. Hashes and source provenance are recorded in the research manifests.</p>''', 'International research engagement'))
+        outputs[report + '.html'] = ('<!doctype html><html><head><meta charset="utf-8">'
+            '<meta name="viewport" content="width=device-width,initial-scale=1">'
+            f'<title>{escape(title)}</title><style>{style}{site_nav.CSS}</style></head><body>\n'
+            + site_nav.nav('report') + '\n<main class="report">\n' + '\n'.join(sections)
+            + '\n</main>\n</body></html>\n')
+    return outputs
+
+
+def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--check', action='store_true')
+    args = parser.parse_args()
+    for name, content in build_reports().items():
+        path = DOCS / name
+        if args.check:
+            assert path.read_text() == content, f'{name} needs rebuilding'
+        else:
+            path.write_text(content)
+    print('Report HTML files are current' if args.check else 'Built report HTML files')
+
+
+if __name__ == '__main__':
+    main()

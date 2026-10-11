@@ -1,0 +1,2061 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=University+of+St+Andrews",
+  "http_status": 200,
+  "query": "University of St Andrews",
+  "data": {
+    "number_of_results": 36052,
+    "time_taken": 43,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "st-andrews.ac.uk"
+        ],
+        "established": 1410,
+        "external_ids": [
+          {
+            "all": [
+              "501100000740",
+              "501100000586",
+              "501100000636",
+              "501100023800"
+            ],
+            "preferred": "501100000740",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.11914.3c"
+            ],
+            "preferred": "grid.11914.3c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0721 1626"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q216273"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02wn5qz54",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.st-andrews.ac.uk/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_St_Andrews"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "SCT",
+              "country_subdivision_name": "Scotland",
+              "lat": 56.33871,
+              "lng": -2.79902,
+              "name": "St Andrews"
+            },
+            "geonames_id": 2638864
+          }
+        ],
+        "names": [
+          {
+            "lang": "cy",
+            "types": [
+              "label"
+            ],
+            "value": "Prifysgol St Andrews"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "St Andrews University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of St Andrews"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Lancashire Teaching Hospitals NHS Foundation Trust",
+            "type": "related",
+            "id": "https://ror.org/02j7n9748"
+          },
+          {
+            "label": "Scottish Confederation of University and Research Libraries",
+            "type": "related",
+            "id": "https://ror.org/03hkzcg46"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1896,
+        "external_ids": [
+          {
+            "all": [
+              "grid.422527.4"
+            ],
+            "preferred": "grid.422527.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0418 6770"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7586947"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00nb5xj61",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.sa.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/St._Andrews_University_(North_Carolina)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NC",
+              "country_subdivision_name": "North Carolina",
+              "lat": 34.77405,
+              "lng": -79.46282,
+              "name": "Laurinburg"
+            },
+            "geonames_id": 4475347
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "St. Andrews University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-11-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "andrews.edu"
+        ],
+        "established": 1874,
+        "external_ids": [
+          {
+            "all": [
+              "100009971"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.252222.7"
+            ],
+            "preferred": "grid.252222.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2364 7403"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q109176"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04aaa2n62",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.andrews.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Andrews_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MI",
+              "country_subdivision_name": "Michigan",
+              "lat": 41.94643,
+              "lng": -86.3389,
+              "name": "Berrien Springs"
+            },
+            "geonames_id": 4985761
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Andrews University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Battle Creek College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Emmanuel Missionary College"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Andrews"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Griggs International Academy",
+            "type": "child",
+            "id": "https://ror.org/04c9sd914"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2009,
+        "external_ids": [
+          {
+            "all": [
+              "grid.484685.3"
+            ],
+            "preferred": "grid.484685.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q7592438"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03g2j2c90",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.nhsfife.org/nhs/index.cfm?fuseaction=nhs.facilitydisplay&p2sid=A59B835F-9595-4B6E-B780DBB4AD79EDD6&themeid=E4689E2B-5056-8C6F-C0BF8FA7CD6A38D0"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/St_Andrews_Community_Hospital"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "SCT",
+              "country_subdivision_name": "Scotland",
+              "lat": 56.33871,
+              "lng": -2.79902,
+              "name": "St Andrews"
+            },
+            "geonames_id": 2638864
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "St Andrews Community Hospital"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "NHS Fife",
+            "type": "parent",
+            "id": "https://ror.org/05x1ves75"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-04-25",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-04-28",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "saitm.ac.in"
+        ],
+        "established": 2014,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0005 2632 8319"
+            ],
+            "preferred": "0000 0005 2632 8319",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/036301z78",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://saitm.ac.in"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "IN",
+              "country_name": "India",
+              "country_subdivision_code": "HR",
+              "country_subdivision_name": "Haryana",
+              "lat": 28.4601,
+              "lng": 77.02635,
+              "name": "Gurugram"
+            },
+            "geonames_id": 1270642
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "SAITM"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "St. Andrews Institute of Technology & Management"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "St. Andrews Institute of Technology and Management"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Maharshi Dayanand University",
+            "type": "related",
+            "id": "https://ror.org/03kaab451"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2007,
+        "external_ids": [
+          {
+            "all": [
+              "100018073"
+            ],
+            "preferred": "100018073",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.430441.6"
+            ],
+            "preferred": "grid.430441.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 4688 1042"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30288800"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02sfc7c49",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.andrewsinstitute.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "FL",
+              "country_subdivision_name": "Florida",
+              "lat": 30.35714,
+              "lng": -87.16386,
+              "name": "Gulf Breeze"
+            },
+            "geonames_id": 4157634
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Andrews Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Andrews Institute for Orthopaedics & Sports Medicine"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2022-06-16",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1980,
+        "external_ids": [
+          {
+            "all": [
+              "Q14708738"
+            ],
+            "preferred": "Q14708738",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/026jqvs13",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://andrewsforest.oregonstate.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Andrews_Forest"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "OR",
+              "country_subdivision_name": "Oregon",
+              "lat": 44.23318,
+              "lng": -122.17618,
+              "name": "H J Andrews Experimental Forest"
+            },
+            "geonames_id": 5729804
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "AND"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "AND LTER"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Andrews Forest LTER"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Andrews Forest Long Term Ecological Research"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "HJA"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "HJA LTER"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Long Term Ecological Research Network",
+            "type": "parent",
+            "id": "https://ror.org/039kwqk96"
+          },
+          {
+            "label": "Oregon State University",
+            "type": "parent",
+            "id": "https://ror.org/00ysfqy60"
+          },
+          {
+            "label": "Environmental Data Initiative",
+            "type": "related",
+            "id": "https://ror.org/0330j0z60"
+          },
+          {
+            "label": "US Forest Service",
+            "type": "related",
+            "id": "https://ror.org/03zmjc935"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-03",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-03",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "dacollege.org"
+        ],
+        "established": 1956,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0005 0233 0625"
+            ],
+            "preferred": "0000 0005 0233 0625",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5277877"
+            ],
+            "preferred": "Q5277877",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00n1p2a62",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://dacollege.org"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "IN",
+              "country_name": "India",
+              "country_subdivision_code": "WB",
+              "country_subdivision_name": "West Bengal",
+              "lat": 22.56263,
+              "lng": 88.36304,
+              "name": "Kolkata"
+            },
+            "geonames_id": 1275004
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Dinabandhu Andrews College"
+          },
+          {
+            "lang": "bn",
+            "types": [
+              "label"
+            ],
+            "value": "দীনবন্ধু এণ্ড্ৰুজ কলেজ"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Calcutta",
+            "type": "related",
+            "id": "https://ror.org/01e7v7w47"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1920,
+        "external_ids": [
+          {
+            "all": [
+              "grid.441146.2"
+            ],
+            "preferred": "grid.441146.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8754 0878"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1276380"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04nfs2483",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.stfrancis.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_St._Francis"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 41.52519,
+              "lng": -88.0834,
+              "name": "Joliet"
+            },
+            "geonames_id": 4898015
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "USF"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de St. Francis"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of St. Francis"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "stthom.edu"
+        ],
+        "established": 1947,
+        "external_ids": [
+          {
+            "all": [
+              "grid.267208.9"
+            ],
+            "preferred": "grid.267208.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2286 975X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2495922"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02pkt3s45",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://stthom.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_St._Thomas_(Texas)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TX",
+              "country_subdivision_name": "Texas",
+              "lat": 29.76328,
+              "lng": -95.36327,
+              "name": "Houston"
+            },
+            "geonames_id": 4699066
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UST "
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Saint Thomas"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of St. Thomas"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of St. Thomas - Texas"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of St. Thomas, Houston"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "marjon.ac.uk"
+        ],
+        "established": 1923,
+        "external_ids": [
+          {
+            "all": [
+              "100010019"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.418024.b"
+            ],
+            "preferred": "grid.418024.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 5903 3771"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7894637"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03f914y84",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.marjon.ac.uk/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_St_Mark_%26_St_John"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 50.37153,
+              "lng": -4.14305,
+              "name": "Plymouth"
+            },
+            "geonames_id": 2640194
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "Marjon"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Plymouth Marjon University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of St Mark and St John"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1994,
+        "external_ids": [
+          {
+            "all": [
+              "grid.454567.1"
+            ],
+            "preferred": "grid.454567.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0531 5140"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7011390"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/007hqhx04",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.nsa.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/New_Saint_Andrews_College"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "ID",
+              "country_subdivision_name": "Idaho",
+              "lat": 46.73239,
+              "lng": -117.00017,
+              "name": "Moscow"
+            },
+            "geonames_id": 5601538
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "New Saint Andrews College"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2014,
+        "external_ids": [
+          {
+            "all": [
+              "grid.490780.2"
+            ],
+            "preferred": "grid.490780.2",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/03e0ext69",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.andrewsref.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "FL",
+              "country_subdivision_name": "Florida",
+              "lat": 30.35714,
+              "lng": -87.16386,
+              "name": "Gulf Breeze"
+            },
+            "geonames_id": 4157634
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "AREF"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Andrews Research & Education Foundation"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1587,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449318.3"
+            ],
+            "preferred": "grid.449318.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2292 443X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1277967"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01fazjm63",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.seraphicum.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Pontifical_University_of_St._Bonaventure"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "62",
+              "country_subdivision_name": "Lazio",
+              "lat": 41.89193,
+              "lng": 12.51133,
+              "name": "Rome"
+            },
+            "geonames_id": 3169070
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Faculté pontificale de théologie saint-bonaventure"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Pontifical Theological Faculty of Saint Bonaventure"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Pontifical University of St. Bonaventure"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "label"
+            ],
+            "value": "Pontificia Facoltà Teologica San Bonaventura"
+          },
+          {
+            "lang": "la",
+            "types": [
+              "alias"
+            ],
+            "value": "Seraphicum"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1997,
+        "external_ids": [
+          {
+            "all": [
+              "grid.441683.c"
+            ],
+            "preferred": "grid.441683.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0738 4172"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7894250"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03db1hz44",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://ucsp.edu.pe/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Universidad_Cat%C3%B3lica_de_San_Pablo"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "PE",
+              "country_name": "Peru",
+              "country_subdivision_code": "ARE",
+              "country_subdivision_name": "Arequipa",
+              "lat": -16.39889,
+              "lng": -71.535,
+              "name": "Arequipa"
+            },
+            "geonames_id": 3947322
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Catholic University of St. Paul"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UCSP"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universidad Católica San Pablo"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1999,
+        "external_ids": [
+          {
+            "all": [
+              "grid.442456.5"
+            ],
+            "preferred": "grid.442456.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0484 1130"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7588856"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02jmk1h66",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.sjut.ac.tz/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/St._John's_University_of_Tanzania"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "TZ",
+              "country_name": "Tanzania",
+              "country_subdivision_code": "03",
+              "country_subdivision_name": "Dodoma",
+              "lat": -6.17221,
+              "lng": 35.73947,
+              "name": "Dodoma"
+            },
+            "geonames_id": 160196
+          }
+        ],
+        "names": [
+          {
+            "lang": "sw",
+            "types": [
+              "label"
+            ],
+            "value": "Chuo Kikuu cha Mtakatifu Yohana Tanzania"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SJUT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "St. John's University of Tanzania"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1952,
+        "external_ids": [
+          {
+            "all": [
+              "grid.442909.2"
+            ],
+            "preferred": "grid.442909.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0624 6706"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3544530"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00pdwbh96",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.usls.edu.ph/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_St._La_Salle"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "PH",
+              "country_name": "Philippines",
+              "country_subdivision_code": "06",
+              "country_subdivision_name": "Western Visayas",
+              "lat": 10.66667,
+              "lng": 122.95,
+              "name": "Bacolod City"
+            },
+            "geonames_id": 1729564
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "La Salle College – Bacolod"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "USLS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of St. La Salle"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uklo.edu.mk"
+        ],
+        "established": 1979,
+        "external_ids": [
+          {
+            "all": [
+              "grid.428429.1"
+            ],
+            "preferred": "grid.428429.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q2094960"
+            ],
+            "preferred": "Q2094960",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04161ta68",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://uklo.edu.mk"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/St._Clement_of_Ohrid_University_of_Bitola"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "MK",
+              "country_name": "North Macedonia",
+              "country_subdivision_code": "501",
+              "country_subdivision_name": "Bitola",
+              "lat": 41.03143,
+              "lng": 21.33474,
+              "name": "Bitola"
+            },
+            "geonames_id": 792578
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "University \"St. Kliment Ohridski\" - Bitola"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University St Kliment Ohridski Bitola"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University St. Clement of Ohrid"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University St. Kliment Ohridski in Bitola"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University in Bitola"
+          },
+          {
+            "lang": "mk",
+            "types": [
+              "label"
+            ],
+            "value": "Универзитет Св. „Климент Охридски“ Битола"
+          },
+          {
+            "lang": "mk",
+            "types": [
+              "alias"
+            ],
+            "value": "Универзитет во Битола"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-11-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2002,
+        "external_ids": [
+          {
+            "all": [
+              "grid.442476.7"
+            ],
+            "preferred": "grid.442476.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0042 7862"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1765076"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00p8msr48",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.saut.ac.tz/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/St._Augustine_University_of_Tanzania"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "TZ",
+              "country_name": "Tanzania",
+              "country_subdivision_code": "18",
+              "country_subdivision_name": "Mwanza",
+              "lat": -2.51667,
+              "lng": 32.9,
+              "name": "Mwanza"
+            },
+            "geonames_id": 152224
+          }
+        ],
+        "names": [
+          {
+            "lang": "sw",
+            "types": [
+              "label"
+            ],
+            "value": "Chuo Kikuu cha Mtakatifu Agostino Tanzania"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Nyegezi Social Training Centre"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Nyegezi Social Training Institute"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SAUT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "St. Augustine University of Tanzania"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Jordan University College",
+            "type": "child",
+            "id": "https://ror.org/040qff210"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-01-12",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-01-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "andrew-edu.ac.jp"
+        ],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/00qq6h941",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.andrew-edu.ac.jp"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "27",
+              "country_subdivision_name": "Osaka",
+              "lat": 34.58216,
+              "lng": 135.46653,
+              "name": "Sakai"
+            },
+            "geonames_id": 1853195
+          }
+        ],
+        "names": [
+          {
+            "lang": "ja",
+            "types": [
+              "alias"
+            ],
+            "value": "Momoyama Gakuin Kyoiku Daigaku"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "St. Andrew's University of Education"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "alias"
+            ],
+            "value": "モモヤマ ガクイン キョウイク ダイガク"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "桃山学院教育大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 17911
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 9052
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 4738
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 3948
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 3594
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2644
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2038
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 790
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 415
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 6268
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 4071
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2357
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2090
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1587
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 1016
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 868
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 843
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 811
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 810
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 15106
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 9821
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 7559
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 2010
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 949
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 608
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 36052
+        }
+      ]
+    }
+  }
+}

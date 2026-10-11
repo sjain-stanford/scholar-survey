@@ -1,0 +1,2159 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Purdue+University",
+  "http_status": 200,
+  "query": "Purdue University",
+  "data": {
+    "number_of_results": 14693,
+    "time_taken": 269,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-05-05",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1869,
+        "external_ids": [
+          {
+            "all": [
+              "100011623",
+              "100015698",
+              "100016599"
+            ],
+            "preferred": "100011623",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.411031.6"
+            ],
+            "preferred": "grid.411031.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0484 1472"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q929715"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05p8z3f47",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.purdue.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Purdue_University_system"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IN",
+              "country_subdivision_name": "Indiana",
+              "lat": 40.42587,
+              "lng": -86.90807,
+              "name": "West Lafayette"
+            },
+            "geonames_id": 4928096
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Purdue University System"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Purdue University Fort Wayne",
+            "type": "child",
+            "id": "https://ror.org/04c4hz115"
+          },
+          {
+            "label": "Purdue University Northwest",
+            "type": "child",
+            "id": "https://ror.org/04keq6987"
+          },
+          {
+            "label": "Purdue University West Lafayette",
+            "type": "child",
+            "id": "https://ror.org/02dqehb95"
+          },
+          {
+            "label": "Purdue University Institute for Cancer Research",
+            "type": "child",
+            "id": "https://ror.org/0371gg960"
+          },
+          {
+            "label": "Purdue Global",
+            "type": "child",
+            "id": "https://ror.org/039kqe469"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-05-04",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-05-05",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "purdueglobal.edu"
+        ],
+        "established": 2018,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 0395 2576"
+            ],
+            "preferred": "0000 0004 0395 2576",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q55074849"
+            ],
+            "preferred": "Q55074849",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/039kqe469",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.purdueglobal.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Purdue_University_Global"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IN",
+              "country_subdivision_name": "Indiana",
+              "lat": 40.42587,
+              "lng": -86.90807,
+              "name": "West Lafayette"
+            },
+            "geonames_id": 4928096
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "PG"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Purdue Global"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Purdue University Global"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Purdue University Global, Inc."
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Purdue University System",
+            "type": "parent",
+            "id": "https://ror.org/05p8z3f47"
+          },
+          {
+            "label": "Purdue University West Lafayette",
+            "type": "related",
+            "id": "https://ror.org/02dqehb95"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-05-06",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "pnw.edu"
+        ],
+        "established": 2016,
+        "external_ids": [
+          {
+            "all": [
+              "grid.504659.b"
+            ],
+            "preferred": "grid.504659.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8864 7239"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q20709782"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04keq6987",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.pnw.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Purdue_University_Northwest"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IN",
+              "country_subdivision_name": "Indiana",
+              "lat": 41.58337,
+              "lng": -87.50004,
+              "name": "Hammond"
+            },
+            "geonames_id": 4921100
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PNW"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Purdue University Calumet"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Purdue University North Central"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Purdue University Northwest"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Purdue University System",
+            "type": "parent",
+            "id": "https://ror.org/05p8z3f47"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-02-17",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2018,
+        "external_ids": [
+          {
+            "all": [
+              "grid.503846.c"
+            ],
+            "preferred": "grid.503846.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8951 1659"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q55456518"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04c4hz115",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.pfw.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Purdue_University_Fort_Wayne"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IN",
+              "country_subdivision_name": "Indiana",
+              "lat": 41.1306,
+              "lng": -85.12886,
+              "name": "Fort Wayne"
+            },
+            "geonames_id": 4920423
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PFW"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Purdue University Fort Wayne"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Purdue University System",
+            "type": "parent",
+            "id": "https://ror.org/05p8z3f47"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-12-20",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "100013415"
+            ],
+            "preferred": "100013415",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "0000 0004 0404 9602"
+            ],
+            "preferred": "0000 0004 0404 9602",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q112085319"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0371gg960",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.purdue.edu/cancer-research/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IN",
+              "country_subdivision_name": "Indiana",
+              "lat": 40.42587,
+              "lng": -86.90807,
+              "name": "West Lafayette"
+            },
+            "geonames_id": 4928096
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Purdue Cancer Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Purdue Cancer Research Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Purdue Institute for Cancer Research"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Purdue University Cancer Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Purdue University Cancer Research Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Purdue University Institute for Cancer Research"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Purdue University System",
+            "type": "parent",
+            "id": "https://ror.org/05p8z3f47"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-05-05",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1869,
+        "external_ids": [
+          {
+            "all": [
+              "100006377",
+              "100007869",
+              "100008254",
+              "100007290",
+              "100006796",
+              "100006378",
+              "100007114",
+              "100009081",
+              "100013664",
+              "100011589",
+              "100011591",
+              "100011592",
+              "100011627",
+              "100011872",
+              "100013640",
+              "100013697",
+              "100016520",
+              "100019691",
+              "100019834"
+            ],
+            "preferred": "100006377",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.169077.e"
+            ],
+            "preferred": "grid.169077.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1937 2197"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q217741",
+              "Q45136563"
+            ],
+            "preferred": "Q217741",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02dqehb95",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.purdue.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Purdue_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IN",
+              "country_subdivision_name": "Indiana",
+              "lat": 40.42587,
+              "lng": -86.90807,
+              "name": "West Lafayette"
+            },
+            "geonames_id": 4928096
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Purdue University West Lafayette"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de Purdue"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Illinois Indiana Sea Grant",
+            "type": "child",
+            "id": "https://ror.org/00vg14f79"
+          },
+          {
+            "label": "Indiana Space Grant Consortium",
+            "type": "child",
+            "id": "https://ror.org/00wks2x74"
+          },
+          {
+            "label": "Purdue University in Indianapolis",
+            "type": "child",
+            "id": "https://ror.org/0482ksk80"
+          },
+          {
+            "label": "Purdue University System",
+            "type": "parent",
+            "id": "https://ror.org/05p8z3f47"
+          },
+          {
+            "label": "Purdue Global",
+            "type": "related",
+            "id": "https://ror.org/039kqe469"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-10-26",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-01-29",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2023,
+        "external_ids": [
+          {
+            "all": [
+              "100017873"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/0482ksk80",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.purdue.edu/campuses/indianapolis"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IN",
+              "country_subdivision_name": "Indiana",
+              "lat": 39.76838,
+              "lng": -86.15804,
+              "name": "Indianapolis"
+            },
+            "geonames_id": 4259418
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PUI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Purdue University in Indianapolis"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Purdue University West Lafayette",
+            "type": "parent",
+            "id": "https://ror.org/02dqehb95"
+          },
+          {
+            "label": "Indiana University – Purdue University Indianapolis",
+            "type": "predecessor",
+            "id": "https://ror.org/05gxnyn08"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1930,
+        "external_ids": [
+          {
+            "all": [
+              "100007289"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.301036.7"
+            ],
+            "preferred": "grid.301036.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9108 4369"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/007n03h88",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://prf.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IN",
+              "country_subdivision_name": "Indiana",
+              "lat": 40.42587,
+              "lng": -86.90807,
+              "name": "West Lafayette"
+            },
+            "geonames_id": 4928096
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PRF"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Purdue Research Foundation"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1892,
+        "external_ids": [
+          {
+            "all": [
+              "grid.487460.9"
+            ],
+            "preferred": "grid.487460.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0626 7320"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q43895249"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/023sxys58",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://purdue.ca/en/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Purdue_Pharma"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.90012,
+              "lng": -79.13289,
+              "name": "Pickering"
+            },
+            "geonames_id": 6104111
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Purdue Pharma (Canada)"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Purdue Pharma (United States)",
+            "type": "parent",
+            "id": "https://ror.org/030vvs717"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1892,
+        "external_ids": [
+          {
+            "all": [
+              "100015693"
+            ],
+            "preferred": "100015693",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.418726.e"
+            ],
+            "preferred": "grid.418726.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0384 1809"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7260981"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/030vvs717",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.purduepharma.com/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Purdue_Pharma"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CT",
+              "country_subdivision_name": "Connecticut",
+              "lat": 41.05343,
+              "lng": -73.53873,
+              "name": "Stamford"
+            },
+            "geonames_id": 4843564
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Purdue Pharma (United States)"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Purdue Pharma (Canada)",
+            "type": "child",
+            "id": "https://ror.org/023sxys58"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "company",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-03-31",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1949,
+        "external_ids": [
+          {
+            "all": [
+              "501100005695"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.265107.7"
+            ],
+            "preferred": "grid.265107.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0663 5064"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1148210"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/024yc3q36",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.tottori-u.ac.jp/english/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Tottori_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "31",
+              "country_subdivision_name": "Tottori",
+              "lat": 35.5,
+              "lng": 134.23333,
+              "name": "Tottori-shi"
+            },
+            "geonames_id": 1849892
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National University Corporation Tottori University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Tottori Daigaku"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Tottori University"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "鳥取大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Chromosome Engineering Research Center",
+            "type": "child",
+            "id": "https://ror.org/04gsg8b22"
+          },
+          {
+            "label": "Tottori University Hospital",
+            "type": "related",
+            "id": "https://ror.org/03wa1wy25"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-02-17",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1957,
+        "external_ids": [
+          {
+            "all": [
+              "grid.501720.1"
+            ],
+            "preferred": "grid.501720.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q10829127"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04bm3wy68",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.dhsphue.edu.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": "26",
+              "country_subdivision_name": "Thừa Thiên Huế Province",
+              "lat": 16.4619,
+              "lng": 107.59546,
+              "name": "Huế"
+            },
+            "geonames_id": 1580240
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Hue University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Hue University of Education"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Hue University's College of Education"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label"
+            ],
+            "value": "Trường Đại học Sư phạm Huế"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Education, Hue University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2008,
+        "external_ids": [
+          {
+            "all": [
+              "grid.411091.c"
+            ],
+            "preferred": "grid.411091.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 4910 8020"
+            ],
+            "preferred": "0000 0004 4910 8020",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q49782"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03zcpvf19",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.uk.rub.de/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_Hospitals_of_the_Ruhr-University_of_Bochum"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "NW",
+              "country_subdivision_name": "North Rhine-Westphalia",
+              "lat": 51.48165,
+              "lng": 7.21648,
+              "name": "Bochum"
+            },
+            "geonames_id": 2947416
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UK RUB"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Hospital Ruhr University Bochum"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Hospital of Ruhr University Bochum"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Hospital of the Ruhr University Bochum"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Hospital of the Ruhr-University Bochum"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University Hospitals of the Ruhr-University of Bochum"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Universitätsklinikum der Ruhr-Universität Bochum"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "BG University Hospital Bergmannsheil Bochum",
+            "type": "child",
+            "id": "https://ror.org/04j9bvy88"
+          },
+          {
+            "label": "Heart and Diabetes Center North Rhine-Westphalia",
+            "type": "child",
+            "id": "https://ror.org/02wndzd81"
+          },
+          {
+            "label": "Herford Hospital",
+            "type": "child",
+            "id": "https://ror.org/03p371b74"
+          },
+          {
+            "label": "Johannes Wesling Klinikum Minden",
+            "type": "child",
+            "id": "https://ror.org/05d89kr76"
+          },
+          {
+            "label": "LWL-Universitätsklinik Hamm",
+            "type": "child",
+            "id": "https://ror.org/05w1kdn42"
+          },
+          {
+            "label": "LWL-Universitätsklinikum Bochum",
+            "type": "child",
+            "id": "https://ror.org/04nkkrh90"
+          },
+          {
+            "label": "Medizinisches Zentrum für Seelische Gesundheit",
+            "type": "child",
+            "id": "https://ror.org/05vv9dr68"
+          },
+          {
+            "label": "St. Josef-Hospital",
+            "type": "child",
+            "id": "https://ror.org/046vare28"
+          },
+          {
+            "label": "Universitätsklinik Marien Hospital Herne",
+            "type": "child",
+            "id": "https://ror.org/004h6mc53"
+          },
+          {
+            "label": "Universitätsklinikum Knappschaftskrankenhaus Bochum",
+            "type": "child",
+            "id": "https://ror.org/024j3hn90"
+          },
+          {
+            "label": "Ruhr University Bochum",
+            "type": "related",
+            "id": "https://ror.org/04tsk2644"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-22",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "husc.edu.vn"
+        ],
+        "established": 1957,
+        "external_ids": [],
+        "id": "https://ror.org/00qpm2f14",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://husc.edu.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Thừa Thiên Huế Province",
+              "lat": 16.4619,
+              "lng": 107.59546,
+              "name": "Huế"
+            },
+            "geonames_id": 1580240
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "HUSC"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Trường Đại học Khoa học, Đại học Huế"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Sciences, Hue University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-22",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "hce.edu.vn"
+        ],
+        "established": 2002,
+        "external_ids": [],
+        "id": "https://ror.org/03x812s82",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://hce.edu.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Thừa Thiên Huế Province",
+              "lat": 16.4619,
+              "lng": 107.59546,
+              "name": "Huế"
+            },
+            "geonames_id": 1580240
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "HUE"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Trường Đại học Kinh tế, Đại học Huế"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Economics, Hue University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ucsiuniversity.edu.my"
+        ],
+        "established": 1986,
+        "external_ids": [
+          {
+            "all": [
+              "100031258"
+            ],
+            "preferred": "100031258",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.444472.5"
+            ],
+            "preferred": "grid.444472.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1756 3061"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7864125"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/019787q29",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ucsiuniversity.edu.my"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/UCSI_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MY",
+              "country_name": "Malaysia",
+              "country_subdivision_code": "14",
+              "country_subdivision_name": "Kuala Lumpur",
+              "lat": 3.1412,
+              "lng": 101.68653,
+              "name": "Kuala Lumpur"
+            },
+            "geonames_id": 1735161
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "UCSI University"
+          },
+          {
+            "lang": "ms",
+            "types": [
+              "label"
+            ],
+            "value": "Universiti UCSI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University College Sedaya International"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University College Sedaya International University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1886,
+        "external_ids": [
+          {
+            "all": [
+              "grid.430564.0"
+            ],
+            "preferred": "grid.430564.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 4675 8554"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30288903"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0531gz477",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.universitysettlement.org"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_Settlement_Society_of_New_York"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 40.71427,
+              "lng": -74.00597,
+              "name": "New York"
+            },
+            "geonames_id": 5128581
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "US"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University Settlement"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Settlement Society of New York"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1995,
+        "external_ids": [
+          {
+            "all": [
+              "grid.430813.d"
+            ],
+            "preferred": "grid.430813.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q4118498"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03jwcxq96",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://taiz.edu.ye/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Taiz_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "YE",
+              "country_name": "Yemen",
+              "country_subdivision_code": "TA",
+              "country_subdivision_name": "Ta‘izz",
+              "lat": 13.57952,
+              "lng": 44.02091,
+              "name": "Taiz"
+            },
+            "geonames_id": 70225
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Taiz University"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "جامعة تعز"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1866,
+        "external_ids": [
+          {
+            "all": [
+              "grid.431114.2"
+            ],
+            "preferred": "grid.431114.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0411 4662"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5230267"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/055e80y87",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.davenport.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Davenport_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MI",
+              "country_subdivision_name": "Michigan",
+              "lat": 42.96336,
+              "lng": -85.66809,
+              "name": "Grand Rapids"
+            },
+            "geonames_id": 4994358
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "DU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Davenport University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1848,
+        "external_ids": [
+          {
+            "all": [
+              "grid.431118.e"
+            ],
+            "preferred": "grid.431118.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0462 7492"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5070784"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05986z039",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.chancelloru.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Chancellor_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "OH",
+              "country_subdivision_name": "Ohio",
+              "lat": 41.39533,
+              "lng": -81.67624,
+              "name": "Seven Hills"
+            },
+            "geonames_id": 5171657
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Chancellor University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Folsom's Mercantile College"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 12894
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 4149
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 1227
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 310
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 123
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 75
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 32
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 30
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 14
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 1982
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 1589
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 1001
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 836
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 467
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 443
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 443
+        },
+        {
+          "id": "ph",
+          "title": "Philippines",
+          "count": 384
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 382
+        },
+        {
+          "id": "ir",
+          "title": "Iran",
+          "count": 354
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 7411
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 3011
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 2490
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1151
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 530
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 100
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 14693
+        }
+      ]
+    }
+  }
+}

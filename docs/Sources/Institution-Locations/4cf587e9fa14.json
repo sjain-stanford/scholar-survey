@@ -1,0 +1,2056 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Institute+of+Science+Tokyo",
+  "http_status": 200,
+  "query": "Institute of Science Tokyo",
+  "data": {
+    "number_of_results": 35450,
+    "time_taken": 45,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2024-06-19",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "isct.ac.jp"
+        ],
+        "established": 2024,
+        "external_ids": [
+          {
+            "all": [
+              "Q116264906"
+            ],
+            "preferred": "Q116264906",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05dqf9946",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.isct.ac.jp"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "13",
+              "country_subdivision_name": "Tokyo",
+              "lat": 35.6895,
+              "lng": 139.69171,
+              "name": "Tokyo"
+            },
+            "geonames_id": 1850147
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "ISCT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Institute of Science Tokyo"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Science Tokyo"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "alias"
+            ],
+            "value": "Tokyo Kagaku Daigaku"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "alias"
+            ],
+            "value": "Toukyou Kagaku Daigaku"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "alias"
+            ],
+            "value": "Tōkyō Kagaku Daigaku"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "alias"
+            ],
+            "value": "とうきょうかがくだいがく"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "alias"
+            ],
+            "value": "トウキョウカガクダイガク"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "東京科学大学"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "alias"
+            ],
+            "value": "科学大"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Earth-Life Science Institute",
+            "type": "child",
+            "id": "https://ror.org/031dp5151"
+          },
+          {
+            "label": "Institute of Science Tokyo Hospital",
+            "type": "child",
+            "id": "https://ror.org/058548196"
+          },
+          {
+            "label": "Tokyo Institute of Technology",
+            "type": "predecessor",
+            "id": "https://ror.org/0112mx960"
+          },
+          {
+            "label": "Tokyo Medical and Dental University",
+            "type": "predecessor",
+            "id": "https://ror.org/051k3eh31"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2021,
+        "external_ids": [
+          {
+            "all": [
+              "grid.474906.8"
+            ],
+            "preferred": "grid.474906.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q130394004"
+            ],
+            "preferred": "Q130394004",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/058548196",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.tmd.ac.jp/medhospital"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Institute_of_Science_Tokyo_Hospital"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "13",
+              "country_subdivision_name": "Tokyo",
+              "lat": 35.6895,
+              "lng": 139.69171,
+              "name": "Tokyo"
+            },
+            "geonames_id": 1850147
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Institute of Science Tokyo Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "TMDU Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Tokyo Medical and Dental University Hospital"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "alias"
+            ],
+            "value": "とうきょういかしかだいがくいがくぶふぞくびょういん"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "alias"
+            ],
+            "value": "トウキョウイカシカダイガクイガクブフゾクビョウイン"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "alias"
+            ],
+            "value": "東京医科歯科大学医学部附属病院"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "alias"
+            ],
+            "value": "東京医科歯科大学病院"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "東京科学大学病院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Institute of Science Tokyo",
+            "type": "parent",
+            "id": "https://ror.org/05dqf9946"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-03-16",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "elsi.jp"
+        ],
+        "established": 2012,
+        "external_ids": [
+          {
+            "all": [
+              "Q28154552"
+            ],
+            "preferred": "Q28154552",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/031dp5151",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.elsi.jp"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "13",
+              "country_subdivision_name": "Tokyo",
+              "lat": 35.6895,
+              "lng": 139.69171,
+              "name": "Tokyo"
+            },
+            "geonames_id": 1850147
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ELSI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Earth-Life Science Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Earth-Life Science Institute of Institute of Science Tokyo"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Earth-Life Science Institute of Tokyo Institute of Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Earth-Life Science Institute, Institute of Science Tokyo"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Ministry of Education, Culture, Sports, Science and Technology",
+            "type": "parent",
+            "id": "https://ror.org/048rj2z13"
+          },
+          {
+            "label": "Institute of Science Tokyo",
+            "type": "parent",
+            "id": "https://ror.org/05dqf9946"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "igakuken.or.jp"
+        ],
+        "established": 2011,
+        "external_ids": [
+          {
+            "all": [
+              "100016589"
+            ],
+            "preferred": "100016589",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.272456.0"
+            ],
+            "preferred": "grid.272456.0",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/00vya8493",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://igakuken.or.jp"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "13",
+              "country_subdivision_name": "Tokyo",
+              "lat": 35.6895,
+              "lng": 139.69171,
+              "name": "Tokyo"
+            },
+            "geonames_id": 1850147
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Tokyo Metropolitan Institute of Medical Science"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "公益財団法人東京都医学総合研究所"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Tokyo Institute of Psychiatry",
+            "type": "child",
+            "id": "https://ror.org/007c88108"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-01-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "tus.ac.jp"
+        ],
+        "established": 1881,
+        "external_ids": [
+          {
+            "all": [
+              "grid.143643.7"
+            ],
+            "preferred": "grid.143643.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0660 6861"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1069994",
+              "Q39754831"
+            ],
+            "preferred": "Q1069994",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05sj3n476",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.tus.ac.jp/en/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Tokyo_University_of_Science"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "13",
+              "country_subdivision_name": "Tokyo",
+              "lat": 35.6895,
+              "lng": 139.69171,
+              "name": "Tokyo"
+            },
+            "geonames_id": 1850147
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Science University of Tokyo"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Tokyo University of Science"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "alias"
+            ],
+            "value": "Tōkyō Rika Daigaku"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "東京理科大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1987,
+        "external_ids": [
+          {
+            "all": [
+              "grid.469470.8"
+            ],
+            "preferred": "grid.469470.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0617 5071"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q382711"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01xfcjr43",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.socu.ac.jp/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Tokyo_University_of_Science,_Yamaguchi"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "35",
+              "country_subdivision_name": "Yamaguchi",
+              "lat": 34.00139,
+              "lng": 131.18361,
+              "name": "Onoda"
+            },
+            "geonames_id": 1854018
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Sanyo-Onoda City University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Tokyo University of Science, Yamaguchi"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "山口東京理科大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1973,
+        "external_ids": [
+          {
+            "all": [
+              "grid.417113.1"
+            ],
+            "preferred": "grid.417113.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2178 4383"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/007c88108",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://prit.igakuken.or.jp/index.html"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "13",
+              "country_subdivision_name": "Tokyo",
+              "lat": 35.6895,
+              "lng": 139.69171,
+              "name": "Tokyo"
+            },
+            "geonames_id": 1850147
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Tokyo Institute of Psychiatry"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Tokyo Metropolitan Psychiatric Research Institute"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "財団法人東京都医学研究機構東京都精神医学総合研究所"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Tokyo Metropolitan Institute of Medical Science",
+            "type": "parent",
+            "id": "https://ror.org/00vya8493"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-05-06",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1961,
+        "external_ids": [
+          {
+            "all": [
+              "grid.505895.4"
+            ],
+            "preferred": "grid.505895.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q11631633"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0364rgm75",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.yomiuririkou.ac.jp/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "30",
+              "country_subdivision_name": "Wakayama",
+              "lat": 34.2152,
+              "lng": 135.1501,
+              "name": "Minato"
+            },
+            "geonames_id": 1852383
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Yomiuri Science and Technology College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Yomiuri Science and Technology Medical Welfare College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Yomiuri Tokyo Institute of Technology"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "読売理工医療福祉専門学校"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1972,
+        "external_ids": [
+          {
+            "all": [
+              "100030953"
+            ],
+            "preferred": "100030953",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.420122.7"
+            ],
+            "preferred": "grid.420122.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9337 2516"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/03rd0p893",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.tmig.or.jp/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "13",
+              "country_subdivision_name": "Tokyo",
+              "lat": 35.6895,
+              "lng": 139.69171,
+              "name": "Tokyo"
+            },
+            "geonames_id": 1850147
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Tokyo Metropolitan Institute of Gerontology"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "地方独立行政法人東京都健康長寿医療センター"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nihs.go.jp"
+        ],
+        "established": 1874,
+        "external_ids": [
+          {
+            "all": [
+              "grid.410797.c"
+            ],
+            "preferred": "grid.410797.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2227 8773"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/04s629c33",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.nihs.go.jp/english/index.html"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "13",
+              "country_subdivision_name": "Tokyo",
+              "lat": 35.6895,
+              "lng": 139.69171,
+              "name": "Tokyo"
+            },
+            "geonames_id": 1850147
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NIHS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Institute of Health Sciences"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Tokyo Drug Control Laboratory"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Tokyo Institute of Hygienic Sciences"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "厚生労働省国立医薬品食品衛生研究所"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Ministry of Health Labour and Welfare",
+            "type": "parent",
+            "id": "https://ror.org/03mwa7s65"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-11-07",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-10-28",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "siss.sh.cn"
+        ],
+        "established": 1980,
+        "external_ids": [
+          {
+            "all": [
+              "grid.507030.1"
+            ],
+            "preferred": "grid.507030.1",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/004srxn73",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.siss.sh.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SH",
+              "country_subdivision_name": "Shanghai",
+              "lat": 31.19594,
+              "lng": 121.44709,
+              "name": "Xuhui"
+            },
+            "geonames_id": 1787957
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Institute of Science"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SISS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Shanghai Institute for Science of Science"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Shanghai Institute of Science"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "上海市科学学研究所"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-29",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "h.ims.u-tokyo.ac.jp"
+        ],
+        "established": 1894,
+        "external_ids": [
+          {
+            "all": [
+              "Q11524665"
+            ],
+            "preferred": "Q11524665",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01a734d72",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.h.ims.u-tokyo.ac.jp/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://ja.wikipedia.org/wiki/東京大学医科学研究所附属病院"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "13",
+              "country_subdivision_name": "Tokyo",
+              "lat": 35.6895,
+              "lng": 139.69171,
+              "name": "Tokyo"
+            },
+            "geonames_id": 1850147
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "IMSUT Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Research Hospital, The Institute of Medical Science, The University of Tokyo"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "東京大学医科学研究所附属病院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "The University of Tokyo",
+            "type": "related",
+            "id": "https://ror.org/057zh3y96"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1875,
+        "external_ids": [
+          {
+            "all": [
+              "100017314"
+            ],
+            "preferred": "100017314",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412785.d"
+            ],
+            "preferred": "grid.412785.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0695 6482"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1187433"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/048nxq511",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.kaiyodai.ac.jp/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Tokyo_University_of_Marine_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "13",
+              "country_subdivision_name": "Tokyo",
+              "lat": 35.6895,
+              "lng": 139.69171,
+              "name": "Tokyo"
+            },
+            "geonames_id": 1850147
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Tokyo University of Marine Science and Technology"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Tōkyō Kaiyō Daigaku"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "東京海洋大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.417096.d"
+            ],
+            "preferred": "grid.417096.d",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/00w1zvy92",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.tokyo-eiken.go.jp/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "13",
+              "country_subdivision_name": "Tokyo",
+              "lat": 35.6895,
+              "lng": 139.69171,
+              "name": "Tokyo"
+            },
+            "geonames_id": 1850147
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Tokyo Metropolitan Institute of Public Health"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "東京都健康安全研究センター"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1965,
+        "external_ids": [
+          {
+            "all": [
+              "grid.472080.9"
+            ],
+            "preferred": "grid.472080.9",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/002k06d85",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.tokyo-ct.ac.jp/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "13",
+              "country_subdivision_name": "Tokyo",
+              "lat": 35.65583,
+              "lng": 139.32389,
+              "name": "Hachiōji"
+            },
+            "geonames_id": 1863440
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Institute of Technology, Tokyo College"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "国立東京工業高等専門学校"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "National Institute of Technology",
+            "type": "parent",
+            "id": "https://ror.org/02xqkcw08"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-06-14",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-06-23",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "eri.u-tokyo.ac.jp"
+        ],
+        "established": 1925,
+        "external_ids": [
+          {
+            "all": [
+              "501100014773"
+            ],
+            "preferred": "501100014773",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/027j3zg65",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.eri.u-tokyo.ac.jp"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Earthquake_Research_Institute,_University_of_Tokyo"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "13",
+              "country_subdivision_name": "Tokyo",
+              "lat": 35.6895,
+              "lng": 139.69171,
+              "name": "Tokyo"
+            },
+            "geonames_id": 1850147
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "ERI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Earthquake Research Institute, University of Tokyo"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "東京大学地震研究所"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-05-27",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1987,
+        "external_ids": [
+          {
+            "all": [
+              "501100010795"
+            ],
+            "preferred": "501100010795",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/03a7m8962",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.tok-foundation.or.jp"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "14",
+              "country_subdivision_name": "Kanagawa",
+              "lat": 35.57467,
+              "lng": 139.65292,
+              "name": "Nakahara Ku"
+            },
+            "geonames_id": 7470874
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Tokyo Foundation for Science Technology Foundation"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Tokyo Foundation for Science Technology Promotion Foundation"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Tokyo Ohka Foundation for The Promotion of Science and Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Tokyo Oka Science and Technology Foundation"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Tokyo Oka Science and Technology Promotion Foundation"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Tokyo Research Foundation for Science Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Tokyo Research Foundation for Science Technology Foundation"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Tokyo Research Institute for Science and Technology Foundation"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-05-06",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1941,
+        "external_ids": [
+          {
+            "all": [
+              "grid.505763.2"
+            ],
+            "preferred": "grid.505763.2",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/015e2vx95",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://iictokyo.esteri.it"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "13",
+              "country_subdivision_name": "Tokyo",
+              "lat": 35.6895,
+              "lng": 139.69171,
+              "name": "Tokyo"
+            },
+            "geonames_id": 1850147
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "IIC Tokyo"
+          },
+          {
+            "lang": "it",
+            "types": [
+              "alias"
+            ],
+            "value": "Istituto Italiano di Cultura Tokyo"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Italian Cultural Institute, Tokyo"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "イタリア文化会館"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "alias"
+            ],
+            "value": "タリアぶんかかいかん"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1967,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449987.f"
+            ],
+            "preferred": "grid.449987.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q7895882"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/004tze884",
+        "links": [
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Institute_of_Natural_Science"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KP",
+              "country_name": "North Korea",
+              "country_subdivision_code": "01",
+              "country_subdivision_name": "Pyongyang",
+              "lat": 39.03385,
+              "lng": 125.75432,
+              "name": "Pyongyang"
+            },
+            "geonames_id": 1871859
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "INS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Institute of Natural Science"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "리과대학"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2004,
+        "external_ids": [
+          {
+            "all": [
+              "grid.443455.7"
+            ],
+            "preferred": "grid.443455.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1793 0095"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5095302"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05hfpw879",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.cis.ac.jp/en/index.html"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Chiba_Institute_of_Science"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "12",
+              "country_subdivision_name": "Chiba",
+              "lat": 35.6,
+              "lng": 140.11667,
+              "name": "Chiba"
+            },
+            "geonames_id": 2113015
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Chiba Institute of Science"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Chiba kagaku daigaku"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "千葉科学大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 11850
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 8440
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 7434
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 5313
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 4512
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2519
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2004
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 1028
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 862
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 6788
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 3956
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2417
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 1750
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1555
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 1180
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 1068
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 925
+        },
+        {
+          "id": "ca",
+          "title": "Canada",
+          "count": 913
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 672
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 13122
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 10843
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 8156
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1712
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 907
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 713
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 35450
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1044 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cites": "4870271334637308438",
+    "hl": "en",
+    "num": 20,
+    "start": 0,
+    "filter": 0,
+    "as_vis": 0,
+    "as_sdt": 7
+  },
+  "accessed_at_utc": "2026-10-07T12:39:18.605967+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63d761cff19e3bd450047",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/MxZeX-V4Iz6TDIs45n4oJem6Q8zNcXmgdqSBshvpxTg/6ac63d761cff19e3bd450047.json",
+      "markdown_endpoint": "https://serpapi.com/searches/MxZeX-V4Iz6TDIs45n4oJem6Q8zNcXmgdqSBshvpxTg/6ac63d761cff19e3bd450047.md",
+      "created_at": "2026-10-07 12:39:18 UTC",
+      "processed_at": "2026-10-07 12:39:18 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cites=4870271334637308438&hl=en&start=0&num=21&filter=0&as_sdt=7&as_vis=0&scipsc=1",
+      "raw_html_file": "https://serpapi.com/searches/MxZeX-V4Iz6TDIs45n4oJem6Q8zNcXmgdqSBshvpxTg/6ac63d761cff19e3bd450047.html",
+      "total_time_taken": 1.4
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cites": "4870271334637308438",
+      "hl": "en",
+      "start": 0,
+      "num": "20",
+      "filter": "0",
+      "as_sdt": "7",
+      "as_vis": "0"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 22,
+      "time_taken_displayed": 0.03
+    },
+    "citations_per_year": [
+      {
+        "year": 2019,
+        "citations": 3
+      },
+      {
+        "year": 2020,
+        "citations": 4
+      },
+      {
+        "year": 2021,
+        "citations": 3
+      },
+      {
+        "year": 2022,
+        "citations": 3
+      },
+      {
+        "year": 2024,
+        "citations": 4
+      },
+      {
+        "year": 2025,
+        "citations": 3
+      },
+      {
+        "year": 2026,
+        "citations": 2
+      }
+    ],
+    "profiles": {
+      "link": "https://scholar.google.com/scholar?cluster=4870271334637308438&hl=en&num=20&as_sdt=807&sciodt=807",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "High-temperature operation of group-III nitride high-electron-mobility transistors",
+        "result_id": "9BtEc3FT1HwJ",
+        "link": "https://www.nature.com/articles/s41928-026-01570-y",
+        "snippet": "High-electron-mobility transistors (HEMTs) made with group-III nitride (III nitride) materials are of potential use in high-temperature electronic applications including power electronics …",
+        "publication_info": {
+          "summary": "YC Liu, J Zhu, J Niroula, H Pal, T Palacios… - Nature Electronics, 2026 - nature.com",
+          "authors": [
+            {
+              "name": "YC Liu",
+              "link": "https://scholar.google.com/citations?user=LpJOii4AAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "LpJOii4AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=LpJOii4AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "J Zhu"
+            },
+            {
+              "name": "J Niroula",
+              "link": "https://scholar.google.com/citations?user=0z4KkT8AAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "0z4KkT8AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0z4KkT8AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "H Pal",
+              "link": "https://scholar.google.com/citations?user=urn3PJQAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "urn3PJQAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=urn3PJQAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "T Palacios",
+              "link": "https://scholar.google.com/citations?user=ARW3LKEAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "ARW3LKEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ARW3LKEAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=9BtEc3FT1HwJ",
+          "cited_by": {
+            "total": 7,
+            "link": "https://scholar.google.com/scholar?cites=8994906102495976436&as_sdt=805&sciodt=807&hl=en&num=20",
+            "cites_id": "8994906102495976436",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=8994906102495976436&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:9BtEc3FT1HwJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=807&sciodt=807",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=807&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&q=related%3A9BtEc3FT1HwJ%3Ascholar.google.com%2F&start=0"
+        }
+      },
+      {
+        "position": 2,
+        "title": "Al-rich AlGaN based transistors",
+        "result_id": "D3erY56hCP0J",
+        "type": "Html",
+        "link": "https://pubs.aip.org/avs/jva/article/38/2/020803/247677",
+        "snippet": "Albert G. Baca ORCID logo https://orcid. org/0000-0002-3033-8964, Andrew M. Armstrong ORCID logo https://orcid. org/0000-0003-0391-6009, Brianna A. Klein, Andrew A. Allerman …",
+        "publication_info": {
+          "summary": "AG Baca, AM Armstrong, BA Klein… - Journal of Vacuum …, 2020 - pubs.aip.org",
+          "authors": [
+            {
+              "name": "AG Baca"
+            },
+            {
+              "name": "AM Armstrong"
+            },
+            {
+              "name": "BA Klein"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "HTML",
+            "link": null
+          },
+          {
+            "title": "aip.org",
+            "file_format": "HTML",
+            "link": "https://pubs.aip.org/avs/jva/article/38/2/020803/247677"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=D3erY56hCP0J",
+          "html_version": "https://pubs.aip.org/avs/jva/article/38/2/020803/247677",
+          "cited_by": {
+            "total": 148,
+            "link": "https://scholar.google.com/scholar?cites=18233000793058539279&as_sdt=805&sciodt=807&hl=en&num=20",
+            "cites_id": "18233000793058539279",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=18233000793058539279&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:D3erY56hCP0J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=807&sciodt=807",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=807&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AD3erY56hCP0J%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 5,
+            "link": "https://scholar.google.com/scholar?cluster=18233000793058539279&hl=en&num=20&as_sdt=807&sciodt=807",
+            "cluster_id": "18233000793058539279",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=807&cluster=18233000793058539279&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 3,
+        "title": "Temperature-induced degradation of GaN HEMT: An in situ heating study",
+        "result_id": "a8XMjTptyV0J",
+        "link": "https://pubs.aip.org/avs/jvb/article/42/3/032209/3285546",
+        "snippet": "High-power electronics, such as GaN high electron mobility transistors (HEMTs), are expected to perform reliably in high-temperature conditions. This study aims to gain an …",
+        "publication_info": {
+          "summary": "MAJ Rasel, D Zhang, A Chen, M Thomas… - Journal of Vacuum …, 2024 - pubs.aip.org",
+          "authors": [
+            {
+              "name": "MAJ Rasel",
+              "link": "https://scholar.google.com/citations?user=0H2pHgMAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "0H2pHgMAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0H2pHgMAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "D Zhang",
+              "link": "https://scholar.google.com/citations?user=oitzjmMAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "oitzjmMAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=oitzjmMAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "A Chen",
+              "link": "https://scholar.google.com/citations?user=kTz75FoAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "kTz75FoAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=kTz75FoAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "M Thomas",
+              "link": "https://scholar.google.com/citations?user=N8rN0ecAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "N8rN0ecAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=N8rN0ecAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "nsf.gov",
+            "file_format": "PDF",
+            "link": "https://par.nsf.gov/servlets/purl/10507806"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=a8XMjTptyV0J",
+          "cited_by": {
+            "total": 21,
+            "link": "https://scholar.google.com/scholar?cites=6758052814100677995&as_sdt=805&sciodt=807&hl=en&num=20",
+            "cites_id": "6758052814100677995",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=6758052814100677995&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:a8XMjTptyV0J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=807&sciodt=807",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=807&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&q=related%3Aa8XMjTptyV0J%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 9,
+            "link": "https://scholar.google.com/scholar?cluster=6758052814100677995&hl=en&num=20&as_sdt=807&sciodt=807",
+            "cluster_id": "6758052814100677995",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=807&cluster=6758052814100677995&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 4,
+        "title": "Stable operation of AlGaN/GaN HEMTs for 25 h at 400° C in air",
+        "result_id": "WDHfLmtZd5MJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/8809869/",
+        "snippet": "Extreme environments such as the Venus atmosphere are among the emerging applications that demand electronics that can withstand high-temperature oxidizing conditions. While …",
+        "publication_info": {
+          "summary": "S Kargarrazi, AS Yalamarthy… - IEEE Journal of the …, 2019 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "S Kargarrazi",
+              "link": "https://scholar.google.com/citations?user=C4KkHAQAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "C4KkHAQAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=C4KkHAQAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "AS Yalamarthy",
+              "link": "https://scholar.google.com/citations?user=QzSlVd4AAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "QzSlVd4AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=QzSlVd4AAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "ieee.org",
+            "file_format": "PDF",
+            "link": "https://ieeexplore.ieee.org/iel7/6245494/8656606/08809869.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=WDHfLmtZd5MJ",
+          "cited_by": {
+            "total": 70,
+            "link": "https://scholar.google.com/scholar?cites=10626060162686726488&as_sdt=805&sciodt=807&hl=en&num=20",
+            "cites_id": "10626060162686726488",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=10626060162686726488&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:WDHfLmtZd5MJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=807&sciodt=807",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=807&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AWDHfLmtZd5MJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cluster=10626060162686726488&hl=en&num=20&as_sdt=807&sciodt=807",
+            "cluster_id": "10626060162686726488",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=807&cluster=10626060162686726488&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 5,
+        "title": "p-GaN gate HEMTs with 10.6 V maximum gate drive voltages by Mg doping engineering",
+        "result_id": "jOZgC-mzKtYJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/9737317/",
+        "snippet": "We present a novel p-gallium nitride (GaN) gate HEMT structure with reduced hole concentration near the Schottky interface by doping engineering in metal-organic chemical …",
+        "publication_info": {
+          "summary": "G Zhou, F Zeng, R Gao, Q Wang… - … on Electron Devices, 2022 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "G Zhou"
+            },
+            {
+              "name": "F Zeng"
+            },
+            {
+              "name": "R Gao"
+            },
+            {
+              "name": "Q Wang"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=jOZgC-mzKtYJ",
+          "cited_by": {
+            "total": 43,
+            "link": "https://scholar.google.com/scholar?cites=15432344886638077580&as_sdt=805&sciodt=807&hl=en&num=20",
+            "cites_id": "15432344886638077580",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=15432344886638077580&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:jOZgC-mzKtYJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=807&sciodt=807",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=807&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AjOZgC-mzKtYJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=15432344886638077580&hl=en&num=20&as_sdt=807&sciodt=807",
+            "cluster_id": "15432344886638077580",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=807&cluster=15432344886638077580&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 6,
+        "title": "Low temperature recovery of OFF-state stress induced degradation of AlGaN/GaN high electron mobility transistors",
+        "result_id": "QtJumkSfioMJ",
+        "link": "https://pubs.aip.org/aip/apl/article/124/1/013507/2932285",
+        "snippet": "Thermal annealing is a widely used strategy to enhance semiconductor device performance. However, the process is complex for multi-material multi-layered semiconductor devices …",
+        "publication_info": {
+          "summary": "NS Al-Mamun, D Sheyfer, W Liu, A Haque… - Applied Physics …, 2024 - pubs.aip.org",
+          "authors": [
+            {
+              "name": "NS Al-Mamun",
+              "link": "https://scholar.google.com/citations?user=xs83LiEAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "xs83LiEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xs83LiEAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "D Sheyfer",
+              "link": "https://scholar.google.com/citations?user=SqO0V-gAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "SqO0V-gAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=SqO0V-gAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "W Liu"
+            },
+            {
+              "name": "A Haque",
+              "link": "https://scholar.google.com/citations?user=eYZDKFIAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "eYZDKFIAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=eYZDKFIAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "nsf.gov",
+            "file_format": "PDF",
+            "link": "https://par.nsf.gov/servlets/purl/10507805"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=QtJumkSfioMJ",
+          "cited_by": {
+            "total": 8,
+            "link": "https://scholar.google.com/scholar?cites=9478563482752176706&as_sdt=805&sciodt=807&hl=en&num=20",
+            "cites_id": "9478563482752176706",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=9478563482752176706&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:QtJumkSfioMJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=807&sciodt=807",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=807&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AQtJumkSfioMJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 5,
+            "link": "https://scholar.google.com/scholar?cluster=9478563482752176706&hl=en&num=20&as_sdt=807&sciodt=807",
+            "cluster_id": "9478563482752176706",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=807&cluster=9478563482752176706&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 7,
+        "title": "Extended exposure of gallium nitride heterostructure devices to a simulated Venus environment",
+        "result_id": "mTMedtOMdeIJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/9438131/",
+        "snippet": "Further development of harsh environment electronics capable of uncooled operation under Venus surface atmospheric conditions (~ 460° C,~ 92 bar, corrosive) would enable future …",
+        "publication_info": {
+          "summary": "SR Eisner, HS Alpert, CA Chapin… - 2021 IEEE …, 2021 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "SR Eisner",
+              "link": "https://scholar.google.com/citations?user=MT23C2QAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "MT23C2QAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MT23C2QAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "HS Alpert",
+              "link": "https://scholar.google.com/citations?user=dQliyXUAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "dQliyXUAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dQliyXUAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "CA Chapin"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=mTMedtOMdeIJ",
+          "cited_by": {
+            "total": 21,
+            "link": "https://scholar.google.com/scholar?cites=16318103664694539161&as_sdt=805&sciodt=807&hl=en&num=20",
+            "cites_id": "16318103664694539161",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=16318103664694539161&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:mTMedtOMdeIJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=807&sciodt=807",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=807&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AmTMedtOMdeIJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=16318103664694539161&hl=en&num=20&as_sdt=807&sciodt=807",
+            "cluster_id": "16318103664694539161",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=807&cluster=16318103664694539161&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 8,
+        "title": "Role of mechanical stress localizations on the radiation hardness of AlGaN/GaN high electron mobility transistors",
+        "result_id": "vDvheJ3VOgwJ",
+        "link": "https://iopscience.iop.org/article/10.1088/1361-6463/ad8b58/meta",
+        "snippet": "Multi-material, multi-layered systems such as AlGaN/GaN high electron mobility transistors (HEMTs) contain residual mechanical stresses that arise from sharp contrasts in device …",
+        "publication_info": {
+          "summary": "NS Al-Mamun, AJ Rasel, Z Islam… - Journal of Physics D …, 2025 - iopscience.iop.org",
+          "authors": [
+            {
+              "name": "NS Al-Mamun",
+              "link": "https://scholar.google.com/citations?user=xs83LiEAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "xs83LiEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xs83LiEAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "AJ Rasel"
+            },
+            {
+              "name": "Z Islam"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "iop.org",
+            "file_format": "PDF",
+            "link": "https://iopscience.iop.org/article/10.1088/1361-6463/ad8b58/pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=vDvheJ3VOgwJ",
+          "cited_by": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cites=881251549418961852&as_sdt=805&sciodt=807&hl=en&num=20",
+            "cites_id": "881251549418961852",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=881251549418961852&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:vDvheJ3VOgwJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=807&sciodt=807",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=807&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AvDvheJ3VOgwJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cluster=881251549418961852&hl=en&num=20&as_sdt=807&sciodt=807",
+            "cluster_id": "881251549418961852",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=807&cluster=881251549418961852&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 9,
+        "title": "Temperature-Dependent Characterization of 2-DEG for Single-and Double-Channel GaN on SiC HEMTs: MA Alim et al.",
+        "result_id": "OvxA-pD64mQJ",
+        "link": "https://link.springer.com/article/10.1007/s11664-025-12035-x",
+        "snippet": "This study investigates two-dimensional electron gas (2-DEG) transport characteristics in single-channel and double-channel GaN high-electron-mobility transistors (HEMT) s created …",
+        "publication_info": {
+          "summary": "MA Alim, MOF Azad, A Rahman, KT Ahmmed… - Journal of Electronic …, 2025 - Springer",
+          "authors": [
+            {
+              "name": "MA Alim",
+              "link": "https://scholar.google.com/citations?user=ZTuwFyMAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "ZTuwFyMAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ZTuwFyMAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "MOF Azad",
+              "link": "https://scholar.google.com/citations?user=jYyEi-wAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "jYyEi-wAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=jYyEi-wAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "A Rahman",
+              "link": "https://scholar.google.com/citations?user=4I2ixbTwMLEC&hl=en&num=20&oi=sra",
+              "author_id": "4I2ixbTwMLEC",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4I2ixbTwMLEC&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "KT Ahmmed",
+              "link": "https://scholar.google.com/citations?user=xdLfVwMAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "xdLfVwMAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xdLfVwMAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=OvxA-pD64mQJ",
+          "cited_by": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cites=7269648249110199354&as_sdt=805&sciodt=807&hl=en&num=20",
+            "cites_id": "7269648249110199354",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=7269648249110199354&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:OvxA-pD64mQJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=807&sciodt=807",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=807&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AOvxA-pD64mQJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 5,
+            "link": "https://scholar.google.com/scholar?cluster=7269648249110199354&hl=en&num=20&as_sdt=807&sciodt=807",
+            "cluster_id": "7269648249110199354",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=807&cluster=7269648249110199354&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 10,
+        "title": "Low offset and noise in high biased GaN 2DEG Hall-effect plates investigated with infrared microscopy",
+        "result_id": "GDGSvYK2cXoJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/9164903/",
+        "snippet": "This article presents GaN two-dimensional electron gas (2DEG) Hall plates with low residual offset and noise at 3 V input bias. We studied devices made from three consecutive …",
+        "publication_info": {
+          "summary": "KM Dowling, T Liu, HS Alpert… - Journal of …, 2020 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "KM Dowling",
+              "link": "https://scholar.google.com/citations?user=kzmlhDwAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "kzmlhDwAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=kzmlhDwAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "T Liu",
+              "link": "https://scholar.google.com/citations?user=EDDLV_IAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "EDDLV_IAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=EDDLV_IAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "HS Alpert",
+              "link": "https://scholar.google.com/citations?user=dQliyXUAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "dQliyXUAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dQliyXUAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "osti.gov",
+            "file_format": "PDF",
+            "link": "https://www.osti.gov/servlets/purl/1688576"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=GDGSvYK2cXoJ",
+          "cited_by": {
+            "total": 18,
+            "link": "https://scholar.google.com/scholar?cites=8823033817637990680&as_sdt=805&sciodt=807&hl=en&num=20",
+            "cites_id": "8823033817637990680",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=8823033817637990680&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:GDGSvYK2cXoJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=807&sciodt=807",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=807&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AGDGSvYK2cXoJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cluster=8823033817637990680&hl=en&num=20&as_sdt=807&sciodt=807",
+            "cluster_id": "8823033817637990680",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=807&cluster=8823033817637990680&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 11,
+        "title": "High-temperature operation of III-nitride high-electron-mobility transistors",
+        "result_id": "FkTuAFjWP-MJ",
+        "link": "https://arxiv.org/abs/2607.05314",
+        "snippet": "High-electron-mobility transistors (HEMTs) made with III-nitride materials are of potential use in high-temperature electronic applications including power electronics, communications …",
+        "publication_info": {
+          "summary": "YC Liu, J Zhu, J Niroula, H Pal, T Palacios… - arXiv preprint arXiv …, 2026 - arxiv.org",
+          "authors": [
+            {
+              "name": "YC Liu"
+            },
+            {
+              "name": "J Zhu"
+            },
+            {
+              "name": "J Niroula",
+              "link": "https://scholar.google.com/citations?user=0z4KkT8AAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "0z4KkT8AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0z4KkT8AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "H Pal"
+            },
+            {
+              "name": "T Palacios",
+              "link": "https://scholar.google.com/citations?user=ARW3LKEAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "ARW3LKEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ARW3LKEAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2607.05314"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=FkTuAFjWP-MJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:FkTuAFjWP-MJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=807&sciodt=807",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=807&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AFkTuAFjWP-MJ%3Ascholar.google.com%2F&start=0",
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:FkTuAFjWP-MJ:scholar.google.com/&hl=en&num=20&as_sdt=807&sciodt=807"
+        }
+      },
+      {
+        "position": 12,
+        "title": "High temperature degradation modes observed in gallium nitride-based Hall-effect sensors",
+        "result_id": "E3yaDl89qGMJ",
+        "link": "https://asmedigitalcollection.asme.org/electronicpackaging/article-abstract/144/2/021115/1135313",
+        "snippet": "Magnetic field sensors based on the Hall-effect have a variety of applications such as current sensing in power electronics and position and velocity sensing in vehicles …",
+        "publication_info": {
+          "summary": "A Krone, J Kasitz, D Huitink… - Journal of …, 2022 - asmedigitalcollection.asme.org",
+          "authors": [
+            {
+              "name": "A Krone"
+            },
+            {
+              "name": "J Kasitz"
+            },
+            {
+              "name": "D Huitink",
+              "link": "https://scholar.google.com/citations?user=22Do0CMAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "22Do0CMAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=22Do0CMAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=E3yaDl89qGMJ",
+          "cited_by": {
+            "total": 8,
+            "link": "https://scholar.google.com/scholar?cites=7181057084318448659&as_sdt=805&sciodt=807&hl=en&num=20",
+            "cites_id": "7181057084318448659",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=7181057084318448659&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:E3yaDl89qGMJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=807&sciodt=807",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=807&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AE3yaDl89qGMJ%3Ascholar.google.com%2F&start=0"
+        }
+      },
+      {
+        "position": 13,
+        "title": "Application of a gateless AlGaN/GaN HEMT sensor for diesel soot particulate detection",
+        "result_id": "NBhLqk0V0dIJ",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0925400521013794",
+        "snippet": "A particulate matter micro-sensor for automotive exhaust systems based on a gateless wide-bandgap AlGaN/GaN high electron mobility transistor was developed and tested. Soot …",
+        "publication_info": {
+          "summary": "R Sokolovskij, H Zheng, W Li, G Zhou, Q Wang… - Sensors and Actuators B …, 2021 - Elsevier",
+          "authors": [
+            {
+              "name": "R Sokolovskij"
+            },
+            {
+              "name": "H Zheng"
+            },
+            {
+              "name": "W Li",
+              "link": "https://scholar.google.com/citations?user=LF3SGAQAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "LF3SGAQAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=LF3SGAQAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "G Zhou"
+            },
+            {
+              "name": "Q Wang"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=NBhLqk0V0dIJ",
+          "cited_by": {
+            "total": 8,
+            "link": "https://scholar.google.com/scholar?cites=15190946441411106868&as_sdt=805&sciodt=807&hl=en&num=20",
+            "cites_id": "15190946441411106868",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=15190946441411106868&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:NBhLqk0V0dIJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=807&sciodt=807",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=807&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&q=related%3ANBhLqk0V0dIJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cluster=15190946441411106868&hl=en&num=20&as_sdt=807&sciodt=807",
+            "cluster_id": "15190946441411106868",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=807&cluster=15190946441411106868&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 14,
+        "title": "Impact of passivation on thermal stability of AlGaN/GaN HEMTs under high-temperature annealing",
+        "result_id": "qIRtxmcMQrAJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10717664/",
+        "snippet": "This study investigates the 2DEG sheet resistance R_sh of conventional and passivated AlGaN/GaN HEMT through TLM structures. The impact of high temperature annealing on the …",
+        "publication_info": {
+          "summary": "G Zheng, X Chen, L Jiao, Y Wang… - 2024 IEEE International …, 2024 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "G Zheng",
+              "link": "https://scholar.google.com/citations?user=neGZc-QAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "neGZc-QAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=neGZc-QAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "X Chen"
+            },
+            {
+              "name": "L Jiao",
+              "link": "https://scholar.google.com/citations?user=7ou4-NwAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "7ou4-NwAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7ou4-NwAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "Y Wang",
+              "link": "https://scholar.google.com/citations?user=4jfDZ0QAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "4jfDZ0QAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4jfDZ0QAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=qIRtxmcMQrAJ",
+          "cited_by": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cites=12700727538988450984&as_sdt=805&sciodt=807&hl=en&num=20",
+            "cites_id": "12700727538988450984",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=12700727538988450984&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:qIRtxmcMQrAJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=807&sciodt=807",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=807&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AqIRtxmcMQrAJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=12700727538988450984&hl=en&num=20&as_sdt=807&sciodt=807",
+            "cluster_id": "12700727538988450984",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=807&cluster=12700727538988450984&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 15,
+        "title": "Integration and Reliability Aspects of Low-Temperature and Au-free Ta/Al-based Ohmic Contacts for AlGaN/GaN MIS-HEMTs",
+        "result_id": "tN5KkBSHCN0J",
+        "link": "https://ieeexplore.ieee.org/abstract/document/9631788/",
+        "snippet": "In this paper, low temperature and gold (Au)-free Ta/Al-based ohmic contacts fabricated by sputtering on AlGaN/GaN heterostructures are demonstrated on 150 mm GaN-on-Si …",
+        "publication_info": {
+          "summary": "A Calzolaro, T Mikolajick… - ESSDERC 2021-IEEE …, 2021 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "A Calzolaro"
+            },
+            {
+              "name": "T Mikolajick",
+              "link": "https://scholar.google.com/citations?user=oO0M3q4AAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "oO0M3q4AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=oO0M3q4AAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=tN5KkBSHCN0J",
+          "cited_by": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cites=15927128604585680564&as_sdt=805&sciodt=807&hl=en&num=20",
+            "cites_id": "15927128604585680564",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=15927128604585680564&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:tN5KkBSHCN0J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=807&sciodt=807",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=807&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AtN5KkBSHCN0J%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=15927128604585680564&hl=en&num=20&as_sdt=807&sciodt=807",
+            "cluster_id": "15927128604585680564",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=807&cluster=15927128604585680564&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 16,
+        "title": "Strain Localization, Defect Evolution, and Improving Resilience of Wide Bandgap Semiconductors",
+        "result_id": "FTUFjpJ7zHMJ",
+        "type": "Book",
+        "link": "https://search.proquest.com/openview/eba211cf036cdc6cb68c638522a4ed1a/1?pq-origsite=gscholar&cbl=18750&diss=y",
+        "snippet": "Wide bandgap (WBG) materials are highly attractive for modern electronics and energy systems due to their high breakdown voltage and improved energy efficiency. High radiation …",
+        "publication_info": {
+          "summary": "NS Al-Mamun - 2025 - search.proquest.com",
+          "authors": [
+            {
+              "name": "NS Al-Mamun",
+              "link": "https://scholar.google.com/citations?user=xs83LiEAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "xs83LiEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xs83LiEAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "psu.edu",
+            "file_format": "PDF",
+            "link": "https://etda.libraries.psu.edu/files/final_submissions/32677"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=FTUFjpJ7zHMJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:FTUFjpJ7zHMJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=807&sciodt=807",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=807&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AFTUFjpJ7zHMJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=8344180078988834069&hl=en&num=20&as_sdt=807&sciodt=807",
+            "cluster_id": "8344180078988834069",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=807&cluster=8344180078988834069&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 17,
+        "title": "Synergistic Effects of Radiation and Stress Localization on Wide-Bandgap Semiconductor Devices",
+        "result_id": "UJMfM4FUAWsJ",
+        "type": "Book",
+        "link": "https://search.proquest.com/openview/a7df46807b5277bf24f0a3f92b5167cf/1?pq-origsite=gscholar&cbl=18750&diss=y",
+        "snippet": "The importance of identifying radiation effects and radiation sensitive regions within electronic devices is ever-increasing as many crucial electronic devices operate in …",
+        "publication_info": {
+          "summary": "MAJ Rasel - 2024 - search.proquest.com",
+          "authors": [
+            {
+              "name": "MAJ Rasel",
+              "link": "https://scholar.google.com/citations?user=0H2pHgMAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "0H2pHgMAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0H2pHgMAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "psu.edu",
+            "file_format": "PDF",
+            "link": "https://etda.libraries.psu.edu/files/final_submissions/30461"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=UJMfM4FUAWsJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:UJMfM4FUAWsJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=807&sciodt=807",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=807&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AUJMfM4FUAWsJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=7710536950920221520&hl=en&num=20&as_sdt=807&sciodt=807",
+            "cluster_id": "7710536950920221520",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=807&cluster=7710536950920221520&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 18,
+        "title": "High Al-content AlGaN-based HEMTs",
+        "result_id": "cCks9-fGbO4J",
+        "link": "https://iopscience.iop.org/book/edit/978-0-7503-2516-5/chapter/bk978-0-7503-2516-5ch11",
+        "snippet": "Chapter 11 presents the status and outlook for AlGaN-channel high electron mobility transistors (HEMTs). Figure-of-merit (FOM) analysis shows encouraging comparisons …",
+        "publication_info": {
+          "summary": "AG Baca, BA Klein, AM Armstrong… - Wide Bandgap …, 2020 - iopscience.iop.org",
+          "authors": [
+            {
+              "name": "AG Baca"
+            },
+            {
+              "name": "BA Klein"
+            },
+            {
+              "name": "AM Armstrong"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=cCks9-fGbO4J",
+          "cited_by": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cites=17180325378098211184&as_sdt=805&sciodt=807&hl=en&num=20",
+            "cites_id": "17180325378098211184",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=17180325378098211184&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:cCks9-fGbO4J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=807&sciodt=807",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=807&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AcCks9-fGbO4J%3Ascholar.google.com%2F&start=0"
+        }
+      },
+      {
+        "position": 19,
+        "title": "Fabrication and Characterization of AlGaN/GaN Metal-Insulator-Semiconductor High Electron Mobility Transistors for High Power Applications",
+        "result_id": "kuO3AQjwpEAJ",
+        "link": "https://tud.qucosa.de/en/landing-page/https%3A%2F%2Ftud.qucosa.de%2Fapi%2Fqucosa%253A81276%2Fmets/",
+        "snippet": "Abstract (EN) AlGaN/GaN metal–insulator–semiconductor high electron mobility transistors (MIS-HEMTs) are promising candidates for next generation high-efficiency and high-voltage …",
+        "publication_info": {
+          "summary": "A Calzolaro - 2022 - tud.qucosa.de",
+          "authors": [
+            {
+              "name": "A Calzolaro"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "qucosa.de",
+            "file_format": "PDF",
+            "link": "https://tud.qucosa.de/en/api/qucosa%3A81276/attachment/ATT-0/"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=kuO3AQjwpEAJ",
+          "cited_by": {
+            "total": 1,
+            "link": "https://scholar.google.com/scholar?cites=4658111831787168658&as_sdt=805&sciodt=807&hl=en&num=20",
+            "cites_id": "4658111831787168658",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=4658111831787168658&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:kuO3AQjwpEAJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=807&sciodt=807",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=807&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AkuO3AQjwpEAJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cluster=4658111831787168658&hl=en&num=20&as_sdt=807&sciodt=807",
+            "cluster_id": "4658111831787168658",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=807&cluster=4658111831787168658&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:kuO3AQjwpEAJ:scholar.google.com/&hl=en&num=20&as_sdt=807&sciodt=807"
+        }
+      },
+      {
+        "position": 20,
+        "title": "Characterizing the Sensitivity of 2DEG-Based Magnetic Field and Ultraviolet Light Sensors in Space-Simulant Environments",
+        "result_id": "w8oy_FV6ObgJ",
+        "type": "Book",
+        "link": "https://search.proquest.com/openview/b8d42d139b1363576807cb2c69dce902/1?pq-origsite=gscholar&cbl=18750&diss=y",
+        "snippet": "Instruments and vehicles used in space experience a wide range of extreme environments, including high and low pressures, hypervelocity impacts from micro-meteorites, radiation …",
+        "publication_info": {
+          "summary": "HS Alpert - 2020 - search.proquest.com",
+          "authors": [
+            {
+              "name": "HS Alpert",
+              "link": "https://scholar.google.com/citations?user=dQliyXUAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "dQliyXUAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dQliyXUAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=w8oy_FV6ObgJ",
+          "cited_by": {
+            "total": 1,
+            "link": "https://scholar.google.com/scholar?cites=13274775886373243587&as_sdt=805&sciodt=807&hl=en&num=20",
+            "cites_id": "13274775886373243587",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=13274775886373243587&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:w8oy_FV6ObgJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=807&sciodt=807",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=807&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&q=related%3Aw8oy_FV6ObgJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=13274775886373243587&hl=en&num=20&as_sdt=807&sciodt=807",
+            "cluster_id": "13274775886373243587",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=807&cluster=13274775886373243587&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://scholar.google.com/scholar?start=20&hl=en&num=20&as_sdt=807&sciodt=807&cites=4870271334637308438&scipsc=1",
+      "other_pages": {
+        "2": "https://scholar.google.com/scholar?start=20&hl=en&num=20&as_sdt=807&sciodt=807&cites=4870271334637308438&scipsc=1"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?as_sdt=807&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&start=20",
+      "next": "https://serpapi.com/search.json?as_sdt=807&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&start=20",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?as_sdt=807&as_vis=0&cites=4870271334637308438&engine=google_scholar&filter=0&hl=en&num=20&start=20"
+      }
+    }
+  }
+}

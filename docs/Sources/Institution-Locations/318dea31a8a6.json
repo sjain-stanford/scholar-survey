@@ -1,0 +1,1837 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Rice+University",
+  "http_status": 200,
+  "query": "Rice University",
+  "data": {
+    "number_of_results": 14720,
+    "time_taken": 20,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "rice.edu"
+        ],
+        "established": 1912,
+        "external_ids": [
+          {
+            "all": [
+              "100007863",
+              "100009159",
+              "100005894",
+              "100005598"
+            ],
+            "preferred": "100007863",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.21940.3e"
+            ],
+            "preferred": "grid.21940.3e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1936 8278"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q842909"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/008zs3103",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.rice.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Rice_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TX",
+              "country_subdivision_name": "Texas",
+              "lat": 29.76328,
+              "lng": -95.36327,
+              "name": "Houston"
+            },
+            "geonames_id": 4699066
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Rice University"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Rice"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "William Marsh Rice University"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Center for Theoretical Biological Physics",
+            "type": "child",
+            "id": "https://ror.org/04hfg7v94"
+          },
+          {
+            "label": "Kinder Institute for Urban Research",
+            "type": "child",
+            "id": "https://ror.org/01reat095"
+          },
+          {
+            "label": "Center for Research Computing",
+            "type": "child",
+            "id": "https://ror.org/010sw1x33"
+          },
+          {
+            "label": "Moorea Coral Reef Long Term Ecological Research",
+            "type": "related",
+            "id": "https://ror.org/017vyhs10"
+          },
+          {
+            "label": "Sevilleta Long Term Ecological Research",
+            "type": "related",
+            "id": "https://ror.org/01qcacz92"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1986,
+        "external_ids": [
+          {
+            "all": [
+              "grid.493525.c"
+            ],
+            "preferred": "grid.493525.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0448 9990"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/01px69d78",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.rice.org.uk/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 51.3751,
+              "lng": -2.36172,
+              "name": "Bath"
+            },
+            "geonames_id": 2656173
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "RICE"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "The Research Institute for the Care of Older People"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2011,
+        "external_ids": [
+          {
+            "all": [
+              "grid.475596.c"
+            ],
+            "preferred": "grid.475596.c",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/01ydxj048",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://riceinstitute.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CT",
+              "country_subdivision_name": "Connecticut",
+              "lat": 41.65788,
+              "lng": -72.36592,
+              "name": "Hebron"
+            },
+            "geonames_id": 4835969
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Rice Institute"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1937,
+        "external_ids": [
+          {
+            "all": [
+              "grid.490446.b"
+            ],
+            "preferred": "grid.490446.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0430 0692"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/02d21y725",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ricehospital.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MN",
+              "country_subdivision_name": "Minnesota",
+              "lat": 45.12191,
+              "lng": -95.04334,
+              "name": "Willmar"
+            },
+            "geonames_id": 5052916
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Rice Memorial Hospital"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1930,
+        "external_ids": [
+          {
+            "all": [
+              "grid.488205.3"
+            ],
+            "preferred": "grid.488205.3",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/00c11v577",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.gdrice.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Rice Experimental Farm of Sun Yat-sen University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Rice Research Institute"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "广东省农业科学院水稻研究所"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Guangdong Academy of Agricultural Sciences",
+            "type": "parent",
+            "id": "https://ror.org/01rkwtz72"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-06",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "thericefamilyfoundation.com"
+        ],
+        "established": 2017,
+        "external_ids": [
+          {
+            "all": [
+              "100029320"
+            ],
+            "preferred": "100029320",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/04qxaqd26",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.thericefamilyfoundation.com"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Maryland",
+              "lat": 39.19289,
+              "lng": -76.72414,
+              "name": "Hanover"
+            },
+            "geonames_id": 4357340
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "RFF"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Rice Family Foundation"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "The Rice Family Foundation"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-10-28",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "africarice.org"
+        ],
+        "established": 1971,
+        "external_ids": [
+          {
+            "all": [
+              "grid.466524.7"
+            ],
+            "preferred": "grid.466524.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9957 5074"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q383924"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/040y9br29",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.africarice.org"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Africa_Rice_Center"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "CI",
+              "country_name": "Ivory Coast",
+              "country_subdivision_code": "AB",
+              "country_subdivision_name": "Abidjan Autonomous District",
+              "lat": 5.33507,
+              "lng": -4.0039,
+              "name": "Cocody"
+            },
+            "geonames_id": 2290623
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Africa Rice Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "AfricaRice"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "WARDA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "West Africa Rice Development Association"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "CGIAR",
+            "type": "parent",
+            "id": "https://ror.org/04c4bm785"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-21",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/010sw1x33",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://researchcomputing.rice.edu"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TX",
+              "country_subdivision_name": "Texas",
+              "lat": 29.76328,
+              "lng": -95.36327,
+              "name": "Houston"
+            },
+            "geonames_id": 4699066
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "CRC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Center for Research Computing"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Center for Research Computing, Rice University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Rice University Center for Research Computing"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Rice University",
+            "type": "parent",
+            "id": "https://ror.org/008zs3103"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1970,
+        "external_ids": [
+          {
+            "all": [
+              "501100005963"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.452224.7"
+            ],
+            "preferred": "grid.452224.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2299 2934"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4855372"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01zmzpt10",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.brri.gov.bd/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Bangladesh_Rice_Research_Institute"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "BD",
+              "country_name": "Bangladesh",
+              "country_subdivision_code": "C",
+              "country_subdivision_name": "Dhaka Division",
+              "lat": 23.7104,
+              "lng": 90.40744,
+              "name": "Dhaka"
+            },
+            "geonames_id": 1185241
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BRRI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Bangladesh Rice Research Institute"
+          },
+          {
+            "lang": "bn",
+            "types": [
+              "label"
+            ],
+            "value": "বাংলাদেশ ধান গবেষণা ইনস্টিটিউট"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "100007286"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.454121.7"
+            ],
+            "preferred": "grid.454121.7",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/02ms27492",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.carrb.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 39.14045,
+              "lng": -121.61691,
+              "name": "Yuba City"
+            },
+            "geonames_id": 5411015
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "California Rice Research Board"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "RRB"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1965,
+        "external_ids": [
+          {
+            "all": [
+              "grid.464820.c"
+            ],
+            "preferred": "grid.464820.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1761 0243"
+            ],
+            "preferred": "0000 0004 1761 0243",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5280656"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/021j5pp16",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.drricar.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Directorate_of_Rice_Research"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "IN",
+              "country_name": "India",
+              "country_subdivision_code": "TS",
+              "country_subdivision_name": "Telangana",
+              "lat": 17.38405,
+              "lng": 78.45636,
+              "name": "Hyderabad"
+            },
+            "geonames_id": 1269843
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Directorate of Rice Research"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IIRR"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Indian Institute of Rice Research"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Indian Council of Agricultural Research",
+            "type": "parent",
+            "id": "https://ror.org/04fw54a43"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1985,
+        "external_ids": [
+          {
+            "all": [
+              "100017617"
+            ],
+            "preferred": "100017617",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.464663.5"
+            ],
+            "preferred": "grid.464663.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2308 206X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7185199"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02gazz415",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.philrice.gov.ph/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Philippine_Rice_Research_Institute"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "PH",
+              "country_name": "Philippines",
+              "country_subdivision_code": "03",
+              "country_subdivision_name": "Central Luzon",
+              "lat": 15.6747,
+              "lng": 120.8887,
+              "name": "Maligaya"
+            },
+            "geonames_id": 1702796
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "PhilRice"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Philippine Rice Research Institute"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1946,
+        "external_ids": [
+          {
+            "all": [
+              "grid.418371.8"
+            ],
+            "preferred": "grid.418371.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2183 1039"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5061776"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/029zb5621",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.crri.nic.in/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Central_Rice_Research_Institute"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "IN",
+              "country_name": "India",
+              "country_subdivision_code": "OD",
+              "country_subdivision_name": "Odisha",
+              "lat": 20.46497,
+              "lng": 85.87927,
+              "name": "Cuttack"
+            },
+            "geonames_id": 1273780
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CRRI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Central Rice Research Institute"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Indian Council of Agricultural Research",
+            "type": "parent",
+            "id": "https://ror.org/04fw54a43"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-02-17",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2003,
+        "external_ids": [
+          {
+            "all": [
+              "grid.501172.0"
+            ],
+            "preferred": "grid.501172.0",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/02yczqn06",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://ubn-rrc.ricethailand.go.th/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TH",
+              "country_name": "Thailand",
+              "country_subdivision_code": "34",
+              "country_subdivision_name": "Ubon Ratchathani",
+              "lat": 15.23844,
+              "lng": 104.84866,
+              "name": "Ubon Ratchathani"
+            },
+            "geonames_id": 1605245
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "UbonRatchathani Rice Research Center"
+          },
+          {
+            "lang": "th",
+            "types": [
+              "label"
+            ],
+            "value": "ศูนย์วิจัยข้าวอุบลราชธานี"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1975,
+        "external_ids": [
+          {
+            "all": [
+              "grid.495693.4"
+            ],
+            "preferred": "grid.495693.4",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/02vy7sg87",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.hnrri.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HN",
+              "country_subdivision_name": "Hunan",
+              "lat": 28.19874,
+              "lng": 112.97087,
+              "name": "Changsha"
+            },
+            "geonames_id": 1815577
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Hunan Rice Research Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Rice Research Institute of Hunan Province"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "湖南省水稻研究所"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-06-23",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-06-23",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ricerivers.vcu.edu"
+        ],
+        "established": 2000,
+        "external_ids": [],
+        "id": "https://ror.org/03k69wj69",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ricerivers.vcu.edu"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "VA",
+              "country_subdivision_name": "Virginia",
+              "lat": 37.34348,
+              "lng": -77.07303,
+              "name": "Charles City"
+            },
+            "geonames_id": 4752001
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "VCU RRC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "VCU Rice Rivers Center"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Virginia Commonwealth University",
+            "type": "parent",
+            "id": "https://ror.org/02nkdxk79"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "irri.org"
+        ],
+        "established": 1960,
+        "external_ids": [
+          {
+            "all": [
+              "grid.419387.0"
+            ],
+            "preferred": "grid.419387.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0729 330X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1204921"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0593p4448",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://irri.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/International_Rice_Research_Institute"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "PH",
+              "country_name": "Philippines",
+              "country_subdivision_code": "40",
+              "country_subdivision_name": "Calabarzon",
+              "lat": 14.17025,
+              "lng": 121.24181,
+              "name": "Los Baños"
+            },
+            "geonames_id": 1705536
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IRRI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "International Rice Research Institute"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "CGIAR",
+            "type": "parent",
+            "id": "https://ror.org/04c4bm785"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-29",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "rice-cook.com"
+        ],
+        "established": 1995,
+        "external_ids": [],
+        "id": "https://ror.org/00pxy0c58",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.rice-cook.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "13",
+              "country_subdivision_name": "Tokyo",
+              "lat": 35.6895,
+              "lng": 139.69171,
+              "name": "Tokyo"
+            },
+            "geonames_id": 1850147
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Corporation of Rice-Cooking of Japan"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Japan Cooked-rice Association"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "日本炊飯協会"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1966,
+        "external_ids": [],
+        "id": "https://ror.org/05ak7b142",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ww1.oswego.edu/rice-creek/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NY",
+              "country_subdivision_name": "New York",
+              "lat": 43.45535,
+              "lng": -76.5105,
+              "name": "Oswego"
+            },
+            "geonames_id": 5130081
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "RCFS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Rice Creek Biological Field Station"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Rice Creek Field Station"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Rice Creek Field Station at SUNY Oswego"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "State University of New York at Oswego",
+            "type": "parent",
+            "id": "https://ror.org/01597g643"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-05-04",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1974,
+        "external_ids": [],
+        "id": "https://ror.org/024pt9r55",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.embrapa.br/arroz-e-feijao"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "BR",
+              "country_name": "Brazil",
+              "country_subdivision_code": "GO",
+              "country_subdivision_name": "Goiás",
+              "lat": -16.48361,
+              "lng": -49.31111,
+              "name": "Santo Antônio de Goiás"
+            },
+            "geonames_id": 6318349
+          }
+        ],
+        "names": [
+          {
+            "lang": "pt",
+            "types": [
+              "acronym"
+            ],
+            "value": "CNPAF"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "alias"
+            ],
+            "value": "Centro Nacional de Pesquisa de Arroz e Feijão"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "label"
+            ],
+            "value": "Embrapa Arroz e Feijão"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Embrapa Rice and Beans"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "alias"
+            ],
+            "value": "Empresa Brasileira de Pesquisa Agropecuária Arroz e Feijão"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Brazilian Agricultural Research Corporation",
+            "type": "parent",
+            "id": "https://ror.org/0482b5b22"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 12895
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 4155
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 1228
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 324
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 129
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 78
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 34
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 32
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 12
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 1989
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 1594
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 1004
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 839
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 467
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 444
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 443
+        },
+        {
+          "id": "ph",
+          "title": "Philippines",
+          "count": 386
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 382
+        },
+        {
+          "id": "ir",
+          "title": "Iran",
+          "count": 354
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 7428
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 3013
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 2496
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1152
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 531
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 100
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 14720
+        }
+      ]
+    }
+  }
+}

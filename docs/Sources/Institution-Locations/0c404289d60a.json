@@ -1,0 +1,1983 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=University+of+Science+and+Technology+Beijing",
+  "http_status": 200,
+  "query": "University of Science and Technology Beijing",
+  "data": {
+    "number_of_results": 45852,
+    "time_taken": 59,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ustb.edu.cn"
+        ],
+        "established": 1952,
+        "external_ids": [
+          {
+            "all": [
+              "501100008778",
+              "501100018632"
+            ],
+            "preferred": "501100008778",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.69775.3a"
+            ],
+            "preferred": "grid.69775.3a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0369 0705"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1510516"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02egmk993",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ustb.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Science_and_Technology_Beijing"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Beijing Steel and Iron Institute"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "USTB"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Science and Technology Beijing"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京科技大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "State Key Laboratory of New Technology of Iron and Steel Metallurgy",
+            "type": "child",
+            "id": "https://ror.org/01pvjzw40"
+          },
+          {
+            "label": "State Key Laboratory for Advanced Metals and Materials",
+            "type": "child",
+            "id": "https://ror.org/01f29ny64"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "bjast.ac.cn"
+        ],
+        "established": 1984,
+        "external_ids": [
+          {
+            "all": [
+              "grid.418265.c"
+            ],
+            "preferred": "grid.418265.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0403 1840"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30281643"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05ct4fn38",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.bjast.ac.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BJAST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing Academy of Science and Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京市电加工研究所"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "tj.ustb.edu.cn"
+        ],
+        "established": 2005,
+        "external_ids": [
+          {
+            "all": [
+              "Q97346743"
+            ],
+            "preferred": "Q97346743",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03mf3yy20",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://tj.ustb.edu.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "TJ",
+              "country_subdivision_name": "Tianjin",
+              "lat": 39.14222,
+              "lng": 117.17667,
+              "name": "Tianjin"
+            },
+            "geonames_id": 1792947
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Tianjin College, University of Science and Technology Beijing"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京科技大学天津学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "bistu.edu.cn"
+        ],
+        "established": 1937,
+        "external_ids": [
+          {
+            "all": [
+              "501100010818"
+            ],
+            "preferred": "501100010818",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.443248.d"
+            ],
+            "preferred": "grid.443248.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0467 2584"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q957715"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04xnqep60",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.bistu.edu.cn/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Beijing_Information_Science_&_Technology_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BISTU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing Information Science & Technology University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京信息科技大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "bjut.edu.cn"
+        ],
+        "established": 1960,
+        "external_ids": [
+          {
+            "all": [
+              "501100003444",
+              "501100011795"
+            ],
+            "preferred": "501100003444",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.28703.3e"
+            ],
+            "preferred": "grid.28703.3e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9040 3743"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1674548"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/037b1pp87",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.bjut.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Beijing_University_of_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Beijing Polytechnic University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing University of Technology"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Běijīng Gōngyè Dàxué"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京工业大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Beijing Institute of Big Data Research",
+            "type": "child",
+            "id": "https://ror.org/00s1sz824"
+          },
+          {
+            "label": "National Engineering Laboratory for Advanced Municipal Wastewater Treatment and Reuse Technology",
+            "type": "child",
+            "id": "https://ror.org/02b6kvy05"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "5aaa.com"
+        ],
+        "established": 1997,
+        "external_ids": [
+          {
+            "all": [
+              "Q112676114"
+            ],
+            "preferred": "Q112676114",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04zf9wr36",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.5aaa.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Beijing Vocational College of Science and Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "北京科技研修学院"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京科技职业学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2010,
+        "external_ids": [
+          {
+            "all": [
+              "grid.497859.e"
+            ],
+            "preferred": "grid.497859.e",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/026xvz038",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.iqiyi.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Beijing iQIYI Science & Technology"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "iQIYI (China)"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "爱奇艺"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "btbu.edu.cn"
+        ],
+        "established": 1998,
+        "external_ids": [
+          {
+            "all": [
+              "501100005706"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.411615.6"
+            ],
+            "preferred": "grid.411615.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9938 1755"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4356865"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/013e0zm98",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://english.btbu.edu.cn/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Beijing_Technology_and_Business_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BTBU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing Technology and Business University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京工商大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1963,
+        "external_ids": [
+          {
+            "all": [
+              "grid.464253.2"
+            ],
+            "preferred": "grid.464253.2",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/04brx9y30",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.bwsti.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BHRI"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BWSTI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Beijing Hydraulic Research Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing Water Science and Technology Institute"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京市水科学技术研究院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-11-07",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1958,
+        "external_ids": [
+          {
+            "all": [
+              "grid.506869.4"
+            ],
+            "preferred": "grid.506869.4",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/00qy2fm62",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.kyky.com.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Beijing Scientific Instrument Research Center of the Chinese Academy of Sciences"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing Zhongke Science and Technology (China)"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Scientific Instrument Factory of the Chinese Academy of Sciences"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京中科科仪股份有限公司"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-07-15",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "501100005090",
+              "501100005081",
+              "501100009592",
+              "501100004826",
+              "501100005089",
+              "501100012401"
+            ],
+            "preferred": "501100009592",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.452958.7"
+            ],
+            "preferred": "grid.452958.7",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/034k14f91",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://kw.beijing.gov.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Beijing Municipal Science & Technology Commision"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Beijing Municipal Science and Technology Commission"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京市科学技术委员会"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Ministry of Science and Technology of the People's Republic of China",
+            "type": "parent",
+            "id": "https://ror.org/027s68j25"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-06",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "bast.net.cn"
+        ],
+        "established": 1963,
+        "external_ids": [
+          {
+            "all": [
+              "501100020437"
+            ],
+            "preferred": "501100020437",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/05w27xr10",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.bast.net.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BAST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Beijing Association for Science and Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京市科学技术协会"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "Q112676113"
+            ],
+            "preferred": "Q112676113",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03g0bkf57",
+        "links": [],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Beijing Science Technology and Management College"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京科技经营管理学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "besti.edu.cn"
+        ],
+        "established": 1947,
+        "external_ids": [
+          {
+            "all": [
+              "501100020438"
+            ],
+            "preferred": "501100020438",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.443243.6"
+            ],
+            "preferred": "grid.443243.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1760 5516"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4881127"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01xdzh226",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.besti.edu.cn/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Beijing_Electronic_Science_and_Technology_Institute"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing Electronic Science and Technology Institute"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京电子科技学院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Zhongnanhai Amateur University",
+            "type": "related",
+            "id": "https://ror.org/037rcg134"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ust.ac.kr"
+        ],
+        "established": 2003,
+        "external_ids": [
+          {
+            "all": [
+              "grid.412786.e"
+            ],
+            "preferred": "grid.412786.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1791 8264"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q626893"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/000qzf213",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ust.ac.kr/index.do"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Korea_University_of_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "30",
+              "country_subdivision_name": "Daejeon",
+              "lat": 36.34913,
+              "lng": 127.38493,
+              "name": "Daejeon"
+            },
+            "geonames_id": 1835235
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Korea University of Science and Technology"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Science and Technology"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "과학기술연합대학원대학교"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ust.edu"
+        ],
+        "established": 1994,
+        "external_ids": [
+          {
+            "all": [
+              "grid.444917.b"
+            ],
+            "preferred": "grid.444917.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0454 5294"
+            ],
+            "preferred": "0000 0004 0454 5294",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q12204441"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05bj7sh33",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ust.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Science_and_Technology,_Sana%27a"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "YE",
+              "country_name": "Yemen",
+              "country_subdivision_code": "AD",
+              "country_subdivision_name": "Aden",
+              "lat": 12.77957,
+              "lng": 45.03852,
+              "name": "Aden"
+            },
+            "geonames_id": 415189
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "USTY"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Science and Technology"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "جامعة العلوم و التكنولوجيا"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "buct.edu.cn"
+        ],
+        "established": 1958,
+        "external_ids": [
+          {
+            "all": [
+              "501100007302",
+              "100020593"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.48166.3d"
+            ],
+            "preferred": "grid.48166.3d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9931 8406"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2496210"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00df5yc52",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.buct.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Beijing_University_of_Chemical_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BUCT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing University of Chemical Technology"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Běijīng Huàgōng Dàxué"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京化工大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "State Key Laboratory of Organic-Inorganic Composite Materials",
+            "type": "child",
+            "id": "https://ror.org/04t3b2655"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "Q112676097"
+            ],
+            "preferred": "Q112676097",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02hwff938",
+        "links": [],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Beijing University of Financial Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Canvard College, Beijing Technology and Business University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "北京工商大学嘉华学院"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京金融科技学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-05-27",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "cumtb.edu.cn"
+        ],
+        "established": 1909,
+        "external_ids": [
+          {
+            "all": [
+              "Q13656445"
+            ],
+            "preferred": "Q13656445",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/003ncxf91",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.cumtb.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%9F%BF%E4%B8%9A%E5%A4%A7%E5%AD%A6%EF%BC%88%E5%8C%97%E4%BA%AC%EF%BC%89"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "CUMTB"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "China University of Mining and Technology - Beijing"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中国矿业大学（北京）"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1958,
+        "external_ids": [
+          {
+            "all": [
+              "grid.496807.4"
+            ],
+            "preferred": "grid.496807.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0451 6813"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/03xgzn792",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.dky.bjedu.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "LN",
+              "country_subdivision_name": "Liaoning",
+              "lat": 41.57028,
+              "lng": 120.45861,
+              "name": "Chaoyang"
+            },
+            "geonames_id": 2038120
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Beijing Electronic Science and Technology Vocational College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Beijing Electronic Technology Vocational College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing Polytechnic"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京电子科技职业学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 18877
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 11215
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 6997
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 5833
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 5114
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 3034
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2940
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 2058
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 1021
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 8576
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 5239
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 3137
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2536
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1672
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 1629
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 1404
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 1187
+        },
+        {
+          "id": "ca",
+          "title": "Canada",
+          "count": 1083
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 1001
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 18355
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 13037
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 10207
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 2362
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 1059
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 834
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 45852
+        }
+      ]
+    }
+  }
+}
