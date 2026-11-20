@@ -1,0 +1,188 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cites": "1211587708316162333",
+    "hl": "en",
+    "num": 20,
+    "start": 0,
+    "as_ylo": 2020,
+    "as_yhi": 2020
+  },
+  "accessed_at_utc": "2026-10-07T13:03:46.028210+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac64332410cda20ce28c2ca",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/h1IndqZDpfH15hdvW-mdGKV4MZ4dlEolc0yn1CvugWA/6ac64332410cda20ce28c2ca.json",
+      "markdown_endpoint": "https://serpapi.com/searches/h1IndqZDpfH15hdvW-mdGKV4MZ4dlEolc0yn1CvugWA/6ac64332410cda20ce28c2ca.md",
+      "created_at": "2026-10-07 13:03:46 UTC",
+      "processed_at": "2026-10-07 13:03:46 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cites=1211587708316162333&hl=en&start=0&num=21&as_ylo=2020&as_yhi=2020&scipsc=1",
+      "raw_html_file": "https://serpapi.com/searches/h1IndqZDpfH15hdvW-mdGKV4MZ4dlEolc0yn1CvugWA/6ac64332410cda20ce28c2ca.html",
+      "total_time_taken": 0.56
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cites": "1211587708316162333",
+      "hl": "en",
+      "start": 0,
+      "num": "20",
+      "as_ylo": "2020",
+      "as_yhi": "2020"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 2,
+      "time_taken_displayed": 0.04
+    },
+    "citations_per_year": [
+      {
+        "year": 2019,
+        "citations": 1
+      },
+      {
+        "year": 2020,
+        "citations": 10
+      },
+      {
+        "year": 2021,
+        "citations": 43
+      },
+      {
+        "year": 2022,
+        "citations": 55
+      },
+      {
+        "year": 2023,
+        "citations": 33
+      },
+      {
+        "year": 2024,
+        "citations": 39
+      },
+      {
+        "year": 2025,
+        "citations": 31
+      },
+      {
+        "year": 2026,
+        "citations": 14
+      }
+    ],
+    "profiles": {
+      "link": "https://scholar.google.com/scholar?cluster=1211587708316162333&hl=en&num=20&as_sdt=5,33&sciodt=0,33&as_ylo=2020&as_yhi=2020",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "A reduced-precision network for image reconstruction",
+        "result_id": "j-TCPYkqitgJ",
+        "link": "https://dl.acm.org/doi/abs/10.1145/3414685.3417786",
+        "snippet": "Neural networks are often quantized to use reduced-precision arithmetic, as it greatly improves their storage and computational costs. This approach is commonly used in image …",
+        "publication_info": {
+          "summary": "MM Thomas, K Vaidyanathan, G Liktor… - ACM Transactions on …, 2020 - dl.acm.org",
+          "authors": [
+            {
+              "name": "MM Thomas",
+              "link": "https://scholar.google.com/citations?user=XuNieGkAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "XuNieGkAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=XuNieGkAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "K Vaidyanathan",
+              "link": "https://scholar.google.com/citations?user=tXl7N6sAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "tXl7N6sAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=tXl7N6sAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "G Liktor",
+              "link": "https://scholar.google.com/citations?user=h4WjImsAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "h4WjImsAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=h4WjImsAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "acm.org",
+            "file_format": "PDF",
+            "link": "https://dl.acm.org/doi/pdf/10.1145/3414685.3417786"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=j-TCPYkqitgJ",
+          "cited_by": {
+            "total": 41,
+            "link": "https://scholar.google.com/scholar?cites=15603330627913573519&as_sdt=5,33&sciodt=0,33&hl=en&num=20",
+            "cites_id": "15603330627913573519",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=15603330627913573519&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:j-TCPYkqitgJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=5,33&sciodt=0,33&as_ylo=2020&as_yhi=2020",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&as_yhi=2020&as_ylo=2020&cites=1211587708316162333&engine=google_scholar&hl=en&num=20&q=related%3Aj-TCPYkqitgJ%3Ascholar.google.com%2F&start=0"
+        }
+      },
+      {
+        "position": 2,
+        "title": "End-to-end Quantized Training via Log-Barrier Extensions",
+        "result_id": "W4p1pWu14dgJ",
+        "link": "https://openreview.net/forum?id=igkmo23BgzB",
+        "snippet": "Quantization of neural network parameters and activations has emerged as a successful approach to reducing the model size and inference time on hardware that sup-ports native …",
+        "publication_info": {
+          "summary": "JB Li, S Qu, X Li, E Strubell, F Metze - openreview.net",
+          "authors": [
+            {
+              "name": "JB Li"
+            },
+            {
+              "name": "S Qu",
+              "link": "https://scholar.google.com/citations?user=J_Ru5MgAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "J_Ru5MgAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=J_Ru5MgAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "X Li"
+            },
+            {
+              "name": "E Strubell",
+              "link": "https://scholar.google.com/citations?user=UCDMtM0AAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "UCDMtM0AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=UCDMtM0AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "F Metze",
+              "link": "https://scholar.google.com/citations?user=FsEP7AgAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "FsEP7AgAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=FsEP7AgAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "openreview.net",
+            "file_format": "PDF",
+            "link": "https://openreview.net/pdf?id=igkmo23BgzB"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=W4p1pWu14dgJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:W4p1pWu14dgJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=5,33&sciodt=0,33&as_ylo=2020&as_yhi=2020",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&as_yhi=2020&as_ylo=2020&cites=1211587708316162333&engine=google_scholar&hl=en&num=20&q=related%3AW4p1pWu14dgJ%3Ascholar.google.com%2F&start=0",
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:W4p1pWu14dgJ:scholar.google.com/&hl=en&num=20&as_sdt=5,33&sciodt=0,33&as_ylo=2020&as_yhi=2020"
+        }
+      }
+    ]
+  }
+}

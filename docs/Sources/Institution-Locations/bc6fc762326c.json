@@ -1,0 +1,2431 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Technical+University+of+Munich",
+  "http_status": 200,
+  "query": "Technical University of Munich",
+  "data": {
+    "number_of_results": 36203,
+    "time_taken": 43,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "tum.de"
+        ],
+        "established": 1868,
+        "external_ids": [
+          {
+            "all": [
+              "501100005713",
+              "501100009375",
+              "501100013497",
+              "501100013810",
+              "501100009394"
+            ],
+            "preferred": "501100005713",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.6936.a"
+            ],
+            "preferred": "grid.6936.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2322 2966"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q157808"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02kkvpp62",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.tum.de"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Technische_Universit%C3%A4t_M%C3%BCnchen"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BY",
+              "country_subdivision_name": "Bavaria",
+              "lat": 48.13743,
+              "lng": 11.57549,
+              "name": "Munich"
+            },
+            "geonames_id": 2867714
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TUM"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Technical University of Munich"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "Technische Universitaet Muenchen"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Technische Universität München"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Centre for Advanced Laser Applications",
+            "type": "child",
+            "id": "https://ror.org/04j4kfb22"
+          },
+          {
+            "label": "Institute of Biological and Medical Imaging",
+            "type": "child",
+            "id": "https://ror.org/05g95eg64"
+          },
+          {
+            "label": "Center for Integrated Protein Science Munich",
+            "type": "child",
+            "id": "https://ror.org/032hzb643"
+          },
+          {
+            "label": "Munich Cluster for Systems Neurology",
+            "type": "child",
+            "id": "https://ror.org/025z3z560"
+          },
+          {
+            "label": "Deutsches Herzzentrum München",
+            "type": "child",
+            "id": "https://ror.org/04hbwba26"
+          },
+          {
+            "label": "Munich Center for Machine Learning",
+            "type": "child",
+            "id": "https://ror.org/02nfy3535"
+          },
+          {
+            "label": "Hochschule für Politik München",
+            "type": "child",
+            "id": "https://ror.org/04e2f5g27"
+          },
+          {
+            "label": "Else Kröner Fresenius Zentrum für Ernährungsmedizin",
+            "type": "child",
+            "id": "https://ror.org/024fs3v18"
+          },
+          {
+            "label": "TUM Klinikum",
+            "type": "child",
+            "id": "https://ror.org/04jc43x05"
+          },
+          {
+            "label": "Berufsgenossenschaftliche Unfallklinik Murnau",
+            "type": "related",
+            "id": "https://ror.org/01fgmnw14"
+          },
+          {
+            "label": "TU9",
+            "type": "related",
+            "id": "https://ror.org/02nx8n605"
+          },
+          {
+            "label": "Centre for Tactile Internet with Human-in-the-Loop",
+            "type": "related",
+            "id": "https://ror.org/02kfbaj13"
+          },
+          {
+            "label": "Leibniz-Institute for Food Systems Biology at the Technical University of Munich",
+            "type": "related",
+            "id": "https://ror.org/04sy7nb49"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "lmu.de"
+        ],
+        "established": 1472,
+        "external_ids": [
+          {
+            "all": [
+              "501100005722",
+              "501100006192",
+              "501100009401",
+              "501100014999"
+            ],
+            "preferred": "501100005722",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.5252.0"
+            ],
+            "preferred": "grid.5252.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1936 973X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q55044"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05591te55",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.lmu.de"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Ludwig_Maximilian_University_of_Munich"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BY",
+              "country_subdivision_name": "Bavaria",
+              "lat": 48.13743,
+              "lng": 11.57549,
+              "name": "Munich"
+            },
+            "geonames_id": 2867714
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "LMU"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "LMU Munich"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "LMU München"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Ludwig Maximilian University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Ludwig Maximilian University Munich"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Ludwig Maximilian University of Munich"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Ludwig-Maximilians-Universität München"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Ludwig-Maximilians-Universität in Munich"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Munich"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "Universität München"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Zentrum für Klinische Tiermedizin",
+            "type": "child",
+            "id": "https://ror.org/02qqvpd39"
+          },
+          {
+            "label": "Munich Cluster for Systems Neurology",
+            "type": "child",
+            "id": "https://ror.org/025z3z560"
+          },
+          {
+            "label": "Excellence Cluster Origins",
+            "type": "child",
+            "id": "https://ror.org/010wkny21"
+          },
+          {
+            "label": "Munich Center for Quantum Science and Technology",
+            "type": "child",
+            "id": "https://ror.org/04xrcta15"
+          },
+          {
+            "label": "Nanosystems Initiative Munich",
+            "type": "child",
+            "id": "https://ror.org/01mvrj242"
+          },
+          {
+            "label": "Center for Integrated Protein Science Munich",
+            "type": "child",
+            "id": "https://ror.org/032hzb643"
+          },
+          {
+            "label": "Center for NanoScience",
+            "type": "child",
+            "id": "https://ror.org/002epp671"
+          },
+          {
+            "label": "Centre for Advanced Laser Applications",
+            "type": "child",
+            "id": "https://ror.org/04j4kfb22"
+          },
+          {
+            "label": "Rachel Carson Center for Environment and Society",
+            "type": "child",
+            "id": "https://ror.org/01h2vtb84"
+          },
+          {
+            "label": "LMU Klinikum",
+            "type": "child",
+            "id": "https://ror.org/02jet3w32"
+          },
+          {
+            "label": "Munich Center for Machine Learning",
+            "type": "child",
+            "id": "https://ror.org/02nfy3535"
+          },
+          {
+            "label": "LMU Open Science Center",
+            "type": "child",
+            "id": "https://ror.org/029e6qe04"
+          },
+          {
+            "label": "Walther-Straub-Institut für Pharmakologie und Toxikologie",
+            "type": "child",
+            "id": "https://ror.org/02wbcav28"
+          },
+          {
+            "label": "Institut für Ethik, Geschichte und Theorie der Medizin",
+            "type": "child",
+            "id": "https://ror.org/03gc4br58"
+          },
+          {
+            "label": "Anatomische Anstalt",
+            "type": "child",
+            "id": "https://ror.org/03dftj863"
+          },
+          {
+            "label": "Physiologisches Institut",
+            "type": "child",
+            "id": "https://ror.org/00v8kcx92"
+          },
+          {
+            "label": "Adolf-Butenandt-Institut für Physiologische Chemie, Physikalische Biochemie und Zellbiologie",
+            "type": "child",
+            "id": "https://ror.org/0480tmh03"
+          },
+          {
+            "label": "Institut für Medizinische Psychologie",
+            "type": "child",
+            "id": "https://ror.org/016g7a124"
+          },
+          {
+            "label": "Pathologisches Institut",
+            "type": "child",
+            "id": "https://ror.org/02cqe8q68"
+          },
+          {
+            "label": "Institut für Neuropathologie",
+            "type": "child",
+            "id": "https://ror.org/04hhrpp03"
+          },
+          {
+            "label": "Max-von-Pettenkofer-Institut für Hygiene und Medizinische Mikrobiologie",
+            "type": "child",
+            "id": "https://ror.org/05na4hm84"
+          },
+          {
+            "label": "Institut für Rechtsmedizin",
+            "type": "child",
+            "id": "https://ror.org/01s1pqt66"
+          },
+          {
+            "label": "Institut für Immunologie",
+            "type": "child",
+            "id": "https://ror.org/01x8c0495"
+          },
+          {
+            "label": "Institut für Medizinische Informationsverarbeitung, Biometrie und Epidemiologie",
+            "type": "child",
+            "id": "https://ror.org/04eb1yz45"
+          },
+          {
+            "label": "Institut für Kardiovaskuläre Physiologie und Pathophysiologie",
+            "type": "child",
+            "id": "https://ror.org/03tw5w184"
+          },
+          {
+            "label": "Institut für deutsche Kultur und Geschichte Südosteuropas",
+            "type": "child",
+            "id": "https://ror.org/00a8v8w71"
+          },
+          {
+            "label": "Cluster of Excellence Cross-Cultural Philology",
+            "type": "child",
+            "id": "https://ror.org/003x73b58"
+          },
+          {
+            "label": "Münchner Zentrum für Gesundheitswissenschaften",
+            "type": "child",
+            "id": "https://ror.org/04qd38p60"
+          },
+          {
+            "label": "Collegium Carolinum",
+            "type": "related",
+            "id": "https://ror.org/02jjvb954"
+          },
+          {
+            "label": "Ifo Institute for Economic Research",
+            "type": "related",
+            "id": "https://ror.org/045495t75"
+          },
+          {
+            "label": "München Klinik",
+            "type": "related",
+            "id": "https://ror.org/03pfshj32"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "hm.edu"
+        ],
+        "established": 1971,
+        "external_ids": [
+          {
+            "all": [
+              "grid.434949.7"
+            ],
+            "preferred": "grid.434949.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 1408 3925"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q314089"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/012k1v959",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.hm.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Munich_University_of_Applied_Sciences"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BY",
+              "country_subdivision_name": "Bavaria",
+              "lat": 48.13743,
+              "lng": 11.57549,
+              "name": "Munich"
+            },
+            "geonames_id": 2867714
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "HM"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "Hochschule München"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Hochschule München University of Applied Sciences"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "Hochschule für angewandte Wissenschaften München"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Munich University of Applied Sciences"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1952,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449201.a"
+            ],
+            "preferred": "grid.449201.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0499 6167"
+            ],
+            "preferred": "0000 0004 0499 6167",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q15129047"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0355d9b09",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.sdi-muenchen.de"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Sprachen_%26_Dolmetscher_Institut_M%C3%BCnchen"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BY",
+              "country_subdivision_name": "Bavaria",
+              "lat": 48.13743,
+              "lng": 11.57549,
+              "name": "Munich"
+            },
+            "geonames_id": 2867714
+          }
+        ],
+        "names": [
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Hochschule für Angewandte Sprachen"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Munich University of Applied Languages"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SDI München"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Sprachen & Dolmetscher Institut München"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "unibw.de"
+        ],
+        "established": 1973,
+        "external_ids": [
+          {
+            "all": [
+              "100032090"
+            ],
+            "preferred": "100032090",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.7752.7"
+            ],
+            "preferred": "grid.7752.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8801 1556"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q283099"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05kkv3f82",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.unibw.de"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Bundeswehr_University_Munich"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BY",
+              "country_subdivision_name": "Bavaria",
+              "lat": 48.13743,
+              "lng": 11.57549,
+              "name": "Munich"
+            },
+            "geonames_id": 2867714
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UniBw M"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "Universitaet Der Bundeswehr Muenchen"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of the Bundeswehr Munich"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universität der Bundeswehr München"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Bundeswehr",
+            "type": "parent",
+            "id": "https://ror.org/00nmgny79"
+          },
+          {
+            "label": "Federal Ministry of Defence",
+            "type": "parent",
+            "id": "https://ror.org/03g7eh380"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1966,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449690.6"
+            ],
+            "preferred": "grid.449690.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2295 871X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q569350"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01a7snz60",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.hff-muc.de/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Television_and_Film_Munich"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BY",
+              "country_subdivision_name": "Bavaria",
+              "lat": 48.13743,
+              "lng": 11.57549,
+              "name": "Munich"
+            },
+            "geonames_id": 2867714
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "HFF"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "HFF Munich"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Hochschule für Fernsehen und Film München"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Television and Film Munich"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1846,
+        "external_ids": [
+          {
+            "all": [
+              "grid.466257.4"
+            ],
+            "preferred": "grid.466257.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2369 8251"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q657167"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02m7p2c22",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://website.musikhochschule-muenchen.de/de/index.php"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Music_and_Performing_Arts_Munich"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BY",
+              "country_subdivision_name": "Bavaria",
+              "lat": 48.13743,
+              "lng": 11.57549,
+              "name": "Munich"
+            },
+            "geonames_id": 2867714
+          }
+        ],
+        "names": [
+          {
+            "lang": "de",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Hochschule für Musik und Theater München"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Music and Performing Arts Munich"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Music and Theatre Munich"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "hfph.de"
+        ],
+        "established": 1925,
+        "external_ids": [
+          {
+            "all": [
+              "grid.461666.5"
+            ],
+            "preferred": "grid.461666.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0261 3087"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q881849"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02kqy4228",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.hfph.de/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Munich_School_of_Philosophy"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BY",
+              "country_subdivision_name": "Bavaria",
+              "lat": 48.13743,
+              "lng": 11.57549,
+              "name": "Munich"
+            },
+            "geonames_id": 2867714
+          }
+        ],
+        "names": [
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Hochschule für Philosophie München"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Munich School of Philosophy"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1918,
+        "external_ids": [
+          {
+            "all": [
+              "grid.434351.4"
+            ],
+            "preferred": "grid.434351.4",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/014743444",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.fiw-muenchen.de/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BY",
+              "country_subdivision_name": "Bavaria",
+              "lat": 48.11878,
+              "lng": 11.42939,
+              "name": "Gräfelfing"
+            },
+            "geonames_id": 2918368
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "FIW Munich"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Forschungsinstitut für Wärmeschutz München"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1808,
+        "external_ids": [
+          {
+            "all": [
+              "grid.466255.6"
+            ],
+            "preferred": "grid.466255.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2165 2751"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/044rf5p19",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.adbk.de/de/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Academy_of_Fine_Arts,_Munich"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BY",
+              "country_subdivision_name": "Bavaria",
+              "lat": 48.13743,
+              "lng": 11.57549,
+              "name": "Munich"
+            },
+            "geonames_id": 2867714
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Academy of Fine Arts Munich"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Akademie der Bildenden Künste München"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Munich Academy"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-08-06",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-08-07",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "euruni.edu"
+        ],
+        "established": 1991,
+        "external_ids": [],
+        "id": "https://ror.org/05t6wee76",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.euruni.edu/Discover-EU-Munich.html"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BY",
+              "country_subdivision_name": "Bavaria",
+              "lat": 48.13743,
+              "lng": 11.57549,
+              "name": "Munich"
+            },
+            "geonames_id": 2867714
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "EU Business School, Munich"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "EU Munich"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "EUBS Munich"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "EU Business School, Geneva",
+            "type": "related",
+            "id": "https://ror.org/04facnr46"
+          },
+          {
+            "label": "EU Business School, Barcelona",
+            "type": "related",
+            "id": "https://ror.org/0145vcx24"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-06-14",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-06-23",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "munich-aerospace.de"
+        ],
+        "established": 2010,
+        "external_ids": [
+          {
+            "all": [
+              "501100020701"
+            ],
+            "preferred": "501100020701",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/0466f4434",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.munich-aerospace.de"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BY",
+              "country_subdivision_name": "Bavaria",
+              "lat": 48.0486,
+              "lng": 11.61701,
+              "name": "Taufkirchen"
+            },
+            "geonames_id": 2823812
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Munich Aerospace"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Munich Aerospace e.V."
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Munich Aerospace – Bavarian Research Network"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-08-03",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1964,
+        "external_ids": [
+          {
+            "all": [
+              "501100013295",
+              "501100013294"
+            ],
+            "preferred": "501100013295",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.4567.0"
+            ],
+            "preferred": "grid.4567.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0483 2525"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q878592"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00cfam450",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.helmholtz-muenchen.de"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Helmholtz_Zentrum_M%C3%BCnchen"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BY",
+              "country_subdivision_name": "Bavaria",
+              "lat": 48.13743,
+              "lng": 11.57549,
+              "name": "Munich"
+            },
+            "geonames_id": 2867714
+          }
+        ],
+        "names": [
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "GSF - Gesellschaft für Strahlen- und Umweltforschung"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "German Research Center for Environmental Health"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "HMGU"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Helmholtz Munich"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "Helmholtz Zentrum München"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "Helmholtz Zentrum München - Deutsches Forschungszentrum für Gesundheit und Umwelt"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Helmholtz Alliance Imaging and Curing Environmental Metabolic Diseases",
+            "type": "child",
+            "id": "https://ror.org/04s64z252"
+          },
+          {
+            "label": "Institute of Bioinformatics and Systems Biology",
+            "type": "child",
+            "id": "https://ror.org/0127fwn18"
+          },
+          {
+            "label": "Paul Langerhans Institute Dresden",
+            "type": "child",
+            "id": "https://ror.org/05ke5hb07"
+          },
+          {
+            "label": "Institute of Biological and Medical Imaging",
+            "type": "child",
+            "id": "https://ror.org/05g95eg64"
+          },
+          {
+            "label": "Institute of Diabetes Research",
+            "type": "child",
+            "id": "https://ror.org/0278hns33"
+          },
+          {
+            "label": "Institute of Computational Biology",
+            "type": "child",
+            "id": "https://ror.org/00kg2yq63"
+          },
+          {
+            "label": "Institute of Functional Epigenetics",
+            "type": "child",
+            "id": "https://ror.org/05ekkb842"
+          },
+          {
+            "label": "Institute of Epigenetics and Stem Cells",
+            "type": "child",
+            "id": "https://ror.org/00k195394"
+          },
+          {
+            "label": "Helmholtz Association of German Research Centres",
+            "type": "parent",
+            "id": "https://ror.org/0281dp749"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-11-07",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "leibniz-lsb.de"
+        ],
+        "established": 1918,
+        "external_ids": [
+          {
+            "all": [
+              "grid.506467.6"
+            ],
+            "preferred": "grid.506467.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q1202543"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04sy7nb49",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.leibniz-lsb.de"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BY",
+              "country_subdivision_name": "Bavaria",
+              "lat": 48.40351,
+              "lng": 11.74876,
+              "name": "Freising"
+            },
+            "geonames_id": 2925034
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "DFA"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "alias"
+            ],
+            "value": "Deutsche Forschungsanstalt für Lebensmittelchemie"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "LSB"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Leibniz-Institut für Lebensmittel-Systembiologie an der Technischen Universität München"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Leibniz-Institute for Food Systems Biology at the Technical University of Munich"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Leibniz Association",
+            "type": "parent",
+            "id": "https://ror.org/01n6r0e97"
+          },
+          {
+            "label": "Technical University of Munich",
+            "type": "related",
+            "id": "https://ror.org/02kkvpp62"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1961,
+        "external_ids": [
+          {
+            "all": [
+              "grid.441932.9"
+            ],
+            "preferred": "grid.441932.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0418 8231"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q20022058"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/031vfrf75",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.unp.edu.pe/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "PE",
+              "country_name": "Peru",
+              "country_subdivision_code": "PIU",
+              "country_subdivision_name": "Piura",
+              "lat": -5.19449,
+              "lng": -80.63282,
+              "name": "Piura"
+            },
+            "geonames_id": 3693528
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Technical University of Piura"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UNP"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universidad Nacional de Piura"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2007,
+        "external_ids": [
+          {
+            "all": [
+              "grid.442580.f"
+            ],
+            "preferred": "grid.442580.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q7692307"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01gnc7759",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.utanga.co.ao"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Technical_University_of_Angola"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "AO",
+              "country_name": "Angola",
+              "country_subdivision_code": "LUA",
+              "country_subdivision_name": "Luanda",
+              "lat": -8.83682,
+              "lng": 13.23432,
+              "name": "Luanda"
+            },
+            "geonames_id": 2240449
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Technical University of Angola"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "alias"
+            ],
+            "value": "UTANGA"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "label"
+            ],
+            "value": "Universidade Técnica de Angola"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "upct.es"
+        ],
+        "established": 1998,
+        "external_ids": [
+          {
+            "all": [
+              "501100005741"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.218430.c"
+            ],
+            "preferred": "grid.218430.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2153 2602"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6156635"
+            ],
+            "preferred": "Q6156635",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02k5kx966",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.upct.es/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Universidad_Polit%C3%A9cnica_de_Cartagena"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "MC",
+              "country_subdivision_name": "Murcia",
+              "lat": 37.60197,
+              "lng": -0.98397,
+              "name": "Cartagena"
+            },
+            "geonames_id": 2520058
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Polytechnic University of Cartagena"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Technical University of Cartagena"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UPCT"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universidad Politécnica de Cartagena"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "tuke.sk"
+        ],
+        "established": 1952,
+        "external_ids": [
+          {
+            "all": [
+              "grid.6903.c"
+            ],
+            "preferred": "grid.6903.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2235 0982"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1719038"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05xm08015",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.tuke.sk"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Technical_University_of_Ko%C5%A1ice"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "SK",
+              "country_name": "Slovakia",
+              "country_subdivision_code": "KI",
+              "country_subdivision_name": "Košice Region",
+              "lat": 48.71395,
+              "lng": 21.25808,
+              "name": "Košice"
+            },
+            "geonames_id": 724443
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TUKE"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Technical University of Košice"
+          },
+          {
+            "lang": "sk",
+            "types": [
+              "label"
+            ],
+            "value": "Technická univerzita v Košiciach"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "tuc.gr"
+        ],
+        "established": 1977,
+        "external_ids": [
+          {
+            "all": [
+              "grid.6809.7"
+            ],
+            "preferred": "grid.6809.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0622 3117"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1974562"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03f8bz564",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.tuc.gr"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Technical_University_of_Crete"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GR",
+              "country_name": "Greece",
+              "country_subdivision_code": "M",
+              "country_subdivision_name": "Crete",
+              "lat": 35.51124,
+              "lng": 24.02921,
+              "name": "Chania"
+            },
+            "geonames_id": 260114
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TUC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Technical University of Crete"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université technique de crète"
+          },
+          {
+            "lang": "el",
+            "types": [
+              "label"
+            ],
+            "value": "Πολυτεχνείο Κρήτης"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "FORTH Institute of Petroleum Research",
+            "type": "child",
+            "id": "https://ror.org/00ve2vg23"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1964,
+        "external_ids": [
+          {
+            "all": [
+              "grid.77354.32"
+            ],
+            "preferred": "grid.77354.32",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2215 835X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1098106"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02b82hk77",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.utm.md/en"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Technical_University_of_Moldova"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "MD",
+              "country_name": "Moldova",
+              "country_subdivision_code": "CU",
+              "country_subdivision_name": "Chișinău Municipality",
+              "lat": 47.00556,
+              "lng": 28.8575,
+              "name": "Chisinau"
+            },
+            "geonames_id": 618426
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Technical University of Moldova"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UTM"
+          },
+          {
+            "lang": "ro",
+            "types": [
+              "label"
+            ],
+            "value": "Universitatea Tehnică a Moldovei"
+          },
+          {
+            "lang": "ru",
+            "types": [
+              "label"
+            ],
+            "value": "Технический Университет Молдовы"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 18403
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 9024
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 4757
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 3964
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 3565
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2257
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2044
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 776
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 465
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 6212
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 4414
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2412
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2066
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1584
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 954
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 868
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 837
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 807
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 795
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 15468
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 9718
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 7469
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 2003
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 951
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 595
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 36203
+        }
+      ]
+    }
+  }
+}

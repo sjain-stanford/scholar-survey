@@ -1,0 +1,200 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cluster": "13562577781688637439",
+    "hl": "en",
+    "no_cache": "true"
+  },
+  "accessed_at_utc": "2026-11-20T12:59:23.888273+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6b00442afde8125dcb52332c",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/P4QIApy_98Dg2gKDdWQy0Vn3LLtTdXMuHa2glbBA_KM/6b00442afde8125dcb52332c.json",
+      "markdown_endpoint": "https://serpapi.com/searches/P4QIApy_98Dg2gKDdWQy0Vn3LLtTdXMuHa2glbBA_KM/6b00442afde8125dcb52332c.md",
+      "created_at": "2026-11-20 12:59:22 UTC",
+      "processed_at": "2026-11-20 12:59:22 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cluster=13562577781688637439&hl=en",
+      "raw_html_file": "https://serpapi.com/searches/P4QIApy_98Dg2gKDdWQy0Vn3LLtTdXMuHa2glbBA_KM/6b00442afde8125dcb52332c.html",
+      "total_time_taken": 1.15
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cluster": "13562577781688637439",
+      "hl": "en"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 5,
+      "time_taken_displayed": 0.02
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Accelerating configuration of Reconfigurable Intelligent Surfaces through a hardware-enhanced deep learning approach",
+        "result_id": "_xcohKL0N7wJ",
+        "type": "Html",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0045790626001734",
+        "snippet": "Abstract The dawn of Reconfigurable Intelligent Surfaces (RIS) promises to revolutionize wireless communication by enabling dynamic control of the propagation of electromagnetic …",
+        "publication_info": {
+          "summary": "R Padial-Allué, A Martín-Martín, A García… - Computers and …, 2026 - Elsevier",
+          "authors": [
+            {
+              "name": "R Padial-Allué",
+              "link": "https://scholar.google.com/citations?user=AsDO8C0AAAAJ&hl=en&oi=sra",
+              "author_id": "AsDO8C0AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=AsDO8C0AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "A Martín-Martín"
+            },
+            {
+              "name": "A García",
+              "link": "https://scholar.google.com/citations?user=siNd6FEAAAAJ&hl=en&oi=sra",
+              "author_id": "siNd6FEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=siNd6FEAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "HTML",
+            "link": null
+          },
+          {
+            "title": "sciencedirect.com",
+            "file_format": "HTML",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0045790626001734"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=_xcohKL0N7wJ",
+          "html_version": "https://www.sciencedirect.com/science/article/pii/S0045790626001734",
+          "cited_by": {
+            "total": 1,
+            "link": "https://scholar.google.com/scholar?cites=13562577781688637439&as_sdt=5,44&sciodt=0,44&hl=en",
+            "cites_id": "13562577781688637439",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=13562577781688637439&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:_xcohKL0N7wJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,44",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C44&cluster=13562577781688637439&engine=google_scholar&hl=en&q=related%3A_xcohKL0N7wJ%3Ascholar.google.com%2F"
+        }
+      },
+      {
+        "position": 2,
+        "title": "Accelerating configuration of Reconfigurable Intelligent Surfaces through a hardware-enhanced deep learning approach",
+        "result_id": "8D4sQiDvxaUJ",
+        "type": "Pdf",
+        "link": "https://www.researchgate.net/profile/Antonio-Garcia-63/publication/401655637_Accelerating_configuration_of_Reconfigurable_Intelligent_Surfaces_through_a_hardware-enhanced_deep_learning_approach/links/69ac1b7c1a0d8b29ca716638/Accelerating-configuration-of-Reconfigurable-Intelligent-Surfaces-through-a-hardware-enhanced-deep-learning-approach.pdf",
+        "snippet": "ABSTRACT The dawn of Reconfigurable Intelligent Surfaces (RIS) promises to revolutionize wireless communication by enabling dynamic control of the propagation of electromagnetic …",
+        "publication_info": {
+          "summary": "R Padial-Allué, A Martín-Martín, A García… - Computers and …, 2026 - researchgate.net",
+          "authors": [
+            {
+              "name": "R Padial-Allué"
+            },
+            {
+              "name": "A Martín-Martín"
+            },
+            {
+              "name": "A García"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "researchgate.net",
+            "file_format": "PDF",
+            "link": "https://www.researchgate.net/profile/Antonio-Garcia-63/publication/401655637_Accelerating_configuration_of_Reconfigurable_Intelligent_Surfaces_through_a_hardware-enhanced_deep_learning_approach/links/69ac1b7c1a0d8b29ca716638/Accelerating-configuration-of-Reconfigurable-Intelligent-Surfaces-through-a-hardware-enhanced-deep-learning-approach.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=8D4sQiDvxaUJ"
+        }
+      },
+      {
+        "position": 3,
+        "title": "Accelerating configuration of Reconfigurable Intelligent Surfaces through a hardware-enhanced deep learning approach",
+        "result_id": "htaPLpb6qs0J",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+          "summary": "R Padial-Allué, A Martín Martín, A García… - 2026 - Elsevier",
+          "authors": [
+            {
+              "name": "R Padial-Allué"
+            },
+            {
+              "name": "A Martín Martín"
+            },
+            {
+              "name": "A García"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=htaPLpb6qs0J"
+        }
+      },
+      {
+        "position": 4,
+        "title": "Accelerating configuration of Reconfigurable Intelligent Surfaces through a hardware-enhanced deep learning approach",
+        "result_id": "-p4SjFU03NwJ",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+          "summary": "R Padial-Allué, A Martín Martín, A García Ríos… - 2026 - Elsevier",
+          "authors": [
+            {
+              "name": "R Padial-Allué"
+            },
+            {
+              "name": "A Martín Martín"
+            },
+            {
+              "name": "A García Ríos"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=-p4SjFU03NwJ"
+        }
+      },
+      {
+        "position": 5,
+        "title": "Accelerating configuration of Reconfigurable Intelligent Surfaces through a hardware-enhanced deep learning approach",
+        "result_id": "sa4ZJ7akgfkJ",
+        "link": "https://dl.acm.org/doi/abs/10.1016/j.compeleceng.2026.111101",
+        "snippet": "Abstract The dawn of Reconfigurable Intelligent Surfaces (RIS) promises to revolutionize wireless communication by enabling dynamic control of the propagation of electromagnetic …",
+        "publication_info": {
+          "summary": "R Padial-Allué, A Martín-Martín, A García, E Castillo… - 2026 - dl.acm.org",
+          "authors": [
+            {
+              "name": "R Padial-Allué"
+            },
+            {
+              "name": "A Martín-Martín"
+            },
+            {
+              "name": "A García"
+            },
+            {
+              "name": "E Castillo"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=sa4ZJ7akgfkJ"
+        }
+      }
+    ]
+  }
+}

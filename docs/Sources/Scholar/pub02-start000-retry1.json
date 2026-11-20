@@ -1,0 +1,685 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cites": "4771408704216507266,20156749286290710",
+    "hl": "en",
+    "num": 20,
+    "start": 0,
+    "filter": 0,
+    "as_vis": 0,
+    "as_sdt": 7,
+    "no_cache": "true"
+  },
+  "accessed_at_utc": "2026-10-07T12:40:32.723646+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63dc03107b8efb3c8ec82",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/oEXLHKsT00LL9PB6rpkujpfJ_j84bdkp_5G4sEcIPBc/6ac63dc03107b8efb3c8ec82.json",
+      "markdown_endpoint": "https://serpapi.com/searches/oEXLHKsT00LL9PB6rpkujpfJ_j84bdkp_5G4sEcIPBc/6ac63dc03107b8efb3c8ec82.md",
+      "created_at": "2026-10-07 12:40:32 UTC",
+      "processed_at": "2026-10-07 12:40:32 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cites=4771408704216507266,20156749286290710&hl=en&start=0&num=21&filter=0&as_sdt=7&as_vis=0&scipsc=1",
+      "raw_html_file": "https://serpapi.com/searches/oEXLHKsT00LL9PB6rpkujpfJ_j84bdkp_5G4sEcIPBc/6ac63dc03107b8efb3c8ec82.html",
+      "total_time_taken": 0.52
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cites": "4771408704216507266,20156749286290710",
+      "hl": "en",
+      "start": 0,
+      "num": "20",
+      "filter": "0",
+      "as_sdt": "7",
+      "as_vis": "0"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 11,
+      "time_taken_displayed": 0.03
+    },
+    "citations_per_year": [
+      {
+        "year": 2019,
+        "citations": 7
+      },
+      {
+        "year": 2020,
+        "citations": 16
+      },
+      {
+        "year": 2021,
+        "citations": 16
+      },
+      {
+        "year": 2022,
+        "citations": 15
+      },
+      {
+        "year": 2023,
+        "citations": 4
+      },
+      {
+        "year": 2024,
+        "citations": 9
+      },
+      {
+        "year": 2025,
+        "citations": 4
+      }
+    ],
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Pruning vs quantization: Which is better?",
+        "result_id": "Apy-5SNsN80J",
+        "link": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/c48bc80aa5d3cbbdd712d1cc107b8319-Abstract-Conference.html",
+        "snippet": "Neural network pruning and quantization techniques are almost as old as neural networks themselves. However, to date, only ad-hoc comparisons between the two have been …",
+        "publication_info": {
+          "summary": "A Kuzmin, M Nagel, M Van Baalen… - Advances in neural …, 2023 - proceedings.neurips.cc",
+          "authors": [
+            {
+              "name": "A Kuzmin",
+              "link": "https://scholar.google.com/citations?user=5cML1F0AAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "5cML1F0AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5cML1F0AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "M Nagel",
+              "link": "https://scholar.google.com/citations?user=akNuBBEAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "akNuBBEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=akNuBBEAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "M Van Baalen",
+              "link": "https://scholar.google.com/citations?user=a-Au4JUAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "a-Au4JUAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=a-Au4JUAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "neurips.cc",
+            "file_format": "PDF",
+            "link": "https://proceedings.neurips.cc/paper_files/paper/2023/file/c48bc80aa5d3cbbdd712d1cc107b8319-Paper-Conference.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Apy-5SNsN80J",
+          "cited_by": {
+            "total": 217,
+            "link": "https://scholar.google.com/scholar?cites=14787406802928442370&as_sdt=5,33&sciodt=7,33&hl=en&num=20",
+            "cites_id": "14787406802928442370",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=14787406802928442370&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:Apy-5SNsN80J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=7%2C33&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AApy-5SNsN80J%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 6,
+            "link": "https://scholar.google.com/scholar?cluster=14787406802928442370&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+            "cluster_id": "14787406802928442370",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=7%2C33&cluster=14787406802928442370&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Apy-5SNsN80J:scholar.google.com/&hl=en&num=20&as_sdt=7,33&sciodt=7,33"
+        }
+      },
+      {
+        "position": 2,
+        "title": "Overcoming oscillations in quantization-aware training",
+        "result_id": "P_tb0l1V_GYJ",
+        "link": "http://proceedings.mlr.press/v162/nagel22a.html",
+        "snippet": "When training neural networks with simulated quantization, we observe that quantized weights can, rather unexpectedly, oscillate between two grid-points. The importance of this …",
+        "publication_info": {
+          "summary": "M Nagel, M Fournarakis… - International …, 2022 - proceedings.mlr.press",
+          "authors": [
+            {
+              "name": "M Nagel",
+              "link": "https://scholar.google.com/citations?user=akNuBBEAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "akNuBBEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=akNuBBEAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "M Fournarakis",
+              "link": "https://scholar.google.com/citations?user=88lx8EEAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "88lx8EEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=88lx8EEAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "mlr.press",
+            "file_format": "PDF",
+            "link": "https://proceedings.mlr.press/v162/nagel22a/nagel22a.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=P_tb0l1V_GYJ",
+          "cited_by": {
+            "total": 250,
+            "link": "https://scholar.google.com/scholar?cites=7420900147449297727&as_sdt=5,33&sciodt=7,33&hl=en&num=20",
+            "cites_id": "7420900147449297727",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=7420900147449297727&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:P_tb0l1V_GYJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=7%2C33&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AP_tb0l1V_GYJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 7,
+            "link": "https://scholar.google.com/scholar?cluster=7420900147449297727&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+            "cluster_id": "7420900147449297727",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=7%2C33&cluster=7420900147449297727&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:P_tb0l1V_GYJ:scholar.google.com/&hl=en&num=20&as_sdt=7,33&sciodt=7,33"
+        }
+      },
+      {
+        "position": 3,
+        "title": "Mixed precision dnns: All you need is a good parametrization",
+        "result_id": "SchgLhjy2EIJ",
+        "link": "https://arxiv.org/abs/1905.11452",
+        "snippet": "Efficient deep neural network (DNN) inference on mobile or embedded devices typically involves quantization of the network parameters and activations. In particular, mixed …",
+        "publication_info": {
+          "summary": "S Uhlich, L Mauch, F Cardinaux, K Yoshiyama… - arXiv preprint arXiv …, 2019 - arxiv.org",
+          "authors": [
+            {
+              "name": "S Uhlich",
+              "link": "https://scholar.google.com/citations?user=hja8ejYAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "hja8ejYAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=hja8ejYAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "L Mauch",
+              "link": "https://scholar.google.com/citations?user=ivJ6Tf8AAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "ivJ6Tf8AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ivJ6Tf8AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "F Cardinaux",
+              "link": "https://scholar.google.com/citations?user=UFl8n4gAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "UFl8n4gAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=UFl8n4gAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "K Yoshiyama"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/1905.11452"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=SchgLhjy2EIJ",
+          "cited_by": {
+            "total": 230,
+            "link": "https://scholar.google.com/scholar?cites=4816865987143977033&as_sdt=5,33&sciodt=7,33&hl=en&num=20",
+            "cites_id": "4816865987143977033",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=4816865987143977033&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:SchgLhjy2EIJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=7%2C33&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&q=related%3ASchgLhjy2EIJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 7,
+            "link": "https://scholar.google.com/scholar?cluster=4816865987143977033&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+            "cluster_id": "4816865987143977033",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=7%2C33&cluster=4816865987143977033&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:SchgLhjy2EIJ:scholar.google.com/&hl=en&num=20&as_sdt=7,33&sciodt=7,33"
+        }
+      },
+      {
+        "position": 4,
+        "title": "Memory-driven mixed low precision quantization for enabling deep network inference on microcontrollers",
+        "result_id": "WKN9PiObltMJ",
+        "link": "https://proceedings.mlsys.org/paper_files/paper/2020/hash/0c8abcf158ed12d0dd94480681186fda-Abstract.html",
+        "snippet": "This paper presents a novel end-to-end methodology for enabling the deployment of high-accuracy deep networks on microcontrollers. To fit within the memory and computational …",
+        "publication_info": {
+          "summary": "M Rusci, A Capotondi, L Benini - Proceedings of Machine …, 2020 - proceedings.mlsys.org",
+          "authors": [
+            {
+              "name": "M Rusci",
+              "link": "https://scholar.google.com/citations?user=18H0d0gAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "18H0d0gAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=18H0d0gAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "A Capotondi",
+              "link": "https://scholar.google.com/citations?user=jU8qnYsAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "jU8qnYsAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=jU8qnYsAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "L Benini",
+              "link": "https://scholar.google.com/citations?user=8riq3sYAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "8riq3sYAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8riq3sYAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "mlsys.org",
+            "file_format": "PDF",
+            "link": "https://proceedings.mlsys.org/paper_files/paper/2020/file/0c8abcf158ed12d0dd94480681186fda-Paper.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=WKN9PiObltMJ",
+          "cited_by": {
+            "total": 148,
+            "link": "https://scholar.google.com/scholar?cites=15246544164183974744&as_sdt=5,33&sciodt=7,33&hl=en&num=20",
+            "cites_id": "15246544164183974744",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=15246544164183974744&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:WKN9PiObltMJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=7%2C33&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AWKN9PiObltMJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 5,
+            "link": "https://scholar.google.com/scholar?cluster=15246544164183974744&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+            "cluster_id": "15246544164183974744",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=7%2C33&cluster=15246544164183974744&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:WKN9PiObltMJ:scholar.google.com/&hl=en&num=20&as_sdt=7,33&sciodt=7,33"
+        }
+      },
+      {
+        "position": 5,
+        "title": "Low-memory neural network training: A technical report",
+        "result_id": "OLSwmmdygaoJ",
+        "link": "https://arxiv.org/abs/1904.10631",
+        "snippet": "Memory is increasingly often the bottleneck when training neural network models. Despite this, techniques to lower the overall memory requirements of training have been less widely …",
+        "publication_info": {
+          "summary": "NS Sohoni, CR Aberger, M Leszczynski… - arXiv preprint arXiv …, 2019 - arxiv.org",
+          "authors": [
+            {
+              "name": "NS Sohoni",
+              "link": "https://scholar.google.com/citations?user=DI5UMWQAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "DI5UMWQAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=DI5UMWQAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "CR Aberger"
+            },
+            {
+              "name": "M Leszczynski",
+              "link": "https://scholar.google.com/citations?user=IVvSxFYAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "IVvSxFYAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=IVvSxFYAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/1904.10631"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=OLSwmmdygaoJ",
+          "cited_by": {
+            "total": 134,
+            "link": "https://scholar.google.com/scholar?cites=12286227047745893432&as_sdt=5,33&sciodt=7,33&hl=en&num=20",
+            "cites_id": "12286227047745893432",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=12286227047745893432&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:OLSwmmdygaoJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=7%2C33&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AOLSwmmdygaoJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=12286227047745893432&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+            "cluster_id": "12286227047745893432",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=7%2C33&cluster=12286227047745893432&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:OLSwmmdygaoJ:scholar.google.com/&hl=en&num=20&as_sdt=7,33&sciodt=7,33"
+        }
+      },
+      {
+        "position": 6,
+        "title": "FELIX: A ferroelectric FET based low power mixed-signal in-memory architecture for DNN acceleration",
+        "result_id": "hyRIEq5mL04J",
+        "link": "https://dl.acm.org/doi/abs/10.1145/3529760",
+        "snippet": "Today, a large number of applications depend on deep neural networks (DNN) to process data and perform complicated tasks at restricted power and latency specifications …",
+        "publication_info": {
+          "summary": "T Soliman, N Laleni, T Kirchner, F Müller… - ACM Transactions on …, 2022 - dl.acm.org",
+          "authors": [
+            {
+              "name": "T Soliman",
+              "link": "https://scholar.google.com/citations?user=DzmmUyIAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "DzmmUyIAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=DzmmUyIAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "N Laleni"
+            },
+            {
+              "name": "T Kirchner"
+            },
+            {
+              "name": "F Müller",
+              "link": "https://scholar.google.com/citations?user=SRJ4JIgAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "SRJ4JIgAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=SRJ4JIgAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "acm.org",
+            "file_format": "PDF",
+            "link": "https://dl.acm.org/doi/pdf/10.1145/3529760"
+          },
+          {
+            "title": "Full View",
+            "link": "https://scholar.google.com/scholar?output=instlink&q=info:hyRIEq5mL04J:scholar.google.com/&hl=en&num=20&as_sdt=7,33&sciodt=7,33&scillfp=3222837399401240919&oi=lle"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=hyRIEq5mL04J",
+          "cited_by": {
+            "total": 50,
+            "link": "https://scholar.google.com/scholar?cites=5633834556680840327&as_sdt=5,33&sciodt=7,33&hl=en&num=20",
+            "cites_id": "5633834556680840327",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=5633834556680840327&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:hyRIEq5mL04J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=7%2C33&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AhyRIEq5mL04J%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 6,
+            "link": "https://scholar.google.com/scholar?cluster=5633834556680840327&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+            "cluster_id": "5633834556680840327",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=7%2C33&cluster=5633834556680840327&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 7,
+        "title": "Mixed-precision neural networks: A survey",
+        "result_id": "AaDM7S1nL5gJ",
+        "link": "https://arxiv.org/abs/2208.06064",
+        "snippet": "Mixed-precision Deep Neural Networks achieve the energy efficiency and throughput needed for hardware deployment, particularly when the resources are limited, without …",
+        "publication_info": {
+          "summary": "M Rakka, ME Fouda, P Khargonekar… - arXiv preprint arXiv …, 2022 - arxiv.org",
+          "authors": [
+            {
+              "name": "M Rakka",
+              "link": "https://scholar.google.com/citations?user=Fb9_7EMAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "Fb9_7EMAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Fb9_7EMAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "ME Fouda",
+              "link": "https://scholar.google.com/citations?user=1mr8HxoAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "1mr8HxoAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1mr8HxoAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "P Khargonekar",
+              "link": "https://scholar.google.com/citations?user=DB9IjY0AAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "DB9IjY0AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=DB9IjY0AAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2208.06064"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=AaDM7S1nL5gJ",
+          "cited_by": {
+            "total": 40,
+            "link": "https://scholar.google.com/scholar?cites=10966097064631246849&as_sdt=5,33&sciodt=7,33&hl=en&num=20",
+            "cites_id": "10966097064631246849",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=10966097064631246849&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:AaDM7S1nL5gJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=7%2C33&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AAaDM7S1nL5gJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=10966097064631246849&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+            "cluster_id": "10966097064631246849",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=7%2C33&cluster=10966097064631246849&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:AaDM7S1nL5gJ:scholar.google.com/&hl=en&num=20&as_sdt=7,33&sciodt=7,33"
+        }
+      },
+      {
+        "position": 8,
+        "title": "ProxSim: GPU-based simulation framework for cross-layer approximate DNN optimization",
+        "result_id": "rUxxGWFUiCEJ",
+        "type": "Pdf",
+        "link": "https://esim-project.eu/files/Images/people/chair-pd/Papers/date_framework.pdf",
+        "snippet": "Through cross-layer approximation of Deep Neural Networks (DNN) significant improvements in hardware resources utilization for DNN applications can be achieved. This …",
+        "publication_info": {
+          "summary": "C De la Parra, A Guntoro, A Kumar - … & Test in Europe Conference & …, 2020 - esim-project.eu",
+          "authors": [
+            {
+              "name": "C De la Parra",
+              "link": "https://scholar.google.com/citations?user=dgdYttsAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "dgdYttsAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dgdYttsAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "A Guntoro",
+              "link": "https://scholar.google.com/citations?user=yd8FB7sAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "yd8FB7sAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=yd8FB7sAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "A Kumar",
+              "link": "https://scholar.google.com/citations?user=7Q6OSvsAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "7Q6OSvsAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7Q6OSvsAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "esim-project.eu",
+            "file_format": "PDF",
+            "link": "https://esim-project.eu/files/Images/people/chair-pd/Papers/date_framework.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=rUxxGWFUiCEJ",
+          "cited_by": {
+            "total": 54,
+            "link": "https://scholar.google.com/scholar?cites=2416273976099687597&as_sdt=5,33&sciodt=7,33&hl=en&num=20",
+            "cites_id": "2416273976099687597",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=2416273976099687597&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:rUxxGWFUiCEJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=7%2C33&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&q=related%3ArUxxGWFUiCEJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 8,
+            "link": "https://scholar.google.com/scholar?cluster=2416273976099687597&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+            "cluster_id": "2416273976099687597",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=7%2C33&cluster=2416273976099687597&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:rUxxGWFUiCEJ:scholar.google.com/&hl=en&num=20&as_sdt=7,33&sciodt=7,33"
+        }
+      },
+      {
+        "position": 9,
+        "title": "Resq: Residual quantization for video perception",
+        "result_id": "9avyqo068skJ",
+        "link": "https://openaccess.thecvf.com/content/ICCV2023/html/Abati_ResQ_Residual_Quantization_for_Video_Perception_ICCV_2023_paper.html",
+        "snippet": "This paper accelerates video perception, such as semantic segmentation and human pose estimation, by levering cross-frame redundancies. Unlike the existing approaches, which …",
+        "publication_info": {
+          "summary": "D Abati, H Ben Yahia, M Nagel… - Proceedings of the …, 2023 - openaccess.thecvf.com",
+          "authors": [
+            {
+              "name": "D Abati"
+            },
+            {
+              "name": "H Ben Yahia"
+            },
+            {
+              "name": "M Nagel"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "thecvf.com",
+            "file_format": "PDF",
+            "link": "https://openaccess.thecvf.com/content/ICCV2023/papers/Abati_ResQ_Residual_Quantization_for_Video_Perception_ICCV_2023_paper.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=9avyqo068skJ",
+          "cited_by": {
+            "total": 8,
+            "link": "https://scholar.google.com/scholar?cites=14551757726120324085&as_sdt=5,33&sciodt=7,33&hl=en&num=20",
+            "cites_id": "14551757726120324085",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=14551757726120324085&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:9avyqo068skJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=7%2C33&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&q=related%3A9avyqo068skJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 7,
+            "link": "https://scholar.google.com/scholar?cluster=14551757726120324085&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+            "cluster_id": "14551757726120324085",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=7%2C33&cluster=14551757726120324085&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:9avyqo068skJ:scholar.google.com/&hl=en&num=20&as_sdt=7,33&sciodt=7,33"
+        }
+      },
+      {
+        "position": 10,
+        "title": "Towards real-world continual learning for human activity recognition",
+        "result_id": "fkirbesPBjoJ",
+        "type": "Pdf",
+        "link": "https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/31787/Thesis-Martin-Schiemer-complete-version.pdf?sequence=3",
+        "snippet": "Sensor-based human activity recognition (HAR) is essential for applications in health monitoring, smart homes, and manufacturing. However, the long-term deployment of HAR …",
+        "publication_info": {
+          "summary": "M Schiemer - 2025 - research-repository.st-andrews.ac …",
+          "authors": [
+            {
+              "name": "M Schiemer"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "st-andrews.ac.uk",
+            "file_format": "PDF",
+            "link": "https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/31787/Thesis-Martin-Schiemer-complete-version.pdf?sequence=3"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=fkirbesPBjoJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:fkirbesPBjoJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=7%2C33&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AfkirbesPBjoJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=4181046807891757182&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+            "cluster_id": "4181046807891757182",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=7%2C33&cluster=4181046807891757182&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:fkirbesPBjoJ:scholar.google.com/&hl=en&num=20&as_sdt=7,33&sciodt=7,33"
+        }
+      },
+      {
+        "position": 11,
+        "title": "一种超低损失的深度神经网络量化压缩方法",
+        "result_id": "5iUDDewj-SAJ",
+        "type": "Pdf",
+        "link": "https://www.sciengine.com/sci-open/doi/pdf/BC57D9A204D3449F90289743D59984F0",
+        "snippet": "深度神经网络(deep neural network, 简称DNN) 量化是一种高效的模型压缩方法, 使用少量位宽表示模型计算过程中的参数和中间结果数据. 数据位宽会直接影响内存占用 …",
+        "publication_info": {
+          "summary": "龚成， 卢冶， 代素蓉， 刘方鑫， 陈新伟， 李涛 - Journal of Software, 2021 - sciengine.com",
+          "authors": [
+            {
+              "name": "龚成， 卢冶， 代素蓉， 刘方鑫， 陈新伟， 李涛"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "sciengine.com",
+            "file_format": "PDF",
+            "link": "https://www.sciengine.com/sci-open/doi/pdf/BC57D9A204D3449F90289743D59984F0"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=5iUDDewj-SAJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:5iUDDewj-SAJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=7%2C33&as_vis=0&cites=4771408704216507266%2C20156749286290710&engine=google_scholar&filter=0&hl=en&num=20&q=related%3A5iUDDewj-SAJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 7,
+            "link": "https://scholar.google.com/scholar?cluster=2375969775152211430&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+            "cluster_id": "2375969775152211430",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=7%2C33&cluster=2375969775152211430&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:5iUDDewj-SAJ:scholar.google.com/&hl=en&num=20&as_sdt=7,33&sciodt=7,33"
+        }
+      }
+    ]
+  }
+}

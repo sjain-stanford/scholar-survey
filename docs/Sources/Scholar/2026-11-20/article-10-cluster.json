@@ -1,0 +1,239 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cluster": "14630303220790911427",
+    "hl": "en",
+    "no_cache": "true"
+  },
+  "accessed_at_utc": "2026-11-20T12:58:51.221092+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6b00440a6114bd5ebf613ed4",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/rF-TD0jFWh2tdNIGCyzUiGZyDVfb2l0hz1bbWk7JIpE/6b00440a6114bd5ebf613ed4.json",
+      "markdown_endpoint": "https://serpapi.com/searches/rF-TD0jFWh2tdNIGCyzUiGZyDVfb2l0hz1bbWk7JIpE/6b00440a6114bd5ebf613ed4.md",
+      "created_at": "2026-11-20 12:58:50 UTC",
+      "processed_at": "2026-11-20 12:58:50 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cluster=14630303220790911427&hl=en",
+      "raw_html_file": "https://serpapi.com/searches/rF-TD0jFWh2tdNIGCyzUiGZyDVfb2l0hz1bbWk7JIpE/6b00440a6114bd5ebf613ed4.html",
+      "total_time_taken": 4.68
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cluster": "14630303220790911427",
+      "hl": "en"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 4,
+      "time_taken_displayed": 0.02
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Qkd: Quantization-aware knowledge distillation",
+        "result_id": "w-F-v0NHCcsJ",
+        "link": "https://arxiv.org/abs/1911.12491",
+        "snippet": "Quantization and Knowledge distillation (KD) methods are widely used to reduce memory and power consumption of deep neural networks (DNNs), especially for resource …",
+        "publication_info": {
+          "summary": "J Kim, Y Bhalgat, J Lee, C Patel, N Kwak - arXiv preprint arXiv:1911.12491, 2019 - arxiv.org",
+          "authors": [
+            {
+              "name": "J Kim",
+              "link": "https://scholar.google.com/citations?user=mzFEJVIAAAAJ&hl=en&oi=sra",
+              "author_id": "mzFEJVIAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=mzFEJVIAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "Y Bhalgat",
+              "link": "https://scholar.google.com/citations?user=q0VSEHYAAAAJ&hl=en&oi=sra",
+              "author_id": "q0VSEHYAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=q0VSEHYAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "J Lee",
+              "link": "https://scholar.google.com/citations?user=lUYLvBgAAAAJ&hl=en&oi=sra",
+              "author_id": "lUYLvBgAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=lUYLvBgAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "C Patel"
+            },
+            {
+              "name": "N Kwak",
+              "link": "https://scholar.google.com/citations?user=h_8-1M0AAAAJ&hl=en&oi=sra",
+              "author_id": "h_8-1M0AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=h_8-1M0AAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/1911.12491"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=w-F-v0NHCcsJ",
+          "cited_by": {
+            "total": 130,
+            "link": "https://scholar.google.com/scholar?cites=14630303220790911427&as_sdt=5,24&sciodt=0,24&hl=en",
+            "cites_id": "14630303220790911427",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C24&cites=14630303220790911427&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:w-F-v0NHCcsJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,24",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C24&cluster=14630303220790911427&engine=google_scholar&hl=en&q=related%3Aw-F-v0NHCcsJ%3Ascholar.google.com%2F",
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:w-F-v0NHCcsJ:scholar.google.com/&hl=en&as_sdt=0,24"
+        }
+      },
+      {
+        "position": 2,
+        "title": "QKD: Quantization-aware Knowledge Distillation",
+        "result_id": "uvROjYSBCzkJ",
+        "link": "https://ui.adsabs.harvard.edu/abs/2019arXiv191112491K/abstract",
+        "snippet": "Quantization and Knowledge distillation (KD) methods are widely used to reduce memory and power consumption of deep neural networks (DNNs), especially for resource …",
+        "publication_info": {
+          "summary": "J Kim, Y Bhalgat, J Lee, C Patel, N Kwak - arXiv e-prints, 2019 - ui.adsabs.harvard.edu",
+          "authors": [
+            {
+              "name": "J Kim"
+            },
+            {
+              "name": "Y Bhalgat"
+            },
+            {
+              "name": "J Lee"
+            },
+            {
+              "name": "C Patel"
+            },
+            {
+              "name": "N Kwak"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=uvROjYSBCzkJ"
+        }
+      },
+      {
+        "position": 3,
+        "title": "QKD: Quantization-aware Knowledge Distillation",
+        "result_id": "w-F-v0NHCcsJ",
+        "type": "Pdf",
+        "link": "https://arxiv.org/pdf/1911.12491/1000",
+        "snippet": "Quantization and Knowledge distillation (KD) methods are widely used to reduce memory and power consumption of deep neural networks (DNNs), especially for resource …",
+        "publication_info": {
+          "summary": "J Kim, Y Bhalgat, J Lee, C Patel, N Kwak - arxiv.org",
+          "authors": [
+            {
+              "name": "J Kim",
+              "link": "https://scholar.google.com/citations?user=mzFEJVIAAAAJ&hl=en&oi=sra",
+              "author_id": "mzFEJVIAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=mzFEJVIAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "Y Bhalgat",
+              "link": "https://scholar.google.com/citations?user=q0VSEHYAAAAJ&hl=en&oi=sra",
+              "author_id": "q0VSEHYAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=q0VSEHYAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "J Lee",
+              "link": "https://scholar.google.com/citations?user=lUYLvBgAAAAJ&hl=en&oi=sra",
+              "author_id": "lUYLvBgAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=lUYLvBgAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "C Patel"
+            },
+            {
+              "name": "N Kwak",
+              "link": "https://scholar.google.com/citations?user=h_8-1M0AAAAJ&hl=en&oi=sra",
+              "author_id": "h_8-1M0AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=h_8-1M0AAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/1911.12491/1000"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=w-F-v0NHCcsJ"
+        }
+      },
+      {
+        "position": 4,
+        "title": "QKD: Quantization-aware Knowledge Distillation",
+        "result_id": "w-F-v0NHCcsJ",
+        "type": "Pdf",
+        "link": "https://www.researchgate.net/profile/Yash-Bhalgat/publication/337672282_QKD_Quantization-aware_Knowledge_Distillation/links/5e163398a6fdcc2837631d26/QKD-Quantization-aware-Knowledge-Distillation.pdf",
+        "snippet": "Quantization and Knowledge distillation (KD) methods are widely used to reduce memory and power consumption of deep neural networks (DNNs), especially for resource …",
+        "publication_info": {
+          "summary": "J Kim, Y Bhalgat, J Lee, C Patel, N Kwak - researchgate.net",
+          "authors": [
+            {
+              "name": "J Kim",
+              "link": "https://scholar.google.com/citations?user=mzFEJVIAAAAJ&hl=en&oi=sra",
+              "author_id": "mzFEJVIAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=mzFEJVIAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "Y Bhalgat",
+              "link": "https://scholar.google.com/citations?user=q0VSEHYAAAAJ&hl=en&oi=sra",
+              "author_id": "q0VSEHYAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=q0VSEHYAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "J Lee",
+              "link": "https://scholar.google.com/citations?user=lUYLvBgAAAAJ&hl=en&oi=sra",
+              "author_id": "lUYLvBgAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=lUYLvBgAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "C Patel"
+            },
+            {
+              "name": "N Kwak",
+              "link": "https://scholar.google.com/citations?user=h_8-1M0AAAAJ&hl=en&oi=sra",
+              "author_id": "h_8-1M0AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=h_8-1M0AAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "researchgate.net",
+            "file_format": "PDF",
+            "link": "https://www.researchgate.net/profile/Yash-Bhalgat/publication/337672282_QKD_Quantization-aware_Knowledge_Distillation/links/5e163398a6fdcc2837631d26/QKD-Quantization-aware-Knowledge-Distillation.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=w-F-v0NHCcsJ"
+        }
+      }
+    ]
+  }
+}

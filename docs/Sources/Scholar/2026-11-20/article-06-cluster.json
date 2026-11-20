@@ -1,0 +1,200 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cluster": "8935915395260763099",
+    "hl": "en",
+    "no_cache": "true"
+  },
+  "accessed_at_utc": "2026-11-20T12:58:46.189439+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6b004405aa2554e93d53c7a2",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/2A7lVTW50QAOZ2Q45FXpmJYD1szFHumAlGZFqCxvER4/6b004405aa2554e93d53c7a2.json",
+      "markdown_endpoint": "https://serpapi.com/searches/2A7lVTW50QAOZ2Q45FXpmJYD1szFHumAlGZFqCxvER4/6b004405aa2554e93d53c7a2.md",
+      "created_at": "2026-11-20 12:58:45 UTC",
+      "processed_at": "2026-11-20 12:58:45 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cluster=8935915395260763099&hl=en",
+      "raw_html_file": "https://serpapi.com/searches/2A7lVTW50QAOZ2Q45FXpmJYD1szFHumAlGZFqCxvER4/6b004405aa2554e93d53c7a2.html",
+      "total_time_taken": 1.91
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cluster": "8935915395260763099",
+      "hl": "en"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 4,
+      "time_taken_displayed": 0.02
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "7 μJ/inference end-to-end gesture recognition from dynamic vision sensor data using ternarized hybrid convolutional neural networks",
+        "result_id": "20t2HbW_AnwJ",
+        "type": "Html",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0167739X23002704",
+        "snippet": "Dynamic vision sensor (DVS) cameras enable energy-activity proportional visual sensing by only propagating events produced by changes in the observed scene. Furthermore, by …",
+        "publication_info": {
+          "summary": "G Rutishauser, M Scherer, T Fischer, L Benini - Future Generation …, 2023 - Elsevier",
+          "authors": [
+            {
+              "name": "G Rutishauser",
+              "link": "https://scholar.google.com/citations?user=lkVy1RQAAAAJ&hl=en&oi=sra",
+              "author_id": "lkVy1RQAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=lkVy1RQAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "M Scherer",
+              "link": "https://scholar.google.com/citations?user=PqOdtJ4AAAAJ&hl=en&oi=sra",
+              "author_id": "PqOdtJ4AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PqOdtJ4AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "T Fischer",
+              "link": "https://scholar.google.com/citations?user=RuIpb14AAAAJ&hl=en&oi=sra",
+              "author_id": "RuIpb14AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=RuIpb14AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "L Benini",
+              "link": "https://scholar.google.com/citations?user=8riq3sYAAAAJ&hl=en&oi=sra",
+              "author_id": "8riq3sYAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8riq3sYAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "HTML",
+            "link": null
+          },
+          {
+            "title": "sciencedirect.com",
+            "file_format": "HTML",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167739X23002704"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=20t2HbW_AnwJ",
+          "html_version": "https://www.sciencedirect.com/science/article/pii/S0167739X23002704",
+          "cited_by": {
+            "total": 13,
+            "link": "https://scholar.google.com/scholar?cites=8935915395260763099&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "8935915395260763099",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=8935915395260763099&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:20t2HbW_AnwJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=8935915395260763099&engine=google_scholar&hl=en&q=related%3A20t2HbW_AnwJ%3Ascholar.google.com%2F"
+        }
+      },
+      {
+        "position": 2,
+        "title": "7 μJ/inference end-to-end gesture recognition from dynamic vision sensor data using ternarized hybrid convolutional neural networks",
+        "result_id": "ro98OZov2TgJ",
+        "link": "https://www.research-collection.ethz.ch/entities/publication/f757fcaf-139c-467a-994d-68d3455fe58d",
+        "snippet": "Dynamic vision sensor (DVS) cameras enable energy-activity proportional visual sensing by only propagating events produced by changes in the observed scene. Furthermore, by …",
+        "publication_info": {
+          "summary": "G Rutishauser, M Scherer… - Future Generation …, 2023 - research-collection.ethz.ch",
+          "authors": [
+            {
+              "name": "G Rutishauser"
+            },
+            {
+              "name": "M Scherer"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "ethz.ch",
+            "file_format": "PDF",
+            "link": "https://www.research-collection.ethz.ch/bitstreams/490485ca-6121-41c1-b0ea-f4b66403dad6/download"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ro98OZov2TgJ"
+        }
+      },
+      {
+        "position": 3,
+        "title": "7 μJ/inference end-to-end gesture recognition from dynamic vision sensor data using ternarized hybrid convolutional neural networks",
+        "result_id": "49G--Yj8w1QJ",
+        "type": "Pdf",
+        "link": "https://www.research-collection.ethz.ch/server/api/core/bitstreams/490485ca-6121-41c1-b0ea-f4b66403dad6/content",
+        "snippet": "abstract Dynamic vision sensor (DVS) cameras enable energy-activity proportional visual sensing by only propagating events produced by changes in the observed scene …",
+        "publication_info": {
+          "summary": "G Rutishauser, M Scherer… - Future Generation …, 2023 - research-collection.ethz.ch",
+          "authors": [
+            {
+              "name": "G Rutishauser"
+            },
+            {
+              "name": "M Scherer"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "ethz.ch",
+            "file_format": "PDF",
+            "link": "https://www.research-collection.ethz.ch/server/api/core/bitstreams/490485ca-6121-41c1-b0ea-f4b66403dad6/content"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=49G--Yj8w1QJ"
+        }
+      },
+      {
+        "position": 4,
+        "title": "7 μJ/inference end-to-end gesture recognition from dynamic vision sensor data using ternarized hybrid convolutional neural networks",
+        "result_id": "P6Dn9PPw8VwJ",
+        "link": "https://cris.unibo.it/handle/11585/956437",
+        "snippet": "Dynamic vision sensor (DVS) cameras enable energy-activity proportional visual sensing by only propagating events produced by changes in the observed scene. Furthermore, by …",
+        "publication_info": {
+          "summary": "G Rutishauser, M Scherer, T Fischer… - FUTURE GENERATION …, 2023 - cris.unibo.it",
+          "authors": [
+            {
+              "name": "G Rutishauser"
+            },
+            {
+              "name": "M Scherer"
+            },
+            {
+              "name": "T Fischer"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "unibo.it",
+            "file_format": "PDF",
+            "link": "https://cris.unibo.it/bitstream/11585/956437/1/7%20inference%20end-to-end%20gesture%20recognition%20from%20dynamic%20vision%20sensor%20data%20using%20ternarized%20hybrid%20convolutional%20neural%20networks.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=P6Dn9PPw8VwJ"
+        }
+      }
+    ]
+  }
+}

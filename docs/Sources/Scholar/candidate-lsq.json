@@ -1,0 +1,258 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "q": "intitle:\"Learned Step Size Quantization\"",
+    "hl": "en",
+    "num": 10
+  },
+  "accessed_at_utc": "2026-10-07T12:40:05.983753+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63da6c83b3ff32223fd67",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/-TjZoCiYUSOBzYYr9wnIiWD03ejuk9eUOar2Mbg_Cuo/6ac63da6c83b3ff32223fd67.json",
+      "markdown_endpoint": "https://serpapi.com/searches/-TjZoCiYUSOBzYYr9wnIiWD03ejuk9eUOar2Mbg_Cuo/6ac63da6c83b3ff32223fd67.md",
+      "created_at": "2026-10-07 12:40:06 UTC",
+      "processed_at": "2026-10-07 12:40:06 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?q=intitle%3A%22Learned+Step+Size+Quantization%22&hl=en&num=10",
+      "raw_html_file": "https://serpapi.com/searches/-TjZoCiYUSOBzYYr9wnIiWD03ejuk9eUOar2Mbg_Cuo/6ac63da6c83b3ff32223fd67.html",
+      "total_time_taken": 1.4
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "q": "intitle:\"Learned Step Size Quantization\"",
+      "hl": "en",
+      "num": "10"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 6,
+      "time_taken_displayed": 0.2,
+      "query_displayed": "intitle:\"Learned Step Size Quantization\""
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Learned step size quantization",
+        "result_id": "-HNnq9yy7iwJ",
+        "link": "https://arxiv.org/abs/1902.08153",
+        "snippet": "Deep networks run with low precision operations at inference time offer power and space advantages over high precision alternatives, but need to overcome the challenge of …",
+        "publication_info": {
+          "summary": "SK Esser, JL McKinstry, D Bablani… - arXiv preprint arXiv …, 2019 - arxiv.org",
+          "authors": [
+            {
+              "name": "SK Esser",
+              "link": "https://scholar.google.com/citations?user=-UrVa3AAAAAJ&hl=en&oi=sra",
+              "author_id": "-UrVa3AAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-UrVa3AAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "JL McKinstry",
+              "link": "https://scholar.google.com/citations?user=qVhCHyoAAAAJ&hl=en&oi=sra",
+              "author_id": "qVhCHyoAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qVhCHyoAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "D Bablani",
+              "link": "https://scholar.google.com/citations?user=qlh34HoAAAAJ&hl=en&oi=sra",
+              "author_id": "qlh34HoAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qlh34HoAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/1902.08153"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=-HNnq9yy7iwJ",
+          "cited_by": {
+            "total": 1544,
+            "link": "https://scholar.google.com/scholar?cites=3237721842964198392&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "3237721842964198392",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=3237721842964198392&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:-HNnq9yy7iwJ:scholar.google.com/&scioq=intitle:%22Learned+Step+Size+Quantization%22&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3A-HNnq9yy7iwJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 5,
+            "link": "https://scholar.google.com/scholar?cluster=3237721842964198392&hl=en&as_sdt=0,5",
+            "cluster_id": "3237721842964198392",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=3237721842964198392&engine=google_scholar&hl=en"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:-HNnq9yy7iwJ:scholar.google.com/+intitle:%22Learned+Step+Size+Quantization%22&hl=en&as_sdt=0,5"
+        }
+      },
+      {
+        "position": 2,
+        "title": "2019. Learned step size quantization",
+        "result_id": "gkaHuA36kq4J",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+          "summary": "SK Esser, LMK Jeffrey, D Bablani, R Appuswamy… - arXiv preprint, 2019",
+          "authors": [
+            {
+              "name": "SK Esser"
+            },
+            {
+              "name": "LMK Jeffrey"
+            },
+            {
+              "name": "D Bablani",
+              "link": "https://scholar.google.com/citations?user=qlh34HoAAAAJ&hl=en&oi=sra",
+              "author_id": "qlh34HoAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qlh34HoAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "R Appuswamy"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=gkaHuA36kq4J",
+          "cited_by": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cites=12579391646036608642&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "12579391646036608642",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12579391646036608642&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:gkaHuA36kq4J:scholar.google.com/&scioq=intitle:%22Learned+Step+Size+Quantization%22&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AgkaHuA36kq4J%3Ascholar.google.com%2F"
+        }
+      },
+      {
+        "position": 3,
+        "title": "Learned step size quantization. 10.48550",
+        "result_id": "ihCvF9fk5a8J",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+          "summary": "SK Esser, JL McKinstry, D Bablani, R Appuswamy… - arXiv, 1902",
+          "authors": [
+            {
+              "name": "SK Esser"
+            },
+            {
+              "name": "JL McKinstry"
+            },
+            {
+              "name": "D Bablani"
+            },
+            {
+              "name": "R Appuswamy"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ihCvF9fk5a8J",
+          "cited_by": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cites=12674788338770579594&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "12674788338770579594",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12674788338770579594&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:ihCvF9fk5a8J:scholar.google.com/&scioq=intitle:%22Learned+Step+Size+Quantization%22&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AihCvF9fk5a8J%3Ascholar.google.com%2F"
+        }
+      },
+      {
+        "position": 4,
+        "title": "Learned step size quantization",
+        "result_id": "j6xcVN92HPwJ",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+          "summary": "DS Modha - International Conference on Learning, 2019",
+          "authors": [
+            {
+              "name": "DS Modha"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=j6xcVN92HPwJ",
+          "cited_by": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cites=18166525698470882447&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "18166525698470882447",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=18166525698470882447&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:j6xcVN92HPwJ:scholar.google.com/&scioq=intitle:%22Learned+Step+Size+Quantization%22&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3Aj6xcVN92HPwJ%3Ascholar.google.com%2F"
+        }
+      },
+      {
+        "position": 5,
+        "title": "Learned step size quantization, CoRR",
+        "result_id": "sSc0XIWt3DwJ",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+          "summary": "SK Esser - arXiv preprint arXiv:1902.08153, 2019",
+          "authors": [
+            {
+              "name": "SK Esser"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=sSc0XIWt3DwJ",
+          "cited_by": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cites=4385570925441198001&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "4385570925441198001",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4385570925441198001&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:sSc0XIWt3DwJ:scholar.google.com/&scioq=intitle:%22Learned+Step+Size+Quantization%22&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AsSc0XIWt3DwJ%3Ascholar.google.com%2F"
+        }
+      },
+      {
+        "position": 6,
+        "title": "Learned step size quantization. CoRR abs/1902.08153 (2019)",
+        "result_id": "Oh8Czsm0NSEJ",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+          "summary": "SK Esser, JL McKinstry, D Bablani, R Appuswamy… - arXiv preprint arXiv …, 1902",
+          "authors": [
+            {
+              "name": "SK Esser"
+            },
+            {
+              "name": "JL McKinstry"
+            },
+            {
+              "name": "D Bablani"
+            },
+            {
+              "name": "R Appuswamy"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Oh8Czsm0NSEJ",
+          "cited_by": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cites=2393017555854958394&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "2393017555854958394",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=2393017555854958394&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:Oh8Czsm0NSEJ:scholar.google.com/&scioq=intitle:%22Learned+Step+Size+Quantization%22&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AOh8Czsm0NSEJ%3Ascholar.google.com%2F"
+        }
+      }
+    ]
+  }
+}

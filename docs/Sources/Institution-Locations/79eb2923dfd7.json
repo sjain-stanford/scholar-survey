@@ -1,0 +1,2291 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=University+of+Illinois+Urbana-Champaign",
+  "http_status": 200,
+  "query": "University of Illinois Urbana-Champaign",
+  "data": {
+    "number_of_results": 35540,
+    "time_taken": 284,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "illinois.edu"
+        ],
+        "established": 1867,
+        "external_ids": [
+          {
+            "all": [
+              "100005302",
+              "100009706",
+              "100006787",
+              "100007285",
+              "100006299",
+              "100006297",
+              "100006059",
+              "100006302",
+              "100006296",
+              "100006301",
+              "100006295",
+              "100005471",
+              "100006298",
+              "100006300",
+              "100011638",
+              "100020319"
+            ],
+            "preferred": "100005302",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.35403.31"
+            ],
+            "preferred": "grid.35403.31",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1936 9991"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q457281",
+              "Q4878755"
+            ],
+            "preferred": "Q457281",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/047426m28",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://illinois.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 40.11059,
+              "lng": -88.20727,
+              "name": "Urbana"
+            },
+            "geonames_id": 4914570
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UIUC"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de Illinois en Urbana-Champaign"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Illinois"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Illinois Urbana-Champaign"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de l'Illinois à Urbana-Champaign"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Illinois Space Grant Consortium",
+            "type": "child",
+            "id": "https://ror.org/017mjs592"
+          },
+          {
+            "label": "National Center for Supercomputing Applications",
+            "type": "child",
+            "id": "https://ror.org/03r10zj06"
+          },
+          {
+            "label": "Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support",
+            "type": "child",
+            "id": "https://ror.org/01v6d0b34"
+          },
+          {
+            "label": "Chan Zuckerberg Biohub Chicago",
+            "type": "child",
+            "id": "https://ror.org/014nxkk19"
+          },
+          {
+            "label": "Anthony J. Leggett Institute for Condensed Matter Theory",
+            "type": "child",
+            "id": "https://ror.org/02zvy6a06"
+          },
+          {
+            "label": "Lemann Center for Brazilian Studies",
+            "type": "child",
+            "id": "https://ror.org/04krc7206"
+          },
+          {
+            "label": "Illinois State Geological Survey",
+            "type": "child",
+            "id": "https://ror.org/0438t2p07"
+          },
+          {
+            "label": "University of Illinois System",
+            "type": "parent",
+            "id": "https://ror.org/05e94g991"
+          },
+          {
+            "label": "Advanced Digital Sciences Center",
+            "type": "related",
+            "id": "https://ror.org/01xaqx887"
+          },
+          {
+            "label": "Amita Health",
+            "type": "related",
+            "id": "https://ror.org/02z7tpb72"
+          },
+          {
+            "label": "Carle Foundation Hospital",
+            "type": "related",
+            "id": "https://ror.org/02nfcgd30"
+          },
+          {
+            "label": "Jornada Basin Long Term Ecological Research",
+            "type": "related",
+            "id": "https://ror.org/05976ta47"
+          },
+          {
+            "label": "Materials Science in Extreme Environments University Research Alliance",
+            "type": "related",
+            "id": "https://ror.org/04n07f274"
+          },
+          {
+            "label": "Taylor Geospatial Institute",
+            "type": "related",
+            "id": "https://ror.org/0573j3j10"
+          },
+          {
+            "label": "C3.ai Digital Transformation Institute",
+            "type": "related",
+            "id": "https://ror.org/00721sg89"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-05",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "c3sr.com"
+        ],
+        "established": 2016,
+        "external_ids": [
+          {
+            "all": [
+              "100016684"
+            ],
+            "preferred": "100016684",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/01vw47489",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.c3sr.com"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 40.11059,
+              "lng": -88.20727,
+              "name": "Urbana"
+            },
+            "geonames_id": 4914570
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "C3SR"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Center for Cognitive Computing Systems Research"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "IBM / University of Illinois Urbana-Champaign Center for Cognitive Computing Systems Research"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "IBM-ILLINOIS Center for Cognitive Computing Systems Research"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-11-21",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-11-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "lemann.illinois.edu"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "100019068"
+            ],
+            "preferred": "100019068",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/04krc7206",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://lemann.illinois.edu"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 40.11059,
+              "lng": -88.20727,
+              "name": "Urbana"
+            },
+            "geonames_id": 4914570
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "LCBS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Lemann Center for Brazilian Studies"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Lemann Center for Brazilian Studies at the University of Illinois at Urbana-Champaign"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "The Lemann Center for Brazilian Studies"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Illinois Urbana-Champaign",
+            "type": "parent",
+            "id": "https://ror.org/047426m28"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1850,
+        "external_ids": [
+          {
+            "all": [
+              "grid.431535.5"
+            ],
+            "preferred": "grid.431535.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2234 3627"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7900213"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04kp3hw27",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.urbana.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Urbana_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "OH",
+              "country_subdivision_name": "Ohio",
+              "lat": 40.10839,
+              "lng": -83.75243,
+              "name": "Urbana"
+            },
+            "geonames_id": 5174897
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Urbana University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uillinois.edu"
+        ],
+        "established": 1867,
+        "external_ids": [
+          {
+            "all": [
+              "100010443"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.411030.7"
+            ],
+            "preferred": "grid.411030.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 1400 6524"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1145814"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05e94g991",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uillinois.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Illinois_system"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 40.11059,
+              "lng": -88.20727,
+              "name": "Urbana"
+            },
+            "geonames_id": 4914570
+          }
+        ],
+        "names": [
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de Illinois"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Illinois System"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de l'illinois"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Illinois Urbana-Champaign",
+            "type": "child",
+            "id": "https://ror.org/047426m28"
+          },
+          {
+            "label": "University of Illinois Chicago",
+            "type": "child",
+            "id": "https://ror.org/02mpq6x41"
+          },
+          {
+            "label": "University of Illinois at Springfield",
+            "type": "child",
+            "id": "https://ror.org/0126qma51"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uic.edu"
+        ],
+        "established": 1858,
+        "external_ids": [
+          {
+            "all": [
+              "100008522",
+              "100008523",
+              "100006631",
+              "100011118",
+              "100019924",
+              "100023621"
+            ],
+            "preferred": "100008522",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.185648.6"
+            ],
+            "preferred": "grid.185648.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2175 0319"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q955764"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02mpq6x41",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uic.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Illinois_at_Chicago"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 41.85003,
+              "lng": -87.65005,
+              "name": "Chicago"
+            },
+            "geonames_id": 4887398
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UIC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "University of Illinois Chicago"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Illinois at Chicago"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Illinois at Chicago Circle"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de l'illinois à chicago"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Illinois Indiana Sea Grant",
+            "type": "child",
+            "id": "https://ror.org/00vg14f79"
+          },
+          {
+            "label": "University of Illinois Chicago, Rockford campus",
+            "type": "child",
+            "id": "https://ror.org/02437s643"
+          },
+          {
+            "label": "Peoria campus of the University of Illinois System",
+            "type": "child",
+            "id": "https://ror.org/02qrdc062"
+          },
+          {
+            "label": "University of Illinois System",
+            "type": "parent",
+            "id": "https://ror.org/05e94g991"
+          },
+          {
+            "label": "University of Illinois Hospital & Health Sciences System",
+            "type": "related",
+            "id": "https://ror.org/03jhe7195"
+          },
+          {
+            "label": "Jesse Brown VA Medical Center",
+            "type": "related",
+            "id": "https://ror.org/049qtwc86"
+          },
+          {
+            "label": "John H. Stroger, Jr. Hospital of Cook County",
+            "type": "related",
+            "id": "https://ror.org/05626m728"
+          },
+          {
+            "label": "Advocate Christ Medical Center",
+            "type": "related",
+            "id": "https://ror.org/04gw0wg65"
+          },
+          {
+            "label": "Advocate Illinois Masonic Medical Center",
+            "type": "related",
+            "id": "https://ror.org/036vtmj33"
+          },
+          {
+            "label": "Advocate Lutheran General Hospital",
+            "type": "related",
+            "id": "https://ror.org/04c8vnp90"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "niu.edu"
+        ],
+        "established": 1895,
+        "external_ids": [
+          {
+            "all": [
+              "100007058",
+              "100007291"
+            ],
+            "preferred": "100007058",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.261128.e"
+            ],
+            "preferred": "grid.261128.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9003 8934"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1191344"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/012wxa772",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.niu.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Northern_Illinois_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 41.92947,
+              "lng": -88.75036,
+              "name": "DeKalb"
+            },
+            "geonames_id": 4889553
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NIU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Northern Illinois University"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad del Norte de Illinois"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "NIU Observatory",
+            "type": "child",
+            "id": "https://ror.org/02xse0b92"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "iwu.edu"
+        ],
+        "established": 1850,
+        "external_ids": [
+          {
+            "all": [
+              "100019817"
+            ],
+            "preferred": "100019817",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.257312.0"
+            ],
+            "preferred": "grid.257312.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2301 9642"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2159219"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/021aqk126",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.iwu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Illinois_Wesleyan_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 40.4842,
+              "lng": -88.99369,
+              "name": "Bloomington"
+            },
+            "geonames_id": 4885164
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IWU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Illinois Wesleyan University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-11-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "illinoisstate.edu"
+        ],
+        "established": 1857,
+        "external_ids": [
+          {
+            "all": [
+              "100010926"
+            ],
+            "preferred": "100010926",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.257310.2"
+            ],
+            "preferred": "grid.257310.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1936 8825"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q558922"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/050kcr883",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://illinoisstate.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Illinois_State_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 40.5142,
+              "lng": -88.99063,
+              "name": "Normal"
+            },
+            "geonames_id": 4903780
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ISU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Illinois State University"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad del Estado de Illinois"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université d'État de l'illinois"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "neiu.edu"
+        ],
+        "established": 1867,
+        "external_ids": [
+          {
+            "all": [
+              "grid.261108.c"
+            ],
+            "preferred": "grid.261108.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9814 4678"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2000943"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04edns687",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.neiu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Northeastern_Illinois_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 41.85003,
+              "lng": -87.65005,
+              "name": "Chicago"
+            },
+            "geonames_id": 4887398
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NEIU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Northeastern Illinois University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "wiu.edu"
+        ],
+        "established": 1899,
+        "external_ids": [
+          {
+            "all": [
+              "100018100"
+            ],
+            "preferred": "100018100",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.268180.5"
+            ],
+            "preferred": "grid.268180.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2179 1284"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1474005"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02sshz518",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.wiu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Western_Illinois_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 40.45921,
+              "lng": -90.6718,
+              "name": "Macomb"
+            },
+            "geonames_id": 4900817
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "WIU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Western Illinois University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "eiu.edu"
+        ],
+        "established": 1895,
+        "external_ids": [
+          {
+            "all": [
+              "100010077",
+              "100011574"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.255392.a"
+            ],
+            "preferred": "grid.255392.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1936 7777"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q624985"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/035z2ew45",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.eiu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Eastern_Illinois_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 39.49615,
+              "lng": -88.17615,
+              "name": "Charleston"
+            },
+            "geonames_id": 4235668
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "EIU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Eastern Illinois University"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de l'illinois de l'est"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-06-14",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-06-23",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "crb.research.illinois.edu"
+        ],
+        "established": 1932,
+        "external_ids": [
+          {
+            "all": [
+              "100016816"
+            ],
+            "preferred": "100016816",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/04kxjfe52",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://crb.research.illinois.edu"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 40.11059,
+              "lng": -88.20727,
+              "name": "Urbana"
+            },
+            "geonames_id": 4914570
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "CRB"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Campus Research Board"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Illinois Campus Research Board"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "The Campus Research Board"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "The Illinois Campus Research Board"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Illinois Research Board"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uis.edu"
+        ],
+        "established": 1969,
+        "external_ids": [
+          {
+            "all": [
+              "100022022"
+            ],
+            "preferred": "100022022",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.266464.4"
+            ],
+            "preferred": "grid.266464.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0845 7273"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q941855"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0126qma51",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uis.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Illinois_at_Springfield"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 39.80172,
+              "lng": -89.64371,
+              "name": "Springfield"
+            },
+            "geonames_id": 4250542
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Sangamon State University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UIS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Illinois at Springfield"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de l'illinois à Springfield"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Illinois System",
+            "type": "parent",
+            "id": "https://ror.org/05e94g991"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1972,
+        "external_ids": [
+          {
+            "all": [
+              "grid.430864.d"
+            ],
+            "preferred": "grid.430864.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9018 7542"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/02437s643",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uillinois.edu"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 42.27113,
+              "lng": -89.094,
+              "name": "Rockford"
+            },
+            "geonames_id": 4907959
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UICOMR"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Illinois Chicago, Rockford campus"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Illinois at Rockford"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Illinois Chicago",
+            "type": "parent",
+            "id": "https://ror.org/02mpq6x41"
+          },
+          {
+            "label": "Swedish American Hospital",
+            "type": "related",
+            "id": "https://ror.org/05scd7d31"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1882,
+        "external_ids": [
+          {
+            "all": [
+              "grid.430852.8"
+            ],
+            "preferred": "grid.430852.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q7895524"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02qrdc062",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uillinois.edu"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 40.69365,
+              "lng": -89.58899,
+              "name": "Peoria"
+            },
+            "geonames_id": 4905687
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Peoria campus of the University of Illinois System"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Illinois at Peoria"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Illinois Chicago",
+            "type": "parent",
+            "id": "https://ror.org/02mpq6x41"
+          },
+          {
+            "label": "OSF Saint Francis Medical Center",
+            "type": "related",
+            "id": "https://ror.org/03qrwy954"
+          },
+          {
+            "label": "Children's Hospital of Illinois",
+            "type": "related",
+            "id": "https://ror.org/0457mvc71"
+          },
+          {
+            "label": "VA Illiana Health Care System",
+            "type": "related",
+            "id": "https://ror.org/00kan1k39"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1876,
+        "external_ids": [
+          {
+            "all": [
+              "grid.431565.0"
+            ],
+            "preferred": "grid.431565.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0020 5821"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q16257635"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/013rm7441",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://champaign.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Champaign_Public_Library"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 40.11642,
+              "lng": -88.24338,
+              "name": "Champaign"
+            },
+            "geonames_id": 4887158
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Champaign Public Library"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ccrpc.org"
+        ],
+        "established": 1966,
+        "external_ids": [],
+        "id": "https://ror.org/00bvvr694",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ccrpc.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 40.11059,
+              "lng": -88.20727,
+              "name": "Urbana"
+            },
+            "geonames_id": 4914570
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "CCRPC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Champaign County RPC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Champaign County Regional Planning Commission"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "RPC"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-02-13",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "100022987"
+            ],
+            "preferred": "100022987",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "0000 0004 0465 6832"
+            ],
+            "preferred": "0000 0004 0465 6832",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1204"
+            ],
+            "preferred": "Q1204",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/025cbjw81",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.illinois.gov"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Illinois"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 39.80172,
+              "lng": -89.64371,
+              "name": "Springfield"
+            },
+            "geonames_id": 4250542
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "State of Illinois"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Illinois Department of Public Health",
+            "type": "child",
+            "id": "https://ror.org/027bk5v43"
+          },
+          {
+            "label": "Illinois Department of Agriculture",
+            "type": "child",
+            "id": "https://ror.org/00pd5rv22"
+          },
+          {
+            "label": "Illinois Department of Transportation",
+            "type": "child",
+            "id": "https://ror.org/02vgzrk89"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "siumed.edu"
+        ],
+        "established": 1970,
+        "external_ids": [
+          {
+            "all": [
+              "100008571"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.280418.7"
+            ],
+            "preferred": "grid.280418.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0705 8684"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7570024"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0232r4451",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.siumed.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Southern_Illinois_University_School_of_Medicine"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 39.80172,
+              "lng": -89.64371,
+              "name": "Springfield"
+            },
+            "geonames_id": 4250542
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "SIU Medicine"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "SIU School of Medicine"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Southern Illinois University Medicine"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Southern Illinois University School of Medicine"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Southern Illinois University System",
+            "type": "parent",
+            "id": "https://ror.org/05vz28418"
+          },
+          {
+            "label": "Memorial Medical Center",
+            "type": "related",
+            "id": "https://ror.org/02hxrag63"
+          },
+          {
+            "label": "St. John's Hospital",
+            "type": "related",
+            "id": "https://ror.org/04p4s5b35"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 17820
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 9028
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 4726
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 3953
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 3567
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2265
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2036
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 780
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 417
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 6079
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 4070
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2348
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2061
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1577
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 943
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 866
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 836
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 800
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 765
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 15033
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 9634
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 7338
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1991
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 950
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 595
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 35540
+        }
+      ]
+    }
+  }
+}

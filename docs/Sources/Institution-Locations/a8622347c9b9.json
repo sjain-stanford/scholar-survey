@@ -1,0 +1,1939 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Guangdong+University+of+Science+and+Technology",
+  "http_status": 200,
+  "query": "Guangdong University of Science and Technology",
+  "data": {
+    "number_of_results": 45790,
+    "time_taken": 71,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-05",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "gdust.edu.cn"
+        ],
+        "established": 2003,
+        "external_ids": [
+          {
+            "all": [
+              "100019025"
+            ],
+            "preferred": "100019025",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/022ajrb17",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.gdust.edu.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.01797,
+              "lng": 113.74866,
+              "name": "Dongguan"
+            },
+            "geonames_id": 1812545
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "GUST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Guangdong University of Science and Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "广东科技学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1985,
+        "external_ids": [
+          {
+            "all": [
+              "501100010839"
+            ],
+            "preferred": "501100010839",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.464311.5"
+            ],
+            "preferred": "grid.464311.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1757 5521"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5613630"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01wq2p249",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.gdit.edu.cn/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Guangdong_Institute_of_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "GIST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Guangdong Institute of Science and Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Guangdong Polytechnic of Science and Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "广东科学技术职业学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "gdstc.gd.gov.cn"
+        ],
+        "established": 1999,
+        "external_ids": [
+          {
+            "all": [
+              "501100007162",
+              "501100004000",
+              "501100021171",
+              "501100018540",
+              "501100012245",
+              "501100015956",
+              "501100012243",
+              "100012540",
+              "100016691",
+              "100012541",
+              "501100013050",
+              "501100019337"
+            ],
+            "preferred": "501100007162",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.454741.7"
+            ],
+            "preferred": "grid.454741.7",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/00tjzgn92",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://gdstc.gd.gov.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Department of Science and Technology of Guangdong Province"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Guangdong Science and Technology Department"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "广东省科学技术厅"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "People's Government of Guangdong Province",
+            "type": "parent",
+            "id": "https://ror.org/050m0b055"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "gdut.edu.cn"
+        ],
+        "established": 1952,
+        "external_ids": [
+          {
+            "all": [
+              "501100008326"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.411851.8"
+            ],
+            "preferred": "grid.411851.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0040 0205"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q716822"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04azbjn80",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://english.gdut.edu.cn/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Guangdong_University_of_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "GDUT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Guangdong University of Technology"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Guǎngdōng Gōngyè Dàxué"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "广东工业大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-08-06",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-08-07",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "gdiist.cn"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "Q131921611"
+            ],
+            "preferred": "Q131921611",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/027v2y954",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.gdiist.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 22.27694,
+              "lng": 113.56778,
+              "name": "Zhuhai"
+            },
+            "geonames_id": 1790437
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Guangdong Institute of Intelligence Science and Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "广东省智能科学与技术研究院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1958,
+        "external_ids": [
+          {
+            "all": [
+              "grid.458511.c"
+            ],
+            "preferred": "grid.458511.c",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/058xdps70",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.gzb.cas.cn/zxtg/201411/t20141115_4253514.html"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Guangdong Province Science and Technology Library"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Guangdong Academy of Sciences",
+            "type": "parent",
+            "id": "https://ror.org/01g9hkj35"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2000,
+        "external_ids": [
+          {
+            "all": [
+              "100008963"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.459577.d"
+            ],
+            "preferred": "grid.459577.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1757 6559"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/030ffke25",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.gdupt.edu.cn/eng/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 21.66625,
+              "lng": 110.91364,
+              "name": "Maoming"
+            },
+            "geonames_id": 1801180
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Guangdong University of Petrochemical Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "广东石油化工学院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Guangdong Preschool Normal College in Maoming",
+            "type": "related",
+            "id": "https://ror.org/050aaqp72"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ust.ac.kr"
+        ],
+        "established": 2003,
+        "external_ids": [
+          {
+            "all": [
+              "grid.412786.e"
+            ],
+            "preferred": "grid.412786.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1791 8264"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q626893"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/000qzf213",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ust.ac.kr/index.do"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Korea_University_of_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "30",
+              "country_subdivision_name": "Daejeon",
+              "lat": 36.34913,
+              "lng": 127.38493,
+              "name": "Daejeon"
+            },
+            "geonames_id": 1835235
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Korea University of Science and Technology"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Science and Technology"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "과학기술연합대학원대학교"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ust.edu"
+        ],
+        "established": 1994,
+        "external_ids": [
+          {
+            "all": [
+              "grid.444917.b"
+            ],
+            "preferred": "grid.444917.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0454 5294"
+            ],
+            "preferred": "0000 0004 0454 5294",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q12204441"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05bj7sh33",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ust.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Science_and_Technology,_Sana%27a"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "YE",
+              "country_name": "Yemen",
+              "country_subdivision_code": "AD",
+              "country_subdivision_name": "Aden",
+              "lat": 12.77957,
+              "lng": 45.03852,
+              "name": "Aden"
+            },
+            "geonames_id": 415189
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "USTY"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Science and Technology"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "جامعة العلوم و التكنولوجيا"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1960,
+        "external_ids": [
+          {
+            "all": [
+              "grid.495665.d"
+            ],
+            "preferred": "grid.495665.d",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/05xzn7m56",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.gdgrain.com.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Guangdong Provincial Institute of Food Science"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Guangdong Provincial Institute of Grain Science and Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "广东省粮食科学研究所"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "gdskd.com.cn"
+        ],
+        "established": 1984,
+        "external_ids": [
+          {
+            "all": [
+              "Q112811251"
+            ],
+            "preferred": "Q112811251",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/040zgg772",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.gdskd.com.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Guangdong Social Science University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "广东社会科学大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-09-23",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "jihualab.ac.cn"
+        ],
+        "established": 2017,
+        "external_ids": [
+          {
+            "all": [
+              "100017130",
+              "501100017284"
+            ],
+            "preferred": "100017130",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.511794.f"
+            ],
+            "preferred": "grid.511794.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q106472128"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/006aydy55",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.jihualab.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.02677,
+              "lng": 113.13148,
+              "name": "Foshan"
+            },
+            "geonames_id": 1811103
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Advanced Manufacturing Science and Technology GuangDong Laboratory"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "JHL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Ji Hua Laboratory"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "季华实验室"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "gdbtu.edu.cn"
+        ],
+        "established": 1996,
+        "external_ids": [
+          {
+            "all": [
+              "Q85879506"
+            ],
+            "preferred": "Q85879506",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/012qd7k27",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.gdbtu.edu.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.04893,
+              "lng": 112.46091,
+              "name": "Zhaoqing"
+            },
+            "geonames_id": 1784853
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Guangdong Vocational and Technical University of Business and Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "广东工商职业技术大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "gdkm.edu.cn"
+        ],
+        "established": 1985,
+        "external_ids": [
+          {
+            "all": [
+              "Q112676984"
+            ],
+            "preferred": "Q112676984",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00wyazh59",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.gdkm.edu.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Guangdong Polytechnic of Science and Trade"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "广东科贸"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "广东科贸职业学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1976,
+        "external_ids": [
+          {
+            "all": [
+              "grid.469554.f"
+            ],
+            "preferred": "grid.469554.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 9171 3304"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30264892"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/056kzfb80",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.gdszjk.org.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Guangdong Provincial Family Planning Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Guangdong Provincial Family Planning Institute of Science and Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "广东省计划生育科学技术研究所"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1992,
+        "external_ids": [
+          {
+            "all": [
+              "grid.444911.d"
+            ],
+            "preferred": "grid.444911.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0619 1231"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6532444"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04r58gt57",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uast.ac.ir/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Applied_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "IR",
+              "country_name": "Iran",
+              "country_subdivision_code": "23",
+              "country_subdivision_name": "Tehran",
+              "lat": 35.69439,
+              "lng": 51.42151,
+              "name": "Tehran"
+            },
+            "geonames_id": 112931
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UAST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Applied Science and Technology"
+          },
+          {
+            "lang": "fa",
+            "types": [
+              "label"
+            ],
+            "value": "دانشگاه جامع علمی-کاربردی جهاد دانشگاهی ارومیه"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1969,
+        "external_ids": [
+          {
+            "all": [
+              "grid.445089.4"
+            ],
+            "preferred": "grid.445089.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0639 3159"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6704331"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/001y2wd07",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.lhu.edu.tw/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Lunghwa_University_of_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TW",
+              "country_name": "Taiwan",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Taiwan",
+              "lat": 24.99368,
+              "lng": 121.29696,
+              "name": "Taoyuan"
+            },
+            "geonames_id": 6696918
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "LHU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Lunghwa University of Science and Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "龍華科技大學"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1965,
+        "external_ids": [
+          {
+            "all": [
+              "grid.448813.2"
+            ],
+            "preferred": "grid.448813.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0639 2981"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q10888084"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04szp2m52",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.hust.edu.tw"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Hsiuping_University_of_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TW",
+              "country_name": "Taiwan",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Taiwan",
+              "lat": 24.1469,
+              "lng": 120.6839,
+              "name": "Taichung"
+            },
+            "geonames_id": 1668399
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "HUST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Hsiuping University of Science and Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Shu-Teh Junior College of Home Economics"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "修平科技大學"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1979,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449038.2"
+            ],
+            "preferred": "grid.449038.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1787 5145"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6820757"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/002dktj83",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.must.ac.ke/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Meru_University_of_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "KE",
+              "country_name": "Kenya",
+              "country_subdivision_code": "26",
+              "country_subdivision_name": "Meru County",
+              "lat": 0.04626,
+              "lng": 37.65587,
+              "name": "Meru"
+            },
+            "geonames_id": 186827
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MECOTECH"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MUST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Meru College of Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Meru University of Science and Technology"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2011,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449364.8"
+            ],
+            "preferred": "grid.449364.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 5986 0427"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q17064749"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05brr5h08",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://just.edu.so/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Jamhuriya_University_of_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "SO",
+              "country_name": "Somalia",
+              "country_subdivision_code": "BN",
+              "country_subdivision_name": "Banaadir",
+              "lat": 2.03711,
+              "lng": 45.34375,
+              "name": "Mogadishu"
+            },
+            "geonames_id": 53654
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "JUST"
+          },
+          {
+            "lang": "so",
+            "types": [
+              "label"
+            ],
+            "value": "Jaamacada Jamhuriya"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Jamhuriya University of Science and Technology"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "جامعة جمهورية للعلوم والتكنولوجيا"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 18890
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 11194
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 6982
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 5823
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 5108
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 3010
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2938
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 2041
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 1019
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 8576
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 5179
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 3137
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2536
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1672
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 1629
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 1404
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 1187
+        },
+        {
+          "id": "ca",
+          "title": "Canada",
+          "count": 1083
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 1001
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 18293
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 13037
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 10207
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 2362
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 1059
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 834
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 45790
+        }
+      ]
+    }
+  }
+}

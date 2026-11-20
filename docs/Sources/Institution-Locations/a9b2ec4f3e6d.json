@@ -1,0 +1,2387 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Pennsylvania+State+University",
+  "http_status": 200,
+  "query": "Pennsylvania State University",
+  "data": {
+    "number_of_results": 16732,
+    "time_taken": 27,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "psu.edu"
+        ],
+        "established": 1855,
+        "external_ids": [
+          {
+            "all": [
+              "100008321",
+              "100009791",
+              "100008649",
+              "100007164",
+              "100006769",
+              "100013438",
+              "100011594",
+              "100011177",
+              "100011568",
+              "100011610",
+              "100011612",
+              "100016596",
+              "100020384",
+              "100020861",
+              "100020359",
+              "100020860"
+            ],
+            "preferred": "100008321",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.29857.31"
+            ],
+            "preferred": "grid.29857.31",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2097 4281",
+              "0000 0004 5907 5867"
+            ],
+            "preferred": "0000 0004 5907 5867",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q739627"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04p491231",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.psu.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Pennsylvania_State_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.79339,
+              "lng": -77.86,
+              "name": "State College"
+            },
+            "geonames_id": 5213681
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PSU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Penn State"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Pennsylvania State University"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Estatal de Pensilvania"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université d'État de Pennsylvanie"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Center for Dielectrics & Piezoelectrics",
+            "type": "child",
+            "id": "https://ror.org/04nv7tt16"
+          },
+          {
+            "label": "Pennsylvania Sea Grant",
+            "type": "child",
+            "id": "https://ror.org/033r52n02"
+          },
+          {
+            "label": "Pennsylvania Space Grant Consortium",
+            "type": "child",
+            "id": "https://ror.org/0225cwm17"
+          },
+          {
+            "label": "Applied Research Laboratory at Penn State",
+            "type": "child",
+            "id": "https://ror.org/03jdj0g52"
+          },
+          {
+            "label": "Pennsylvania State University - Greater Allegheny",
+            "type": "child",
+            "id": "https://ror.org/011apn769"
+          },
+          {
+            "label": "Penn State Milton S. Hershey Medical Center",
+            "type": "related",
+            "id": "https://ror.org/01h22ap11"
+          },
+          {
+            "label": "Lebanon VA Medical Center",
+            "type": "related",
+            "id": "https://ror.org/00ft0j474"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-11-08",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0001 2179 4231"
+            ],
+            "preferred": "0000 0001 2179 4231",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q16975392"
+            ],
+            "preferred": "Q16975392",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03jdj0g52",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.arl.psu.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Pennsylvania_State_University_Applied_Research_Laboratory"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.79339,
+              "lng": -77.86,
+              "name": "State College"
+            },
+            "geonames_id": 5213681
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Applied Research Laboratory at Penn State"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Penn State ARL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Penn State Applied Research Laboratory"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Pennsylvania State University ARL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Pennsylvania State University Applied Research Laboratory"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Pennsylvania State University",
+            "type": "parent",
+            "id": "https://ror.org/04p491231"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1952,
+        "external_ids": [
+          {
+            "all": [
+              "grid.457007.1"
+            ],
+            "preferred": "grid.457007.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0379 0771"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q12065536"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/011apn769",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://greaterallegheny.psu.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Penn_State_Greater_Allegheny"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.34785,
+              "lng": -79.86422,
+              "name": "McKeesport"
+            },
+            "geonames_id": 5200499
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Penn State Greater Allegheny"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Pennsylvania State University - Greater Allegheny"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Pennsylvania State University",
+            "type": "parent",
+            "id": "https://ror.org/04p491231"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-06",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "pawatercenter.psu.edu"
+        ],
+        "established": 1964,
+        "external_ids": [
+          {
+            "all": [
+              "100013641"
+            ],
+            "preferred": "100013641",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/004n93w09",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.pawatercenter.psu.edu"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "FL",
+              "country_subdivision_name": "Florida",
+              "lat": 25.74649,
+              "lng": -80.36755,
+              "name": "University Park"
+            },
+            "geonames_id": 4176217
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PAWRRC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Pennsylvania Center for Water Resources Research"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Pennsylvania Water Resources Research Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Pennsylvania Water Resources Research Center, Pennsylvania State University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Pennsylvania's WRRC"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "WRRC"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-08-17",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "100018537"
+            ],
+            "preferred": "100018537",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "0000 0005 0383 3187"
+            ],
+            "preferred": "0000 0005 0383 3187",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/0020rgm10",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://shaponline.org"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 39.84509,
+              "lng": -77.36082,
+              "name": "Orrtanna"
+            },
+            "geonames_id": 4560160
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Pennsylvania State Horticultural Association"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "State Horticultural Association of Pennsylvania"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "The State Horticultural Association of Pennsylvania"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "100004902"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.468142.d"
+            ],
+            "preferred": "grid.468142.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0425 3910"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/04dpszf19",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.dos.pa.gov/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.44062,
+              "lng": -79.99589,
+              "name": "Pittsburgh"
+            },
+            "geonames_id": 5206379
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Pennsylvania Department Of State"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1854,
+        "external_ids": [
+          {
+            "all": [
+              "100007032"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.417434.1"
+            ],
+            "preferred": "grid.417434.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0420 5871"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4570781"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0521rfb23",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.lincoln.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Lincoln_University_(Pennsylvania)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 39.78539,
+              "lng": -75.97883,
+              "name": "Oxford"
+            },
+            "geonames_id": 4560185
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Ashmun Institute"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "LU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Lincoln University - Pennsylvania"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Lincoln"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-06-23",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-06-23",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "pennwest.edu"
+        ],
+        "established": 2022,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0005 0684 4287"
+            ],
+            "preferred": "0000 0005 0684 4287",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q109297499"
+            ],
+            "preferred": "Q109297499",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01w8vjw54",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.pennwest.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Pennsylvania_Western_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.06563,
+              "lng": -79.89171,
+              "name": "California"
+            },
+            "geonames_id": 5182733
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "California University of Pennsylvania"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Clarion University of Pennsylvania"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Edinboro University of Pennsylvania"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "PWU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "PennWest"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "PennWest California"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "PennWest Clarion"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "PennWest Edinboro"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "PennWest University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Pennsylvania Western University"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "Universidad PennWest"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "Université PennWest"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "California University of Pennsylvania",
+            "type": "predecessor",
+            "id": "https://ror.org/01spssf70"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "upenn.edu"
+        ],
+        "established": 1740,
+        "external_ids": [
+          {
+            "all": [
+              "100006920",
+              "100005312",
+              "100007929",
+              "100007928",
+              "100005882",
+              "100005467",
+              "100008435",
+              "100010410",
+              "100010490",
+              "100009949",
+              "100007486",
+              "100017303",
+              "100023886"
+            ],
+            "preferred": "100006920",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.25879.31"
+            ],
+            "preferred": "grid.25879.31",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1936 8972"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q49117"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00b30xv10",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.upenn.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Pennsylvania"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 39.95238,
+              "lng": -75.16362,
+              "name": "Philadelphia"
+            },
+            "geonames_id": 4560349
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "UPenn"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Pennsylvania"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Penn Center for AIDS Research",
+            "type": "child",
+            "id": "https://ror.org/047939x15"
+          },
+          {
+            "label": "American Research Institute in Turkey",
+            "type": "related",
+            "id": "https://ror.org/05hs3x327"
+          },
+          {
+            "label": "Children's Hospital of Philadelphia",
+            "type": "related",
+            "id": "https://ror.org/01z7r7q48"
+          },
+          {
+            "label": "Hospital of the University of Pennsylvania",
+            "type": "related",
+            "id": "https://ror.org/02917wp91"
+          },
+          {
+            "label": "Penn Presbyterian Medical Center",
+            "type": "related",
+            "id": "https://ror.org/00swv7d52"
+          },
+          {
+            "label": "Pennsylvania Hospital",
+            "type": "related",
+            "id": "https://ror.org/03mvdc478"
+          },
+          {
+            "label": "Philadelphia VA Medical Center",
+            "type": "related",
+            "id": "https://ror.org/03j05zz84"
+          },
+          {
+            "label": "University of Pennsylvania Health System",
+            "type": "related",
+            "id": "https://ror.org/04h81rw26"
+          },
+          {
+            "label": "University of Pennsylvania Press",
+            "type": "related",
+            "id": "https://ror.org/03xwa9562"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1837,
+        "external_ids": [
+          {
+            "all": [
+              "grid.254107.5"
+            ],
+            "preferred": "grid.254107.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q3445541"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02nckwn80",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.cheyney.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Cheyney_University_of_Pennsylvania"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 39.96097,
+              "lng": -75.60804,
+              "name": "West Chester"
+            },
+            "geonames_id": 4562144
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Cheyney University of Pennsylvania"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de Cheyney de Pensilvania"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université cheyney de pennsylvanie"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Pennsylvania State System of Higher Education",
+            "type": "parent",
+            "id": "https://ror.org/00m2s0z68"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "kutztown.edu"
+        ],
+        "established": 1866,
+        "external_ids": [
+          {
+            "all": [
+              "100031120"
+            ],
+            "preferred": "100031120",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.258769.7"
+            ],
+            "preferred": "grid.258769.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0160 0129"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1340908"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/056veft20",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://kutztown.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Kutztown_University_of_Pennsylvania"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.51732,
+              "lng": -75.77742,
+              "name": "Kutztown"
+            },
+            "geonames_id": 5196621
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Kutztown University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Kutztown University of Pennsylvania"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Pennsylvania State System of Higher Education",
+            "type": "parent",
+            "id": "https://ror.org/00m2s0z68"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-03-28",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1890,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0001 0634 5307"
+            ],
+            "preferred": "0000 0001 0634 5307",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2037236"
+            ],
+            "preferred": "Q2037236",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03xwa9562",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.pennpress.org"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Pennsylvania_Press"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 39.95238,
+              "lng": -75.16362,
+              "name": "Philadelphia"
+            },
+            "geonames_id": 4560349
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Penn Press"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Pennsylvania Press"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Pennsylvania",
+            "type": "related",
+            "id": "https://ror.org/00b30xv10"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "iup.edu"
+        ],
+        "established": 1875,
+        "external_ids": [
+          {
+            "all": [
+              "grid.257427.1"
+            ],
+            "preferred": "grid.257427.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8874 0847"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1661325"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0511cmw96",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.iup.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Indiana_University_of_Pennsylvania"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.62146,
+              "lng": -79.15253,
+              "name": "Indiana"
+            },
+            "geonames_id": 5194868
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IUP"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Indiana University of Pennsylvania"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de Pensilvania en Indiana"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Pennsylvania State System of Higher Education",
+            "type": "parent",
+            "id": "https://ror.org/00m2s0z68"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ship.edu"
+        ],
+        "established": 1871,
+        "external_ids": [
+          {
+            "all": [
+              "grid.263520.0"
+            ],
+            "preferred": "grid.263520.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9918 1147"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7498066"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/048arep70",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ship.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Shippensburg_University_of_Pennsylvania"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.05065,
+              "lng": -77.52026,
+              "name": "Shippensburg"
+            },
+            "geonames_id": 5212038
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Shippensburg University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Shippensburg University of Pennsylvania"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Pennsylvania State System of Higher Education",
+            "type": "parent",
+            "id": "https://ror.org/00m2s0z68"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-06-23",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1983,
+        "external_ids": [
+          {
+            "all": [
+              "100004900",
+              "100013714"
+            ],
+            "preferred": "100004900",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.437102.3"
+            ],
+            "preferred": "grid.437102.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9153 2061"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3304232"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00m2s0z68",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.passhe.edu/Pages/default.aspx"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Pennsylvania_State_System_of_Higher_Education"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.2737,
+              "lng": -76.88442,
+              "name": "Harrisburg"
+            },
+            "geonames_id": 5192726
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PASSHE"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Pennsylvania State System of Higher Education"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Bloomsburg University",
+            "type": "child",
+            "id": "https://ror.org/007dga614"
+          },
+          {
+            "label": "Cheyney University of Pennsylvania",
+            "type": "child",
+            "id": "https://ror.org/02nckwn80"
+          },
+          {
+            "label": "East Stroudsburg University",
+            "type": "child",
+            "id": "https://ror.org/05atz9219"
+          },
+          {
+            "label": "Indiana University of Pennsylvania",
+            "type": "child",
+            "id": "https://ror.org/0511cmw96"
+          },
+          {
+            "label": "Kutztown University",
+            "type": "child",
+            "id": "https://ror.org/056veft20"
+          },
+          {
+            "label": "Lock Haven University",
+            "type": "child",
+            "id": "https://ror.org/046aym564"
+          },
+          {
+            "label": "Mansfield University",
+            "type": "child",
+            "id": "https://ror.org/01emtgd92"
+          },
+          {
+            "label": "Millersville University",
+            "type": "child",
+            "id": "https://ror.org/02x2aj034"
+          },
+          {
+            "label": "Shippensburg University",
+            "type": "child",
+            "id": "https://ror.org/048arep70"
+          },
+          {
+            "label": "Slippery Rock University",
+            "type": "child",
+            "id": "https://ror.org/0369st156"
+          },
+          {
+            "label": "West Chester University",
+            "type": "child",
+            "id": "https://ror.org/0053n5071"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1751,
+        "external_ids": [
+          {
+            "all": [
+              "grid.417219.8"
+            ],
+            "preferred": "grid.417219.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0435 0948"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1273145"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03mvdc478",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.pennmedicine.org/pahosp/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Pennsylvania_Hospital"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 39.95238,
+              "lng": -75.16362,
+              "name": "Philadelphia"
+            },
+            "geonames_id": 4560349
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Pennsylvania Hospital"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Pennsylvania Health System",
+            "type": "parent",
+            "id": "https://ror.org/04h81rw26"
+          },
+          {
+            "label": "University of Pennsylvania",
+            "type": "related",
+            "id": "https://ror.org/00b30xv10"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1995,
+        "external_ids": [
+          {
+            "all": [
+              "100004906"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.448596.2"
+            ],
+            "preferred": "grid.448596.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0509 3701"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q15265911"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00wd70b02",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.dep.pa.gov/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Pennsylvania_Department_of_Environmental_Protection"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.21924,
+              "lng": -79.60948,
+              "name": "New Stanton"
+            },
+            "geonames_id": 5203263
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "DEP"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Pennsylvania DEP"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Pennsylvania Department of Environmental Protection"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1993,
+        "external_ids": [
+          {
+            "all": [
+              "100016783"
+            ],
+            "preferred": "100016783",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412701.1"
+            ],
+            "preferred": "grid.412701.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0454 0768"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7896080"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04h81rw26",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.pennmedicine.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Pennsylvania_Health_System"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 39.95238,
+              "lng": -75.16362,
+              "name": "Philadelphia"
+            },
+            "geonames_id": 4560349
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Penn Medicine"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UPHS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Pennsylvania Health System"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Good Shepherd Penn Partners",
+            "type": "child",
+            "id": "https://ror.org/00d08ne02"
+          },
+          {
+            "label": "Graduate Hospital",
+            "type": "child",
+            "id": "https://ror.org/0116mdr21"
+          },
+          {
+            "label": "Hospital of the University of Pennsylvania",
+            "type": "child",
+            "id": "https://ror.org/02917wp91"
+          },
+          {
+            "label": "Penn Presbyterian Medical Center",
+            "type": "child",
+            "id": "https://ror.org/00swv7d52"
+          },
+          {
+            "label": "Pennsylvania Hospital",
+            "type": "child",
+            "id": "https://ror.org/03mvdc478"
+          },
+          {
+            "label": "Abramson Cancer Center",
+            "type": "child",
+            "id": "https://ror.org/01hvpjq66"
+          },
+          {
+            "label": "University of Pennsylvania",
+            "type": "related",
+            "id": "https://ror.org/00b30xv10"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1874,
+        "external_ids": [
+          {
+            "all": [
+              "grid.411115.1"
+            ],
+            "preferred": "grid.411115.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0435 0884"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5908783"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02917wp91",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.pennmedicine.org/hospital-university-pennsylvania/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Hospital_of_the_University_of_Pennsylvania"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 39.95238,
+              "lng": -75.16362,
+              "name": "Philadelphia"
+            },
+            "geonames_id": 4560349
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "HUP"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Hospital of the University of Pennsylvania"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Pennsylvania Health System",
+            "type": "parent",
+            "id": "https://ror.org/04h81rw26"
+          },
+          {
+            "label": "University of Pennsylvania",
+            "type": "related",
+            "id": "https://ror.org/00b30xv10"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-12-20",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "100017006"
+            ],
+            "preferred": "100017006",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "0000 0004 0435 0817"
+            ],
+            "preferred": "0000 0004 0435 0817",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/01hvpjq66",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.pennmedicine.org/cancer"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Perelman_Center_for_Advanced_Medicine"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 39.95238,
+              "lng": -75.16362,
+              "name": "Philadelphia"
+            },
+            "geonames_id": 4560349
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Abramson Cancer Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Abramson Cancer Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Abramson Cancer Research Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Penn Abramson Cancer Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Penn Cancer Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Penn Medicine Abramson Cancer Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Penn Medicine Abramson Cancer Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Pennsylvania Abramson Cancer Center"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Pennsylvania Health System",
+            "type": "parent",
+            "id": "https://ror.org/04h81rw26"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 13362
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 4646
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 1331
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 1067
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 434
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 200
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 148
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 140
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 66
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 2502
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 2001
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 1001
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 978
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 877
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 494
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 473
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 442
+        },
+        {
+          "id": "ph",
+          "title": "Philippines",
+          "count": 407
+        },
+        {
+          "id": "ir",
+          "title": "Iran",
+          "count": 354
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 8031
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 3808
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 3018
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1209
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 554
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 112
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 16732
+        }
+      ]
+    }
+  }
+}

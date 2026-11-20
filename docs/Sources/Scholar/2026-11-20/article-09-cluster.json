@@ -1,0 +1,266 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cluster": "12696510404083872991",
+    "hl": "en",
+    "no_cache": "true"
+  },
+  "accessed_at_utc": "2026-11-20T12:58:50.051534+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6b004409614eba100f6d8ebf",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/f0JQxcz6NWCkmTZFdQIHf6dcEMct6E8FEtZBnfB5p7k/6b004409614eba100f6d8ebf.json",
+      "markdown_endpoint": "https://serpapi.com/searches/f0JQxcz6NWCkmTZFdQIHf6dcEMct6E8FEtZBnfB5p7k/6b004409614eba100f6d8ebf.md",
+      "created_at": "2026-11-20 12:58:49 UTC",
+      "processed_at": "2026-11-20 12:58:49 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cluster=12696510404083872991&hl=en",
+      "raw_html_file": "https://serpapi.com/searches/f0JQxcz6NWCkmTZFdQIHf6dcEMct6E8FEtZBnfB5p7k/6b004409614eba100f6d8ebf.html",
+      "total_time_taken": 0.95
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cluster": "12696510404083872991",
+      "hl": "en"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 7,
+      "time_taken_displayed": 0.02
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "A low memory footprint quantized neural network for depth completion of very sparse time-of-flight depth maps",
+        "result_id": "33R4ivEQM7AJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/9857469/",
+        "snippet": "Sparse active illumination enables precise time-of-flight depth sensing as it maximizes signal-to-noise ratio for low power budgets. However, depth completion is required to …",
+        "publication_info": {
+          "summary": "X Jiang, V Cambareri, G Agresti… - 2022 IEEE/CVF …, 2022 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "X Jiang",
+              "link": "https://scholar.google.com/citations?user=g_MNvxwAAAAJ&hl=en&oi=sra",
+              "author_id": "g_MNvxwAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=g_MNvxwAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "V Cambareri",
+              "link": "https://scholar.google.com/citations?user=yYHJGZUAAAAJ&hl=en&oi=sra",
+              "author_id": "yYHJGZUAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=yYHJGZUAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "G Agresti",
+              "link": "https://scholar.google.com/citations?user=Ysz_fQoAAAAJ&hl=en&oi=sra",
+              "author_id": "Ysz_fQoAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Ysz_fQoAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=33R4ivEQM7AJ",
+          "cited_by": {
+            "total": 13,
+            "link": "https://scholar.google.com/scholar?cites=12696510404083872991&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "12696510404083872991",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12696510404083872991&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:33R4ivEQM7AJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=12696510404083872991&engine=google_scholar&hl=en&q=related%3A33R4ivEQM7AJ%3Ascholar.google.com%2F"
+        }
+      },
+      {
+        "position": 2,
+        "title": "A Low Memory Footprint Quantized Neural Network for Depth Completion of Very Sparse Time-of-Flight Depth Maps",
+        "result_id": "T1Jwlrjn3QAJ",
+        "link": "https://www.computer.org/csdl/proceedings-article/cvprw/2022/873900c686/1G56DDFdC5G",
+        "snippet": "Sparse active illumination enables precise time-of-flight depth sensing as it maximizes signal-to-noise ratio for low power budgets. However, depth completion is required to …",
+        "publication_info": {
+          "summary": "X Jiang, V Cambareri, G Agresti, CI Ugwu… - 2022 IEEE/CVF …, 2022 - computer.org",
+          "authors": [
+            {
+              "name": "X Jiang"
+            },
+            {
+              "name": "V Cambareri"
+            },
+            {
+              "name": "G Agresti"
+            },
+            {
+              "name": "CI Ugwu"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=T1Jwlrjn3QAJ"
+        }
+      },
+      {
+        "position": 3,
+        "title": "A Low Memory Footprint Quantized Neural Network for Depth Completion of Very Sparse Time-of-Flight Depth Maps",
+        "result_id": "rCotrUuxxCYJ",
+        "link": "https://openaccess.thecvf.com/content/CVPR2022W/ECV/html/Jiang_A_Low_Memory_Footprint_Quantized_Neural_Network_for_Depth_Completion_CVPRW_2022_paper.html",
+        "snippet": "Sparse active illumination enables precise time-of-flight depth sensing as it maximizes signal-to-noise ratio for low power budgets. However, depth completion is required to …",
+        "publication_info": {
+          "summary": "X Jiang, V Cambareri, G Agresti… - Proceedings of the …, 2022 - openaccess.thecvf.com",
+          "authors": [
+            {
+              "name": "X Jiang"
+            },
+            {
+              "name": "V Cambareri"
+            },
+            {
+              "name": "G Agresti"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "thecvf.com",
+            "file_format": "PDF",
+            "link": "https://openaccess.thecvf.com/content/CVPR2022W/ECV/papers/Jiang_A_Low_Memory_Footprint_Quantized_Neural_Network_for_Depth_Completion_CVPRW_2022_paper.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=rCotrUuxxCYJ"
+        }
+      },
+      {
+        "position": 4,
+        "title": "A Low Memory Footprint Quantized Neural Network for Depth Completion of Very Sparse Time-of-Flight Depth Maps",
+        "result_id": "OUzXdhqW2FoJ",
+        "link": "https://ui.adsabs.harvard.edu/abs/2022arXiv220512918J/abstract",
+        "snippet": "Sparse active illumination enables precise time-of-flight depth sensing as it maximizes signal-to-noise ratio for low power budgets. However, depth completion is required to …",
+        "publication_info": {
+          "summary": "X Jiang, V Cambareri, G Agresti… - arXiv e …, 2022 - ui.adsabs.harvard.edu",
+          "authors": [
+            {
+              "name": "X Jiang"
+            },
+            {
+              "name": "V Cambareri"
+            },
+            {
+              "name": "G Agresti"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=OUzXdhqW2FoJ"
+        }
+      },
+      {
+        "position": 5,
+        "title": "A Low Memory Footprint Quantized Neural Network for Depth Completion of Very Sparse Time-of-Flight Depth Maps",
+        "result_id": "KbnZKyXzPoQJ",
+        "link": "https://ui.adsabs.harvard.edu/abs/2022cvpr.conf..302J/abstract",
+        "snippet": "Sparse active illumination enables precise time-of-flight depth sensing as it maximizes signal-to-noise ratio for low power budgets. However, depth completion is required to …",
+        "publication_info": {
+          "summary": "X Jiang, V Cambareri, G Agresti… - 2022 IEEE/CVF …, 2022 - ui.adsabs.harvard.edu",
+          "authors": [
+            {
+              "name": "X Jiang"
+            },
+            {
+              "name": "V Cambareri"
+            },
+            {
+              "name": "G Agresti"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=KbnZKyXzPoQJ"
+        }
+      },
+      {
+        "position": 6,
+        "title": "A Low Memory Footprint Quantized Neural Network for Depth Completion of Very Sparse Time-of-Flight Depth Maps",
+        "result_id": "PluKNudSi7oJ",
+        "link": "https://arxiv.org/abs/2205.12918",
+        "snippet": "Sparse active illumination enables precise time-of-flight depth sensing as it maximizes signal-to-noise ratio for low power budgets. However, depth completion is required to …",
+        "publication_info": {
+          "summary": "X Jiang, V Cambareri, G Agresti, CI Ugwu… - arXiv preprint arXiv …, 2022 - arxiv.org",
+          "authors": [
+            {
+              "name": "X Jiang"
+            },
+            {
+              "name": "V Cambareri"
+            },
+            {
+              "name": "G Agresti"
+            },
+            {
+              "name": "CI Ugwu"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2205.12918"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=PluKNudSi7oJ"
+        }
+      },
+      {
+        "position": 7,
+        "title": "A Low Memory Footprint Quantized Neural Network for Depth Completion of Very Sparse Time-of-Flight Depth Maps",
+        "result_id": "PluKNudSi7oJ",
+        "link": "https://www.research.unipd.it/handle/11577/3462823",
+        "snippet": "Sparse active illumination enables precise time-of-flight depth sensing as it maximizes signal-to-noise ratio for low power budgets. However, depth completion is required to …",
+        "publication_info": {
+          "summary": "X Jiang, V Cambareri, G Agresti, CI Ugwu… - IEEE COMPUTER …, 2022 - research.unipd.it",
+          "authors": [
+            {
+              "name": "X Jiang"
+            },
+            {
+              "name": "V Cambareri"
+            },
+            {
+              "name": "G Agresti"
+            },
+            {
+              "name": "CI Ugwu"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "unipd.it",
+            "file_format": "PDF",
+            "link": "https://www.research.unipd.it/bitstream/11577/3462823/2/2205.12918v1.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=PluKNudSi7oJ"
+        }
+      }
+    ]
+  }
+}

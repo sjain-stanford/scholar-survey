@@ -1,0 +1,5 @@
+* -filter
+docs/** -text
+*.pdf -text -diff
+*.png -text -diff
+*.zip -text -diff

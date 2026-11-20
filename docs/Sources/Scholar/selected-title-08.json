@@ -1,0 +1,102 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "q": "\"Integer-Only CNNs with 4 Bit Weights and Bit-Shift Quantization Scales at Full-Precision Accuracy\"",
+    "hl": "en",
+    "num": 10
+  },
+  "accessed_at_utc": "2026-10-07T12:39:10.258180+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63d6e4632b598b2f7791b",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/sjZMbzDQiujLjddaTTKgBnn99gYEqhX6pdc8U3ye9gE/6ac63d6e4632b598b2f7791b.json",
+      "markdown_endpoint": "https://serpapi.com/searches/sjZMbzDQiujLjddaTTKgBnn99gYEqhX6pdc8U3ye9gE/6ac63d6e4632b598b2f7791b.md",
+      "created_at": "2026-10-07 12:39:10 UTC",
+      "processed_at": "2026-10-07 12:39:10 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?q=%22Integer-Only+CNNs+with+4+Bit+Weights+and+Bit-Shift+Quantization+Scales+at+Full-Precision+Accuracy%22&hl=en&num=10",
+      "raw_html_file": "https://serpapi.com/searches/sjZMbzDQiujLjddaTTKgBnn99gYEqhX6pdc8U3ye9gE/6ac63d6e4632b598b2f7791b.html",
+      "total_time_taken": 1.45
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "q": "\"Integer-Only CNNs with 4 Bit Weights and Bit-Shift Quantization Scales at Full-Precision Accuracy\"",
+      "hl": "en",
+      "num": "10"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "query_displayed": "\"Integer-Only CNNs with 4 Bit Weights and Bit-Shift Quantization Scales at Full-Precision Accuracy\""
+    },
+    "profiles": {
+      "link": "https://scholar.google.com/scholar?lookup=0&q=%22Integer-Only+CNNs+with+4+Bit+Weights+and+Bit-Shift+Quantization+Scales+at+Full-Precision+Accuracy%22&hl=en&as_sdt=0,6",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=%22Integer-Only+CNNs+with+4+Bit+Weights+and+Bit-Shift+Quantization+Scales+at+Full-Precision+Accuracy%22"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Integer-only cnns with 4 bit weights and bit-shift quantization scales at full-precision accuracy",
+        "result_id": "h58kIk_4zlkJ",
+        "type": "Html",
+        "link": "https://www.mdpi.com/2079-9292/10/22/2823",
+        "snippet": "Quantization of neural networks has been one of the most popular techniques to compress models for embedded (IoT) hardware platforms with highly constrained latency, storage, memory-bandwidth, and energy specifications. Limiting the number of bits per weight and activation has been the main focus in the literature. To avoid major degradation of accuracy, common quantization methods introduce additional scale factors to adapt the quantized values to the diverse data ranges, present in full-precision (floating-point) neural networks. These scales are usually kept in high precision, requiring the target compute engine to support a few high-precision multiplications, which is not desirable due to the larger hardware cost. Little effort has yet been invested in trying to avoid high-precision multipliers altogether, especially in combination with 4 bit weights. This work proposes a new quantization scheme, based on power-of-two quantization scales, that works on-par compared to uniform per-channel quantization with full-precision 32 bit quantization scales when using only 4 bit weights. This is done through the addition of a low-precision lookup-table that translates stored 4 bit weights into nonuniformly distributed 8 bit weights for internal computation. All our quantized ImageNet CNNs achieved or even exceeded the Top-1 accuracy of their full-precision counterparts, with ResNet18 exceeding its full-precision model by 0.35%. Our MobileNetV2 model achieved state-of-the-art performance with only a slight drop in accuracy of 0.51%.",
+        "publication_info": {
+          "summary": "M Vandersteegen, K Van Beeck, T GoedeméElectronics, 2021•mdpi.com",
+          "authors": [
+            {
+              "name": "M Vandersteegen",
+              "link": "https://scholar.google.com/citations?user=qRIWqaIAAAAJ&hl=en&oi=sra",
+              "author_id": "qRIWqaIAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qRIWqaIAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "K Van Beeck",
+              "link": "https://scholar.google.com/citations?user=OQKLkFEAAAAJ&hl=en&oi=sra",
+              "author_id": "OQKLkFEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OQKLkFEAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "T Goedemé",
+              "link": "https://scholar.google.com/citations?user=QgPCrI0AAAAJ&hl=en&oi=sra",
+              "author_id": "QgPCrI0AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=QgPCrI0AAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "HTML",
+            "link": null
+          },
+          {
+            "title": "mdpi.com",
+            "file_format": "HTML",
+            "link": "https://www.mdpi.com/2079-9292/10/22/2823"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=h58kIk_4zlkJ",
+          "html_version": "https://www.mdpi.com/2079-9292/10/22/2823",
+          "cited_by": {
+            "total": 15,
+            "link": "https://scholar.google.com/scholar?cites=6471382733336911751&as_sdt=4005&sciodt=0,6&hl=en",
+            "cites_id": "6471382733336911751",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4005&cites=6471382733336911751&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:h58kIk_4zlkJ:scholar.google.com/&scioq=%22Integer-Only+CNNs+with+4+Bit+Weights+and+Bit-Shift+Quantization+Scales+at+Full-Precision+Accuracy%22&hl=en&as_sdt=0,6",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C6&engine=google_scholar&hl=en&num=10&q=related%3Ah58kIk_4zlkJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 8,
+            "link": "https://scholar.google.com/scholar?cluster=6471382733336911751&hl=en&as_sdt=0,6",
+            "cluster_id": "6471382733336911751",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C6&cluster=6471382733336911751&engine=google_scholar&hl=en"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:h58kIk_4zlkJ:scholar.google.com/+%22Integer-Only+CNNs+with+4+Bit+Weights+and+Bit-Shift+Quantization+Scales+at+Full-Precision+Accuracy%22&hl=en&as_sdt=0,6"
+        }
+      }
+    ]
+  }
+}

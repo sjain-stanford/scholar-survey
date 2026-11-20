@@ -1,0 +1,2029 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Sun+Yat-sen+University",
+  "http_status": 200,
+  "query": "Sun Yat-sen University",
+  "data": {
+    "number_of_results": 14729,
+    "time_taken": 21,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "sysu.edu.cn"
+        ],
+        "established": 1924,
+        "external_ids": [
+          {
+            "all": [
+              "501100002402",
+              "501100012678"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.12981.33"
+            ],
+            "preferred": "grid.12981.33",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2360 039X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q178972"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0064kty71",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.sysu.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Sun_Yat-sen_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Sun Yat-sen University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中山大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "State Key Laboratory of Oncology in South China",
+            "type": "child",
+            "id": "https://ror.org/04dn2ax39"
+          },
+          {
+            "label": "State Key Laboratory of Ophthalmology",
+            "type": "child",
+            "id": "https://ror.org/003mfbe21"
+          },
+          {
+            "label": "State Key Laboratory of Optoelectronic Materials and Technology",
+            "type": "child",
+            "id": "https://ror.org/010fszt18"
+          },
+          {
+            "label": "State Key Laboratory of Pest Control and Resource Utilization",
+            "type": "child",
+            "id": "https://ror.org/01bs5br94"
+          },
+          {
+            "label": "Zhongshan Ophthalmic Center, Sun Yat-sen University",
+            "type": "child",
+            "id": "https://ror.org/02z2yec16"
+          },
+          {
+            "label": "National Supercomputer Center in Guangzhou",
+            "type": "child",
+            "id": "https://ror.org/042999n30"
+          },
+          {
+            "label": "Fifth Affiliated Hospital of Sun Yat-sen University",
+            "type": "related",
+            "id": "https://ror.org/023te5r95"
+          },
+          {
+            "label": "The First Affiliated Hospital, Sun Yat-sen University",
+            "type": "related",
+            "id": "https://ror.org/037p24858"
+          },
+          {
+            "label": "Hainan Eye Hospital",
+            "type": "related",
+            "id": "https://ror.org/03k18qw23"
+          },
+          {
+            "label": "SYSU-CMU International Joint Research Institute",
+            "type": "related",
+            "id": "https://ror.org/02w30ae27"
+          },
+          {
+            "label": "Shantou Central Hospital",
+            "type": "related",
+            "id": "https://ror.org/04jmrra88"
+          },
+          {
+            "label": "Sixth Affiliated Hospital of Sun Yat-sen University",
+            "type": "related",
+            "id": "https://ror.org/005pe1772"
+          },
+          {
+            "label": "Solar Energy Research Institute of Sun Yat-sen University",
+            "type": "related",
+            "id": "https://ror.org/028kjem67"
+          },
+          {
+            "label": "Sun Yat-sen Memorial Hospital",
+            "type": "related",
+            "id": "https://ror.org/01px77p81"
+          },
+          {
+            "label": "Sun Yat-sen University Cancer Center",
+            "type": "related",
+            "id": "https://ror.org/0400g8r85"
+          },
+          {
+            "label": "The Seventh Affiliated Hospital of Sun Yat-sen University",
+            "type": "related",
+            "id": "https://ror.org/00rfd5b88"
+          },
+          {
+            "label": "Third Affiliated Hospital of Sun Yat-sen University",
+            "type": "related",
+            "id": "https://ror.org/04tm3k558"
+          },
+          {
+            "label": "Hospital of Stomatology, Sun Yat-sen University",
+            "type": "related",
+            "id": "https://ror.org/04bswr545"
+          },
+          {
+            "label": "Eighth Affiliated Hospital of Sun Yat-sen University",
+            "type": "related",
+            "id": "https://ror.org/00xjwyj62"
+          },
+          {
+            "label": "Guangzhou Women and Children Medical Center",
+            "type": "related",
+            "id": "https://ror.org/01g53at17"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1924,
+        "external_ids": [
+          {
+            "all": [
+              "100007844"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412036.2"
+            ],
+            "preferred": "grid.412036.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0531 9758"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q32751"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00mjawt10",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.nsysu.edu.tw/bin/home.php?Lang=en"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/National_Sun_Yat-sen_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TW",
+              "country_name": "Taiwan",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Kaohsiung",
+              "lat": 22.61626,
+              "lng": 120.31333,
+              "name": "Kaohsiung"
+            },
+            "geonames_id": 1673820
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NSYSU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Sun Yat-sen University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "sysucc.org.cn"
+        ],
+        "established": 1964,
+        "external_ids": [
+          {
+            "all": [
+              "501100018573"
+            ],
+            "preferred": "501100018573",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.488530.2"
+            ],
+            "preferred": "grid.488530.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1803 6191"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/0400g8r85",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://english.sysucc.org.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SYSUCC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Sun Yat-sen University Cancer Center"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中山大学肿瘤防治中心"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Sun Yat-sen University",
+            "type": "related",
+            "id": "https://ror.org/0064kty71"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1835,
+        "external_ids": [
+          {
+            "all": [
+              "grid.412536.7"
+            ],
+            "preferred": "grid.412536.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1791 7851"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/01px77p81",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.syshospital.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Second Affiliated Hospital of Sun Yat-sen"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Sun Yat-sen Memorial Hospital"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Sun Yat-sen University",
+            "type": "related",
+            "id": "https://ror.org/0064kty71"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2022-10-27",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "Q109918358"
+            ],
+            "preferred": "Q109918358",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04bswr545",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.zdkqyy.com"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E5%8F%A3%E8%85%94%E5%8C%BB%E9%99%A2"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Hospital of Stomatology, Sun Yat-sen University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中山大学附属口腔医院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Sun Yat-sen University",
+            "type": "related",
+            "id": "https://ror.org/0064kty71"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-01-29",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1910,
+        "external_ids": [
+          {
+            "all": [
+              "501100010108"
+            ],
+            "preferred": "501100010108",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412615.5"
+            ],
+            "preferred": "grid.412615.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1803 6239"
+            ],
+            "preferred": "0000 0004 1803 6239",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q10875263"
+            ],
+            "preferred": "Q10875263",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/037p24858",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.fahsysu.org.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Affiliated Hospital of Guangdong Public Institution of Medicine"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "First Affiliated Hospital of Sun Yat-Sen University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "First Affiliated Hospital, Sun Yat-sen University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Sun Yat-sen University First Affiliated Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "The First Affiliated Hospital, Sun Yat-sen University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Zhongshan Hospital"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中山大学附属第一医院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Sun Yat-sen University",
+            "type": "related",
+            "id": "https://ror.org/0064kty71"
+          },
+          {
+            "label": "Guangxi Hospital Division of The First Affiliated Hospital, Sun Yat-sen University",
+            "type": "related",
+            "id": "https://ror.org/027pjy323"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-08-19",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "gzzoc.com"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "Q67251723"
+            ],
+            "preferred": "Q67251723",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02z2yec16",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.gzzoc.com"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "ZOC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Zhongshan Ophthalmic Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Zhongshan Ophthalmic Center, Sun Yat-sen University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中山大学眼科中心"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Sun Yat-sen University",
+            "type": "parent",
+            "id": "https://ror.org/0064kty71"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-05-30",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-06-02",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "jysrmyy.cn"
+        ],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/03mpy3k07",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.jysrmyy.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.5418,
+              "lng": 116.36581,
+              "name": "Jieyang"
+            },
+            "geonames_id": 1797121
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Jieyang People's Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Sun Yat-sen University Affiliated Jieyang Hospital"
+          },
+          {
+            "lang": null,
+            "types": [
+              "label"
+            ],
+            "value": "揭阳市人民医院"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "揭阳市人民医院（中山大学附属揭阳医院）"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2002,
+        "external_ids": [
+          {
+            "all": [
+              "grid.452859.7"
+            ],
+            "preferred": "grid.452859.7",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/023te5r95",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.zsufivehos.com/english"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 22.27694,
+              "lng": 113.56778,
+              "name": "Zhuhai"
+            },
+            "geonames_id": 1790437
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Fifth Affiliated Hospital of Sun Yat-sen University"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Sun Yat-sen University",
+            "type": "related",
+            "id": "https://ror.org/0064kty71"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1971,
+        "external_ids": [
+          {
+            "all": [
+              "grid.412558.f"
+            ],
+            "preferred": "grid.412558.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1762 1794"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q10875264"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04tm3k558",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.zssy.com.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Third Affiliated Hospital of Sun Yat-sen University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Third Affiliated Hospital of Zhongshan Medical University"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Sun Yat-sen University",
+            "type": "related",
+            "id": "https://ror.org/0064kty71"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1930,
+        "external_ids": [
+          {
+            "all": [
+              "grid.488205.3"
+            ],
+            "preferred": "grid.488205.3",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/00c11v577",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.gdrice.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Rice Experimental Farm of Sun Yat-sen University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Rice Research Institute"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "广东省农业科学院水稻研究所"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Guangdong Academy of Agricultural Sciences",
+            "type": "parent",
+            "id": "https://ror.org/01rkwtz72"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.488525.6"
+            ],
+            "preferred": "grid.488525.6",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/005pe1772",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.zs6y.com/#"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Gastrointestinal and Anal Hospital"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Guangdong Gastrointestinal Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Sixth Affiliated Hospital of Sun Yat-sen University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Zhongshan Six Hospital"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中山大学附属第六医院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Sun Yat-sen University",
+            "type": "related",
+            "id": "https://ror.org/0064kty71"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2022-10-27",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "Q11153073"
+            ],
+            "preferred": "Q11153073",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00xjwyj62",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.sysu8h.com.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E7%AC%AC%E5%85%AB%E5%8C%BB%E9%99%A2"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 22.54554,
+              "lng": 114.0683,
+              "name": "Shenzhen"
+            },
+            "geonames_id": 1795565
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "8th Affiliated Hospital of Sun Yat-sen University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Eighth Affiliated Hospital of Sun Yat-sen University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中山大学附属第八医院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Sun Yat-sen University",
+            "type": "related",
+            "id": "https://ror.org/0064kty71"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-05",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "rig-sysu.org"
+        ],
+        "established": 2007,
+        "external_ids": [
+          {
+            "all": [
+              "501100015670"
+            ],
+            "preferred": "501100015670",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/00ctspr96",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.rig-sysu.org"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Guangdong Gastrointestinal Disease Research Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Guangdong Province Institute of Gastroenterology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Guangdong Research Institute of Gastroenterology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Institute of Gastroenterology of Sun Yat-sen University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "广东省胃肠病学研究所"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-11-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "kfsyscc.org"
+        ],
+        "established": 1990,
+        "external_ids": [
+          {
+            "all": [
+              "grid.418962.0"
+            ],
+            "preferred": "grid.418962.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0622 0936"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q10921352"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/049zx1n75",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.kfsyscc.org/m/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TW",
+              "country_name": "Taiwan",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Taiwan",
+              "lat": 25.05306,
+              "lng": 121.52639,
+              "name": "Taipei"
+            },
+            "geonames_id": 1668341
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KFSYSCC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Koo Foundation Sun Yat-Sen Cancer Center"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-19",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "jib.ac.cn"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0001 0019 3453"
+            ],
+            "preferred": "0000 0001 0019 3453",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q843141"
+            ],
+            "preferred": "Q843141",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00nqzn326",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.jib.ac.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "JS",
+              "country_subdivision_name": "Jiangsu",
+              "lat": 32.06167,
+              "lng": 118.77778,
+              "name": "Nanjing"
+            },
+            "geonames_id": 1799962
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Institute of Botany, Jiangsu Province and Chinese Academy of Sciences"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Nanjing Botanical Garden, Memorial Sun Yat-Sen"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "江苏省中国科学院植物研究所"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "江苏省中国科学院植物研究所 (南京中山植物园)"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Chinese Academy of Sciences",
+            "type": "parent",
+            "id": "https://ror.org/034t30j35"
+          },
+          {
+            "label": "Government of Jiangsu Province",
+            "type": "parent",
+            "id": "https://ror.org/004svx814"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2010,
+        "external_ids": [
+          {
+            "all": [
+              "grid.495852.7"
+            ],
+            "preferred": "grid.495852.7",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/028kjem67",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://rhclin8791.solarbe.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.02677,
+              "lng": 113.13148,
+              "name": "Foshan"
+            },
+            "geonames_id": 1811103
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Solar Energy Research Institute of Sun Yat-sen University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "顺德中山大学太阳能研究院由"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Sun Yat-sen University",
+            "type": "related",
+            "id": "https://ror.org/0064kty71"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-09-23",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2018,
+        "external_ids": [
+          {
+            "all": [
+              "grid.511083.e"
+            ],
+            "preferred": "grid.511083.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 7671 2506"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/00rfd5b88",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.sysush.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 22.54554,
+              "lng": 114.0683,
+              "name": "Shenzhen"
+            },
+            "geonames_id": 1795565
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "The Seventh Affiliated Hospital of Sun Yat-sen University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中山大学附属第七医院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Sun Yat-sen University",
+            "type": "related",
+            "id": "https://ror.org/0064kty71"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-01-28",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-01-29",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "zsyygxyy.org.cn"
+        ],
+        "established": 2023,
+        "external_ids": [],
+        "id": "https://ror.org/027pjy323",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://zsyygxyy.org.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GX",
+              "country_subdivision_name": "Guangxi",
+              "lat": 22.81667,
+              "lng": 108.31667,
+              "name": "Nanning"
+            },
+            "geonames_id": 1799869
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "GXH-FAH-SYSU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Guangxi Hospital Division of The First Affiliated Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Guangxi Hospital Division of The First Affiliated Hospital, Sun Yat-sen University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中山大学附属第一医院广西医院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Health Commission of Guangxi Zhuang Autonomous Region",
+            "type": "related",
+            "id": "https://ror.org/01x9sys47"
+          },
+          {
+            "label": "The First Affiliated Hospital, Sun Yat-sen University",
+            "type": "related",
+            "id": "https://ror.org/037p24858"
+          },
+          {
+            "label": "The People's Hospital of Guangxi Zhuang Autonomous Region",
+            "type": "related",
+            "id": "https://ror.org/02aa8kj12"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1972,
+        "external_ids": [
+          {
+            "all": [
+              "grid.439177.f"
+            ],
+            "preferred": "grid.439177.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2108 9401"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q8055358"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01hg95g34",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.yorkarchaeology.co.uk/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/York_Archaeological_Trust"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 53.95763,
+              "lng": -1.08271,
+              "name": "York"
+            },
+            "geonames_id": 2633352
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "YAT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "York Archaeological Trust"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 12896
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 4152
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 1230
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 311
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 129
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 79
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 34
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 32
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 30
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 1995
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 1591
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 1010
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 839
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 468
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 443
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 443
+        },
+        {
+          "id": "ph",
+          "title": "Philippines",
+          "count": 384
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 382
+        },
+        {
+          "id": "ir",
+          "title": "Iran",
+          "count": 354
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 7430
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 3015
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 2503
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1151
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 530
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 100
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 14729
+        }
+      ]
+    }
+  }
+}

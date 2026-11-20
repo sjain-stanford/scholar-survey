@@ -1,0 +1,2112 @@
+{
+  "query": "Polytechnique Montreal",
+  "url": "https://api.ror.org/v2/organizations?query=Polytechnique+Montreal",
+  "access_date": "2026-10-08",
+  "status": 200,
+  "data": {
+    "number_of_results": 108,
+    "time_taken": 8,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-08-07",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "polymtl.ca"
+        ],
+        "established": 1873,
+        "external_ids": [
+          {
+            "all": [
+              "100012994"
+            ],
+            "preferred": "100012994",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.183158.6"
+            ],
+            "preferred": "grid.183158.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0435 3292"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q273619"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05f8d4e86",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://polymtl.ca"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/%C3%89cole_Polytechnique_de_Montr%C3%A9al"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "QC",
+              "country_subdivision_name": "Quebec",
+              "lat": 45.50884,
+              "lng": -73.58781,
+              "name": "Montreal"
+            },
+            "geonames_id": 6077243
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Polytechnique Montréal"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "École Polytechnique de Montréal"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Group for Research in Decision Analysis",
+            "type": "child",
+            "id": "https://ror.org/02pkvpx84"
+          },
+          {
+            "label": "CentrEau - Quebec Water Management Research Centre",
+            "type": "related",
+            "id": "https://ror.org/03wx0vn75"
+          },
+          {
+            "label": "Université de Montréal",
+            "type": "related",
+            "id": "https://ror.org/0161xgx34"
+          },
+          {
+            "label": "CIRAIG",
+            "type": "related",
+            "id": "https://ror.org/03rdrv793"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "polytechnique.edu"
+        ],
+        "established": 1795,
+        "external_ids": [
+          {
+            "all": [
+              "501100007242"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.10877.39"
+            ],
+            "preferred": "grid.10877.39",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2158 1279"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q273626"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05hy3tk52",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.polytechnique.edu/en"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/%C3%89cole_Polytechnique"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "FR",
+              "country_name": "France",
+              "country_subdivision_code": "IDF",
+              "country_subdivision_name": "Île-de-France",
+              "lat": 48.71828,
+              "lng": 2.2498,
+              "name": "Palaiseau"
+            },
+            "geonames_id": 2988758
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "l'X"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "École Polytechnique"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Laboratoire de Biologie Structurale de la Cellule",
+            "type": "child",
+            "id": "https://ror.org/01c6vgf77"
+          },
+          {
+            "label": "Centre de Recherche en Économie et Statistique",
+            "type": "child",
+            "id": "https://ror.org/0449khs19"
+          },
+          {
+            "label": "Centre de Physique Théorique",
+            "type": "child",
+            "id": "https://ror.org/02bsd9p69"
+          },
+          {
+            "label": "Centre de Mathématiques Appliquées de l'École polytechnique",
+            "type": "child",
+            "id": "https://ror.org/012e1xn46"
+          },
+          {
+            "label": "Laboratoire d'Informatique de l'École Polytechnique",
+            "type": "child",
+            "id": "https://ror.org/04afed728"
+          },
+          {
+            "label": "Laboratoire des Solides Irradiés",
+            "type": "child",
+            "id": "https://ror.org/015x8rz21"
+          },
+          {
+            "label": "Laboratoire d'Hydrodynamique de l'École polytechnique",
+            "type": "child",
+            "id": "https://ror.org/018b0x874"
+          },
+          {
+            "label": "Laboratoire d'Optique Appliquée",
+            "type": "child",
+            "id": "https://ror.org/03czns913"
+          },
+          {
+            "label": "Laboratoire de Météorologie Dynamique",
+            "type": "child",
+            "id": "https://ror.org/000ehr937"
+          },
+          {
+            "label": "Laboratoire de Physique des Plasmas",
+            "type": "child",
+            "id": "https://ror.org/05c95bg36"
+          },
+          {
+            "label": "Laboratoire pour l'Utilisation des Lasers Intenses",
+            "type": "child",
+            "id": "https://ror.org/002ty1h48"
+          },
+          {
+            "label": "Laboratoire d'Optique et Biosciences",
+            "type": "child",
+            "id": "https://ror.org/000p29f53"
+          },
+          {
+            "label": "Laboratoire de Synthèse Organique",
+            "type": "child",
+            "id": "https://ror.org/04qgfge56"
+          },
+          {
+            "label": "Laboratoire de Physique des Interfaces et des Couches Minces",
+            "type": "child",
+            "id": "https://ror.org/023f9y602"
+          },
+          {
+            "label": "Centre de Mathématiques Laurent Schwartz",
+            "type": "child",
+            "id": "https://ror.org/00b7djk73"
+          },
+          {
+            "label": "Laboratoire Leprince-Ringuet",
+            "type": "child",
+            "id": "https://ror.org/058t6p923"
+          },
+          {
+            "label": "Laboratoire Mécanique des Solides",
+            "type": "child",
+            "id": "https://ror.org/00xd1ek73"
+          },
+          {
+            "label": "Organisation de Micro-Electronique Générale Avancée",
+            "type": "child",
+            "id": "https://ror.org/01mbkbh33"
+          },
+          {
+            "label": "Microfluidique Physique et Bio-ingénierie",
+            "type": "child",
+            "id": "https://ror.org/05hvqzx20"
+          },
+          {
+            "label": "Laboratoire de Physique de la Matière Condensée",
+            "type": "child",
+            "id": "https://ror.org/01z5d0q66"
+          },
+          {
+            "label": "Centre de gestion en recherche",
+            "type": "child",
+            "id": "https://ror.org/038yp4g21"
+          },
+          {
+            "label": "Institut Interdisciplinaire de l'Innovation",
+            "type": "child",
+            "id": "https://ror.org/00mz87608"
+          },
+          {
+            "label": "Laboratoire interdisciplinaire de l'X",
+            "type": "child",
+            "id": "https://ror.org/036czkg67"
+          },
+          {
+            "label": "Laboratoire de Chimie Moléculaire",
+            "type": "child",
+            "id": "https://ror.org/02w2x8s90"
+          },
+          {
+            "label": "Institut Photovoltaïque d’Île-de-France",
+            "type": "child",
+            "id": "https://ror.org/052jxdr90"
+          },
+          {
+            "label": "Institut Polytechnique de Paris",
+            "type": "parent",
+            "id": "https://ror.org/042tfbd02"
+          },
+          {
+            "label": "INFRANALYTICS",
+            "type": "related",
+            "id": "https://ror.org/04yem5s35"
+          },
+          {
+            "label": "Fédération de Recherche sur l'Energie Solaire",
+            "type": "related",
+            "id": "https://ror.org/0459fdx51"
+          },
+          {
+            "label": "GDR NBODY : Problème quantique à N corps en chimie et physique",
+            "type": "related",
+            "id": "https://ror.org/01nrtdp55"
+          },
+          {
+            "label": "Fédération française Matériaux sous hautes vitesses de déformation. Application aux matériaux en conditions extrêmes, Procédés et structures",
+            "type": "related",
+            "id": "https://ror.org/00hgbrg14"
+          },
+          {
+            "label": "Microscopie Fonctionnelle du Vivant",
+            "type": "related",
+            "id": "https://ror.org/01sgwka45"
+          },
+          {
+            "label": "Fédération Francilienne de Mécanique - Matériaux, Structures, Procédés",
+            "type": "related",
+            "id": "https://ror.org/01bbf9m56"
+          },
+          {
+            "label": "Fédération de recherche PLAS@PAR",
+            "type": "related",
+            "id": "https://ror.org/02rmk5x23"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.459279.4"
+            ],
+            "preferred": "grid.459279.4",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/04qze1e43",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.montreal-invivo.com/en/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "QC",
+              "country_subdivision_name": "Quebec",
+              "lat": 45.50884,
+              "lng": -73.58781,
+              "name": "Montreal"
+            },
+            "geonames_id": 6077243
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Montréal InVivo"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.459536.8"
+            ],
+            "preferred": "grid.459536.8",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/00xrr2d51",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.santemontreal.qc.ca/en/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "QC",
+              "country_subdivision_name": "Quebec",
+              "lat": 45.50884,
+              "lng": -73.58781,
+              "name": "Montreal"
+            },
+            "geonames_id": 6077243
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Sante Montreal"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1992,
+        "external_ids": [
+          {
+            "all": [
+              "grid.450526.0"
+            ],
+            "preferred": "grid.450526.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0668 3509"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2904080"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03jbxjn08",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://espacepourlavie.ca/en/biodome"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Montreal_Biodome"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "QC",
+              "country_subdivision_name": "Quebec",
+              "lat": 45.50884,
+              "lng": -73.58781,
+              "name": "Montreal"
+            },
+            "geonames_id": 6077243
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Biodôme de Montréal"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Montreal Biodome"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-09-14",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2017,
+        "external_ids": [],
+        "id": "https://ror.org/05xdft911",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "QC",
+              "country_subdivision_name": "Quebec",
+              "lat": 45.50884,
+              "lng": -73.58781,
+              "name": "Montreal"
+            },
+            "geonames_id": 6077243
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "MSR Montréal"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Microsoft Research Lab – Montréal"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Microsoft Research Montreal"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Microsoft Research Montréal (Canada)"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Microsoft (United States)",
+            "type": "parent",
+            "id": "https://ror.org/00d0nc645"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "hec.ca"
+        ],
+        "established": 1907,
+        "external_ids": [
+          {
+            "all": [
+              "100012767"
+            ],
+            "preferred": "100012767",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.256696.8"
+            ],
+            "preferred": "grid.256696.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0555 9354"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q273527"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05ww3wq27",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.hec.ca"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/HEC_Montr%C3%A9al"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "QC",
+              "country_subdivision_name": "Quebec",
+              "lat": 45.50884,
+              "lng": -73.58781,
+              "name": "Montreal"
+            },
+            "geonames_id": 6077243
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "HEC Montréal"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "École des Hautes Études commerciales de Montréal"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Group for Research in Decision Analysis",
+            "type": "child",
+            "id": "https://ror.org/02pkvpx84"
+          },
+          {
+            "label": "Université de Montréal",
+            "type": "related",
+            "id": "https://ror.org/0161xgx34"
+          },
+          {
+            "label": "Observatoire international sur les impacts sociétaux de l’IA et du numérique",
+            "type": "related",
+            "id": "https://ror.org/05fdt6816"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-24",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "gris.ca"
+        ],
+        "established": 1994,
+        "external_ids": [
+          {
+            "all": [
+              "Q124518282"
+            ],
+            "preferred": "Q124518282",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01t9krp09",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.gris.ca"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "QC",
+              "country_subdivision_name": "Quebec",
+              "lat": 45.50884,
+              "lng": -73.58781,
+              "name": "Montreal"
+            },
+            "geonames_id": 6077243
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "acronym"
+            ],
+            "value": "GRIS"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "GRIS-Montréal"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "alias"
+            ],
+            "value": "Groupe de recherche et d'intervention sociale de Montréal"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1925,
+        "external_ids": [
+          {
+            "all": [
+              "grid.463233.3"
+            ],
+            "preferred": "grid.463233.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0647 4872"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3578167"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05t0zwy08",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.enp.edu.dz/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Polytechnic_School_of_Algiers"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "DZ",
+              "country_name": "Algeria",
+              "country_subdivision_code": "16",
+              "country_subdivision_name": "Algiers",
+              "lat": 36.73225,
+              "lng": 3.08746,
+              "name": "Algiers"
+            },
+            "geonames_id": 2507480
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ENP"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Polytechnic School"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Polytechnic School of Algiers"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "École Nationale Polytechnique"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "المدرسة الوطنية المتعددة التقنيات بالجزائر"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-08-06",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-08-07",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2016,
+        "external_ids": [
+          {
+            "all": [
+              "Q100452192"
+            ],
+            "preferred": "Q100452192",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/029yqf282",
+        "links": [],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "BF",
+              "country_name": "Burkina Faso",
+              "country_subdivision_code": "09",
+              "country_subdivision_name": "Hauts-Bassins",
+              "lat": 11.17715,
+              "lng": -4.2979,
+              "name": "Bobo-Dioulasso"
+            },
+            "geonames_id": 2362344
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "African Polytechnic Institute"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "acronym"
+            ],
+            "value": "IPA"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Institut Polytechnique Africain"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-08-06",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-08-07",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "upi.edu.bi"
+        ],
+        "established": 2017,
+        "external_ids": [
+          {
+            "all": [
+              "Q100523631"
+            ],
+            "preferred": "Q100523631",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04cjm7d31",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.upi.edu.bi"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "BI",
+              "country_name": "Burundi",
+              "country_subdivision_code": "CI",
+              "country_subdivision_name": "Cibitoke",
+              "lat": -2.88333,
+              "lng": 29.25,
+              "name": "Cibitoke"
+            },
+            "geonames_id": 430020
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Integrated Polytechnic University"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "acronym"
+            ],
+            "value": "UPI"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Université Polytechnique Intégrée"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-06-14",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-06-23",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1987,
+        "external_ids": [
+          {
+            "all": [
+              "501100009454"
+            ],
+            "preferred": "501100009454",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/04ke6zp14",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.polytechnique.edu/fondation/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "FR",
+              "country_name": "France",
+              "country_subdivision_code": "IDF",
+              "country_subdivision_name": "Île-de-France",
+              "lat": 48.71828,
+              "lng": 2.2498,
+              "name": "Palaiseau"
+            },
+            "geonames_id": 2988758
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "acronym"
+            ],
+            "value": "FX"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Fondation de l'École Polytechnique"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "École Polytechnique Foundation"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ntua.gr"
+        ],
+        "established": 1836,
+        "external_ids": [
+          {
+            "all": [
+              "501100018960",
+              "501100024790"
+            ],
+            "preferred": "501100018960",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.4241.3"
+            ],
+            "preferred": "grid.4241.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2185 9808"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1640726"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03cx6bg69",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ntua.gr"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/National_Technical_University_of_Athens"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GR",
+              "country_name": "Greece",
+              "country_subdivision_code": "I",
+              "country_subdivision_name": "Attica",
+              "lat": 37.98376,
+              "lng": 23.72784,
+              "name": "Athens"
+            },
+            "geonames_id": 264371
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Athens Polytechnic"
+          },
+          {
+            "lang": "el",
+            "types": [
+              "label"
+            ],
+            "value": "Ethnicon Metsovion Polytechnion"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NTUA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Metsovian Polytechnic"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Technical University of Athens"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "École polytechnique d'athènes"
+          },
+          {
+            "lang": "el",
+            "types": [
+              "label"
+            ],
+            "value": "Εθνικό Μετσόβιο Πολυτεχνείο"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Institute of Communication and Computer Systems",
+            "type": "related",
+            "id": "https://ror.org/0483fn738"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "unilasalle.fr"
+        ],
+        "established": 1854,
+        "external_ids": [
+          {
+            "all": [
+              "grid.466354.6"
+            ],
+            "preferred": "grid.466354.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0647 2164"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3152468"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05wy89733",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.unilasalle.fr"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Unilasalle"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "FR",
+              "country_name": "France",
+              "country_subdivision_code": "BRE",
+              "country_subdivision_name": "Brittany",
+              "lat": 48.02459,
+              "lng": -1.74709,
+              "name": "Bruz"
+            },
+            "geonames_id": 3029713
+          },
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "FR",
+              "country_name": "France",
+              "country_subdivision_code": "HDF",
+              "country_subdivision_name": "Hauts-de-France",
+              "lat": 49.43333,
+              "lng": 2.08333,
+              "name": "Beauvais"
+            },
+            "geonames_id": 3034006
+          },
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "FR",
+              "country_name": "France",
+              "country_subdivision_code": "HDF",
+              "country_subdivision_name": "Hauts-de-France",
+              "lat": 49.9,
+              "lng": 2.3,
+              "name": "Amiens"
+            },
+            "geonames_id": 3037854
+          },
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "FR",
+              "country_name": "France",
+              "country_subdivision_code": "NOR",
+              "country_subdivision_name": "Normandy",
+              "lat": 49.44313,
+              "lng": 1.09932,
+              "name": "Rouen"
+            },
+            "geonames_id": 2982652
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Institut Polytechnique UniLaSalle"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "UniLaSalle"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Bassins - Réservoirs - Ressources",
+            "type": "child",
+            "id": "https://ror.org/059424541"
+          },
+          {
+            "label": "Laboratoire d'électronique, systèmes de communication et microsystèmes",
+            "type": "child",
+            "id": "https://ror.org/01m83bk32"
+          },
+          {
+            "label": "Institut polytechnique LaSalle Beauvais",
+            "type": "predecessor",
+            "id": "https://ror.org/00dn6fj84"
+          },
+          {
+            "label": "École supérieure d’ingénieurs et de techniciens pour l’agriculture",
+            "type": "predecessor",
+            "id": "https://ror.org/02wx41040"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2006,
+        "external_ids": [
+          {
+            "all": [
+              "grid.432535.6"
+            ],
+            "preferred": "grid.432535.6",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/05bmjxa33",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.aeromontreal.ca/homepage/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "QC",
+              "country_subdivision_name": "Quebec",
+              "lat": 45.50884,
+              "lng": -73.58781,
+              "name": "Montreal"
+            },
+            "geonames_id": 6077243
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Aero Montreal (Canada)"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1861,
+        "external_ids": [
+          {
+            "all": [
+              "grid.451370.4"
+            ],
+            "preferred": "grid.451370.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 6432 5517"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1817151"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03xvqgb25",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.stm.info/en"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_de_transport_de_Montr%C3%A9al"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "QC",
+              "country_subdivision_name": "Quebec",
+              "lat": 45.50884,
+              "lng": -73.58781,
+              "name": "Montreal"
+            },
+            "geonames_id": 6077243
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Montreal Transit Corporation"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "STM"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Société de Transport de Montréal"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1904,
+        "external_ids": [
+          {
+            "all": [
+              "grid.416084.f"
+            ],
+            "preferred": "grid.416084.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0350 814X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3145286"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04wc5jk96",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.thechildren.com/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Montreal_Children's_Hospital"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "QC",
+              "country_subdivision_name": "Quebec",
+              "lat": 45.50884,
+              "lng": -73.58781,
+              "name": "Montreal"
+            },
+            "geonames_id": 6077243
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Hôpital de Montréal pour enfants"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Montreal Children's Hospital"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "McGill University",
+            "type": "related",
+            "id": "https://ror.org/01pxwe438"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1820,
+        "external_ids": [
+          {
+            "all": [
+              "grid.416099.3"
+            ],
+            "preferred": "grid.416099.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2218 112X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3145340"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04gbhgc79",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://muhc.ca/mgh/dashboard"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Montreal_General_Hospital"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "QC",
+              "country_subdivision_name": "Quebec",
+              "lat": 45.50884,
+              "lng": -73.58781,
+              "name": "Montreal"
+            },
+            "geonames_id": 6077243
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Hôpital Général de Montréal"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MGH"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Montreal General Hospital"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "McGill University Health Centre",
+            "type": "parent",
+            "id": "https://ror.org/04cpxjv19"
+          },
+          {
+            "label": "McGill University",
+            "type": "related",
+            "id": "https://ror.org/01pxwe438"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.435953.d"
+            ],
+            "preferred": "grid.435953.d",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/04tsbwh72",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://credemontreal.qc.ca/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "QC",
+              "country_subdivision_name": "Quebec",
+              "lat": 45.50884,
+              "lng": -73.58781,
+              "name": "Montreal"
+            },
+            "geonames_id": 6077243
+          }
+        ],
+        "names": [
+          {
+            "lang": "fr",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "CRÉ de Montréal"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1987,
+        "external_ids": [
+          {
+            "all": [
+              "grid.479293.2"
+            ],
+            "preferred": "grid.479293.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2225 8262"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/006fcvv63",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.iedm.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Montreal_Economic_Institute"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "QC",
+              "country_subdivision_name": "Quebec",
+              "lat": 45.50884,
+              "lng": -73.58781,
+              "name": "Montreal"
+            },
+            "geonames_id": 6077243
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MEI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Montreal Economic Institute"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "other"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 51
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 32
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 20
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 12
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 11
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 9
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 3
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 1
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 1
+        }
+      ],
+      "countries": [
+        {
+          "id": "ca",
+          "title": "Canada",
+          "count": 55
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 21
+        },
+        {
+          "id": "dz",
+          "title": "Algeria",
+          "count": 4
+        },
+        {
+          "id": "it",
+          "title": "Italy",
+          "count": 4
+        },
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 3
+        },
+        {
+          "id": "bf",
+          "title": "Burkina Faso",
+          "count": 2
+        },
+        {
+          "id": "bi",
+          "title": "Burundi",
+          "count": 2
+        },
+        {
+          "id": "ch",
+          "title": "Switzerland",
+          "count": 2
+        },
+        {
+          "id": "mg",
+          "title": "Madagascar",
+          "count": 2
+        },
+        {
+          "id": "vn",
+          "title": "Vietnam",
+          "count": 2
+        }
+      ],
+      "continents": [
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 58
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 29
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 17
+        },
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 3
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 1
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 108
+        }
+      ]
+    }
+  }
+}

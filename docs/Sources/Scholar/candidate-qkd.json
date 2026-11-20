@@ -1,0 +1,400 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "q": "intitle:\"Quantization-aware Knowledge Distillation\"",
+    "hl": "en",
+    "num": 10
+  },
+  "accessed_at_utc": "2026-10-07T12:40:03.142976+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63da3f89c97c6c2767064",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/Ft6WyUnslu7a5pVC1itgYW66_YnECiGbtkDfYu-MCxw/6ac63da3f89c97c6c2767064.json",
+      "markdown_endpoint": "https://serpapi.com/searches/Ft6WyUnslu7a5pVC1itgYW66_YnECiGbtkDfYu-MCxw/6ac63da3f89c97c6c2767064.md",
+      "created_at": "2026-10-07 12:40:03 UTC",
+      "processed_at": "2026-10-07 12:40:03 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?q=intitle%3A%22Quantization-aware+Knowledge+Distillation%22&hl=en&num=10",
+      "raw_html_file": "https://serpapi.com/searches/Ft6WyUnslu7a5pVC1itgYW66_YnECiGbtkDfYu-MCxw/6ac63da3f89c97c6c2767064.html",
+      "total_time_taken": 0.86
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "q": "intitle:\"Quantization-aware Knowledge Distillation\"",
+      "hl": "en",
+      "num": "10"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 7,
+      "time_taken_displayed": 0.14,
+      "query_displayed": "intitle:\"Quantization-aware Knowledge Distillation\""
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Qkd: Quantization-aware knowledge distillation",
+        "result_id": "w-F-v0NHCcsJ",
+        "link": "https://arxiv.org/abs/1911.12491",
+        "snippet": "… To address this shortcoming, we propose Quantization-aware Knowledge Distillation (QKD) wherein quantization and KD are carefully coordinated in three phases. First, Selfstudying (…",
+        "publication_info": {
+          "summary": "J Kim, Y Bhalgat, J Lee, C Patel, N Kwak - arXiv preprint arXiv:1911.12491, 2019 - arxiv.org",
+          "authors": [
+            {
+              "name": "J Kim",
+              "link": "https://scholar.google.com/citations?user=mzFEJVIAAAAJ&hl=en&oi=sra",
+              "author_id": "mzFEJVIAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=mzFEJVIAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "Y Bhalgat",
+              "link": "https://scholar.google.com/citations?user=q0VSEHYAAAAJ&hl=en&oi=sra",
+              "author_id": "q0VSEHYAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=q0VSEHYAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "J Lee",
+              "link": "https://scholar.google.com/citations?user=lUYLvBgAAAAJ&hl=en&oi=sra",
+              "author_id": "lUYLvBgAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=lUYLvBgAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "C Patel"
+            },
+            {
+              "name": "N Kwak",
+              "link": "https://scholar.google.com/citations?user=h_8-1M0AAAAJ&hl=en&oi=sra",
+              "author_id": "h_8-1M0AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=h_8-1M0AAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/1911.12491"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=w-F-v0NHCcsJ",
+          "cited_by": {
+            "total": 125,
+            "link": "https://scholar.google.com/scholar?cites=14630303220790911427&as_sdt=5,48&sciodt=0,48&hl=en",
+            "cites_id": "14630303220790911427",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=14630303220790911427&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:w-F-v0NHCcsJ:scholar.google.com/&scioq=intitle:%22Quantization-aware+Knowledge+Distillation%22&hl=en&as_sdt=0,48",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&engine=google_scholar&hl=en&num=10&q=related%3Aw-F-v0NHCcsJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cluster=14630303220790911427&hl=en&as_sdt=0,48",
+            "cluster_id": "14630303220790911427",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&cluster=14630303220790911427&engine=google_scholar&hl=en"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:w-F-v0NHCcsJ:scholar.google.com/+intitle:%22Quantization-aware+Knowledge+Distillation%22&hl=en&as_sdt=0,48"
+        }
+      },
+      {
+        "position": 2,
+        "title": "Self-supervised quantization-aware knowledge distillation",
+        "result_id": "4CS6RO1VDykJ",
+        "link": "https://arxiv.org/abs/2403.11106",
+        "snippet": "Quantization-aware training (QAT) and Knowledge Distillation (KD) are combined to achieve competitive performance in creating low-bit deep learning models. However, existing works …",
+        "publication_info": {
+          "summary": "K Zhao, M Zhao - arXiv preprint arXiv:2403.11106, 2024 - arxiv.org",
+          "authors": [
+            {
+              "name": "K Zhao",
+              "link": "https://scholar.google.com/citations?user=SC8c2D8AAAAJ&hl=en&oi=sra",
+              "author_id": "SC8c2D8AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=SC8c2D8AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "M Zhao",
+              "link": "https://scholar.google.com/citations?user=pAcF2lEAAAAJ&hl=en&oi=sra",
+              "author_id": "pAcF2lEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pAcF2lEAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2403.11106"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=4CS6RO1VDykJ",
+          "cited_by": {
+            "total": 25,
+            "link": "https://scholar.google.com/scholar?cites=2958677957754365152&as_sdt=5,48&sciodt=0,48&hl=en",
+            "cites_id": "2958677957754365152",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=2958677957754365152&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:4CS6RO1VDykJ:scholar.google.com/&scioq=intitle:%22Quantization-aware+Knowledge+Distillation%22&hl=en&as_sdt=0,48",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&engine=google_scholar&hl=en&num=10&q=related%3A4CS6RO1VDykJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 5,
+            "link": "https://scholar.google.com/scholar?cluster=2958677957754365152&hl=en&as_sdt=0,48",
+            "cluster_id": "2958677957754365152",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&cluster=2958677957754365152&engine=google_scholar&hl=en"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:4CS6RO1VDykJ:scholar.google.com/+intitle:%22Quantization-aware+Knowledge+Distillation%22&hl=en&as_sdt=0,48"
+        }
+      },
+      {
+        "position": 3,
+        "title": "Dynfed: Adaptive federated learning via quantization-aware knowledge distillation",
+        "result_id": "n2L0UE1k35kJ",
+        "link": "https://dl.acm.org/doi/abs/10.1145/3746027.3755451",
+        "snippet": "Federated Learning (FL) has become a powerful technique for collaborative model training across decentralized entities while preserving data privacy. Despite its potential, FL faces …",
+        "publication_info": {
+          "summary": "N He, Y Chen, Z Jiang, S Yang, L Sun - Proceedings of the 33rd ACM …, 2025 - dl.acm.org",
+          "authors": [
+            {
+              "name": "N He"
+            },
+            {
+              "name": "Y Chen"
+            },
+            {
+              "name": "Z Jiang",
+              "link": "https://scholar.google.com/citations?user=HhsAgHsAAAAJ&hl=en&oi=sra",
+              "author_id": "HhsAgHsAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=HhsAgHsAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "S Yang",
+              "link": "https://scholar.google.com/citations?user=TaXw2xMAAAAJ&hl=en&oi=sra",
+              "author_id": "TaXw2xMAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=TaXw2xMAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "L Sun",
+              "link": "https://scholar.google.com/citations?user=GySPN6oAAAAJ&hl=en&oi=sra",
+              "author_id": "GySPN6oAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=GySPN6oAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "acm.org",
+            "file_format": "PDF",
+            "link": "https://dl.acm.org/doi/pdf/10.1145/3746027.3755451"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=n2L0UE1k35kJ",
+          "cited_by": {
+            "total": 6,
+            "link": "https://scholar.google.com/scholar?cites=11087691090842903199&as_sdt=5,48&sciodt=0,48&hl=en",
+            "cites_id": "11087691090842903199",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=11087691090842903199&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:n2L0UE1k35kJ:scholar.google.com/&scioq=intitle:%22Quantization-aware+Knowledge+Distillation%22&hl=en&as_sdt=0,48",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&engine=google_scholar&hl=en&num=10&q=related%3An2L0UE1k35kJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cluster=11087691090842903199&hl=en&as_sdt=0,48",
+            "cluster_id": "11087691090842903199",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&cluster=11087691090842903199&engine=google_scholar&hl=en"
+          }
+        }
+      },
+      {
+        "position": 4,
+        "title": "Data-Augmented Quantization-Aware Knowledge Distillation",
+        "result_id": "x1MqJn008DAJ",
+        "link": "https://arxiv.org/abs/2509.03850",
+        "snippet": "Quantization-aware training (QAT) and Knowledge Distillation (KD) are combined to achieve competitive performance in creating low-bit deep learning models. Existing KD and QAT …",
+        "publication_info": {
+          "summary": "J Kur, K Zhao - arXiv preprint arXiv:2509.03850, 2025 - arxiv.org",
+          "authors": [
+            {
+              "name": "J Kur"
+            },
+            {
+              "name": "K Zhao",
+              "link": "https://scholar.google.com/citations?user=SC8c2D8AAAAJ&hl=en&oi=sra",
+              "author_id": "SC8c2D8AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=SC8c2D8AAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2509.03850"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=x1MqJn008DAJ",
+          "cited_by": {
+            "total": 1,
+            "link": "https://scholar.google.com/scholar?cites=3526376220346962887&as_sdt=5,48&sciodt=0,48&hl=en",
+            "cites_id": "3526376220346962887",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=3526376220346962887&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:x1MqJn008DAJ:scholar.google.com/&scioq=intitle:%22Quantization-aware+Knowledge+Distillation%22&hl=en&as_sdt=0,48",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&engine=google_scholar&hl=en&num=10&q=related%3Ax1MqJn008DAJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cluster=3526376220346962887&hl=en&as_sdt=0,48",
+            "cluster_id": "3526376220346962887",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&cluster=3526376220346962887&engine=google_scholar&hl=en"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:x1MqJn008DAJ:scholar.google.com/+intitle:%22Quantization-aware+Knowledge+Distillation%22&hl=en&as_sdt=0,48"
+        }
+      },
+      {
+        "position": 5,
+        "title": "Poster: Self-supervised quantization-aware knowledge distillation",
+        "result_id": "llPuxrE-EQYJ",
+        "link": "https://dl.acm.org/doi/abs/10.1145/3583740.3626620",
+        "snippet": "Quantization-aware training (QAT) achieves competitive performance and is widely used for image classification tasks in model compression. Existing QAT works start with a pre-trained …",
+        "publication_info": {
+          "summary": "K Zhao, M Zhao - Proceedings of the Eighth ACM/IEEE Symposium on …, 2023 - dl.acm.org",
+          "authors": [
+            {
+              "name": "K Zhao",
+              "link": "https://scholar.google.com/citations?user=SC8c2D8AAAAJ&hl=en&oi=sra",
+              "author_id": "SC8c2D8AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=SC8c2D8AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "M Zhao",
+              "link": "https://scholar.google.com/citations?user=pAcF2lEAAAAJ&hl=en&oi=sra",
+              "author_id": "pAcF2lEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pAcF2lEAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "acm.org",
+            "file_format": "PDF",
+            "link": "https://dl.acm.org/doi/pdf/10.1145/3583740.3626620"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=llPuxrE-EQYJ",
+          "cited_by": {
+            "total": 5,
+            "link": "https://scholar.google.com/scholar?cites=437199572099290006&as_sdt=5,48&sciodt=0,48&hl=en",
+            "cites_id": "437199572099290006",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=437199572099290006&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:llPuxrE-EQYJ:scholar.google.com/&scioq=intitle:%22Quantization-aware+Knowledge+Distillation%22&hl=en&as_sdt=0,48",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&engine=google_scholar&hl=en&num=10&q=related%3AllPuxrE-EQYJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 7,
+            "link": "https://scholar.google.com/scholar?cluster=437199572099290006&hl=en&as_sdt=0,48",
+            "cluster_id": "437199572099290006",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C48&cluster=437199572099290006&engine=google_scholar&hl=en"
+          }
+        }
+      },
+      {
+        "position": 6,
+        "title": "Quantization-aware knowledge distillation",
+        "result_id": "AyuTSXvltqkJ",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+          "summary": "A Polino, R Pascanu, D Alistarh - International Conference on Learning …, 2018",
+          "authors": [
+            {
+              "name": "A Polino"
+            },
+            {
+              "name": "R Pascanu"
+            },
+            {
+              "name": "D Alistarh"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=AyuTSXvltqkJ",
+          "cited_by": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cites=12229214155849280259&as_sdt=5,48&sciodt=0,48&hl=en",
+            "cites_id": "12229214155849280259",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=12229214155849280259&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:AyuTSXvltqkJ:scholar.google.com/&scioq=intitle:%22Quantization-aware+Knowledge+Distillation%22&hl=en&as_sdt=0,48",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&engine=google_scholar&hl=en&num=10&q=related%3AAyuTSXvltqkJ%3Ascholar.google.com%2F"
+        }
+      },
+      {
+        "position": 7,
+        "title": "Qkd: Quantization-aware knowledge distillation. arXiv 2019",
+        "result_id": "OuM40yRL1QMJ",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+          "summary": "J Kim, Y Bhalgat, J Lee, C Patel, N Kwak - arXiv preprint arXiv:1911.12491",
+          "authors": [
+            {
+              "name": "J Kim"
+            },
+            {
+              "name": "Y Bhalgat"
+            },
+            {
+              "name": "J Lee"
+            },
+            {
+              "name": "C Patel"
+            },
+            {
+              "name": "N Kwak"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=OuM40yRL1QMJ",
+          "cited_by": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cites=276209573687780154&as_sdt=5,48&sciodt=0,48&hl=en",
+            "cites_id": "276209573687780154",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=276209573687780154&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:OuM40yRL1QMJ:scholar.google.com/&scioq=intitle:%22Quantization-aware+Knowledge+Distillation%22&hl=en&as_sdt=0,48",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C48&engine=google_scholar&hl=en&num=10&q=related%3AOuM40yRL1QMJ%3Ascholar.google.com%2F"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,2476 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Peking+University",
+  "http_status": 200,
+  "query": "Peking University",
+  "data": {
+    "number_of_results": 14692,
+    "time_taken": 21,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "pku.edu.cn"
+        ],
+        "established": 1898,
+        "external_ids": [
+          {
+            "all": [
+              "501100004791",
+              "501100007937",
+              "501100012487",
+              "501100017003",
+              "501100009504"
+            ],
+            "preferred": "501100007937",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.11135.37"
+            ],
+            "preferred": "grid.11135.37",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2256 9319"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q16952",
+              "Q7494371",
+              "Q56612455"
+            ],
+            "preferred": "Q16952",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02v51f717",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.pku.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Peking_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Imperial University of Peking"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PKU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Peking University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Beijing Institute of Big Data Research",
+            "type": "child",
+            "id": "https://ror.org/00s1sz824"
+          },
+          {
+            "label": "Center for Life Sciences",
+            "type": "child",
+            "id": "https://ror.org/05kje8j93"
+          },
+          {
+            "label": "Collaborative Innovation Center of Quantum Matter",
+            "type": "child",
+            "id": "https://ror.org/03jn38r85"
+          },
+          {
+            "label": "HKUST Shenzhen Research Institute",
+            "type": "child",
+            "id": "https://ror.org/00sz56h79"
+          },
+          {
+            "label": "State Key Laboratory of Visual and Auditory Information Processing",
+            "type": "child",
+            "id": "https://ror.org/02zwg8g81"
+          },
+          {
+            "label": "State Key Laboratory of Digital Publishing Technology",
+            "type": "child",
+            "id": "https://ror.org/021s6g098"
+          },
+          {
+            "label": "State Key Laboratory of Rare Earth Materials Chemistry and Application",
+            "type": "child",
+            "id": "https://ror.org/04vgnd506"
+          },
+          {
+            "label": "State Key Laboratory of Natural and Biomimetic Drugs",
+            "type": "child",
+            "id": "https://ror.org/049mqh532"
+          },
+          {
+            "label": "State Key Laboratory of Protein and Plant Gene Research",
+            "type": "child",
+            "id": "https://ror.org/05xbqrp21"
+          },
+          {
+            "label": "State Key Laboratory of Membrane Biology",
+            "type": "child",
+            "id": "https://ror.org/03mq8q210"
+          },
+          {
+            "label": "State Key Laboratory of Artificial Microstructure and Mesoscopic Physics",
+            "type": "child",
+            "id": "https://ror.org/007nf8q70"
+          },
+          {
+            "label": "State Key Laboratory of Turbulence and Complex Systems",
+            "type": "child",
+            "id": "https://ror.org/04km98768"
+          },
+          {
+            "label": "State Key Laboratory of Nuclear Physics and Technology",
+            "type": "child",
+            "id": "https://ror.org/00tp8bz22"
+          },
+          {
+            "label": "State Key Laboratory of Advanced Optical Communication Systems and Networks",
+            "type": "child",
+            "id": "https://ror.org/03dz8mb53"
+          },
+          {
+            "label": "The Affiliated High School of Peking University",
+            "type": "child",
+            "id": "https://ror.org/05a2mmm74"
+          },
+          {
+            "label": "Beijing Jishuitan Hospital",
+            "type": "related",
+            "id": "https://ror.org/035t17984"
+          },
+          {
+            "label": "Peking University Cancer Hospital",
+            "type": "related",
+            "id": "https://ror.org/00nyxxr91"
+          },
+          {
+            "label": "Peking University First Hospital",
+            "type": "related",
+            "id": "https://ror.org/02z1vqm45"
+          },
+          {
+            "label": "Peking University International Hospital",
+            "type": "related",
+            "id": "https://ror.org/03jxhcr96"
+          },
+          {
+            "label": "Peking University People's Hospital",
+            "type": "related",
+            "id": "https://ror.org/035adwg89"
+          },
+          {
+            "label": "Peking University Sixth Hospital",
+            "type": "related",
+            "id": "https://ror.org/05rzcwg85"
+          },
+          {
+            "label": "Peking University School and Hospital of Stomatology",
+            "type": "related",
+            "id": "https://ror.org/00s2xkh70"
+          },
+          {
+            "label": "Peking University Third Hospital",
+            "type": "related",
+            "id": "https://ror.org/04wwqze12"
+          },
+          {
+            "label": "Beijing Proteome Research Center",
+            "type": "related",
+            "id": "https://ror.org/05pp5b412"
+          },
+          {
+            "label": "Beijing Shijitan Hospital",
+            "type": "related",
+            "id": "https://ror.org/0569k1630"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1942,
+        "external_ids": [
+          {
+            "all": [
+              "grid.459847.3"
+            ],
+            "preferred": "grid.459847.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1798 0615"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/05rzcwg85",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.pkuh6.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Peking University Sixth Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "School of Mental Health, Peking University"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Peking University",
+            "type": "related",
+            "id": "https://ror.org/02v51f717"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2014,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449412.e"
+            ],
+            "preferred": "grid.449412.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q4881202"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03jxhcr96",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.pkucare.com/content/details23_59.html"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Peking_University_International_Hospital"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Peking University International Hospital"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北大国际医院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Peking University",
+            "type": "related",
+            "id": "https://ror.org/02v51f717"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1949,
+        "external_ids": [
+          {
+            "all": [
+              "grid.452694.8"
+            ],
+            "preferred": "grid.452694.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0644 5625"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30296353"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/040rwep31",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.sgyy.com.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Peking University Shougang Hospital"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京大学首鋼医院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1976,
+        "external_ids": [
+          {
+            "all": [
+              "grid.412474.0"
+            ],
+            "preferred": "grid.412474.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0027 0586"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/00nyxxr91",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.bjcancer.org/_English/Service.html"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Beijing Cancer Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Beijing Institute for Cancer Research"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Peking University Cancer Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Peking University School of Oncology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京大学肿瘤医院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Peking University",
+            "type": "related",
+            "id": "https://ror.org/02v51f717"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1949,
+        "external_ids": [
+          {
+            "all": [
+              "grid.464428.8"
+            ],
+            "preferred": "grid.464428.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1758 3169"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q10940176"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01924nm42",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.tjwzx.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "TJ",
+              "country_subdivision_name": "Tianjin",
+              "lat": 39.14222,
+              "lng": 117.17667,
+              "name": "Tianjin"
+            },
+            "geonames_id": 1792947
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Fifth Tianjin Central Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Peking University Binhai Hospital"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Tanggu Hospital"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "天津市第五中心医院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1958,
+        "external_ids": [
+          {
+            "all": [
+              "501100009399"
+            ],
+            "preferred": "501100009399",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.411642.4"
+            ],
+            "preferred": "grid.411642.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0605 3760"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7119542"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04wwqze12",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.med.monash.edu.au/sphc/mchi/partners/cn-h-pku3.html"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/PKU_3rd_People%27s_Hospital"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "PKU 3rd People's Hospital"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PUTH"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Peking University Third Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Sanyuan Hospital"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京大学第三医院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Peking University",
+            "type": "related",
+            "id": "https://ror.org/02v51f717"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1915,
+        "external_ids": [
+          {
+            "all": [
+              "100017415"
+            ],
+            "preferred": "100017415",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.411472.5"
+            ],
+            "preferred": "grid.411472.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1764 1621"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q10550425"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02z1vqm45",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.bddyyy.com.cn/english.shtml"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Beida Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Peking University First Hospital"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Peking University",
+            "type": "related",
+            "id": "https://ror.org/02v51f717"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-02-24",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-02-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "pkuschool.edu.cn"
+        ],
+        "established": 1960,
+        "external_ids": [
+          {
+            "all": [
+              "Q4688919"
+            ],
+            "preferred": "Q4688919",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05a2mmm74",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.pkuschool.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Affiliated_High_School_of_Peking_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "zh",
+            "types": [
+              "acronym"
+            ],
+            "value": "BDFZ"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "PKUS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Peking University High School"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "The Affiliated High School of Peking University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "北京大学附属中学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Peking University",
+            "type": "parent",
+            "id": "https://ror.org/02v51f717"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "pkuszh.com"
+        ],
+        "established": 1999,
+        "external_ids": [
+          {
+            "all": [
+              "100032554"
+            ],
+            "preferred": "100032554",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.440601.7"
+            ],
+            "preferred": "grid.440601.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1798 0578"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30293608"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03kkjyb15",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.pkuszh.com.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 22.54554,
+              "lng": 114.0683,
+              "name": "Shenzhen"
+            },
+            "geonames_id": 1795565
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Peking University Shenzhen Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Shenzhen Central Hospital"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京大学深圳医院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "pkuph.edu.cn"
+        ],
+        "established": 1918,
+        "external_ids": [
+          {
+            "all": [
+              "501100015083"
+            ],
+            "preferred": "501100015083",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.411634.5"
+            ],
+            "preferred": "grid.411634.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0632 4559"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/035adwg89",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.pkuph.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PKUPH"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Peking University People's Hospital"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京大学人民医院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Peking University",
+            "type": "related",
+            "id": "https://ror.org/02v51f717"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ss.bjmu.edu.cn"
+        ],
+        "established": 1941,
+        "external_ids": [
+          {
+            "all": [
+              "grid.479981.a"
+            ],
+            "preferred": "grid.479981.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1758 1817"
+            ],
+            "preferred": "0000 0004 1758 1817",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30272251"
+            ],
+            "preferred": "Q30272251",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00s2xkh70",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ss.bjmu.edu.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "PKU-SS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Peking University Hospital of Stomatology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Peking University School and Hospital of Stomatology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Peking University School of Stomatology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Peking University Stomatological Hospital"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京大学口腔医学院"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "北京大学口腔医院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Peking University",
+            "type": "related",
+            "id": "https://ror.org/02v51f717"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "pfc.edu.cn"
+        ],
+        "established": 2002,
+        "external_ids": [
+          {
+            "all": [
+              "Q112676108"
+            ],
+            "preferred": "Q112676108",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02p3che41",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.pfc.edu.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Peking University Founder Technology College"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京北大方正软件职业技术学院"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "北大方正软件职业技术学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-11-07",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "pumc.edu.cn"
+        ],
+        "established": 1956,
+        "external_ids": [
+          {
+            "all": [
+              "501100019018",
+              "501100011176",
+              "501100017274"
+            ],
+            "preferred": "501100011176",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.506261.6"
+            ],
+            "preferred": "grid.506261.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0706 7839"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q10873318"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02drdmm93",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.cams.ac.cn"
+          },
+          {
+            "type": "website",
+            "value": "https://www.pumc.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Peking_Union_Medical_College"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CAMS"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CAMS&PUMC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Chinese Academy of Medical Sciences"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Chinese Academy of Medical Sciences & Peking Union Medical College"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PUMC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Peking Union Medical College"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "中国医学科学院"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中国医学科学院北京协和医学院"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "北京协和医学院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "State Key Laboratory of Virus Genetic Engineering",
+            "type": "child",
+            "id": "https://ror.org/0311ezn83"
+          },
+          {
+            "label": "Institute of Basic Medical Sciences of the Chinese Academy of Medical Sciences",
+            "type": "child",
+            "id": "https://ror.org/055qbch41"
+          },
+          {
+            "label": "Institute of Chinese Materia Medica",
+            "type": "child",
+            "id": "https://ror.org/04kn56m50"
+          },
+          {
+            "label": "Institute of Biomedical Engineering, Chinese Academy of Medical Sciences",
+            "type": "child",
+            "id": "https://ror.org/01vagp983"
+          },
+          {
+            "label": "Cancer Hospital of Chinese Academy of Medical Sciences",
+            "type": "related",
+            "id": "https://ror.org/03x937183"
+          },
+          {
+            "label": "Chinese Academy of Medical Sciences Dermatology Hospital",
+            "type": "related",
+            "id": "https://ror.org/01z6cw088"
+          },
+          {
+            "label": "Fu Wai Hospital",
+            "type": "related",
+            "id": "https://ror.org/0590dnz19"
+          },
+          {
+            "label": "Institute of Hematology & Blood Diseases Hospital",
+            "type": "related",
+            "id": "https://ror.org/04n16t016"
+          },
+          {
+            "label": "Peking Union Medical College Hospital",
+            "type": "related",
+            "id": "https://ror.org/04jztag35"
+          },
+          {
+            "label": "Tsinghua University",
+            "type": "related",
+            "id": "https://ror.org/03cve4549"
+          },
+          {
+            "label": "Beijing Proteome Research Center",
+            "type": "related",
+            "id": "https://ror.org/05pp5b412"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1949,
+        "external_ids": [
+          {
+            "all": [
+              "grid.464200.4"
+            ],
+            "preferred": "grid.464200.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 6068 060X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30262546"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/058x5eq06",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.hdhospital.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing Haidian Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Beijing Haidian Section of Peking University Third Hospital"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京市海淀医院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "pumch.cn"
+        ],
+        "established": 1921,
+        "external_ids": [
+          {
+            "all": [
+              "501100008235"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.413106.1"
+            ],
+            "preferred": "grid.413106.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9889 6335"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7161058"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04jztag35",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.pumch.cn/index.html"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Peking_Union_Medical_College_Hospital"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Beijing Xiehe Hospital"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PUMCH"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Peking Union Medical College Hospital"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京协和医院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Chinese Academy of Medical Sciences & Peking Union Medical College",
+            "type": "related",
+            "id": "https://ror.org/02drdmm93"
+          },
+          {
+            "label": "Tsinghua University",
+            "type": "related",
+            "id": "https://ror.org/03cve4549"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "cupl.edu.cn"
+        ],
+        "established": 1952,
+        "external_ids": [
+          {
+            "all": [
+              "501100008522"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.411526.5"
+            ],
+            "preferred": "grid.411526.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0024 2884"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q833961"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00e49gy82",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.cupl.edu.cn/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/China_University_of_Political_Science_and_Law"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CUPL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "China University of Political Science and Law"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Peking College of Political Science and Law"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中国政法大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-03-31",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1949,
+        "external_ids": [
+          {
+            "all": [
+              "501100005695"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.265107.7"
+            ],
+            "preferred": "grid.265107.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0663 5064"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1148210"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/024yc3q36",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.tottori-u.ac.jp/english/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Tottori_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "31",
+              "country_subdivision_name": "Tottori",
+              "lat": 35.5,
+              "lng": 134.23333,
+              "name": "Tottori-shi"
+            },
+            "geonames_id": 1849892
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National University Corporation Tottori University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Tottori Daigaku"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Tottori University"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "鳥取大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Chromosome Engineering Research Center",
+            "type": "child",
+            "id": "https://ror.org/04gsg8b22"
+          },
+          {
+            "label": "Tottori University Hospital",
+            "type": "related",
+            "id": "https://ror.org/03wa1wy25"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-02-17",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1957,
+        "external_ids": [
+          {
+            "all": [
+              "grid.501720.1"
+            ],
+            "preferred": "grid.501720.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q10829127"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04bm3wy68",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.dhsphue.edu.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": "26",
+              "country_subdivision_name": "Thừa Thiên Huế Province",
+              "lat": 16.4619,
+              "lng": 107.59546,
+              "name": "Huế"
+            },
+            "geonames_id": 1580240
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Hue University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Hue University of Education"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Hue University's College of Education"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label"
+            ],
+            "value": "Trường Đại học Sư phạm Huế"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Education, Hue University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2008,
+        "external_ids": [
+          {
+            "all": [
+              "grid.411091.c"
+            ],
+            "preferred": "grid.411091.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 4910 8020"
+            ],
+            "preferred": "0000 0004 4910 8020",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q49782"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03zcpvf19",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.uk.rub.de/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_Hospitals_of_the_Ruhr-University_of_Bochum"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "NW",
+              "country_subdivision_name": "North Rhine-Westphalia",
+              "lat": 51.48165,
+              "lng": 7.21648,
+              "name": "Bochum"
+            },
+            "geonames_id": 2947416
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UK RUB"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Hospital Ruhr University Bochum"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Hospital of Ruhr University Bochum"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Hospital of the Ruhr University Bochum"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Hospital of the Ruhr-University Bochum"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University Hospitals of the Ruhr-University of Bochum"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Universitätsklinikum der Ruhr-Universität Bochum"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "BG University Hospital Bergmannsheil Bochum",
+            "type": "child",
+            "id": "https://ror.org/04j9bvy88"
+          },
+          {
+            "label": "Heart and Diabetes Center North Rhine-Westphalia",
+            "type": "child",
+            "id": "https://ror.org/02wndzd81"
+          },
+          {
+            "label": "Herford Hospital",
+            "type": "child",
+            "id": "https://ror.org/03p371b74"
+          },
+          {
+            "label": "Johannes Wesling Klinikum Minden",
+            "type": "child",
+            "id": "https://ror.org/05d89kr76"
+          },
+          {
+            "label": "LWL-Universitätsklinik Hamm",
+            "type": "child",
+            "id": "https://ror.org/05w1kdn42"
+          },
+          {
+            "label": "LWL-Universitätsklinikum Bochum",
+            "type": "child",
+            "id": "https://ror.org/04nkkrh90"
+          },
+          {
+            "label": "Medizinisches Zentrum für Seelische Gesundheit",
+            "type": "child",
+            "id": "https://ror.org/05vv9dr68"
+          },
+          {
+            "label": "St. Josef-Hospital",
+            "type": "child",
+            "id": "https://ror.org/046vare28"
+          },
+          {
+            "label": "Universitätsklinik Marien Hospital Herne",
+            "type": "child",
+            "id": "https://ror.org/004h6mc53"
+          },
+          {
+            "label": "Universitätsklinikum Knappschaftskrankenhaus Bochum",
+            "type": "child",
+            "id": "https://ror.org/024j3hn90"
+          },
+          {
+            "label": "Ruhr University Bochum",
+            "type": "related",
+            "id": "https://ror.org/04tsk2644"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 12895
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 4149
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 1228
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 310
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 122
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 75
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 32
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 30
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 12
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 1980
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 1591
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 1001
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 836
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 467
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 443
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 443
+        },
+        {
+          "id": "ph",
+          "title": "Philippines",
+          "count": 384
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 382
+        },
+        {
+          "id": "ir",
+          "title": "Iran",
+          "count": 354
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 7413
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 3011
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 2487
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1151
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 530
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 100
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 14692
+        }
+      ]
+    }
+  }
+}

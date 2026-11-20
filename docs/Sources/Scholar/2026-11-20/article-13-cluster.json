@@ -1,0 +1,165 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cluster": "9661231870650652462",
+    "hl": "en",
+    "no_cache": "true"
+  },
+  "accessed_at_utc": "2026-11-20T12:59:21.436613+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6b00442893d35df406f986c0",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/j_sEhepYKKCvJ5AYbIefYZw1-srNPFnpNiBNiQXJjR8/6b00442893d35df406f986c0.json",
+      "markdown_endpoint": "https://serpapi.com/searches/j_sEhepYKKCvJ5AYbIefYZw1-srNPFnpNiBNiQXJjR8/6b00442893d35df406f986c0.md",
+      "created_at": "2026-11-20 12:59:20 UTC",
+      "processed_at": "2026-11-20 12:59:20 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cluster=9661231870650652462&hl=en",
+      "raw_html_file": "https://serpapi.com/searches/j_sEhepYKKCvJ5AYbIefYZw1-srNPFnpNiBNiQXJjR8/6b00442893d35df406f986c0.html",
+      "total_time_taken": 2.09
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cluster": "9661231870650652462",
+      "hl": "en"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 3,
+      "time_taken_displayed": 0.04
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "F8net: Fixed-point 8-bit only multiplication for network quantization",
+        "result_id": "LpfQ7jKXE4YJ",
+        "link": "https://arxiv.org/abs/2202.05239",
+        "snippet": "Neural network quantization is a promising compression technique to reduce memory footprint and save energy consumption, potentially leading to real-time inference. However …",
+        "publication_info": {
+          "summary": "Q Jin, J Ren, R Zhuang, S Hanumante, Z Li… - arXiv preprint arXiv …, 2022 - arxiv.org",
+          "authors": [
+            {
+              "name": "Q Jin"
+            },
+            {
+              "name": "J Ren",
+              "link": "https://scholar.google.com/citations?user=vDALiU4AAAAJ&hl=en&oi=sra",
+              "author_id": "vDALiU4AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vDALiU4AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "R Zhuang"
+            },
+            {
+              "name": "S Hanumante"
+            },
+            {
+              "name": "Z Li",
+              "link": "https://scholar.google.com/citations?user=hH1Oun0AAAAJ&hl=en&oi=sra",
+              "author_id": "hH1Oun0AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=hH1Oun0AAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2202.05239"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=LpfQ7jKXE4YJ",
+          "cited_by": {
+            "total": 75,
+            "link": "https://scholar.google.com/scholar?cites=9661231870650652462&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "9661231870650652462",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9661231870650652462&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:LpfQ7jKXE4YJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=9661231870650652462&engine=google_scholar&hl=en&q=related%3ALpfQ7jKXE4YJ%3Ascholar.google.com%2F",
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:LpfQ7jKXE4YJ:scholar.google.com/&hl=en&as_sdt=0,5"
+        }
+      },
+      {
+        "position": 2,
+        "title": "F8Net: Fixed-Point 8-bit Only Multiplication for Network Quantization",
+        "result_id": "qoBbqFFioAsJ",
+        "link": "https://openreview.net/forum?id=_CfpJazzXT2",
+        "snippet": "Neural network quantization is a promising compression technique to reduce memory footprint and save energy consumption, potentially leading to real-time inference. However …",
+        "publication_info": {
+          "summary": "Q Jin, J Ren, R Zhuang, S Hanumante, Z Li… - … Conference on Learning … - openreview.net",
+          "authors": [
+            {
+              "name": "Q Jin"
+            },
+            {
+              "name": "J Ren"
+            },
+            {
+              "name": "R Zhuang"
+            },
+            {
+              "name": "S Hanumante"
+            },
+            {
+              "name": "Z Li"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "openreview.net",
+            "file_format": "PDF",
+            "link": "https://openreview.net/pdf?id=_CfpJazzXT2"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=qoBbqFFioAsJ"
+        }
+      },
+      {
+        "position": 3,
+        "title": "F8Net: Fixed-Point 8-bit Only Multiplication for Network Quantization",
+        "result_id": "kLGFXVqCjYAJ",
+        "link": "https://ui.adsabs.harvard.edu/abs/2022arXiv220205239J/abstract",
+        "snippet": "Neural network quantization is a promising compression technique to reduce memory footprint and save energy consumption, potentially leading to real-time inference. However …",
+        "publication_info": {
+          "summary": "Q Jin, J Ren, R Zhuang, S Hanumante, Z Li… - arXiv e …, 2022 - ui.adsabs.harvard.edu",
+          "authors": [
+            {
+              "name": "Q Jin"
+            },
+            {
+              "name": "J Ren"
+            },
+            {
+              "name": "R Zhuang"
+            },
+            {
+              "name": "S Hanumante"
+            },
+            {
+              "name": "Z Li"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=kLGFXVqCjYAJ"
+        }
+      }
+    ]
+  }
+}

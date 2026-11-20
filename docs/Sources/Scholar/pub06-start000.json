@@ -1,0 +1,238 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cites": "13401979949234564250",
+    "hl": "en",
+    "num": 20,
+    "start": 0,
+    "filter": 0,
+    "as_vis": 0,
+    "as_sdt": 7
+  },
+  "accessed_at_utc": "2026-10-07T12:39:33.292854+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63d85f2593a86d8e57a4e",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/xfOdx_13u5yggTi9WEEPGTJbotmUtL5_dc1JBIzlgso/6ac63d85f2593a86d8e57a4e.json",
+      "markdown_endpoint": "https://serpapi.com/searches/xfOdx_13u5yggTi9WEEPGTJbotmUtL5_dc1JBIzlgso/6ac63d85f2593a86d8e57a4e.md",
+      "created_at": "2026-10-07 12:39:33 UTC",
+      "processed_at": "2026-10-07 12:39:33 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cites=13401979949234564250&hl=en&start=0&num=21&filter=0&as_sdt=7&as_vis=0&scipsc=1",
+      "raw_html_file": "https://serpapi.com/searches/xfOdx_13u5yggTi9WEEPGTJbotmUtL5_dc1JBIzlgso/6ac63d85f2593a86d8e57a4e.html",
+      "total_time_taken": 3.24
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cites": "13401979949234564250",
+      "hl": "en",
+      "start": 0,
+      "num": "20",
+      "filter": "0",
+      "as_sdt": "7",
+      "as_vis": "0"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 4,
+      "time_taken_displayed": 0.02
+    },
+    "citations_per_year": [
+      {
+        "year": 2016,
+        "citations": 1
+      },
+      {
+        "year": 2017,
+        "citations": 1
+      },
+      {
+        "year": 2019,
+        "citations": 1
+      },
+      {
+        "year": 2021,
+        "citations": 1
+      }
+    ],
+    "profiles": {
+      "link": "https://scholar.google.com/scholar?cluster=13401979949234564250&hl=en&num=20&as_sdt=2007&sciodt=2007",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "A modernistic PLL based on feed forward frequency estimator with selective harmonic pre filter for grid imperfection",
+        "result_id": "hlkhhgUTesgJ",
+        "link": "https://www.inderscienceonline.com/doi/abs/10.1504/IJPEC.2019.102274",
+        "snippet": "This paper describes a synchronisation technique to track phase and frequency of input signal under abnormal grid condition like frequency variation. Proposed control topology …",
+        "publication_info": {
+          "summary": "S Agrawal, DK Palwalia - International Journal of Power …, 2019 - inderscienceonline.com",
+          "authors": [
+            {
+              "name": "S Agrawal",
+              "link": "https://scholar.google.com/citations?user=qFhEQxkAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "qFhEQxkAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qFhEQxkAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "DK Palwalia",
+              "link": "https://scholar.google.com/citations?user=5WF_Z1EAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "5WF_Z1EAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5WF_Z1EAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=hlkhhgUTesgJ",
+          "cited_by": {
+            "total": 12,
+            "link": "https://scholar.google.com/scholar?cites=14445879669190384006&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "14445879669190384006",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=14445879669190384006&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:hlkhhgUTesgJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=13401979949234564250&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AhlkhhgUTesgJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cluster=14445879669190384006&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "14445879669190384006",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=14445879669190384006&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 2,
+        "title": "Grid synchronization phase-locked loop strategy for unbalance and harmonic distortion conditions",
+        "result_id": "WFjiKmBfatsJ",
+        "link": "https://link.springer.com/article/10.1007/s40313-016-0254-2",
+        "snippet": "The synthesis, design and analysis of a three-phase phase-locked loop (PLL) algorithm under grid voltage uncertainties is presented. Unlike other techniques, the proposed …",
+        "publication_info": {
+          "summary": "H Chaoui, O Okoye, M Khayamy - Journal of Control, Automation and …, 2016 - Springer",
+          "authors": [
+            {
+              "name": "H Chaoui",
+              "link": "https://scholar.google.com/citations?user=twJLfjQAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "twJLfjQAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=twJLfjQAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "O Okoye",
+              "link": "https://scholar.google.com/citations?user=WMU1lVoAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "WMU1lVoAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WMU1lVoAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "M Khayamy",
+              "link": "https://scholar.google.com/citations?user=1hiy8_oAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "1hiy8_oAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1hiy8_oAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "opal-rt.com",
+            "file_format": "PDF",
+            "link": "https://blob.opal-rt.com/medias/L00161_0507.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=WFjiKmBfatsJ",
+          "cited_by": {
+            "total": 15,
+            "link": "https://scholar.google.com/scholar?cites=15810554308478523480&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "15810554308478523480",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=15810554308478523480&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:WFjiKmBfatsJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=13401979949234564250&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AWFjiKmBfatsJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 6,
+            "link": "https://scholar.google.com/scholar?cluster=15810554308478523480&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "15810554308478523480",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=15810554308478523480&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 3,
+        "title": "Performance Analysis of SRF PLL Type-3 with Dynamic Feed Forward Frequency Estimator for Abnormal Grid Conditions.",
+        "result_id": "V_IXij4KNXkJ",
+        "link": "https://papers.itc.pw.edu.pl/index.php/JPT/article/view/1739",
+        "snippet": "A phase-locked loop (PLL) is a closed-loop feedback control device that synchronizes its output signal with an input signal both in frequency and in time. This paper presents a robust …",
+        "publication_info": {
+          "summary": "S Agrawal, M Kumar… - Journal of Power …, 2021 - papers.itc.pw.edu.pl",
+          "authors": [
+            {
+              "name": "S Agrawal",
+              "link": "https://scholar.google.com/citations?user=qFhEQxkAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "qFhEQxkAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qFhEQxkAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "M Kumar",
+              "link": "https://scholar.google.com/citations?user=ucki5NUAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "ucki5NUAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ucki5NUAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "pw.edu.pl",
+            "file_format": "PDF",
+            "link": "https://papers.itc.pw.edu.pl/index.php/JPT/article/view/1739/1304"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=V_IXij4KNXkJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:V_IXij4KNXkJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=13401979949234564250&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AV_IXij4KNXkJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 6,
+            "link": "https://scholar.google.com/scholar?cluster=8733898316076020311&hl=en&num=20&as_sdt=2007&sciodt=2007",
+            "cluster_id": "8733898316076020311",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2007&cluster=8733898316076020311&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:V_IXij4KNXkJ:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007"
+        }
+      },
+      {
+        "position": 4,
+        "title": "Converter Control for Electric Vehicle Charging Application",
+        "result_id": "IwJZLB7Bsw0J",
+        "link": "https://search.proquest.com/openview/1c0b16d887b3b313ccc4eaca1ceeeb5c/1?pq-origsite=gscholar&cbl=18750",
+        "snippet": "The burgeoning interest in combating the effects of climate change has instigated the development of the electric vehicles (EVs) and hybrid electric vehicles (HEVs). These …",
+        "publication_info": {
+          "summary": "OO Okoye - 2017 - search.proquest.com",
+          "authors": [
+            {
+              "name": "OO Okoye",
+              "link": "https://scholar.google.com/citations?user=WMU1lVoAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "WMU1lVoAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WMU1lVoAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=IwJZLB7Bsw0J",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:IwJZLB7Bsw0J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=13401979949234564250&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AIwJZLB7Bsw0J%3Ascholar.google.com%2F&start=0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,2170 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=KU+Leuven",
+  "http_status": 200,
+  "query": "KU Leuven",
+  "data": {
+    "number_of_results": 37,
+    "time_taken": 7,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-03-31",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "kuleuven.be"
+        ],
+        "established": 1425,
+        "external_ids": [
+          {
+            "all": [
+              "501100004040",
+              "501100004497"
+            ],
+            "preferred": "501100004040",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.5596.f"
+            ],
+            "preferred": "grid.5596.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0668 7884"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q833670"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05f950310",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.kuleuven.be"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Katholieke_Universiteit_Leuven"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "BE",
+              "country_name": "Belgium",
+              "country_subdivision_code": "VLG",
+              "country_subdivision_name": "Flanders",
+              "lat": 50.87959,
+              "lng": 4.70093,
+              "name": "Leuven"
+            },
+            "geonames_id": 2792482
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Catholic University of Leuven"
+          },
+          {
+            "lang": "nl",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "KU Leuven"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KUL"
+          },
+          {
+            "lang": "nl",
+            "types": [
+              "label"
+            ],
+            "value": "Katholieke Universiteit Leuven"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Leuven"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Neuroelectronics Research Flanders",
+            "type": "child",
+            "id": "https://ror.org/04sc67422"
+          },
+          {
+            "label": "VIB-KU Leuven Center for Brain & Disease Research",
+            "type": "child",
+            "id": "https://ror.org/045c7t348"
+          },
+          {
+            "label": "VIB-KU Leuven Center for Cancer Biology",
+            "type": "child",
+            "id": "https://ror.org/00eyng893"
+          },
+          {
+            "label": "VIB-KU Leuven Center for Microbiology",
+            "type": "child",
+            "id": "https://ror.org/02bpp8r91"
+          },
+          {
+            "label": "Leuven Stem Cell Institute",
+            "type": "child",
+            "id": "https://ror.org/01mt46z25"
+          },
+          {
+            "label": "AZ Groeninge",
+            "type": "related",
+            "id": "https://ror.org/01cz3wf89"
+          },
+          {
+            "label": "Rega Institute for Medical Research",
+            "type": "related",
+            "id": "https://ror.org/03w5j8p12"
+          },
+          {
+            "label": "Universitair Ziekenhuis Leuven",
+            "type": "related",
+            "id": "https://ror.org/0424bsv16"
+          },
+          {
+            "label": "Vlerick Business School",
+            "type": "related",
+            "id": "https://ror.org/056t38c37"
+          },
+          {
+            "label": "European Marine Biological Resource Centre",
+            "type": "related",
+            "id": "https://ror.org/0038zss60"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-09-23",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.511066.5"
+            ],
+            "preferred": "grid.511066.5",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/02bpp8r91",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://cfm.vib.be/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "BE",
+              "country_name": "Belgium",
+              "country_subdivision_code": "VLG",
+              "country_subdivision_name": "Flanders",
+              "lat": 50.87959,
+              "lng": 4.70093,
+              "name": "Leuven"
+            },
+            "geonames_id": 2792482
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CFM"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "VIB-KU Leuven Center for Microbiology"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "KU Leuven",
+            "type": "parent",
+            "id": "https://ror.org/05f950310"
+          },
+          {
+            "label": "Vlaams Instituut voor Biotechnologie",
+            "type": "parent",
+            "id": "https://ror.org/03xrhmk39"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-09-23",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.511459.d"
+            ],
+            "preferred": "grid.511459.d",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/00eyng893",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://vibcancer.be/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "BE",
+              "country_name": "Belgium",
+              "country_subdivision_code": "VLG",
+              "country_subdivision_name": "Flanders",
+              "lat": 50.87959,
+              "lng": 4.70093,
+              "name": "Leuven"
+            },
+            "geonames_id": 2792482
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CCB"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "VIB-KU Leuven Center for Cancer Biology"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "KU Leuven",
+            "type": "parent",
+            "id": "https://ror.org/05f950310"
+          },
+          {
+            "label": "Vlaams Instituut voor Biotechnologie",
+            "type": "parent",
+            "id": "https://ror.org/03xrhmk39"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-09-23",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1995,
+        "external_ids": [
+          {
+            "all": [
+              "grid.511015.1"
+            ],
+            "preferred": "grid.511015.1",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/045c7t348",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://cbd.vib.be/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "BE",
+              "country_name": "Belgium",
+              "country_subdivision_code": "VLG",
+              "country_subdivision_name": "Flanders",
+              "lat": 50.87959,
+              "lng": 4.70093,
+              "name": "Leuven"
+            },
+            "geonames_id": 2792482
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "VIB-KU Leuven Center for Brain & Disease Research"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "KU Leuven",
+            "type": "parent",
+            "id": "https://ror.org/05f950310"
+          },
+          {
+            "label": "Vlaams Instituut voor Biotechnologie",
+            "type": "parent",
+            "id": "https://ror.org/03xrhmk39"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2012,
+        "external_ids": [
+          {
+            "all": [
+              "grid.448720.d"
+            ],
+            "preferred": "grid.448720.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 5940 6726"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q17064413"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00vadgf54",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.kazirangauniversity.in/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Kaziranga_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "IN",
+              "country_name": "India",
+              "country_subdivision_code": "AS",
+              "country_subdivision_name": "Assam",
+              "lat": 26.75751,
+              "lng": 94.20306,
+              "name": "Jorhāt"
+            },
+            "geonames_id": 1268820
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KU"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Kaziranga University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "The Assam Kaziranga University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1977,
+        "external_ids": [
+          {
+            "all": [
+              "grid.429433.b"
+            ],
+            "preferred": "grid.429433.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0528 6941"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6383859"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01s383j21",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.keiseruniversity.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Keiser_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "FL",
+              "country_subdivision_name": "Florida",
+              "lat": 26.12231,
+              "lng": -80.14338,
+              "name": "Fort Lauderdale"
+            },
+            "geonames_id": 4155966
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Keiser University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1984,
+        "external_ids": [
+          {
+            "all": [
+              "grid.411157.7"
+            ],
+            "preferred": "grid.411157.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8840 8596"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6444899"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/035rhx828",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://en.kmu.edu.cn/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Kunming_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "YN",
+              "country_subdivision_name": "Yunnan",
+              "lat": 25.03889,
+              "lng": 102.71833,
+              "name": "Kunming"
+            },
+            "geonames_id": 1804651
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Kunming University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "昆明学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1999,
+        "external_ids": [
+          {
+            "all": [
+              "grid.442639.e"
+            ],
+            "preferred": "grid.442639.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0367 1109"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6359130"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/014khff20",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ku.ac.ug/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Kampala_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "UG",
+              "country_name": "Uganda",
+              "country_subdivision_code": "C",
+              "country_subdivision_name": "Central Region",
+              "lat": 0.31628,
+              "lng": 32.58219,
+              "name": "Kampala"
+            },
+            "geonames_id": 232422
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Kampala University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2012,
+        "external_ids": [
+          {
+            "all": [
+              "grid.497588.f"
+            ],
+            "preferred": "grid.497588.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 4650 2970"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q16989244"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00xgd4p18",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.knowledgeunlatched.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Knowledge_Unlatched"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "BE",
+              "country_subdivision_name": "Berlin",
+              "lat": 52.52437,
+              "lng": 13.41053,
+              "name": "Berlin"
+            },
+            "geonames_id": 2950159
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KU"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Knowledge Unlatched (Germany)"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ku.lt"
+        ],
+        "established": 1991,
+        "external_ids": [
+          {
+            "all": [
+              "501100004075"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.14329.3d"
+            ],
+            "preferred": "grid.14329.3d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 1011 2418"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q178200"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/027sdcz20",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ku.lt"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Klaip%C4%97da_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "LT",
+              "country_name": "Lithuania",
+              "country_subdivision_code": "KL",
+              "country_subdivision_name": "Klaipėda County",
+              "lat": 55.7068,
+              "lng": 21.13912,
+              "name": "Klaipėda"
+            },
+            "geonames_id": 598098
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Klaipėda University"
+          },
+          {
+            "lang": "lt",
+            "types": [
+              "alias"
+            ],
+            "value": "Klaipėdos Universitetas"
+          },
+          {
+            "lang": "lt",
+            "types": [
+              "label"
+            ],
+            "value": "Klaipėdos universitetas"
+          },
+          {
+            "lang": "pl",
+            "types": [
+              "label"
+            ],
+            "value": "Uniwersytet Kłajpedzki"
+          },
+          {
+            "lang": "ru",
+            "types": [
+              "label"
+            ],
+            "value": "Клайпедский университет"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ku.ac.ke"
+        ],
+        "established": 1985,
+        "external_ids": [
+          {
+            "all": [
+              "100019548"
+            ],
+            "preferred": "100019548",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.9762.a"
+            ],
+            "preferred": "grid.9762.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8732 4964"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q46756"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05p2z3x69",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ku.ac.ke/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Kenyatta_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "KE",
+              "country_name": "Kenya",
+              "country_subdivision_code": "30",
+              "country_subdivision_name": "Nairobi County",
+              "lat": -1.28333,
+              "lng": 36.81667,
+              "name": "Nairobi"
+            },
+            "geonames_id": 184745
+          }
+        ],
+        "names": [
+          {
+            "lang": "sw",
+            "types": [
+              "label"
+            ],
+            "value": "Chuo Kikuu cha Kenyatta"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Kenyatta University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1886,
+        "external_ids": [
+          {
+            "all": [
+              "grid.443810.a"
+            ],
+            "preferred": "grid.443810.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0272 1619"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1797624"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04yf19a15",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.koyasan-u.ac.jp"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Koyasan_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "30",
+              "country_subdivision_name": "Wakayama",
+              "lat": 34.21294,
+              "lng": 135.62244,
+              "name": "Kōya"
+            },
+            "geonames_id": 6417596
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Koyasan University"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "高野山大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-05-27",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "kokanduni.uz"
+        ],
+        "established": 2019,
+        "external_ids": [
+          {
+            "all": [
+              "Q72083411"
+            ],
+            "preferred": "Q72083411",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/046q22e19",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.kokanduni.uz"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://uz.wikipedia.org/wiki/Qo%CA%BBqon_universiteti"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "UZ",
+              "country_name": "Uzbekistan",
+              "country_subdivision_code": "FA",
+              "country_subdivision_name": "Fergana",
+              "lat": 40.52861,
+              "lng": 70.9425,
+              "name": "Kokand"
+            },
+            "geonames_id": 1512979
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "KU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Kokand University"
+          },
+          {
+            "lang": "uz",
+            "types": [
+              "label"
+            ],
+            "value": "Qoʻqon universiteti"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-03-31",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ku.edu.kw"
+        ],
+        "established": 1966,
+        "external_ids": [
+          {
+            "all": [
+              "501100004482",
+              "501100006193"
+            ],
+            "preferred": "501100004482",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.411196.a"
+            ],
+            "preferred": "grid.411196.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 1240 3921"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3273657"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/021e5j056",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ku.edu.kw"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Kuwait_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KW",
+              "country_name": "Kuwait",
+              "country_subdivision_code": "KU",
+              "country_subdivision_name": "Al Asimah",
+              "lat": 29.367,
+              "lng": 47.97429,
+              "name": "Kuwait City"
+            },
+            "geonames_id": 285787
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KU"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Kuniv"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Kuwait University"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "جامعة الكويت"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-04-14",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-04-14",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "kingsuniversity.edu.ng"
+        ],
+        "established": 2015,
+        "external_ids": [],
+        "id": "https://ror.org/00wgv6649",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://kingsuniversity.edu.ng"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Kings_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "NG",
+              "country_name": "Nigeria",
+              "country_subdivision_code": "OS",
+              "country_subdivision_name": "Osun State",
+              "lat": 7.54341,
+              "lng": 4.39628,
+              "name": "Ode-Omu"
+            },
+            "geonames_id": 2328065
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "KU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Kings University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Kings University, Odeomu"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-03-26",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-03-26",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "karabakh.edu.az"
+        ],
+        "established": 2023,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0005 1790 7546"
+            ],
+            "preferred": "0000 0005 1790 7546",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q124411872"
+            ],
+            "preferred": "Q124411872",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05sz0hh57",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://karabakh.edu.az"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Karabakh_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "AZ",
+              "country_name": "Azerbaijan",
+              "country_subdivision_code": "XA",
+              "country_subdivision_name": "Xankǝndi",
+              "lat": 39.8177,
+              "lng": 46.7528,
+              "name": "Khankendi"
+            },
+            "geonames_id": 146970
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "KU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Karabakh University"
+          },
+          {
+            "lang": "az",
+            "types": [
+              "alias"
+            ],
+            "value": "Qarabağ Universiteti"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-05-05",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ku.edu"
+        ],
+        "established": 1865,
+        "external_ids": [
+          {
+            "all": [
+              "100007859",
+              "100006729",
+              "100005690",
+              "100016148",
+              "100019286",
+              "100019288",
+              "100019289",
+              "100020363"
+            ],
+            "preferred": "100007859",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.266515.3"
+            ],
+            "preferred": "grid.266515.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2106 0692"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q52413"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/001tmjg57",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ku.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Kansas"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "KS",
+              "country_subdivision_name": "Kansas",
+              "lat": 38.97167,
+              "lng": -95.23525,
+              "name": "Lawrence"
+            },
+            "geonames_id": 4274277
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KU"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de Kansas"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Kansas"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université du kansas"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "KU Endowment",
+            "type": "child",
+            "id": "https://ror.org/05g3bg079"
+          },
+          {
+            "label": "Center for Remote Sensing and Integrated Systems",
+            "type": "child",
+            "id": "https://ror.org/04t2m2598"
+          },
+          {
+            "label": "Kansas Geological Survey",
+            "type": "child",
+            "id": "https://ror.org/04mxhn923"
+          },
+          {
+            "label": "Children's Mercy Hospital",
+            "type": "related",
+            "id": "https://ror.org/04zfmcq84"
+          },
+          {
+            "label": "Dwight D. Eisenhower VA Medical Center",
+            "type": "related",
+            "id": "https://ror.org/03jb9b006"
+          },
+          {
+            "label": "Kansas City VA Medical Center",
+            "type": "related",
+            "id": "https://ror.org/050mdr969"
+          },
+          {
+            "label": "The University of Kansas Health System",
+            "type": "related",
+            "id": "https://ror.org/05kg11974"
+          },
+          {
+            "label": "University of Kansas Medical Center",
+            "type": "related",
+            "id": "https://ror.org/036c9yv20"
+          },
+          {
+            "label": "Wesley Medical Center",
+            "type": "related",
+            "id": "https://ror.org/00ftebr67"
+          },
+          {
+            "label": "Konza Prairie Long Term Ecological Research",
+            "type": "related",
+            "id": "https://ror.org/02wavzm11"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "kutztown.edu"
+        ],
+        "established": 1866,
+        "external_ids": [
+          {
+            "all": [
+              "100031120"
+            ],
+            "preferred": "100031120",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.258769.7"
+            ],
+            "preferred": "grid.258769.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0160 0129"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1340908"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/056veft20",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://kutztown.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Kutztown_University_of_Pennsylvania"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.51732,
+              "lng": -75.77742,
+              "name": "Kutztown"
+            },
+            "geonames_id": 5196621
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Kutztown University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Kutztown University of Pennsylvania"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Pennsylvania State System of Higher Education",
+            "type": "parent",
+            "id": "https://ror.org/00m2s0z68"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ku.edu.np"
+        ],
+        "established": 1991,
+        "external_ids": [
+          {
+            "all": [
+              "100017000"
+            ],
+            "preferred": "100017000",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.429382.6"
+            ],
+            "preferred": "grid.429382.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0680 7778"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6376965"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/036xnae80",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ku.edu.np/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Kathmandu_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "NP",
+              "country_name": "Nepal",
+              "country_subdivision_code": "P3",
+              "country_subdivision_name": "Bagmati Province",
+              "lat": 27.70169,
+              "lng": 85.3206,
+              "name": "Kathmandu"
+            },
+            "geonames_id": 1283240
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Kathmandu University"
+          },
+          {
+            "lang": "ne",
+            "types": [
+              "label"
+            ],
+            "value": "काठमाडौं विश्वविद्यालय"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Kathmandu College of Management",
+            "type": "related",
+            "id": "https://ror.org/032e4ps38"
+          },
+          {
+            "label": "Kathmandu Medical College Teaching Hospital",
+            "type": "related",
+            "id": "https://ror.org/00tcmr651"
+          },
+          {
+            "label": "Manipal Teaching Hospital",
+            "type": "related",
+            "id": "https://ror.org/01qemgb02"
+          },
+          {
+            "label": "Nepal Medical College Teaching Hospital",
+            "type": "related",
+            "id": "https://ror.org/05m5pc269"
+          },
+          {
+            "label": "Lumbini Medical College",
+            "type": "related",
+            "id": "https://ror.org/017xv2t04"
+          },
+          {
+            "label": "National College",
+            "type": "related",
+            "id": "https://ror.org/02mkrbg52"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ku.edu.af"
+        ],
+        "established": 1932,
+        "external_ids": [
+          {
+            "all": [
+              "grid.442864.8"
+            ],
+            "preferred": "grid.442864.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 1181 4542"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1354097"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02ht5pq60",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://ku.edu.af"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Kabul_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "AF",
+              "country_name": "Afghanistan",
+              "country_subdivision_code": "KAB",
+              "country_subdivision_name": "Kabul",
+              "lat": 34.52813,
+              "lng": 69.17233,
+              "name": "Kabul"
+            },
+            "geonames_id": 1138958
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Kabul University"
+          },
+          {
+            "lang": "fa",
+            "types": [
+              "label"
+            ],
+            "value": "پوهنتون کابل"
+          },
+          {
+            "lang": "ps",
+            "types": [
+              "label"
+            ],
+            "value": "کابل پوهنتون"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 23
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 15
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 4
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 3
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 3
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 1
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 1
+        }
+      ],
+      "countries": [
+        {
+          "id": "be",
+          "title": "Belgium",
+          "count": 11
+        },
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 7
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 3
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2
+        },
+        {
+          "id": "af",
+          "title": "Afghanistan",
+          "count": 1
+        },
+        {
+          "id": "au",
+          "title": "Australia",
+          "count": 1
+        },
+        {
+          "id": "az",
+          "title": "Azerbaijan",
+          "count": 1
+        },
+        {
+          "id": "bh",
+          "title": "Bahrain",
+          "count": 1
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 1
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 1
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 13
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 13
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 7
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 3
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 1
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 37
+        }
+      ]
+    }
+  }
+}

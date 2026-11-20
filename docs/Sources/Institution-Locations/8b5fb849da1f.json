@@ -1,0 +1,2076 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=University+of+Pittsburgh",
+  "http_status": 200,
+  "query": "University of Pittsburgh",
+  "data": {
+    "number_of_results": 35480,
+    "time_taken": 93,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "pitt.edu"
+        ],
+        "established": 1787,
+        "external_ids": [
+          {
+            "all": [
+              "100007921",
+              "100008031",
+              "100008014",
+              "100007295",
+              "100007125",
+              "100008603",
+              "100010554",
+              "100011358",
+              "100015822",
+              "100019240",
+              "100011359",
+              "100011360"
+            ],
+            "preferred": "100007921",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.21925.3d"
+            ],
+            "preferred": "grid.21925.3d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1936 9000"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q235034"
+            ],
+            "preferred": "Q235034",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01an3r305",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.pitt.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Pittsburgh"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.44062,
+              "lng": -79.99589,
+              "name": "Pittsburgh"
+            },
+            "geonames_id": 5206379
+          }
+        ],
+        "names": [
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de Pittsburgh"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Pittsburgh"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université de Pittsburgh"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Center for the Neural Basis of Cognition",
+            "type": "child",
+            "id": "https://ror.org/00jfeg660"
+          },
+          {
+            "label": "McGowan Institute for Regenerative Medicine",
+            "type": "child",
+            "id": "https://ror.org/04js6xx21"
+          },
+          {
+            "label": "University of Pittsburgh at Bradford",
+            "type": "child",
+            "id": "https://ror.org/0019bf448"
+          },
+          {
+            "label": "University of Pittsburgh at Greensburg",
+            "type": "child",
+            "id": "https://ror.org/02b394754"
+          },
+          {
+            "label": "University of Pittsburgh at Johnstown",
+            "type": "child",
+            "id": "https://ror.org/03n9scz70"
+          },
+          {
+            "label": "University of Pittsburgh at Titusville",
+            "type": "child",
+            "id": "https://ror.org/0242vta36"
+          },
+          {
+            "label": "UPMC Hillman Cancer Center",
+            "type": "child",
+            "id": "https://ror.org/03bw34a45"
+          },
+          {
+            "label": "St. Margaret Memorial Hospital",
+            "type": "related",
+            "id": "https://ror.org/04a0qsn58"
+          },
+          {
+            "label": "UPMC Hillman Cancer Center",
+            "type": "related",
+            "id": "https://ror.org/03bw34a45"
+          },
+          {
+            "label": "University of Pittsburgh Medical Center",
+            "type": "related",
+            "id": "https://ror.org/04ehecz88"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1963,
+        "external_ids": [
+          {
+            "all": [
+              "grid.447539.8"
+            ],
+            "preferred": "grid.447539.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0633 8934"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7896145"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0019bf448",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.upb.pitt.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Pittsburgh_at_Bradford"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 41.9559,
+              "lng": -78.64392,
+              "name": "Bradford"
+            },
+            "geonames_id": 5181407
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Pitt-Bradford"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UPB"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Pittsburgh at Bradford"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Pittsburgh",
+            "type": "parent",
+            "id": "https://ror.org/01an3r305"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1963,
+        "external_ids": [
+          {
+            "all": [
+              "grid.447541.7"
+            ],
+            "preferred": "grid.447541.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8556 2539"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7896147"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02b394754",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.greensburg.pitt.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Pittsburgh_at_Greensburg"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.30146,
+              "lng": -79.53893,
+              "name": "Greensburg"
+            },
+            "geonames_id": 5192029
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Pitt-Greensburg"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Pittsburgh at Greensburg"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Pittsburgh",
+            "type": "parent",
+            "id": "https://ror.org/01an3r305"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1963,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449996.f"
+            ],
+            "preferred": "grid.449996.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0634 2976"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7896149"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0242vta36",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.titusville.pitt.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Pittsburgh_at_Titusville"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 41.627,
+              "lng": -79.67366,
+              "name": "Titusville"
+            },
+            "geonames_id": 5215726
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Pitt-Titusville"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UPT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Pittsburgh at Titusville"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Pittsburgh",
+            "type": "parent",
+            "id": "https://ror.org/01an3r305"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1985,
+        "external_ids": [
+          {
+            "all": [
+              "100030715"
+            ],
+            "preferred": "100030715",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.478063.e"
+            ],
+            "preferred": "grid.478063.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0456 9819",
+              "0000 0004 0638 2492"
+            ],
+            "preferred": "0000 0004 0456 9819",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7896121"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03bw34a45",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://hillmanresearch.upmc.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Pittsburgh_Cancer_Institute"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.44062,
+              "lng": -79.99589,
+              "name": "Pittsburgh"
+            },
+            "geonames_id": 5206379
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Hillman Cancer Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Hillman Cancer Center at UPMC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Hillman Cancer Center at the University of Pittsburgh Medical Center"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UPCI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "UPMC Hillman Cancer Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Pittsburgh Cancer Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Pittsburgh Medical Center Hillman Cancer Center"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Pittsburgh",
+            "type": "parent",
+            "id": "https://ror.org/01an3r305"
+          },
+          {
+            "label": "Carnegie Mellon University",
+            "type": "related",
+            "id": "https://ror.org/05x2bcf33"
+          },
+          {
+            "label": "University of Pittsburgh",
+            "type": "related",
+            "id": "https://ror.org/01an3r305"
+          },
+          {
+            "label": "University of Pittsburgh Medical Center",
+            "type": "related",
+            "id": "https://ror.org/04ehecz88"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1927,
+        "external_ids": [
+          {
+            "all": [
+              "100012887"
+            ],
+            "preferred": "100012887",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.469265.a"
+            ],
+            "preferred": "grid.469265.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0634 0663"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7896148"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03n9scz70",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.upj.pitt.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Pittsburgh_at_Johnstown"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.32674,
+              "lng": -78.92197,
+              "name": "Johnstown"
+            },
+            "geonames_id": 5195561
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Pitt-Johnstown"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UPJ"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Pittsburgh at Johnstown"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Pittsburgh",
+            "type": "parent",
+            "id": "https://ror.org/01an3r305"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "upmc.edu"
+        ],
+        "established": 1893,
+        "external_ids": [
+          {
+            "all": [
+              "100007408"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412689.0"
+            ],
+            "preferred": "grid.412689.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0650 7433"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7896131"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04ehecz88",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.upmc.com/Pages/default.aspx"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Pittsburgh_Medical_Center"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.44062,
+              "lng": -79.99589,
+              "name": "Pittsburgh"
+            },
+            "geonames_id": 5206379
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UPMC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Pittsburgh Medical Center"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Children's Hospital of Pittsburgh",
+            "type": "child",
+            "id": "https://ror.org/03763ep67"
+          },
+          {
+            "label": "Harrisburg Hospital",
+            "type": "child",
+            "id": "https://ror.org/01as10d06"
+          },
+          {
+            "label": "Magee-Womens Hospital",
+            "type": "child",
+            "id": "https://ror.org/01fbdn283"
+          },
+          {
+            "label": "McGowan Institute for Regenerative Medicine",
+            "type": "child",
+            "id": "https://ror.org/04js6xx21"
+          },
+          {
+            "label": "Shadyside Hospital",
+            "type": "child",
+            "id": "https://ror.org/00b4wat71"
+          },
+          {
+            "label": "UPMC Altoona",
+            "type": "child",
+            "id": "https://ror.org/01mkye871"
+          },
+          {
+            "label": "UPMC Central Pa",
+            "type": "child",
+            "id": "https://ror.org/00sdedd93"
+          },
+          {
+            "label": "UPMC Hamot",
+            "type": "child",
+            "id": "https://ror.org/038fqcc39"
+          },
+          {
+            "label": "UPMC McKeesport",
+            "type": "child",
+            "id": "https://ror.org/0365sd121"
+          },
+          {
+            "label": "UPMC Montefiore",
+            "type": "child",
+            "id": "https://ror.org/03bzbh797"
+          },
+          {
+            "label": "UPMC Presbyterian",
+            "type": "child",
+            "id": "https://ror.org/024vfsp92"
+          },
+          {
+            "label": "Uniontown Hospital Radiation Oncology",
+            "type": "child",
+            "id": "https://ror.org/0079qbp72"
+          },
+          {
+            "label": "St. Margaret Memorial Hospital",
+            "type": "child",
+            "id": "https://ror.org/04a0qsn58"
+          },
+          {
+            "label": "UPMC Health System",
+            "type": "parent",
+            "id": "https://ror.org/011htkb76"
+          },
+          {
+            "label": "University of Pittsburgh",
+            "type": "related",
+            "id": "https://ror.org/01an3r305"
+          },
+          {
+            "label": "UPMC Hillman Cancer Center",
+            "type": "related",
+            "id": "https://ror.org/03bw34a45"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1945,
+        "external_ids": [
+          {
+            "all": [
+              "100000945"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.453537.3"
+            ],
+            "preferred": "grid.453537.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 5903 597X"
+            ],
+            "preferred": "0000 0004 5903 597X",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/02p3esj04",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.pittsburghfoundation.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.44062,
+              "lng": -79.99589,
+              "name": "Pittsburgh"
+            },
+            "geonames_id": 5206379
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Pittsburgh Foundation"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Charles E. Kaufman Foundation",
+            "type": "child",
+            "id": "https://ror.org/00p2fsr49"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "upstreampgh.org"
+        ],
+        "established": 2001,
+        "external_ids": [],
+        "id": "https://ror.org/026n2g634",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://upstreampgh.org"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.44174,
+              "lng": -79.88199,
+              "name": "Wilkinsburg"
+            },
+            "geonames_id": 5219501
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Nine Mile Run Watershed Association"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Upstream Pittsburgh"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "UpstreamPgh"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1890,
+        "external_ids": [
+          {
+            "all": [
+              "grid.446485.f"
+            ],
+            "preferred": "grid.446485.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0455 0579"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5043945"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05gechm64",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.carnegielibrary.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Carnegie_Library_of_Pittsburgh"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.44062,
+              "lng": -79.99589,
+              "name": "Pittsburgh"
+            },
+            "geonames_id": 5206379
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CLP"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Carnegie Library of Pittsburgh"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1859,
+        "external_ids": [
+          {
+            "all": [
+              "grid.446873.a"
+            ],
+            "preferred": "grid.446873.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0070 7493"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/04tj7ta70",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.heinzhistorycenter.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Historical_Society_of_Western_Pennsylvania"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.44062,
+              "lng": -79.99589,
+              "name": "Pittsburgh"
+            },
+            "geonames_id": 5206379
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "HSWP"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Historical Society of Western Pennsylvania"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Old Residents of Pittsburgh"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Senator John Heinz History Center"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1983,
+        "external_ids": [
+          {
+            "all": [
+              "grid.447490.a"
+            ],
+            "preferred": "grid.447490.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q15209674"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02x04jw38",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://pittsburghkids.org"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Children's_Museum_of_Pittsburgh"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.44062,
+              "lng": -79.99589,
+              "name": "Pittsburgh"
+            },
+            "geonames_id": 5206379
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Children's Museum of Pittsburgh"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "archive"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1902,
+        "external_ids": [
+          {
+            "all": [
+              "grid.428195.3"
+            ],
+            "preferred": "grid.428195.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0608 0291"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5098142"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03ncaex51",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.amazingkids.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Children%27s_Institute_of_Pittsburgh"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.44062,
+              "lng": -79.99589,
+              "name": "Pittsburgh"
+            },
+            "geonames_id": 5206379
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Children's Institute of Pittsburgh"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1921,
+        "external_ids": [
+          {
+            "all": [
+              "grid.262598.2"
+            ],
+            "preferred": "grid.262598.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0454 8161"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7347821"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03r24vd05",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.rmu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Robert_Morris_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.44062,
+              "lng": -79.99589,
+              "name": "Pittsburgh"
+            },
+            "geonames_id": 5206379
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Pittsburgh School of Accountancy"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "RMU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Robert Morris University"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Robert Morris"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1942,
+        "external_ids": [
+          {
+            "all": [
+              "100003270"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.481111.c"
+            ],
+            "preferred": "grid.481111.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 5903 5988"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/01gk88w52",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://podiatryplace.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.44062,
+              "lng": -79.99589,
+              "name": "Pittsburgh"
+            },
+            "geonames_id": 5206379
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PFP"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Podiatry Foundation of Pittsburgh"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "chp.edu"
+        ],
+        "established": 1887,
+        "external_ids": [
+          {
+            "all": [
+              "100010559"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.239553.b"
+            ],
+            "preferred": "grid.239553.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9753 0008"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5098130"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03763ep67",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.chp.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Children%27s_Hospital_of_Pittsburgh_of_UPMC"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.44062,
+              "lng": -79.99589,
+              "name": "Pittsburgh"
+            },
+            "geonames_id": 5206379
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Children's Hospital of Pittsburgh"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Children’s Hospital of Pittsburgh of UPMC"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Pittsburgh Medical Center",
+            "type": "parent",
+            "id": "https://ror.org/04ehecz88"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1991,
+        "external_ids": [
+          {
+            "all": [
+              "grid.431024.0"
+            ],
+            "preferred": "grid.431024.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q30289283"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/017m4fy44",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://vrfpittsburgh.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.44062,
+              "lng": -79.99589,
+              "name": "Pittsburgh"
+            },
+            "geonames_id": 5206379
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Veterans Research Foundation of Pittsburgh"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.477924.b"
+            ],
+            "preferred": "grid.477924.b",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/04v7rn512",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.sleepcenterofgreaterpittsburgh.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.42118,
+              "lng": -79.7881,
+              "name": "Monroeville"
+            },
+            "geonames_id": 5201734
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Sleep Center of Greater Pittsburgh"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1794,
+        "external_ids": [
+          {
+            "all": [
+              "grid.421920.c"
+            ],
+            "preferred": "grid.421920.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9274 1498"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7199373"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02nfh0m56",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.pps.k12.pa.us/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Pittsburgh_Public_Schools"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.44062,
+              "lng": -79.99589,
+              "name": "Pittsburgh"
+            },
+            "geonames_id": 5206379
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Pittsburgh Public Schools"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.475614.5"
+            ],
+            "preferred": "grid.475614.5",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/01s1pcz40",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://pittsburghpromise.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.44062,
+              "lng": -79.99589,
+              "name": "Pittsburgh"
+            },
+            "geonames_id": 5206379
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Pittsburgh Promise Foundation"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 17812
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 9011
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 4722
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 3945
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 3557
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2257
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2033
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 770
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 409
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 6027
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 4070
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2348
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2061
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1577
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 942
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 866
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 836
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 799
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 764
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 15033
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 9630
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 7284
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1991
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 949
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 594
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 35480
+        }
+      ]
+    }
+  }
+}

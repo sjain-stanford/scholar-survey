@@ -1,0 +1,1900 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Beijing+University+of+Posts+and+Telecommunications",
+  "http_status": 200,
+  "query": "Beijing University of Posts and Telecommunications",
+  "data": {
+    "number_of_results": 43873,
+    "time_taken": 56,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "bupt.edu.cn"
+        ],
+        "established": 1955,
+        "external_ids": [
+          {
+            "all": [
+              "501100002766"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.31880.32"
+            ],
+            "preferred": "grid.31880.32",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8780 1230"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4881210"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04w9fbh59",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.bupt.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BUPT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing University of Posts and Telecommunications"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京邮电大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "State Key Laboratory of Information Photonics and Optical Communications",
+            "type": "child",
+            "id": "https://ror.org/02v9wg343"
+          },
+          {
+            "label": "State Key Laboratory of Networking and Switching Technology",
+            "type": "child",
+            "id": "https://ror.org/00qtv5q45"
+          },
+          {
+            "label": "Century College, Beijing University of Posts and Telecommunications",
+            "type": "related",
+            "id": "https://ror.org/04d0pv231"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ccbupt.cn"
+        ],
+        "established": 2005,
+        "external_ids": [
+          {
+            "all": [
+              "Q17163918"
+            ],
+            "preferred": "Q17163918",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04d0pv231",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ccbupt.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Century College, Beijing University of Posts and Telecommunications"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京邮电大学世纪学院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Beijing University of Posts and Telecommunications",
+            "type": "related",
+            "id": "https://ror.org/04w9fbh59"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "xupt.edu.cn"
+        ],
+        "established": 1950,
+        "external_ids": [
+          {
+            "all": [
+              "501100008780"
+            ],
+            "preferred": "501100008780",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.464492.9"
+            ],
+            "preferred": "grid.464492.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0158 6320"
+            ],
+            "preferred": "0000 0001 0158 6320",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/04jn0td46",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.xupt.edu.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SN",
+              "country_subdivision_name": "Shaanxi",
+              "lat": 34.25833,
+              "lng": 108.92861,
+              "name": "Xi'an"
+            },
+            "geonames_id": 1790630
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "XUPT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Xi’an University of Posts and Telecommunications"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "西安邮电大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "njupt.edu.cn"
+        ],
+        "established": 1942,
+        "external_ids": [
+          {
+            "all": [
+              "501100005374"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.453246.2"
+            ],
+            "preferred": "grid.453246.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0369 3615"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6963688"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/043bpky34",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.njupt.edu.cn/en/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Nanjing_University_of_Posts_and_Telecommunications"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "JS",
+              "country_subdivision_name": "Jiangsu",
+              "lat": 32.06167,
+              "lng": 118.77778,
+              "name": "Nanjing"
+            },
+            "geonames_id": 1799962
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NJUPT"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NUPT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Nanjing Institute of Posts and Telecommunications"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Nanjing University of Posts and Telecommunications"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "南京邮电大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "The Synergetic Innovation Center for Advanced Materials",
+            "type": "child",
+            "id": "https://ror.org/05nzc1r88"
+          },
+          {
+            "label": "Tongda College of Nanjing University of Posts and Telecommunications",
+            "type": "related",
+            "id": "https://ror.org/039mme039"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "cqupt.edu.cn"
+        ],
+        "established": 1950,
+        "external_ids": [
+          {
+            "all": [
+              "501100004502"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.411587.e"
+            ],
+            "preferred": "grid.411587.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0381 4112"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5104676"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03dgaqz26",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.cqupt.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Chongqing_University_of_Posts_and_Telecommunications"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "CQ",
+              "country_subdivision_name": "Chongqing",
+              "lat": 29.56026,
+              "lng": 106.55771,
+              "name": "Chongqing"
+            },
+            "geonames_id": 1814906
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CQUPT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Chongqing University of Posts and Telecommunications"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "重庆邮电大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Chongqing College of Mobile Communication",
+            "type": "related",
+            "id": "https://ror.org/05szw6508"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "cqytxy.edu.cn"
+        ],
+        "established": 2000,
+        "external_ids": [
+          {
+            "all": [
+              "Q22098691"
+            ],
+            "preferred": "Q22098691",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05szw6508",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.cqytxy.edu.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "CQ",
+              "country_subdivision_name": "Chongqing",
+              "lat": 29.56026,
+              "lng": 106.55771,
+              "name": "Chongqing"
+            },
+            "geonames_id": 1814906
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Chongqing College of Mobile Communication"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "College of Mobile Telecommunications, Chongqing University of Posts and Telecommunications"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "重庆移通学院"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "重庆邮电大学移通学院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Chongqing University of Posts and Telecommunications",
+            "type": "related",
+            "id": "https://ror.org/03dgaqz26"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1976,
+        "external_ids": [
+          {
+            "all": [
+              "grid.455078.b"
+            ],
+            "preferred": "grid.455078.b",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/04j808v60",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.vus.sk/index_ang.asp"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "SK",
+              "country_name": "Slovakia",
+              "country_subdivision_code": "BC",
+              "country_subdivision_name": "Banská Bystrica Region",
+              "lat": 48.73946,
+              "lng": 19.15349,
+              "name": "Banská Bystrica"
+            },
+            "geonames_id": 3061186
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Research Institute of Posts and Telecommunications"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "VUS"
+          },
+          {
+            "lang": "sk",
+            "types": [
+              "alias"
+            ],
+            "value": "Výskumný Ustav Spojov"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-07-08",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ptit.edu.vn"
+        ],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/0363rtq22",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://portal.ptit.edu.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": "HN",
+              "country_subdivision_name": "Hanoi",
+              "lat": 20.97136,
+              "lng": 105.77876,
+              "name": "Hà Đông"
+            },
+            "geonames_id": 1581364
+          }
+        ],
+        "names": [
+          {
+            "lang": "vi",
+            "types": [
+              "label"
+            ],
+            "value": "Học Viện Công Nghệ Bưu Chính Viễn Thông"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "PTIT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Posts and Telecommunications Institute of Technology"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "tdxy.njupt.edu.cn"
+        ],
+        "established": 1999,
+        "external_ids": [
+          {
+            "all": [
+              "Q10906916"
+            ],
+            "preferred": "Q10906916",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/039mme039",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://tdxy.njupt.edu.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "JS",
+              "country_subdivision_name": "Jiangsu",
+              "lat": 32.39722,
+              "lng": 119.43583,
+              "name": "Yangzhou"
+            },
+            "geonames_id": 1787227
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Tongda College of Nanjing University of Posts and Telecommunications"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "南京邮电大学通达学院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Nanjing University of Posts and Telecommunications",
+            "type": "related",
+            "id": "https://ror.org/043bpky34"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-02-17",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2006,
+        "external_ids": [
+          {
+            "all": [
+              "grid.502380.c"
+            ],
+            "preferred": "grid.502380.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9624 0420"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7928543"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00q0e7f94",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.vnpt.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": "SG",
+              "country_subdivision_name": "Ho Chi Minh",
+              "lat": 10.82302,
+              "lng": 106.62965,
+              "name": "Ho Chi Minh City"
+            },
+            "geonames_id": 1566083
+          }
+        ],
+        "names": [
+          {
+            "lang": "vi",
+            "types": [
+              "label"
+            ],
+            "value": "Tập đoàn Bưu chính Viễn thông Việt Nam"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "VNPT"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Vietnam Posts and Telecommunications Group (Vietnam)"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1974,
+        "external_ids": [
+          {
+            "all": [
+              "grid.482611.8"
+            ],
+            "preferred": "grid.482611.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1758 9296"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/04yv20134",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.wri.com.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HB",
+              "country_subdivision_name": "Hubei",
+              "lat": 30.58333,
+              "lng": 114.26667,
+              "name": "Wuhan"
+            },
+            "geonames_id": 1791247
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Fiberhome Technology Group (China)"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Wuhan Posts and Telecommunications Research Institute"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "State Key Laboratory of Optical Fiber Communication and Network Technology",
+            "type": "child",
+            "id": "https://ror.org/02gypyp73"
+          },
+          {
+            "label": "State Key Laboratory of Advanced Optical Communication Systems and Networks",
+            "type": "child",
+            "id": "https://ror.org/03dz8mb53"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "sjzpc.edu.cn"
+        ],
+        "established": 1956,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 1799 0143"
+            ],
+            "preferred": "0000 0004 1799 0143",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q112676187"
+            ],
+            "preferred": "Q112676187",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/038fxje37",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.sjzpc.edu.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HE",
+              "country_subdivision_name": "Hebei",
+              "lat": 38.04139,
+              "lng": 114.47861,
+              "name": "Shijiazhuang"
+            },
+            "geonames_id": 1795270
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Shijiazhuang Posts and Telecommunications Technical College"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "石家庄邮电职业技术学院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "China Post (China)",
+            "type": "parent",
+            "id": "https://ror.org/04jvr6m30"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "sptc.sn.cn"
+        ],
+        "established": 1958,
+        "external_ids": [
+          {
+            "all": [
+              "Q112677361"
+            ],
+            "preferred": "Q112677361",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0061d7m19",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.sptc.sn.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SN",
+              "country_subdivision_name": "Shaanxi",
+              "lat": 34.33778,
+              "lng": 108.70261,
+              "name": "Xianyang"
+            },
+            "geonames_id": 1790353
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Shaanxi Post Vocational and Technical College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Shaanxi Posts and Telecommunications Vocational Technical College"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "陕西邮电职业技术学院"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "陕邮职院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1993,
+        "external_ids": [
+          {
+            "all": [
+              "grid.495773.b"
+            ],
+            "preferred": "grid.495773.b",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/00822yz63",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.lnpdit.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "LN",
+              "country_subdivision_name": "Liaoning",
+              "lat": 41.79222,
+              "lng": 123.43278,
+              "name": "Shenyang"
+            },
+            "geonames_id": 2034937
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Liaoning Planning and Design Institute of Post and Telecommunication"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Liaoning Posts and Telecommunications Planning and Design Institute"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "辽宁邮电规划设计院有限公司版"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1964,
+        "external_ids": [
+          {
+            "all": [
+              "grid.495810.1"
+            ],
+            "preferred": "grid.495810.1",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/00dnaz088",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.sptdi.com"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SH",
+              "country_subdivision_name": "Shanghai",
+              "lat": 31.22222,
+              "lng": 121.45806,
+              "name": "Shanghai"
+            },
+            "geonames_id": 1796236
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Shanghai Posts & Telecommunications Designing Consulting Institute"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "上海邮电设计咨询研究院有限公司创"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1952,
+        "external_ids": [
+          {
+            "all": [
+              "grid.495564.f"
+            ],
+            "preferred": "grid.495564.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 5901 0422"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q52843278"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00kskf856",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.dimpt.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HA",
+              "country_subdivision_name": "Henan",
+              "lat": 34.75778,
+              "lng": 113.64861,
+              "name": "Zhengzhou"
+            },
+            "geonames_id": 1784658
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CITC"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Chinatex Posts and Telecommunications Consulting and Design Institute (China)"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中讯邮电咨询设计院有限公司"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-01-29",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "utp.bg"
+        ],
+        "established": 1881,
+        "external_ids": [
+          {
+            "all": [
+              "grid.470053.5"
+            ],
+            "preferred": "grid.470053.5",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/03gtr6m06",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.utp.bg"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "BG",
+              "country_name": "Bulgaria",
+              "country_subdivision_code": "22",
+              "country_subdivision_name": "Sofia-Capital",
+              "lat": 42.69751,
+              "lng": 23.32415,
+              "name": "Sofia"
+            },
+            "geonames_id": 727011
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UTP"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Telecommunications and Post"
+          },
+          {
+            "lang": "bg",
+            "types": [
+              "label"
+            ],
+            "value": "Висше училище по телекомуникации и пощи"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-09-23",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ptithcm.edu.vn"
+        ],
+        "established": 1953,
+        "external_ids": [
+          {
+            "all": [
+              "100016901"
+            ],
+            "preferred": "100016901",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.512485.f"
+            ],
+            "preferred": "grid.512485.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0386 7531"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q10771881"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00v416254",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ptithcm.edu.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": "SG",
+              "country_subdivision_name": "Ho Chi Minh",
+              "lat": 10.82302,
+              "lng": 106.62965,
+              "name": "Ho Chi Minh City"
+            },
+            "geonames_id": 1566083
+          }
+        ],
+        "names": [
+          {
+            "lang": "vi",
+            "types": [
+              "label"
+            ],
+            "value": "Học Viện Công Nghệ Bưu Chính Viễn Thông Cơ sở TP. Hồ Chí Minh"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "PTITHCM"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Posts and Telecommunications Institute of Technology - Ho Chi Minh City"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-22",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "tcu.edu.vn"
+        ],
+        "established": 1951,
+        "external_ids": [],
+        "id": "https://ror.org/00a3esw81",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://tcu.edu.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Khanh Hoa",
+              "lat": 12.24507,
+              "lng": 109.19432,
+              "name": "Nha Trang"
+            },
+            "geonames_id": 1572151
+          }
+        ],
+        "names": [
+          {
+            "lang": "vi",
+            "types": [
+              "acronym"
+            ],
+            "value": "SQTT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "TCU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Telecommunications University"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label"
+            ],
+            "value": "Trường Sĩ quan Thông tin"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Trường Đại học Thông tin Liên lạc"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2002,
+        "external_ids": [
+          {
+            "all": [
+              "grid.460652.3"
+            ],
+            "preferred": "grid.460652.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 1092 0394"
+            ],
+            "preferred": "0000 0001 1092 0394",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/048dn1a62",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://wstkt.pl/en/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "PL",
+              "country_name": "Poland",
+              "country_subdivision_code": "26",
+              "country_subdivision_name": "Świętokrzyskie",
+              "lat": 50.87033,
+              "lng": 20.62752,
+              "name": "Kielce"
+            },
+            "geonames_id": 769250
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Computer Engineering and Telecommunications"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "WSTKT"
+          },
+          {
+            "lang": "pl",
+            "types": [
+              "alias"
+            ],
+            "value": "Wyższa Szkoła Technik Komputerowych i Telekomunikacji w Kielcach"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 18781
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 10923
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 6644
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 5464
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 4991
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 3023
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2787
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 1213
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 963
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 8002
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 5052
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2819
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2495
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1666
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 1466
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 1372
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 1110
+        },
+        {
+          "id": "ca",
+          "title": "Canada",
+          "count": 1020
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 954
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 17631
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 12486
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 9568
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 2336
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 1044
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 809
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 43873
+        }
+      ]
+    }
+  }
+}

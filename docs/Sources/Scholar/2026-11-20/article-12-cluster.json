@@ -1,0 +1,195 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cluster": "5274328621855648354",
+    "hl": "en",
+    "no_cache": "true"
+  },
+  "accessed_at_utc": "2026-11-20T12:58:57.796690+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6b004410475266c42f1ca674",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/P7CFkXPGnJ0-zC3MQyUAd5wEXHJphIYn41HJOCvR9gI/6b004410475266c42f1ca674.json",
+      "markdown_endpoint": "https://serpapi.com/searches/P7CFkXPGnJ0-zC3MQyUAd5wEXHJphIYn41HJOCvR9gI/6b004410475266c42f1ca674.md",
+      "created_at": "2026-11-20 12:58:56 UTC",
+      "processed_at": "2026-11-20 12:58:56 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cluster=5274328621855648354&hl=en",
+      "raw_html_file": "https://serpapi.com/searches/P7CFkXPGnJ0-zC3MQyUAd5wEXHJphIYn41HJOCvR9gI/6b004410475266c42f1ca674.html",
+      "total_time_taken": 4.48
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cluster": "5274328621855648354",
+      "hl": "en"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 4,
+      "time_taken_displayed": 0.01
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Bayesian bits: Unifying quantization and pruning",
+        "result_id": "Yqph3u8tMkkJ",
+        "link": "https://proceedings.neurips.cc/paper_files/paper/2020/hash/3f13cf4ddf6fc50c0d39a1d5aeb57dd8-Abstract.html",
+        "snippet": "Abstract We introduce Bayesian Bits, a practical method for joint mixed precision quantization and pruning through gradient based optimization. Bayesian Bits employs a …",
+        "publication_info": {
+          "summary": "M Van Baalen, C Louizos, M Nagel… - Advances in neural …, 2020 - proceedings.neurips.cc",
+          "authors": [
+            {
+              "name": "M Van Baalen",
+              "link": "https://scholar.google.com/citations?user=a-Au4JUAAAAJ&hl=en&oi=sra",
+              "author_id": "a-Au4JUAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=a-Au4JUAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "C Louizos",
+              "link": "https://scholar.google.com/citations?user=xrSUChoAAAAJ&hl=en&oi=sra",
+              "author_id": "xrSUChoAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xrSUChoAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "M Nagel",
+              "link": "https://scholar.google.com/citations?user=akNuBBEAAAAJ&hl=en&oi=sra",
+              "author_id": "akNuBBEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=akNuBBEAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "neurips.cc",
+            "file_format": "PDF",
+            "link": "https://proceedings.neurips.cc/paper_files/paper/2020/file/3f13cf4ddf6fc50c0d39a1d5aeb57dd8-Paper.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Yqph3u8tMkkJ",
+          "cited_by": {
+            "total": 214,
+            "link": "https://scholar.google.com/scholar?cites=5274328621855648354&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "5274328621855648354",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=5274328621855648354&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:Yqph3u8tMkkJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=5274328621855648354&engine=google_scholar&hl=en&q=related%3AYqph3u8tMkkJ%3Ascholar.google.com%2F",
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Yqph3u8tMkkJ:scholar.google.com/&hl=en&as_sdt=0,5"
+        }
+      },
+      {
+        "position": 2,
+        "title": "Bayesian Bits: Unifying Quantization and Pruning",
+        "result_id": "OXK3biYXdCMJ",
+        "link": "https://ui.adsabs.harvard.edu/abs/2020arXiv200507093V/abstract",
+        "snippet": "Abstract We introduce Bayesian Bits, a practical method for joint mixed precision quantization and pruning through gradient based optimization. Bayesian Bits employs a …",
+        "publication_info": {
+          "summary": "M van Baalen, C Louizos, M Nagel, RA Amjad… - arXiv e …, 2020 - ui.adsabs.harvard.edu",
+          "authors": [
+            {
+              "name": "M van Baalen"
+            },
+            {
+              "name": "C Louizos"
+            },
+            {
+              "name": "M Nagel"
+            },
+            {
+              "name": "RA Amjad"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=OXK3biYXdCMJ"
+        }
+      },
+      {
+        "position": 3,
+        "title": "Bayesian bits: unifying quantization and pruning",
+        "result_id": "Yqph3u8tMkkJ",
+        "link": "https://dl.acm.org/doi/abs/10.5555/3495724.3496206",
+        "snippet": "We introduce Bayesian Bits, a practical method for joint mixed precision quantization and pruning through gradient based optimization. Bayesian Bits employs a novel decomposition …",
+        "publication_info": {
+          "summary": "M van Baalen, C Louizos, M Nagel, RA Amjad… - Proceedings of the 34th …, 2020 - dl.acm.org",
+          "authors": [
+            {
+              "name": "M van Baalen",
+              "link": "https://scholar.google.com/citations?user=a-Au4JUAAAAJ&hl=en&oi=sra",
+              "author_id": "a-Au4JUAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=a-Au4JUAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "C Louizos",
+              "link": "https://scholar.google.com/citations?user=xrSUChoAAAAJ&hl=en&oi=sra",
+              "author_id": "xrSUChoAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xrSUChoAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "M Nagel",
+              "link": "https://scholar.google.com/citations?user=akNuBBEAAAAJ&hl=en&oi=sra",
+              "author_id": "akNuBBEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=akNuBBEAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "RA Amjad",
+              "link": "https://scholar.google.com/citations?user=_51RoykAAAAJ&hl=en&oi=sra",
+              "author_id": "_51RoykAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_51RoykAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Yqph3u8tMkkJ"
+        }
+      },
+      {
+        "position": 4,
+        "title": "Bayesian Bits: Unifying Quantization and Pruning",
+        "result_id": "KiyUHMyQVVMJ",
+        "link": "https://arxiv.org/abs/2005.07093",
+        "snippet": "We introduce Bayesian Bits, a practical method for joint mixed precision quantization and pruning through gradient based optimization. Bayesian Bits employs a novel decomposition …",
+        "publication_info": {
+          "summary": "M van Baalen, C Louizos, M Nagel, RA Amjad… - arXiv preprint arXiv …, 2020 - arxiv.org",
+          "authors": [
+            {
+              "name": "M van Baalen"
+            },
+            {
+              "name": "C Louizos"
+            },
+            {
+              "name": "M Nagel"
+            },
+            {
+              "name": "RA Amjad"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2005.07093"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=KiyUHMyQVVMJ"
+        }
+      }
+    ]
+  }
+}

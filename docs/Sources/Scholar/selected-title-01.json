@@ -1,0 +1,578 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "q": "\"Understanding and Overcoming the Challenges of Efficient Transformer Quantization\"",
+    "hl": "en",
+    "num": 10
+  },
+  "accessed_at_utc": "2026-10-07T12:39:07.027116+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63d6b95e950f2ca9cf9e9",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/Ze89W369byUJnVwbALwNqG6wag-dlOCa_9WVwYxSLD4/6ac63d6b95e950f2ca9cf9e9.json",
+      "markdown_endpoint": "https://serpapi.com/searches/Ze89W369byUJnVwbALwNqG6wag-dlOCa_9WVwYxSLD4/6ac63d6b95e950f2ca9cf9e9.md",
+      "created_at": "2026-10-07 12:39:07 UTC",
+      "processed_at": "2026-10-07 12:39:07 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?q=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&num=10",
+      "raw_html_file": "https://serpapi.com/searches/Ze89W369byUJnVwbALwNqG6wag-dlOCa_9WVwYxSLD4/6ac63d6b95e950f2ca9cf9e9.html",
+      "total_time_taken": 1.44
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "q": "\"Understanding and Overcoming the Challenges of Efficient Transformer Quantization\"",
+      "hl": "en",
+      "num": "10"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 50,
+      "time_taken_displayed": 0.56,
+      "query_displayed": "\"Understanding and Overcoming the Challenges of Efficient Transformer Quantization\""
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Outlier suppression: Pushing the limit of low-bit transformer language models",
+        "result_id": "ZtpuMfg9oo8J",
+        "link": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/6f6db140de9c9f111b12ef8a216320a9-Abstract-Conference.html",
+        "snippet": "Transformer architecture has become the fundamental element of the widespread natural language processing~(NLP) models. With the trends of large NLP models, the increasing …",
+        "publication_info": {
+          "summary": "X Wei, Y Zhang, X Zhang, R Gong… - Advances in …, 2022 - proceedings.neurips.cc",
+          "authors": [
+            {
+              "name": "X Wei"
+            },
+            {
+              "name": "Y Zhang"
+            },
+            {
+              "name": "X Zhang"
+            },
+            {
+              "name": "R Gong"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "neurips.cc",
+            "file_format": "PDF",
+            "link": "https://proceedings.neurips.cc/paper_files/paper/2022/file/6f6db140de9c9f111b12ef8a216320a9-Paper-Conference.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ZtpuMfg9oo8J",
+          "cited_by": {
+            "total": 284,
+            "link": "https://scholar.google.com/scholar?cites=10349903029841353318&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "10349903029841353318",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10349903029841353318&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:ZtpuMfg9oo8J:scholar.google.com/&scioq=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AZtpuMfg9oo8J%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 6,
+            "link": "https://scholar.google.com/scholar?cluster=10349903029841353318&hl=en&as_sdt=0,5",
+            "cluster_id": "10349903029841353318",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=10349903029841353318&engine=google_scholar&hl=en"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:ZtpuMfg9oo8J:scholar.google.com/+%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5"
+        }
+      },
+      {
+        "position": 2,
+        "title": "A Target-Centric Survey of Quantization-Aware Training",
+        "result_id": "jaPdoi_S_J0J",
+        "link": "https://arxiv.org/abs/2608.29667",
+        "snippet": "The rapid development of LLMs incurs prohibitive memory footprints and intensive computational demands. Quantization-Aware Training (QAT) techniques have emerged as a …",
+        "publication_info": {
+          "summary": "J Song, M Zhao, Z Wang, Y Liu, Q Li, S Feng… - arXiv preprint arXiv …, 2026 - arxiv.org",
+          "authors": [
+            {
+              "name": "J Song"
+            },
+            {
+              "name": "M Zhao",
+              "link": "https://scholar.google.com/citations?user=G6ema1YAAAAJ&hl=en&oi=sra",
+              "author_id": "G6ema1YAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=G6ema1YAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "Z Wang",
+              "link": "https://scholar.google.com/citations?user=TSMSMmEAAAAJ&hl=en&oi=sra",
+              "author_id": "TSMSMmEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=TSMSMmEAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "Y Liu",
+              "link": "https://scholar.google.com/citations?user=21nJTJYAAAAJ&hl=en&oi=sra",
+              "author_id": "21nJTJYAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=21nJTJYAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "Q Li"
+            },
+            {
+              "name": "S Feng"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2608.29667"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=jaPdoi_S_J0J",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:jaPdoi_S_J0J:scholar.google.com/&scioq=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AjaPdoi_S_J0J%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=11384205060123501453&hl=en&as_sdt=0,5",
+            "cluster_id": "11384205060123501453",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=11384205060123501453&engine=google_scholar&hl=en"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:jaPdoi_S_J0J:scholar.google.com/+%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5"
+        }
+      },
+      {
+        "position": 3,
+        "title": "Packqvit: Faster sub-8-bit vision transformers via full and packed quantization on the mobile",
+        "result_id": "H8aXIDwFyOEJ",
+        "link": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/1c92edb990a05f2269f0cc3afbb4c952-Abstract-Conference.html",
+        "snippet": "While Vision Transformers (ViTs) have undoubtedly made impressive strides in computer vision (CV), their intricate network structures necessitate substantial computation and memory …",
+        "publication_info": {
+          "summary": "P Dong, L Lu, C Wu, C Lyu, G Yuan… - Advances in Neural …, 2023 - proceedings.neurips.cc",
+          "authors": [
+            {
+              "name": "P Dong",
+              "link": "https://scholar.google.com/citations?user=OGU3CVoAAAAJ&hl=en&oi=sra",
+              "author_id": "OGU3CVoAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OGU3CVoAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "L Lu",
+              "link": "https://scholar.google.com/citations?user=rxyMOeAAAAAJ&hl=en&oi=sra",
+              "author_id": "rxyMOeAAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=rxyMOeAAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "C Wu",
+              "link": "https://scholar.google.com/citations?user=UH51bhYAAAAJ&hl=en&oi=sra",
+              "author_id": "UH51bhYAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=UH51bhYAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "C Lyu"
+            },
+            {
+              "name": "G Yuan",
+              "link": "https://scholar.google.com/citations?user=tBIAgtgAAAAJ&hl=en&oi=sra",
+              "author_id": "tBIAgtgAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=tBIAgtgAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "neurips.cc",
+            "file_format": "PDF",
+            "link": "https://proceedings.neurips.cc/paper_files/paper/2023/file/1c92edb990a05f2269f0cc3afbb4c952-Paper-Conference.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=H8aXIDwFyOEJ",
+          "cited_by": {
+            "total": 57,
+            "link": "https://scholar.google.com/scholar?cites=16269259409678911007&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "16269259409678911007",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=16269259409678911007&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:H8aXIDwFyOEJ:scholar.google.com/&scioq=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AH8aXIDwFyOEJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cluster=16269259409678911007&hl=en&as_sdt=0,5",
+            "cluster_id": "16269259409678911007",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=16269259409678911007&engine=google_scholar&hl=en"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:H8aXIDwFyOEJ:scholar.google.com/+%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5"
+        }
+      },
+      {
+        "position": 4,
+        "title": "Activation Outliers in Transformer Quantization: Reproduction, Statistical Analysis, and Deployment Tradeoffs",
+        "result_id": "waDdX4z8M2MJ",
+        "link": "https://arxiv.org/abs/2603.04308",
+        "snippet": "… Blankevoort, “Understanding and overcoming the challenges of efficient transformer quantization,” in Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+        "publication_info": {
+          "summary": "PK Kaliaperumal - arXiv preprint arXiv:2603.04308, 2026 - arxiv.org",
+          "authors": [
+            {
+              "name": "PK Kaliaperumal"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2603.04308"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=waDdX4z8M2MJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:waDdX4z8M2MJ:scholar.google.com/&scioq=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AwaDdX4z8M2MJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=7148334713401090241&hl=en&as_sdt=0,5",
+            "cluster_id": "7148334713401090241",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=7148334713401090241&engine=google_scholar&hl=en"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:waDdX4z8M2MJ:scholar.google.com/+%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5"
+        }
+      },
+      {
+        "position": 5,
+        "title": "Optimizing llms for resource-constrained environments: A survey of model compression techniques",
+        "result_id": "HtFhf-se7_AJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11126680/",
+        "snippet": "Large Language Models (LLMs) have revolutionized many areas of artificial intelligence (AI), but their substantial resource requirements limit their deployment on mobile and edge …",
+        "publication_info": {
+          "summary": "SS Girija, L Arora, S Kapoor, D Pradhan… - 2025 IEEE 49th …, 2025 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "SS Girija"
+            },
+            {
+              "name": "L Arora"
+            },
+            {
+              "name": "S Kapoor"
+            },
+            {
+              "name": "D Pradhan"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "ieee.org",
+            "file_format": "PDF",
+            "link": "https://ieeexplore.ieee.org/iel8/11126524/11126444/11126680.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=HtFhf-se7_AJ",
+          "cited_by": {
+            "total": 41,
+            "link": "https://scholar.google.com/scholar?cites=17361129085339816222&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "17361129085339816222",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=17361129085339816222&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:HtFhf-se7_AJ:scholar.google.com/&scioq=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AHtFhf-se7_AJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 5,
+            "link": "https://scholar.google.com/scholar?cluster=17361129085339816222&hl=en&as_sdt=0,5",
+            "cluster_id": "17361129085339816222",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=17361129085339816222&engine=google_scholar&hl=en"
+          }
+        }
+      },
+      {
+        "position": 6,
+        "title": "pQuant: Towards Effective Low-Bit Language Models via Decoupled Linear Quantization-Aware Training",
+        "result_id": "L64nM-j-m4oJ",
+        "link": "https://aclanthology.org/2026.findings-acl.1566/",
+        "snippet": "Quantization-Aware Training from scratch has emerged as a promising approach for building efficient large language models (LLMs) with extremely low-bit weights (sub 2-bit), which …",
+        "publication_info": {
+          "summary": "W Zhang, B Liu - Findings of the Association for Computational …, 2026 - aclanthology.org",
+          "authors": [
+            {
+              "name": "W Zhang"
+            },
+            {
+              "name": "B Liu"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "aclanthology.org",
+            "file_format": "PDF",
+            "link": "https://aclanthology.org/2026.findings-acl.1566.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=L64nM-j-m4oJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:L64nM-j-m4oJ:scholar.google.com/&scioq=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AL64nM-j-m4oJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cluster=9987856871868313135&hl=en&as_sdt=0,5",
+            "cluster_id": "9987856871868313135",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=9987856871868313135&engine=google_scholar&hl=en"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:L64nM-j-m4oJ:scholar.google.com/+%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5"
+        }
+      },
+      {
+        "position": 7,
+        "title": "Towards Extremely Low-Bit and Multi-Precision Conformer and Speech Foundation Model Quantization",
+        "result_id": "VGG6ql_w6cMJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11656827/",
+        "snippet": "Model quantization facilitates Automatic Speech Recognition (ASR) deployment on resource-constrained devices, yet existing methods suffer from severe accuracy loss below 4 bits, …",
+        "publication_info": {
+          "summary": "Z Li, H Xu, Z Jin, T Wang, L Meng… - … on Audio, Speech …, 2026 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "Z Li",
+              "link": "https://scholar.google.com/citations?user=93ihJjYAAAAJ&hl=en&oi=sra",
+              "author_id": "93ihJjYAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=93ihJjYAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "H Xu",
+              "link": "https://scholar.google.com/citations?user=HsxlG6cAAAAJ&hl=en&oi=sra",
+              "author_id": "HsxlG6cAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=HsxlG6cAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "Z Jin",
+              "link": "https://scholar.google.com/citations?user=kgH1mk0AAAAJ&hl=en&oi=sra",
+              "author_id": "kgH1mk0AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=kgH1mk0AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "T Wang",
+              "link": "https://scholar.google.com/citations?user=tDVY69wAAAAJ&hl=en&oi=sra",
+              "author_id": "tDVY69wAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=tDVY69wAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "L Meng",
+              "link": "https://scholar.google.com/citations?user=Vtirkf4AAAAJ&hl=en&oi=sra",
+              "author_id": "Vtirkf4AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Vtirkf4AAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "ieee.org",
+            "file_format": "PDF",
+            "link": "https://ieeexplore.ieee.org/iel8/10723155/10818373/11656827.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=VGG6ql_w6cMJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:VGG6ql_w6cMJ:scholar.google.com/&scioq=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AVGG6ql_w6cMJ%3Ascholar.google.com%2F"
+        }
+      },
+      {
+        "position": 8,
+        "title": "A Developer's Guide to Compressing Pre-Trained Transformer Neural Networks across Different Domains",
+        "result_id": "Z_tSK4l0HAYJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11170319/",
+        "snippet": "Transformer neural networks have become the benchmark across a variety of domains in part thanks to their competence in comprehending the importance and dependencies between …",
+        "publication_info": {
+          "summary": "FA Barrios, A Emadi - IEEE Access, 2025 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "FA Barrios",
+              "link": "https://scholar.google.com/citations?user=WKM9xdQAAAAJ&hl=en&oi=sra",
+              "author_id": "WKM9xdQAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WKM9xdQAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "A Emadi",
+              "link": "https://scholar.google.com/citations?user=f576KTMAAAAJ&hl=en&oi=sra",
+              "author_id": "f576KTMAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=f576KTMAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "ieee.org",
+            "file_format": "PDF",
+            "link": "https://ieeexplore.ieee.org/iel8/6287639/6514899/11170319.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Z_tSK4l0HAYJ",
+          "cited_by": {
+            "total": 1,
+            "link": "https://scholar.google.com/scholar?cites=440354996061666151&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "440354996061666151",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=440354996061666151&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:Z_tSK4l0HAYJ:scholar.google.com/&scioq=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AZ_tSK4l0HAYJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=440354996061666151&hl=en&as_sdt=0,5",
+            "cluster_id": "440354996061666151",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=440354996061666151&engine=google_scholar&hl=en"
+          }
+        }
+      },
+      {
+        "position": 9,
+        "title": "QuantEase: Optimization-based Quantization for Large Language Models",
+        "result_id": "HPFU8CLJdZ0J",
+        "link": "https://openreview.net/forum?id=I07KLz6Em1",
+        "snippet": "With the rising popularity of Large Language Models (LLMs), there has been an increasing interest in compression techniques that enable their efficient deployment. This study focuses …",
+        "publication_info": {
+          "summary": "K Behdin, A Acharya, A Gupta, S Keerthi, R Mazumder - openreview.net",
+          "authors": [
+            {
+              "name": "K Behdin"
+            },
+            {
+              "name": "A Acharya"
+            },
+            {
+              "name": "A Gupta"
+            },
+            {
+              "name": "S Keerthi"
+            },
+            {
+              "name": "R Mazumder"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "openreview.net",
+            "file_format": "PDF",
+            "link": "https://openreview.net/pdf?id=I07KLz6Em1"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=HPFU8CLJdZ0J",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:HPFU8CLJdZ0J:scholar.google.com/&scioq=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AHPFU8CLJdZ0J%3Ascholar.google.com%2F",
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:HPFU8CLJdZ0J:scholar.google.com/+%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5"
+        }
+      },
+      {
+        "position": 10,
+        "title": "Adapting to Any Bit-Width: Channel-Wise Mixed-Precision Quantization for LLMs",
+        "result_id": "ctbJeVogTvgJ",
+        "link": "https://openreview.net/forum?id=1t6sEhdLxf",
+        "snippet": "Large Language Models (LLMs) have demonstrated remarkable success across a wide range of language tasks, but their deployment on edge devices remains challenging due to the …",
+        "publication_info": {
+          "summary": "Z Chen, B Xie, J Li, C Shen - Transactions on Machine Learning Research - openreview.net",
+          "authors": [
+            {
+              "name": "Z Chen"
+            },
+            {
+              "name": "B Xie"
+            },
+            {
+              "name": "J Li"
+            },
+            {
+              "name": "C Shen"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "openreview.net",
+            "file_format": "PDF",
+            "link": "https://openreview.net/pdf?id=1t6sEhdLxf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ctbJeVogTvgJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:ctbJeVogTvgJ:scholar.google.com/&scioq=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3ActbJeVogTvgJ%3Ascholar.google.com%2F",
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:ctbJeVogTvgJ:scholar.google.com/+%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5"
+        }
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://scholar.google.com/scholar?start=10&q=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5",
+      "other_pages": {
+        "2": "https://scholar.google.com/scholar?start=10&q=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5",
+        "3": "https://scholar.google.com/scholar?start=20&q=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5",
+        "4": "https://scholar.google.com/scholar?start=30&q=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5",
+        "5": "https://scholar.google.com/scholar?start=40&q=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&hl=en&as_sdt=0,5"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&start=10",
+      "next": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&start=10",
+        "3": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&start=20",
+        "4": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&start=30",
+        "5": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=%22Understanding+and+Overcoming+the+Challenges+of+Efficient+Transformer+Quantization%22&start=40"
+      }
+    }
+  }
+}

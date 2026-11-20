@@ -1,0 +1,2359 @@
+{
+  "query": "Texas A&M University",
+  "url": "https://api.ror.org/v2/organizations?query=Texas+A%26M+University",
+  "access_date": "2026-10-08",
+  "status": 200,
+  "data": {
+    "number_of_results": 15834,
+    "time_taken": 66,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "tamu.edu"
+        ],
+        "established": 1876,
+        "external_ids": [
+          {
+            "all": [
+              "100007904",
+              "100009772",
+              "100007905",
+              "100007906",
+              "100008654",
+              "100008202",
+              "100008589",
+              "100008387",
+              "100004913",
+              "100012798",
+              "100013673",
+              "100013674",
+              "100013696",
+              "100013709",
+              "100014539",
+              "100015084",
+              "100015297",
+              "100015821",
+              "100019877",
+              "100020671",
+              "100020949"
+            ],
+            "preferred": "100007904",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.264756.4"
+            ],
+            "preferred": "grid.264756.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 4687 2082"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q49212"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01f5ytq51",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.tamu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Texas_A%26M_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TX",
+              "country_subdivision_name": "Texas",
+              "lat": 30.62798,
+              "lng": -96.33441,
+              "name": "College Station"
+            },
+            "geonames_id": 4682464
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TAMU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Texas A&M University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Texas A. & M. University"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Texas A&M Health Science Center",
+            "type": "child",
+            "id": "https://ror.org/01tx6pn92"
+          },
+          {
+            "label": "Texas A&M University School of Law",
+            "type": "child",
+            "id": "https://ror.org/03cv6f983"
+          },
+          {
+            "label": "Texas A&M University at Qatar",
+            "type": "child",
+            "id": "https://ror.org/03vb4dm14"
+          },
+          {
+            "label": "Texas A&M Engineering Experiment Station",
+            "type": "child",
+            "id": "https://ror.org/03p8qrw52"
+          },
+          {
+            "label": "Texas A&M University System",
+            "type": "parent",
+            "id": "https://ror.org/0034eay46"
+          },
+          {
+            "label": "Baylor Scott & White Health",
+            "type": "related",
+            "id": "https://ror.org/05wevan27"
+          },
+          {
+            "label": "Baylor University Medical Center",
+            "type": "related",
+            "id": "https://ror.org/03nxfhe13"
+          },
+          {
+            "label": "Central Texas Veterans Health Care System",
+            "type": "related",
+            "id": "https://ror.org/02dcp1550"
+          },
+          {
+            "label": "Texas Medical Center",
+            "type": "related",
+            "id": "https://ror.org/00dqsbj20"
+          },
+          {
+            "label": "The University of Texas MD Anderson Cancer Center",
+            "type": "related",
+            "id": "https://ror.org/04twxam07"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1999,
+        "external_ids": [
+          {
+            "all": [
+              "100010857"
+            ],
+            "preferred": "100010857",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.469268.7"
+            ],
+            "preferred": "grid.469268.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0386 7929"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7707476"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/015hh0z25",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.tamuct.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Texas_A%26M_University%E2%80%93Central_Texas"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TX",
+              "country_subdivision_name": "Texas",
+              "lat": 31.11712,
+              "lng": -97.7278,
+              "name": "Killeen"
+            },
+            "geonames_id": 4703223
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "American Technological University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TAMU-CT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Tarleton State University–Central Texas"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Texas A&M University – Central Texas"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Central Texas"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Texas A&M University System",
+            "type": "parent",
+            "id": "https://ror.org/0034eay46"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1971,
+        "external_ids": [
+          {
+            "all": [
+              "100010861"
+            ],
+            "preferred": "100010861",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.264762.3"
+            ],
+            "preferred": "grid.264762.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9202 9644"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q14711364"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01x3z9745",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.tamut.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Texas_A%26M_University%E2%80%93Texarkana"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TX",
+              "country_subdivision_name": "Texas",
+              "lat": 33.42513,
+              "lng": -94.04769,
+              "name": "Texarkana"
+            },
+            "geonames_id": 4736096
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "A&M-Texarkana"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Texas A&M University – Texarkana"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Texas A&M University System",
+            "type": "parent",
+            "id": "https://ror.org/0034eay46"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-02-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "tamuv.edu"
+        ],
+        "established": 1973,
+        "external_ids": [
+          {
+            "all": [
+              "grid.462948.5"
+            ],
+            "preferred": "grid.462948.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9341 8350"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7895510"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01khwek78",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.tamuv.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Houston%E2%80%93Victoria"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TX",
+              "country_subdivision_name": "Texas",
+              "lat": 28.80527,
+              "lng": -97.0036,
+              "name": "Victoria"
+            },
+            "geonames_id": 4739157
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "TAMUV"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Texas A&M University-Victoria"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UHV"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Houston - Victoria"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Houston System",
+            "type": "parent",
+            "id": "https://ror.org/040vwpm13"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "tamiu.edu"
+        ],
+        "established": 1969,
+        "external_ids": [
+          {
+            "all": [
+              "100010856"
+            ],
+            "preferred": "100010856",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.264755.7"
+            ],
+            "preferred": "grid.264755.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8747 9982"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7707466"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/028861t28",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.tamiu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Texas_A%26M_International_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TX",
+              "country_subdivision_name": "Texas",
+              "lat": 27.50641,
+              "lng": -99.50754,
+              "name": "Laredo"
+            },
+            "geonames_id": 4705349
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TAMIU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Texas A&M International University"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Internacional de Texas A&M"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Texas A&M University System",
+            "type": "parent",
+            "id": "https://ror.org/0034eay46"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "etamu.edu"
+        ],
+        "established": 1889,
+        "external_ids": [
+          {
+            "all": [
+              "100010858"
+            ],
+            "preferred": "100010858",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.264758.a"
+            ],
+            "preferred": "grid.264758.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1937 0087"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2407584"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01red3556",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.etamu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Texas_A%26M_University%E2%80%93Commerce"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TX",
+              "country_subdivision_name": "Texas",
+              "lat": 33.24706,
+              "lng": -95.89997,
+              "name": "Commerce"
+            },
+            "geonames_id": 4682762
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "East Texas A&M"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "East Texas A&M University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Texas A&M University – Commerce"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Texas A&M University System",
+            "type": "parent",
+            "id": "https://ror.org/0034eay46"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "tamuk.edu"
+        ],
+        "established": 1925,
+        "external_ids": [
+          {
+            "all": [
+              "100010859"
+            ],
+            "preferred": "100010859",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.264760.1"
+            ],
+            "preferred": "grid.264760.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q7707478"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05abs3w97",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.tamuk.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Texas_A%26M_University%E2%80%93Kingsville"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TX",
+              "country_subdivision_name": "Texas",
+              "lat": 27.51587,
+              "lng": -97.85611,
+              "name": "Kingsville"
+            },
+            "geonames_id": 4703384
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TAMUK"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Texas A&M University – Kingsville"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Caesar Kleberg Wildlife Research Institute",
+            "type": "child",
+            "id": "https://ror.org/01tm9h439"
+          },
+          {
+            "label": "Texas A&M University System",
+            "type": "parent",
+            "id": "https://ror.org/0034eay46"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "wtamu.edu"
+        ],
+        "established": 1910,
+        "external_ids": [
+          {
+            "all": [
+              "100010862"
+            ],
+            "preferred": "100010862",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.268149.0"
+            ],
+            "preferred": "grid.268149.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2216 993X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7986651"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04gnp7x40",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.wtamu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/West_Texas_A%26M_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TX",
+              "country_subdivision_name": "Texas",
+              "lat": 34.98033,
+              "lng": -101.9188,
+              "name": "Canyon"
+            },
+            "geonames_id": 5518239
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "WTAMU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "West Texas A&M University"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Texas A&M University System",
+            "type": "parent",
+            "id": "https://ror.org/0034eay46"
+          },
+          {
+            "label": "Amarillo VA Health Care System",
+            "type": "related",
+            "id": "https://ror.org/034c6s521"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "tamus.edu"
+        ],
+        "established": 1948,
+        "external_ids": [
+          {
+            "all": [
+              "100004933",
+              "100004923",
+              "100031050"
+            ],
+            "preferred": "100031050",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.264763.2"
+            ],
+            "preferred": "grid.264763.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2112 019X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1781044"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0034eay46",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.tamus.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Texas_A%26M_University_System"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TX",
+              "country_subdivision_name": "Texas",
+              "lat": 30.62798,
+              "lng": -96.33441,
+              "name": "College Station"
+            },
+            "geonames_id": 4682464
+          }
+        ],
+        "names": [
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Sistema Universitario Texas A&M"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Texas A&M University System"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Prairie View A&M University",
+            "type": "child",
+            "id": "https://ror.org/0449kf092"
+          },
+          {
+            "label": "Tarleton State University",
+            "type": "child",
+            "id": "https://ror.org/0263v9e25"
+          },
+          {
+            "label": "Texas A&M International University",
+            "type": "child",
+            "id": "https://ror.org/028861t28"
+          },
+          {
+            "label": "Texas A&M University",
+            "type": "child",
+            "id": "https://ror.org/01f5ytq51"
+          },
+          {
+            "label": "Texas A&M University at Galveston",
+            "type": "child",
+            "id": "https://ror.org/00w0k4e67"
+          },
+          {
+            "label": "Texas A&M University – Central Texas",
+            "type": "child",
+            "id": "https://ror.org/015hh0z25"
+          },
+          {
+            "label": "East Texas A&M University",
+            "type": "child",
+            "id": "https://ror.org/01red3556"
+          },
+          {
+            "label": "Texas A&M University – Corpus Christi",
+            "type": "child",
+            "id": "https://ror.org/01mrfdz82"
+          },
+          {
+            "label": "Texas A&M University – Kingsville",
+            "type": "child",
+            "id": "https://ror.org/05abs3w97"
+          },
+          {
+            "label": "Texas A&M University – San Antonio",
+            "type": "child",
+            "id": "https://ror.org/0084njv03"
+          },
+          {
+            "label": "Texas A&M University – Texarkana",
+            "type": "child",
+            "id": "https://ror.org/01x3z9745"
+          },
+          {
+            "label": "West Texas A&M University",
+            "type": "child",
+            "id": "https://ror.org/04gnp7x40"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2003,
+        "external_ids": [
+          {
+            "all": [
+              "100031741"
+            ],
+            "preferred": "100031741",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412392.f"
+            ],
+            "preferred": "grid.412392.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0413 3978"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1144951"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03vb4dm14",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.qatar.tamu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Texas_A%26M_University_at_Qatar"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "QA",
+              "country_name": "Qatar",
+              "country_subdivision_code": "DA",
+              "country_subdivision_name": "Baladīyat ad Dawḩah",
+              "lat": 25.28545,
+              "lng": 51.53096,
+              "name": "Doha"
+            },
+            "geonames_id": 290030
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TAMUQ"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Texas A&M University at Qatar"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "جامعة تكساس أي اند إم"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Texas A&M University",
+            "type": "parent",
+            "id": "https://ror.org/01f5ytq51"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "tamusa.edu"
+        ],
+        "established": 2009,
+        "external_ids": [
+          {
+            "all": [
+              "100010860"
+            ],
+            "preferred": "100010860",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.469272.c"
+            ],
+            "preferred": "grid.469272.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0180 5693"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7707479"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0084njv03",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.tamusa.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Texas_A%26M_University%E2%80%93San_Antonio"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TX",
+              "country_subdivision_name": "Texas",
+              "lat": 29.42412,
+              "lng": -98.49363,
+              "name": "San Antonio"
+            },
+            "geonames_id": 4726206
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TAMUSA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Texas A&M University – San Antonio"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Texas A&M University–Kingsville System Center"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Texas A&M University System",
+            "type": "parent",
+            "id": "https://ror.org/0034eay46"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "tamug.edu"
+        ],
+        "established": 1962,
+        "external_ids": [
+          {
+            "all": [
+              "100013390"
+            ],
+            "preferred": "100013390",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.264764.5"
+            ],
+            "preferred": "grid.264764.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q5973443"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00w0k4e67",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.tamug.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Texas_A%26M_University_at_Galveston"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TX",
+              "country_subdivision_name": "Texas",
+              "lat": 29.30135,
+              "lng": -94.7977,
+              "name": "Galveston"
+            },
+            "geonames_id": 4692883
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TAMUG"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Texas A&M University at Galveston"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de Texas A&M en Galveston"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Texas A&M University System",
+            "type": "parent",
+            "id": "https://ror.org/0034eay46"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "tamucc.edu"
+        ],
+        "established": 1947,
+        "external_ids": [
+          {
+            "all": [
+              "100007809",
+              "100008292"
+            ],
+            "preferred": "100007809",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.264759.b"
+            ],
+            "preferred": "grid.264759.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9880 7531"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q634651"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01mrfdz82",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.tamucc.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Texas_A%26M_University%E2%80%93Corpus_Christi"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TX",
+              "country_subdivision_name": "Texas",
+              "lat": 27.80058,
+              "lng": -97.39638,
+              "name": "Corpus Christi"
+            },
+            "geonames_id": 4683416
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "A&M-CC"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "A&M-Corpus Christi"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TAMUCC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Texas A&M University – Corpus Christi"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Texas A&M University—Corpus Christi"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Texas A&M–Corpus Christi"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Harte Research Institute for Gulf of Mexico Studies",
+            "type": "child",
+            "id": "https://ror.org/04rpe5h19"
+          },
+          {
+            "label": "Texas A&M University System",
+            "type": "parent",
+            "id": "https://ror.org/0034eay46"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-06",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "tti.tamu.edu"
+        ],
+        "established": 1950,
+        "external_ids": [
+          {
+            "all": [
+              "100031049"
+            ],
+            "preferred": "100031049",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/04ryn6t67",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://tti.tamu.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Texas_A%26M_Transportation_Institute"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TX",
+              "country_subdivision_name": "Texas",
+              "lat": 30.67436,
+              "lng": -96.36996,
+              "name": "Bryan"
+            },
+            "geonames_id": 4677008
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TTI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Texas A and M Transportation Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Texas A&M Transportation Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Texas Transportation Institute"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1989,
+        "external_ids": [
+          {
+            "all": [
+              "grid.467068.b"
+            ],
+            "preferred": "grid.467068.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0521 4729"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7708206"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03cv6f983",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://law.tamu.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Texas_A%26M_University_School_of_Law"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TX",
+              "country_subdivision_name": "Texas",
+              "lat": 32.72541,
+              "lng": -97.32085,
+              "name": "Fort Worth"
+            },
+            "geonames_id": 4691930
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Texas A&M University School of Law"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Texas Wesleyan University School of Law"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Texas A&M University",
+            "type": "parent",
+            "id": "https://ror.org/01f5ytq51"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-02-13",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1914,
+        "external_ids": [
+          {
+            "all": [
+              "100011486"
+            ],
+            "preferred": "100011486",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "Q7707662"
+            ],
+            "preferred": "Q7707662",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03p8qrw52",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://tees.tamu.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Texas_A%26M_Engineering_Experiment_Station"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TX",
+              "country_subdivision_name": "Texas",
+              "lat": 30.67436,
+              "lng": -96.36996,
+              "name": "Bryan"
+            },
+            "geonames_id": 4677008
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TEES"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Texas A and M Engineering Experiment Station"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Texas A&M Engineering Experiment Station"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Texas Engineering Experiment Station"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Texas A&M University",
+            "type": "parent",
+            "id": "https://ror.org/01f5ytq51"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1999,
+        "external_ids": [
+          {
+            "all": [
+              "100013991",
+              "100023887"
+            ],
+            "preferred": "100013991",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412408.b"
+            ],
+            "preferred": "grid.412408.b",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/01tx6pn92",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://tamhsc.edu/campuses/college-station/index.html"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Texas_A%26M_Health_Science_Center"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TX",
+              "country_subdivision_name": "Texas",
+              "lat": 30.62798,
+              "lng": -96.33441,
+              "name": "College Station"
+            },
+            "geonames_id": 4682464
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Texas A&M Health Science Center"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Texas A&M University",
+            "type": "parent",
+            "id": "https://ror.org/01f5ytq51"
+          },
+          {
+            "label": "Baylor Scott & White Medical Center - Temple",
+            "type": "related",
+            "id": "https://ror.org/017cm6884"
+          },
+          {
+            "label": "Scott & White Memorial Hospital",
+            "type": "related",
+            "id": "https://ror.org/02ge60j37"
+          },
+          {
+            "label": "Carl R. Darnall Army Medical Center",
+            "type": "related",
+            "id": "https://ror.org/02zda6x08"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1980,
+        "external_ids": [
+          {
+            "all": [
+              "grid.426888.8"
+            ],
+            "preferred": "grid.426888.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q30285811"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03nx3a052",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.matson-associates.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "PA",
+              "country_subdivision_name": "Pennsylvania",
+              "lat": 40.79339,
+              "lng": -77.86,
+              "name": "State College"
+            },
+            "geonames_id": 5213681
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "M&A"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Matson & Associates"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "famu.edu"
+        ],
+        "established": 1887,
+        "external_ids": [
+          {
+            "all": [
+              "100016743"
+            ],
+            "preferred": "100016743",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.255948.7"
+            ],
+            "preferred": "grid.255948.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2214 9445"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1430048"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00c4wc133",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.famu.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Florida_A%26M_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "FL",
+              "country_subdivision_name": "Florida",
+              "lat": 30.43826,
+              "lng": -84.28073,
+              "name": "Tallahassee"
+            },
+            "geonames_id": 4174715
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "FAMU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Florida A&M University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Florida Agricultural and Mechanical University"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Agrónoma y Mecánica de Florida"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Florida A&M University - Florida State University College of Engineering",
+            "type": "child",
+            "id": "https://ror.org/01v4tq883"
+          },
+          {
+            "label": "State University System of Florida",
+            "type": "parent",
+            "id": "https://ror.org/05sqd3t97"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "aamu.edu"
+        ],
+        "established": 1875,
+        "external_ids": [
+          {
+            "all": [
+              "grid.251973.b"
+            ],
+            "preferred": "grid.251973.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2151 1959"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1551044"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05hz8m414",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.aamu.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Alabama_Agricultural_and_Mechanical_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "AL",
+              "country_subdivision_name": "Alabama",
+              "lat": 34.7304,
+              "lng": -86.58594,
+              "name": "Huntsville"
+            },
+            "geonames_id": 4068590
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "AAMU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Alabama A&M University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Alabama Agricultural and Mechanical University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 13026
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 4406
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 1319
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 530
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 348
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 206
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 194
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 151
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 61
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 2326
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 1590
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 1020
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 877
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 469
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 459
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 446
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 397
+        },
+        {
+          "id": "ph",
+          "title": "Philippines",
+          "count": 384
+        },
+        {
+          "id": "ir",
+          "title": "Iran",
+          "count": 354
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 7506
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 3600
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 2868
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1166
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 585
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 110
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 15834
+        }
+      ]
+    }
+  }
+}

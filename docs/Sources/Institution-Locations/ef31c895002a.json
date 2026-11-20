@@ -1,0 +1,2099 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Polytechnic+University+of+Bucharest",
+  "http_status": 200,
+  "query": "Polytechnic University of Bucharest",
+  "data": {
+    "number_of_results": 35758,
+    "time_taken": 42,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "upb.ro"
+        ],
+        "established": 1864,
+        "external_ids": [
+          {
+            "all": [
+              "501100016221"
+            ],
+            "preferred": "501100016221",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.4551.5"
+            ],
+            "preferred": "grid.4551.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2109 901X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1465448"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0558j5q12",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://upb.ro"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Politehnica_University_of_Bucharest"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "RO",
+              "country_name": "Romania",
+              "country_subdivision_code": "B",
+              "country_subdivision_name": "București",
+              "lat": 44.43225,
+              "lng": 26.10626,
+              "name": "Bucharest"
+            },
+            "geonames_id": 683506
+          }
+        ],
+        "names": [
+          {
+            "lang": "ro",
+            "types": [
+              "label"
+            ],
+            "value": "POLITEHNICA București"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Polytechnic University of Bucharest"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Polytehnica University of Bucharest"
+          },
+          {
+            "lang": "ro",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Universitatea Națională de Știință și Tehnologie Politehnica București"
+          },
+          {
+            "lang": "ro",
+            "types": [
+              "alias"
+            ],
+            "value": "Universitatea Politehnica din București"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-06-02",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "unibuc.ro"
+        ],
+        "established": 1864,
+        "external_ids": [
+          {
+            "all": [
+              "501100007336",
+              "501100020828"
+            ],
+            "preferred": "501100007336",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.5100.4"
+            ],
+            "preferred": "grid.5100.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2322 497X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q608338"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02x2v6p15",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://unibuc.ro"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Bucharest"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "RO",
+              "country_name": "Romania",
+              "country_subdivision_code": "B",
+              "country_subdivision_name": "București",
+              "lat": 44.43225,
+              "lng": 26.10626,
+              "name": "Bucharest"
+            },
+            "geonames_id": 683506
+          }
+        ],
+        "names": [
+          {
+            "lang": "hu",
+            "types": [
+              "label"
+            ],
+            "value": "Bukaresti Egyetem"
+          },
+          {
+            "lang": "ro",
+            "types": [
+              "label"
+            ],
+            "value": "Universitatea din București"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Bucharest"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-04-28",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ueb.ro"
+        ],
+        "established": 1990,
+        "external_ids": [
+          {
+            "all": [
+              "grid.445705.7"
+            ],
+            "preferred": "grid.445705.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0490 5413"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q18539937"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00g7xqw85",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ueb.ro"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "RO",
+              "country_name": "Romania",
+              "country_subdivision_code": "B",
+              "country_subdivision_name": "București",
+              "lat": 44.43225,
+              "lng": 26.10626,
+              "name": "Bucharest"
+            },
+            "geonames_id": 683506
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Ecological University of Bucharest"
+          },
+          {
+            "lang": "ro",
+            "types": [
+              "alias"
+            ],
+            "value": "Fundația Societatea \"Ateneul Român\""
+          },
+          {
+            "lang": "ro",
+            "types": [
+              "acronym"
+            ],
+            "value": "UBE"
+          },
+          {
+            "lang": "ro",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universitatea Ecologica din Bucuresti"
+          },
+          {
+            "lang": "ro",
+            "types": [
+              "label"
+            ],
+            "value": "Universitatea Ecologică Din Bucureşti"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1990,
+        "external_ids": [
+          {
+            "all": [
+              "grid.445695.f"
+            ],
+            "preferred": "grid.445695.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0561 7659"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3551380"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/051mkpe32",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://bioterra.ro/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "RO",
+              "country_name": "Romania",
+              "country_subdivision_code": "B",
+              "country_subdivision_name": "București",
+              "lat": 44.43225,
+              "lng": 26.10626,
+              "name": "Bucharest"
+            },
+            "geonames_id": 683506
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Bioterra University Bucharest"
+          },
+          {
+            "lang": "ro",
+            "types": [
+              "label"
+            ],
+            "value": "Universitatea Bioterra din București"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1864,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449371.c"
+            ],
+            "preferred": "grid.449371.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9600 5201"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1888128"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04hj33b78",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.unmb.ro/eng/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/National_University_of_Music_Bucharest"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "RO",
+              "country_name": "Romania",
+              "country_subdivision_code": "B",
+              "country_subdivision_name": "București",
+              "lat": 44.43225,
+              "lng": 26.10626,
+              "name": "Bucharest"
+            },
+            "geonames_id": 683506
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National University of Music Bucharest"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UNMB"
+          },
+          {
+            "lang": "ro",
+            "types": [
+              "label"
+            ],
+            "value": "Universitatea Națională de Muzică București"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ase.ro"
+        ],
+        "established": 1913,
+        "external_ids": [
+          {
+            "all": [
+              "grid.432032.4"
+            ],
+            "preferred": "grid.432032.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0416 9364"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1167563"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04yvncj21",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ase.ro"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Bucharest_Academy_of_Economic_Studies"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "RO",
+              "country_name": "Romania",
+              "country_subdivision_code": "B",
+              "country_subdivision_name": "București",
+              "lat": 44.43225,
+              "lng": 26.10626,
+              "name": "Bucharest"
+            },
+            "geonames_id": 683506
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ASE"
+          },
+          {
+            "lang": "ro",
+            "types": [
+              "label"
+            ],
+            "value": "Academia de Studii Economice"
+          },
+          {
+            "lang": "ro",
+            "types": [
+              "alias"
+            ],
+            "value": "Academia de Studii Economice din București"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Bucharest University of Economic Studies"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1864,
+        "external_ids": [
+          {
+            "all": [
+              "grid.445710.3"
+            ],
+            "preferred": "grid.445710.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0473 7691"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1474930"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04hkzty24",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.unarte.org"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Bucharest_National_University_of_Arts"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "RO",
+              "country_name": "Romania",
+              "country_subdivision_code": "B",
+              "country_subdivision_name": "București",
+              "lat": 44.43225,
+              "lng": 26.10626,
+              "name": "Bucharest"
+            },
+            "geonames_id": 683506
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Bucharest National University of Arts"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National University of Arts in Bucharest"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UNArte"
+          },
+          {
+            "lang": "ro",
+            "types": [
+              "label"
+            ],
+            "value": "Universitatea Națională de Arte București"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-11-21",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1978,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 4691 0747"
+            ],
+            "preferred": "0000 0004 4691 0747",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q18548906"
+            ],
+            "preferred": "Q18548906",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/051v1dy68",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.suub.ro"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://ro.wikipedia.org/wiki/Spitalul_Universitar_de_Urgen%C8%9B%C4%83_Bucure%C8%99ti"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "RO",
+              "country_name": "Romania",
+              "country_subdivision_code": "B",
+              "country_subdivision_name": "București",
+              "lat": 44.43225,
+              "lng": 26.10626,
+              "name": "Bucharest"
+            },
+            "geonames_id": 683506
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Bucharest Emergency University Hospital"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SUUB"
+          },
+          {
+            "lang": "ro",
+            "types": [
+              "label"
+            ],
+            "value": "Spitalul Universitar de Urgenta Bucuresti"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "utcb.ro"
+        ],
+        "established": 1948,
+        "external_ids": [
+          {
+            "all": [
+              "grid.438211.d"
+            ],
+            "preferred": "grid.438211.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2182 914X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q493294"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03d187f57",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://utcb.ro"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Technical_University_of_Civil_Engineering_of_Bucharest"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "RO",
+              "country_name": "Romania",
+              "country_subdivision_code": "B",
+              "country_subdivision_name": "București",
+              "lat": 44.43225,
+              "lng": 26.10626,
+              "name": "Bucharest"
+            },
+            "geonames_id": 683506
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Institute of Civil Engineering, Bucharest"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TUCEB"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Technical University of Civil Engineering of Bucharest"
+          },
+          {
+            "lang": "ro",
+            "types": [
+              "alias"
+            ],
+            "value": "Universitatea Tehnică de Construcţii din Bucureşti"
+          },
+          {
+            "lang": "ro",
+            "types": [
+              "label"
+            ],
+            "value": "Universitatea Tehnică de Construcții din București"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-03-31",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "bioresurse.ro"
+        ],
+        "established": 2000,
+        "external_ids": [
+          {
+            "all": [
+              "grid.435202.2"
+            ],
+            "preferred": "grid.435202.2",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/01q2zc414",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://bioresurse.ro"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "RO",
+              "country_name": "Romania",
+              "country_subdivision_code": "B",
+              "country_subdivision_name": "București",
+              "lat": 44.43225,
+              "lng": 26.10626,
+              "name": "Bucharest"
+            },
+            "geonames_id": 683506
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IBA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "IBA Bucharest"
+          },
+          {
+            "lang": "ro",
+            "types": [
+              "alias"
+            ],
+            "value": "IBA București"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Institute for Food Bioresources"
+          },
+          {
+            "lang": "ro",
+            "types": [
+              "label"
+            ],
+            "value": "Institutul Național de Cercetare-Dezvoltare pentru Bioresurse Alimentare‒ IBA București"
+          },
+          {
+            "lang": "ro",
+            "types": [
+              "alias"
+            ],
+            "value": "Institutul de Bioresurse Alimentare"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "National Research & Development Institute for Food Bioresources ‒ IBA Bucharest"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-09-23",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-11-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "inma.ro"
+        ],
+        "established": 1927,
+        "external_ids": [
+          {
+            "all": [
+              "grid.512683.b"
+            ],
+            "preferred": "grid.512683.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 4673 7411"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/04btch759",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://inma.ro"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "RO",
+              "country_name": "Romania",
+              "country_subdivision_code": "B",
+              "country_subdivision_name": "București",
+              "lat": 44.43225,
+              "lng": 26.10626,
+              "name": "Bucharest"
+            },
+            "geonames_id": 683506
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "INMA Bucharest"
+          },
+          {
+            "lang": "ro",
+            "types": [
+              "label"
+            ],
+            "value": "Institutul Național de Cercetare-Dezvoltare pentru Mașini și Instalații Destinate Agriculturii și Industriei Alimentare"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "The National Institute of Research – Development for Machines and Installations Designed for Agriculture and Food Industry"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-02-26",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ici.ro"
+        ],
+        "established": 1970,
+        "external_ids": [
+          {
+            "all": [
+              "grid.425271.7"
+            ],
+            "preferred": "grid.425271.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2300 5603"
+            ],
+            "preferred": "0000 0001 2300 5603",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/028rq5v79",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ici.ro"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "RO",
+              "country_name": "Romania",
+              "country_subdivision_code": "B",
+              "country_subdivision_name": "București",
+              "lat": 44.43225,
+              "lng": 26.10626,
+              "name": "Bucharest"
+            },
+            "geonames_id": 683506
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ICI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "ICI Bucharest"
+          },
+          {
+            "lang": "ro",
+            "types": [
+              "alias"
+            ],
+            "value": "ICI București"
+          },
+          {
+            "lang": "ro",
+            "types": [
+              "alias"
+            ],
+            "value": "Institutul Național de Cercetare - Dezvoltare în Informatică"
+          },
+          {
+            "lang": "ro",
+            "types": [
+              "label"
+            ],
+            "value": "Institutul Național de Cercetare - Dezvoltare în Informatică ICI București"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Institute for Research & Development in Informatics"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "National Institute for Research and Development in Informatics - ICI Bucharest"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-02-26",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-02-26",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ibiol.ro"
+        ],
+        "established": 1990,
+        "external_ids": [],
+        "id": "https://ror.org/00zsew396",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ibiol.ro"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "RO",
+              "country_name": "Romania",
+              "country_subdivision_code": "B",
+              "country_subdivision_name": "București",
+              "lat": 44.43225,
+              "lng": 26.10626,
+              "name": "Bucharest"
+            },
+            "geonames_id": 683506
+          }
+        ],
+        "names": [
+          {
+            "lang": "ro",
+            "types": [
+              "acronym"
+            ],
+            "value": "IBB"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Institute of Biology Bucharest"
+          },
+          {
+            "lang": "ro",
+            "types": [
+              "alias"
+            ],
+            "value": "Institutul de Biologie București"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2002,
+        "external_ids": [
+          {
+            "all": [
+              "grid.441079.f"
+            ],
+            "preferred": "grid.441079.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0369 4562"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6156631"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05xg5y175",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.upa.edu.mx/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "MX",
+              "country_name": "Mexico",
+              "country_subdivision_code": "AGU",
+              "country_subdivision_name": "Aguascalientes",
+              "lat": 21.88234,
+              "lng": -102.28259,
+              "name": "Aguascalientes"
+            },
+            "geonames_id": 4019233
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Polytechnic University of Aguascalientes"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UPA"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universidad Politécnica de Aguascalientes"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-10-13",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "upsin.edu.mx"
+        ],
+        "established": 2004,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 0369 5637"
+            ],
+            "preferred": "0000 0004 0369 5637",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6156647"
+            ],
+            "preferred": "Q6156647",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00mwm0e05",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.upsin.edu.mx"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://es.wikipedia.org/wiki/Universidad_Polit%C3%A9cnica_de_Sinaloa"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "MX",
+              "country_name": "Mexico",
+              "country_subdivision_code": "SIN",
+              "country_subdivision_name": "Sinaloa",
+              "lat": 23.2329,
+              "lng": -106.4062,
+              "name": "Mazatlán"
+            },
+            "geonames_id": 3996322
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Polytechnic University of Sinaloa"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "acronym"
+            ],
+            "value": "UPSIN"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Universidad Politécnica de Sinaloa"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "upct.es"
+        ],
+        "established": 1998,
+        "external_ids": [
+          {
+            "all": [
+              "501100005741"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.218430.c"
+            ],
+            "preferred": "grid.218430.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2153 2602"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6156635"
+            ],
+            "preferred": "Q6156635",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02k5kx966",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.upct.es/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Universidad_Polit%C3%A9cnica_de_Cartagena"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "ES",
+              "country_name": "Spain",
+              "country_subdivision_code": "MC",
+              "country_subdivision_name": "Murcia",
+              "lat": 37.60197,
+              "lng": -0.98397,
+              "name": "Cartagena"
+            },
+            "geonames_id": 2520058
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Polytechnic University of Cartagena"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Technical University of Cartagena"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UPCT"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universidad Politécnica de Cartagena"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-11-08",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "mubas.ac.mw"
+        ],
+        "established": 2021,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0000 9482 8570"
+            ],
+            "preferred": "0000 0000 9482 8570",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/05vatjr87",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.mubas.ac.mw"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "MW",
+              "country_name": "Malawi",
+              "country_subdivision_code": "S",
+              "country_subdivision_name": "Southern Region",
+              "lat": -15.78499,
+              "lng": 35.00854,
+              "name": "Blantyre"
+            },
+            "geonames_id": 931755
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MUBAS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Malawi Polytechnic"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Malawi University of Business and Applied Sciences"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Malawi Polytechnic"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Malawi, The Polytechnic"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1951,
+        "external_ids": [
+          {
+            "all": [
+              "grid.11477.34"
+            ],
+            "preferred": "grid.11477.34",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2234 9084"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q821042"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05aec4025",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.upt.al/index.php/en/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Polytechnic_University_of_Tirana"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "AL",
+              "country_name": "Albania",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Tirana",
+              "lat": 41.3275,
+              "lng": 19.81889,
+              "name": "Tirana"
+            },
+            "geonames_id": 3183875
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Polytechnic University of Tirana"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UPT"
+          },
+          {
+            "lang": "sq",
+            "types": [
+              "label"
+            ],
+            "value": "Universiteti Politeknik i Tiranës"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Institute of Geosciences",
+            "type": "related",
+            "id": "https://ror.org/003f21n80"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-04-06",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2018,
+        "external_ids": [
+          {
+            "all": [
+              "grid.510468.e"
+            ],
+            "preferred": "grid.510468.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0369 4415"
+            ],
+            "preferred": "0000 0004 0369 4415",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q90838680"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0580rm578",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.upq.mx/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "MX",
+              "country_name": "Mexico",
+              "country_subdivision_code": "CMX",
+              "country_subdivision_name": "Mexico City",
+              "lat": 19.42847,
+              "lng": -99.12766,
+              "name": "Mexico City"
+            },
+            "geonames_id": 3530597
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Polytechnic University of Queretaro"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UPQ"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Politécnica de Querétaro"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-02-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "polito.it"
+        ],
+        "established": 1859,
+        "external_ids": [
+          {
+            "all": [
+              "100013000"
+            ],
+            "preferred": "100013000",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.4800.c"
+            ],
+            "preferred": "grid.4800.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1937 0343"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q392897"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00bgk9508",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.polito.it"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Polytechnic_University_of_Turin"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "21",
+              "country_subdivision_name": "Piedmont",
+              "lat": 45.07049,
+              "lng": 7.68682,
+              "name": "Turin"
+            },
+            "geonames_id": 3165524
+          }
+        ],
+        "names": [
+          {
+            "lang": "it",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Politecnico di Torino"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Polytechnic University of Turin"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "École Polytechnique de Turin"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Institute for Complex Systems",
+            "type": "related",
+            "id": "https://ror.org/05rcgef49"
+          },
+          {
+            "label": "NODES S.c.a.r.l",
+            "type": "related",
+            "id": "https://ror.org/04hp1ky92"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 18097
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 9018
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 4723
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 3946
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 3552
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2256
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2030
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 771
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 408
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 6013
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 4190
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2352
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2067
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1578
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 942
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 887
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 868
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 799
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 765
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 15249
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 9641
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 7274
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 2047
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 951
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 597
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 35758
+        }
+      ]
+    }
+  }
+}

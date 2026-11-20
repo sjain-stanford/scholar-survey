@@ -1,0 +1,2295 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=University+of+Maryland%2C+College+Park",
+  "http_status": 200,
+  "query": "University of Maryland, College Park",
+  "data": {
+    "number_of_results": 40505,
+    "time_taken": 48,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "umd.edu"
+        ],
+        "established": 1856,
+        "external_ids": [
+          {
+            "all": [
+              "100006444",
+              "100009144",
+              "100004972",
+              "100007743",
+              "100008640",
+              "100008029",
+              "100008639",
+              "100016817"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.164295.d"
+            ],
+            "preferred": "grid.164295.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0941 7177"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q503415"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/047s2c258",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://umd.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Maryland,_College_Park"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Maryland",
+              "lat": 38.98067,
+              "lng": -76.93692,
+              "name": "College Park"
+            },
+            "geonames_id": 4351977
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UMD"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de Maryland"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Maryland, College Park"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université du Maryland"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Earth System Science Interdisciplinary Center",
+            "type": "child",
+            "id": "https://ror.org/042607708"
+          },
+          {
+            "label": "Joint Center for Quantum Information and Computer Science",
+            "type": "child",
+            "id": "https://ror.org/02048n894"
+          },
+          {
+            "label": "Joint Global Change Research Institute",
+            "type": "child",
+            "id": "https://ror.org/058cmd703"
+          },
+          {
+            "label": "Joint Quantum Institute",
+            "type": "child",
+            "id": "https://ror.org/04xz38214"
+          },
+          {
+            "label": "Virginia–Maryland College of Veterinary Medicine",
+            "type": "child",
+            "id": "https://ror.org/010prmy50"
+          },
+          {
+            "label": "Applied Research Laboratory for Intelligence and Security",
+            "type": "child",
+            "id": "https://ror.org/006jjam33"
+          },
+          {
+            "label": "Institute for Bioscience and Biotechnology Research",
+            "type": "child",
+            "id": "https://ror.org/02zs3hb12"
+          },
+          {
+            "label": "Maryland Quantum Materials Center",
+            "type": "child",
+            "id": "https://ror.org/01bdy0k56"
+          },
+          {
+            "label": "Cooperative Institute for Satellite Earth System Studies",
+            "type": "child",
+            "id": "https://ror.org/019r5yk13"
+          },
+          {
+            "label": "University System of Maryland",
+            "type": "parent",
+            "id": "https://ror.org/01r0c1p88"
+          },
+          {
+            "label": "Fraunhofer USA Center Mid-Atlantic CMA",
+            "type": "related",
+            "id": "https://ror.org/05sz9gw20"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1947,
+        "external_ids": [
+          {
+            "all": [
+              "grid.470043.4"
+            ],
+            "preferred": "grid.470043.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0618 3397"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/022598c22",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.europe.umuc.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Maryland_University_College"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "RP",
+              "country_subdivision_name": "Rheinland-Pfalz",
+              "lat": 49.443,
+              "lng": 7.77161,
+              "name": "Kaiserslautern"
+            },
+            "geonames_id": 2894003
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UMUC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "UMUC Europe"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Maryland University College Europe"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1958,
+        "external_ids": [
+          {
+            "all": [
+              "grid.433035.2"
+            ],
+            "preferred": "grid.433035.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9882 0621"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5146839"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03tkh4446",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.csmd.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/College_of_Southern_Maryland"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Maryland",
+              "lat": 38.52929,
+              "lng": -76.97525,
+              "name": "La Plata"
+            },
+            "geonames_id": 4360103
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CSM"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Charles County Community College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "College of Southern Maryland"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1961,
+        "external_ids": [
+          {
+            "all": [
+              "grid.422304.3"
+            ],
+            "preferred": "grid.422304.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9675 689X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2837834"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02tj9h434",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.allegany.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Allegany_College_of_Maryland"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Maryland",
+              "lat": 39.65287,
+              "lng": -78.76252,
+              "name": "Cumberland"
+            },
+            "geonames_id": 4352681
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ACC"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ACM"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Allegany College of Maryland"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Allegany Community College"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1914,
+        "external_ids": [
+          {
+            "all": [
+              "100007744"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.481376.f"
+            ],
+            "preferred": "grid.481376.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 5902 9174"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30273182"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03r8q5f36",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://extension.umd.edu/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Maryland",
+              "lat": 39.29038,
+              "lng": -76.61219,
+              "name": "Baltimore"
+            },
+            "geonames_id": 4347778
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UME"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Maryland Extension"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-06-02",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "usmd.edu"
+        ],
+        "established": 1988,
+        "external_ids": [
+          {
+            "all": [
+              "100008510",
+              "100001365"
+            ],
+            "preferred": "100008510",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.410443.6"
+            ],
+            "preferred": "grid.410443.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0370 3414"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1480532"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01r0c1p88",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.usmd.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_System_of_Maryland"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Maryland",
+              "lat": 39.00317,
+              "lng": -76.97192,
+              "name": "Adelphi"
+            },
+            "geonames_id": 4346991
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "USM"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University System of Maryland"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Bowie State University",
+            "type": "child",
+            "id": "https://ror.org/0567w8j84"
+          },
+          {
+            "label": "Coppin State University",
+            "type": "child",
+            "id": "https://ror.org/05exmrf24"
+          },
+          {
+            "label": "Frostburg State University",
+            "type": "child",
+            "id": "https://ror.org/048drzm61"
+          },
+          {
+            "label": "Salisbury University",
+            "type": "child",
+            "id": "https://ror.org/029gwvs11"
+          },
+          {
+            "label": "Towson University",
+            "type": "child",
+            "id": "https://ror.org/044w7a341"
+          },
+          {
+            "label": "Universities at Shady Grove",
+            "type": "child",
+            "id": "https://ror.org/00yfjng44"
+          },
+          {
+            "label": "University of Baltimore",
+            "type": "child",
+            "id": "https://ror.org/024gw2733"
+          },
+          {
+            "label": "University of Maryland Center for Environmental Science",
+            "type": "child",
+            "id": "https://ror.org/04dqdxm60"
+          },
+          {
+            "label": "University of Maryland Eastern Shore",
+            "type": "child",
+            "id": "https://ror.org/006cymg18"
+          },
+          {
+            "label": "University of Maryland Global Campus",
+            "type": "child",
+            "id": "https://ror.org/01w1pbe36"
+          },
+          {
+            "label": "University of Maryland, Baltimore",
+            "type": "child",
+            "id": "https://ror.org/04rq5mt64"
+          },
+          {
+            "label": "University of Maryland, Baltimore County",
+            "type": "child",
+            "id": "https://ror.org/02qskvh78"
+          },
+          {
+            "label": "University of Maryland, College Park",
+            "type": "child",
+            "id": "https://ror.org/047s2c258"
+          },
+          {
+            "label": "Maryland Sea Grant",
+            "type": "child",
+            "id": "https://ror.org/03db51w68"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "umaryland.edu"
+        ],
+        "established": 1807,
+        "external_ids": [
+          {
+            "all": [
+              "100010393",
+              "100012889",
+              "100019823"
+            ],
+            "preferred": "100019823",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.411024.2"
+            ],
+            "preferred": "grid.411024.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2175 4264"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4119470"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04rq5mt64",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.umaryland.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Maryland,_Baltimore"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Maryland",
+              "lat": 39.29038,
+              "lng": -76.61219,
+              "name": "Baltimore"
+            },
+            "geonames_id": 4347778
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UMAB"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UMB"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Maryland, Baltimore"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Institute for Bioscience and Biotechnology Research",
+            "type": "child",
+            "id": "https://ror.org/02zs3hb12"
+          },
+          {
+            "label": "University System of Maryland",
+            "type": "parent",
+            "id": "https://ror.org/01r0c1p88"
+          },
+          {
+            "label": "Institute of Human Virology",
+            "type": "related",
+            "id": "https://ror.org/02e66xy22"
+          },
+          {
+            "label": "University of Maryland Medical Center",
+            "type": "related",
+            "id": "https://ror.org/00sde4n60"
+          },
+          {
+            "label": "VA Maryland Health Care System",
+            "type": "related",
+            "id": "https://ror.org/05ax3zh38"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "mcdaniel.edu"
+        ],
+        "established": 1867,
+        "external_ids": [
+          {
+            "all": [
+              "grid.419626.e"
+            ],
+            "preferred": "grid.419626.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9554 3024"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6800835"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01zc5h177",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.mcdaniel.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/McDaniel_College"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Maryland",
+              "lat": 39.57538,
+              "lng": -76.99581,
+              "name": "Westminster"
+            },
+            "geonames_id": 4373238
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "McDaniel College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Western Maryland College"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1840,
+        "external_ids": [
+          {
+            "all": [
+              "grid.422521.2"
+            ],
+            "preferred": "grid.422521.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0227 8514"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7590249"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01y2d1w05",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.smcm.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/St._Mary%27s_College_of_Maryland"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Maryland",
+              "lat": 38.18707,
+              "lng": -76.4344,
+              "name": "Saint Marys City"
+            },
+            "geonames_id": 4370265
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SMCM"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "St. Mary's College of Maryland"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "St. Mary's Female Seminary"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "St. Mary's Female Seminary Junior College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "St. Mary's Seminary Junior College"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "mica.edu"
+        ],
+        "established": 1826,
+        "external_ids": [
+          {
+            "all": [
+              "grid.454592.b"
+            ],
+            "preferred": "grid.454592.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2215 8544"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6781349"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/043mgze97",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.mica.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Maryland_Institute_College_of_Art"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Maryland",
+              "lat": 39.29038,
+              "lng": -76.61219,
+              "name": "Baltimore"
+            },
+            "geonames_id": 4347778
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MICA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Maryland Institute College of Art"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Maryland Institute for the Promotion of the Mechanic Arts"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1873,
+        "external_ids": [
+          {
+            "all": [
+              "grid.421318.d"
+            ],
+            "preferred": "grid.421318.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0373 6371"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7063504"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00dncgb07",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ndm.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Notre_Dame_of_Maryland_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Maryland",
+              "lat": 39.29038,
+              "lng": -76.61219,
+              "name": "Baltimore"
+            },
+            "geonames_id": 4347778
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "College of Notre Dame of Maryland"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Notre Dame of Maryland University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "loyola.edu"
+        ],
+        "established": 1852,
+        "external_ids": [
+          {
+            "all": [
+              "grid.259262.8"
+            ],
+            "preferred": "grid.259262.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 1014 2318"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5399470"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01by1wp65",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.loyola.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Loyola_University_Maryland"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Maryland",
+              "lat": 39.29038,
+              "lng": -76.61219,
+              "name": "Baltimore"
+            },
+            "geonames_id": 4347778
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Loyola University Maryland"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad Loyola Maryland"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "park.edu"
+        ],
+        "established": 1875,
+        "external_ids": [
+          {
+            "all": [
+              "grid.261709.b"
+            ],
+            "preferred": "grid.261709.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9430 9869"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4568903"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04ngpga37",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.park.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Park_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MO",
+              "country_subdivision_name": "Missouri",
+              "lat": 39.195,
+              "lng": -94.68218,
+              "name": "Parkville"
+            },
+            "geonames_id": 4402544
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Park University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1974,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449105.d"
+            ],
+            "preferred": "grid.449105.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0027 0535"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q14692174"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01nvm2856",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.muih.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Maryland_University_of_Integrative_Health"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Maryland",
+              "lat": 39.09928,
+              "lng": -76.84831,
+              "name": "Laurel"
+            },
+            "geonames_id": 4360369
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MIUH"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Maryland University of Integrative Health"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Tai Sophia Institute"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1947,
+        "external_ids": [
+          {
+            "all": [
+              "grid.410551.4"
+            ],
+            "preferred": "grid.410551.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0625 646X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q14692455"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01w1pbe36",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.umuc.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Maryland_University_College"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Maryland",
+              "lat": 39.00317,
+              "lng": -76.97192,
+              "name": "Adelphi"
+            },
+            "geonames_id": 4346991
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UMGC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Maryland Global Campus"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University System of Maryland",
+            "type": "parent",
+            "id": "https://ror.org/01r0c1p88"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "umbc.edu"
+        ],
+        "established": 1966,
+        "external_ids": [
+          {
+            "all": [
+              "100006636"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.266673.0"
+            ],
+            "preferred": "grid.266673.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2177 1144"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q735049"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02qskvh78",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://umbc.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Maryland,_Baltimore_County"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Maryland",
+              "lat": 39.29038,
+              "lng": -76.61219,
+              "name": "Baltimore"
+            },
+            "geonames_id": 4347778
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UMBC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Maryland, Baltimore County"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université du maryland, comté de baltimore"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University System of Maryland",
+            "type": "parent",
+            "id": "https://ror.org/01r0c1p88"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "umes.edu"
+        ],
+        "established": 1886,
+        "external_ids": [
+          {
+            "all": [
+              "100020184"
+            ],
+            "preferred": "100020184",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.266678.b"
+            ],
+            "preferred": "grid.266678.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2198 1096"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q49089"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/006cymg18",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://wwwcp.umes.edu"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Maryland_Eastern_Shore"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Maryland",
+              "lat": 38.2029,
+              "lng": -75.69243,
+              "name": "Princess Anne"
+            },
+            "geonames_id": 4366176
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UMES"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Universidad de Costa Este de Maryland"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Maryland Eastern Shore"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University System of Maryland",
+            "type": "parent",
+            "id": "https://ror.org/01r0c1p88"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1994,
+        "external_ids": [
+          {
+            "all": [
+              "grid.413038.d"
+            ],
+            "preferred": "grid.413038.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9888 0763"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7895692"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04fkqna53",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://umms.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Maryland_Medical_System"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Maryland",
+              "lat": 39.29038,
+              "lng": -76.61219,
+              "name": "Baltimore"
+            },
+            "geonames_id": 4347778
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UMMS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Maryland Medical System"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Mt. Washington Pediatric Hospital",
+            "type": "child",
+            "id": "https://ror.org/01h2p4517"
+          },
+          {
+            "label": "St. Joseph Medical Center",
+            "type": "child",
+            "id": "https://ror.org/052vt9742"
+          },
+          {
+            "label": "University of Maryland Baltimore Washington Medical Center",
+            "type": "child",
+            "id": "https://ror.org/00jyqx898"
+          },
+          {
+            "label": "University of Maryland Charles Regional Medical Center",
+            "type": "child",
+            "id": "https://ror.org/00hncq557"
+          },
+          {
+            "label": "University of Maryland Medical Center",
+            "type": "child",
+            "id": "https://ror.org/00sde4n60"
+          },
+          {
+            "label": "University of Maryland Medical Center Midtown Campus",
+            "type": "child",
+            "id": "https://ror.org/03k0fhh26"
+          },
+          {
+            "label": "University of Maryland Rehabilitation & Orthopaedic Institute",
+            "type": "child",
+            "id": "https://ror.org/01041e172"
+          },
+          {
+            "label": "University of Maryland Upper Chesapeake Health",
+            "type": "child",
+            "id": "https://ror.org/028658z74"
+          },
+          {
+            "label": "University of Maryland Marlene and Stewart Greenebaum Comprehensive Cancer Center",
+            "type": "child",
+            "id": "https://ror.org/01vft3j45"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2023-12-20",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "100018233"
+            ],
+            "preferred": "100018233",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "0000 0004 0376 1227"
+            ],
+            "preferred": "0000 0004 0376 1227",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7895688"
+            ],
+            "preferred": "Q7895688",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01vft3j45",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.umms.org/umgccc"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Maryland_Marlene_and_Stewart_Greenebaum_Comprehensive_Cancer_Center"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Maryland",
+              "lat": 39.29038,
+              "lng": -76.61219,
+              "name": "Baltimore"
+            },
+            "geonames_id": 4347778
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Marlene and Stewart Greenebaum Cancer Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Marlene and Stewart Greenebaum Comprehensive Cancer Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Maryland Cancer Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Maryland Comprehensive Cancer Center"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Maryland Marlene and Stewart Greenebaum Comprehensive Cancer Center"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Maryland Medical System",
+            "type": "parent",
+            "id": "https://ror.org/04fkqna53"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "umm.edu"
+        ],
+        "established": 1823,
+        "external_ids": [
+          {
+            "all": [
+              "grid.413036.3"
+            ],
+            "preferred": "grid.413036.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0434 0002"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q14692453"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00sde4n60",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://umm.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Maryland_Medical_Center"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MD",
+              "country_subdivision_name": "Maryland",
+              "lat": 39.29038,
+              "lng": -76.61219,
+              "name": "Baltimore"
+            },
+            "geonames_id": 4347778
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UMMC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Maryland Medical Center"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "University of Maryland Medical System",
+            "type": "parent",
+            "id": "https://ror.org/04fkqna53"
+          },
+          {
+            "label": "Saint Agnes Hospital",
+            "type": "related",
+            "id": "https://ror.org/0011azt19"
+          },
+          {
+            "label": "St. Joseph Medical Center",
+            "type": "related",
+            "id": "https://ror.org/052vt9742"
+          },
+          {
+            "label": "University of Maryland, Baltimore",
+            "type": "related",
+            "id": "https://ror.org/04rq5mt64"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 22335
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 9192
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 4746
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 3996
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 3627
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 2421
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2070
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 913
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 425
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 7622
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 5116
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2739
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2628
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1591
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 1186
+        },
+        {
+          "id": "ca",
+          "title": "Canada",
+          "count": 899
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 885
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 878
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 811
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 17780
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 10068
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 9045
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 2028
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 954
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 631
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 40505
+        }
+      ]
+    }
+  }
+}

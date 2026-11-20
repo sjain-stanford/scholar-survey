@@ -1,0 +1,89 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cluster": "15603330627913573519",
+    "hl": "en",
+    "no_cache": "true"
+  },
+  "accessed_at_utc": "2026-11-20T12:58:41.662441+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6b004400d757f3af471d4284",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/_nPN6IQ8ldMQbYB0k7cKa0HBqJD6M40Z8O1IAOqDe4U/6b004400d757f3af471d4284.json",
+      "markdown_endpoint": "https://serpapi.com/searches/_nPN6IQ8ldMQbYB0k7cKa0HBqJD6M40Z8O1IAOqDe4U/6b004400d757f3af471d4284.md",
+      "created_at": "2026-11-20 12:58:40 UTC",
+      "processed_at": "2026-11-20 12:58:40 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cluster=15603330627913573519&hl=en",
+      "raw_html_file": "https://serpapi.com/searches/_nPN6IQ8ldMQbYB0k7cKa0HBqJD6M40Z8O1IAOqDe4U/6b004400d757f3af471d4284.html",
+      "total_time_taken": 2.18
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cluster": "15603330627913573519",
+      "hl": "en"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 1,
+      "time_taken_displayed": 0.02
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "A reduced-precision network for image reconstruction",
+        "result_id": "j-TCPYkqitgJ",
+        "link": "https://dl.acm.org/doi/abs/10.1145/3414685.3417786",
+        "snippet": "Neural networks are often quantized to use reduced-precision arithmetic, as it greatly improves their storage and computational costs. This approach is commonly used in image …",
+        "publication_info": {
+          "summary": "MM Thomas, K Vaidyanathan, G Liktor… - ACM Transactions on …, 2020 - dl.acm.org",
+          "authors": [
+            {
+              "name": "MM Thomas",
+              "link": "https://scholar.google.com/citations?user=XuNieGkAAAAJ&hl=en&oi=sra",
+              "author_id": "XuNieGkAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=XuNieGkAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "K Vaidyanathan",
+              "link": "https://scholar.google.com/citations?user=tXl7N6sAAAAJ&hl=en&oi=sra",
+              "author_id": "tXl7N6sAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=tXl7N6sAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "G Liktor",
+              "link": "https://scholar.google.com/citations?user=h4WjImsAAAAJ&hl=en&oi=sra",
+              "author_id": "h4WjImsAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=h4WjImsAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "acm.org",
+            "file_format": "PDF",
+            "link": "https://dl.acm.org/doi/pdf/10.1145/3414685.3417786"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=j-TCPYkqitgJ",
+          "cited_by": {
+            "total": 41,
+            "link": "https://scholar.google.com/scholar?cites=15603330627913573519&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "15603330627913573519",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=15603330627913573519&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:j-TCPYkqitgJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=15603330627913573519&engine=google_scholar&hl=en&q=related%3Aj-TCPYkqitgJ%3Ascholar.google.com%2F"
+        }
+      }
+    ]
+  }
+}

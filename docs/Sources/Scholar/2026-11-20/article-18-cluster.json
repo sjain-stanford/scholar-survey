@@ -1,0 +1,114 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cluster": "3269278865430026974",
+    "hl": "en",
+    "no_cache": "true"
+  },
+  "accessed_at_utc": "2026-11-20T12:59:30.599345+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6b0044312ed1230badc9e541",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/3M39fOqDuBVhwGkL2vYOp1bxtiL103rOhpVumRV3HN4/6b0044312ed1230badc9e541.json",
+      "markdown_endpoint": "https://serpapi.com/searches/3M39fOqDuBVhwGkL2vYOp1bxtiL103rOhpVumRV3HN4/6b0044312ed1230badc9e541.md",
+      "created_at": "2026-11-20 12:59:29 UTC",
+      "processed_at": "2026-11-20 12:59:29 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cluster=3269278865430026974&hl=en",
+      "raw_html_file": "https://serpapi.com/searches/3M39fOqDuBVhwGkL2vYOp1bxtiL103rOhpVumRV3HN4/6b0044312ed1230badc9e541.html",
+      "total_time_taken": 9.27
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cluster": "3269278865430026974",
+      "hl": "en"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 2,
+      "time_taken_displayed": 0.02
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "A white paper on neural network quantization",
+        "result_id": "3hqmhc7PXi0J",
+        "link": "https://arxiv.org/abs/2106.08295",
+        "snippet": "While neural networks have advanced the frontiers in many applications, they often come at a high computational cost. Reducing the power and latency of neural network inference is …",
+        "publication_info": {
+          "summary": "M Nagel, M Fournarakis, RA Amjad… - arXiv preprint arXiv …, 2021 - arxiv.org",
+          "authors": [
+            {
+              "name": "M Nagel",
+              "link": "https://scholar.google.com/citations?user=akNuBBEAAAAJ&hl=en&oi=sra",
+              "author_id": "akNuBBEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=akNuBBEAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "M Fournarakis",
+              "link": "https://scholar.google.com/citations?user=88lx8EEAAAAJ&hl=en&oi=sra",
+              "author_id": "88lx8EEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=88lx8EEAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "RA Amjad",
+              "link": "https://scholar.google.com/citations?user=_51RoykAAAAJ&hl=en&oi=sra",
+              "author_id": "_51RoykAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_51RoykAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2106.08295"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=3hqmhc7PXi0J",
+          "cited_by": {
+            "total": 1449,
+            "link": "https://scholar.google.com/scholar?cites=3269278865430026974&as_sdt=40005&sciodt=0,10&hl=en",
+            "cites_id": "3269278865430026974",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=3269278865430026974&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:3hqmhc7PXi0J:scholar.google.com/&scioq=&hl=en&as_sdt=0,10",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C10&cluster=3269278865430026974&engine=google_scholar&hl=en&q=related%3A3hqmhc7PXi0J%3Ascholar.google.com%2F",
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:3hqmhc7PXi0J:scholar.google.com/&hl=en&as_sdt=0,10"
+        }
+      },
+      {
+        "position": 2,
+        "title": "A White Paper on Neural Network Quantization",
+        "result_id": "eaBfM_m8G1kJ",
+        "link": "https://ui.adsabs.harvard.edu/abs/2021arXiv210608295N/abstract",
+        "snippet": "While neural networks have advanced the frontiers in many applications, they often come at a high computational cost. Reducing the power and latency of neural network inference is …",
+        "publication_info": {
+          "summary": "M Nagel, M Fournarakis, RA Amjad… - arXiv e …, 2021 - ui.adsabs.harvard.edu",
+          "authors": [
+            {
+              "name": "M Nagel"
+            },
+            {
+              "name": "M Fournarakis"
+            },
+            {
+              "name": "RA Amjad"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=eaBfM_m8G1kJ"
+        }
+      }
+    ]
+  }
+}

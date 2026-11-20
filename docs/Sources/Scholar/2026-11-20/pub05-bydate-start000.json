@@ -1,0 +1,103 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cites": "11063097314330123367",
+    "hl": "en",
+    "num": 20,
+    "scisbd": 1,
+    "no_cache": "true"
+  },
+  "accessed_at_utc": "2026-11-20T13:01:33.076315+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6b0044ac074be2bb566b0892",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/NmhgqUpBIE74TslZOP6xRwCUZar7Loppn8eMptgUaEY/6b0044ac074be2bb566b0892.json",
+      "markdown_endpoint": "https://serpapi.com/searches/NmhgqUpBIE74TslZOP6xRwCUZar7Loppn8eMptgUaEY/6b0044ac074be2bb566b0892.md",
+      "created_at": "2026-11-20 13:01:32 UTC",
+      "processed_at": "2026-11-20 13:01:32 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cites=11063097314330123367&hl=en&num=21&scisbd=1&scipsc=1",
+      "raw_html_file": "https://serpapi.com/searches/NmhgqUpBIE74TslZOP6xRwCUZar7Loppn8eMptgUaEY/6b0044ac074be2bb566b0892.html",
+      "total_time_taken": 3.73
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cites": "11063097314330123367",
+      "hl": "en",
+      "num": "20",
+      "scisbd": "1"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 1,
+      "time_taken_displayed": 0.06
+    },
+    "citations_per_year": [
+      {
+        "year": 2020,
+        "citations": 4
+      },
+      {
+        "year": 2022,
+        "citations": 3
+      },
+      {
+        "year": 2023,
+        "citations": 3
+      },
+      {
+        "year": 2024,
+        "citations": 2
+      },
+      {
+        "year": 2025,
+        "citations": 1
+      },
+      {
+        "year": 2026,
+        "citations": 1
+      }
+    ],
+    "profiles": {
+      "link": "https://scholar.google.com/scholar?cluster=11063097314330123367&hl=en&scisbd=1&num=20&as_sdt=5,33&sciodt=0,33",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Physical Design Automation for Next Generation ICs: Graph and Machine Learning based Approaches",
+        "result_id": "M-R_liHrcIwJ",
+        "link": "https://digitalcommons.isical.ac.in/doctoral-theses/681/",
+        "snippet": "44 days ago - Integrated Circuit (IC) technology has progressed significantly over the last six decades, culminating in billions of transistors on a chip. The widely used 193 nm immersion …",
+        "publication_info": {
+          "summary": "DK Saha - 2026 - digitalcommons.isical.ac.in",
+          "authors": [
+            {
+              "name": "DK Saha"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "isical.ac.in",
+            "file_format": "PDF",
+            "link": "https://digitalcommons.isical.ac.in/cgi/viewcontent.cgi?article=1680&context=doctoral-theses"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=M-R_liHrcIwJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:M-R_liHrcIwJ:scholar.google.com/&scioq=&hl=en&scisbd=1&num=20&as_sdt=5,33&sciodt=0,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=11063097314330123367&engine=google_scholar&hl=en&num=20&q=related%3AM-R_liHrcIwJ%3Ascholar.google.com%2F&scisbd=1",
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:M-R_liHrcIwJ:scholar.google.com/&hl=en&scisbd=1&num=20&as_sdt=5,33&sciodt=0,33"
+        }
+      }
+    ]
+  }
+}

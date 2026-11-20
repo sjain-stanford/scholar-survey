@@ -1,0 +1,219 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cluster": "5633834556680840327",
+    "hl": "en",
+    "no_cache": "true"
+  },
+  "accessed_at_utc": "2026-11-20T12:59:25.310082+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6b00442ca5b116019b7d929c",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/oheYrz5PNC1NFRAdxppp6cyDvUVluzz3kHuPOvTi0XY/6b00442ca5b116019b7d929c.json",
+      "markdown_endpoint": "https://serpapi.com/searches/oheYrz5PNC1NFRAdxppp6cyDvUVluzz3kHuPOvTi0XY/6b00442ca5b116019b7d929c.md",
+      "created_at": "2026-11-20 12:59:24 UTC",
+      "processed_at": "2026-11-20 12:59:24 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cluster=5633834556680840327&hl=en",
+      "raw_html_file": "https://serpapi.com/searches/oheYrz5PNC1NFRAdxppp6cyDvUVluzz3kHuPOvTi0XY/6b00442ca5b116019b7d929c.html",
+      "total_time_taken": 1.18
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cluster": "5633834556680840327",
+      "hl": "en"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 5,
+      "time_taken_displayed": 0.01
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "FELIX: A ferroelectric FET based low power mixed-signal in-memory architecture for DNN acceleration",
+        "result_id": "hyRIEq5mL04J",
+        "link": "https://dl.acm.org/doi/abs/10.1145/3529760",
+        "snippet": "Today, a large number of applications depend on deep neural networks (DNN) to process data and perform complicated tasks at restricted power and latency specifications …",
+        "publication_info": {
+          "summary": "T Soliman, N Laleni, T Kirchner, F Müller… - ACM Transactions on …, 2022 - dl.acm.org",
+          "authors": [
+            {
+              "name": "T Soliman",
+              "link": "https://scholar.google.com/citations?user=DzmmUyIAAAAJ&hl=en&oi=sra",
+              "author_id": "DzmmUyIAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=DzmmUyIAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "N Laleni"
+            },
+            {
+              "name": "T Kirchner"
+            },
+            {
+              "name": "F Müller",
+              "link": "https://scholar.google.com/citations?user=SRJ4JIgAAAAJ&hl=en&oi=sra",
+              "author_id": "SRJ4JIgAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=SRJ4JIgAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "acm.org",
+            "file_format": "PDF",
+            "link": "https://dl.acm.org/doi/pdf/10.1145/3529760"
+          },
+          {
+            "title": "Full View",
+            "link": "https://scholar.google.com/scholar?output=instlink&q=info:hyRIEq5mL04J:scholar.google.com/&hl=en&as_sdt=0,33&scillfp=3222837399401240919&oi=lle"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=hyRIEq5mL04J",
+          "cited_by": {
+            "total": 52,
+            "link": "https://scholar.google.com/scholar?cites=5633834556680840327&as_sdt=5,33&sciodt=0,33&hl=en",
+            "cites_id": "5633834556680840327",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=5633834556680840327&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:hyRIEq5mL04J:scholar.google.com/&scioq=&hl=en&as_sdt=0,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=5633834556680840327&engine=google_scholar&hl=en&q=related%3AhyRIEq5mL04J%3Ascholar.google.com%2F"
+        }
+      },
+      {
+        "position": 2,
+        "title": "FELIX: A Ferroelectric FET Based Low Power Mixed-Signal In-Memory Architecture for DNN Acceleration",
+        "result_id": "tsDHSph7mxQJ",
+        "type": "Citation",
+        "link": "https://biblio.ub.rptu.de/frontdoor/index/index/docId/4136",
+        "snippet": "FELIX: A Ferroelectric FET Based Low Power Mixed-Signal In-Memory Architecture for DNN Acceleration RPTU University Library Deutsch Home Search Browse Publish FAQ FELIX: A …",
+        "publication_info": {
+          "summary": "T Soliman, N Laleni, T Kirchner, F Müller, A Shrivastava… - 2022 - biblio.ub.rptu.de",
+          "authors": [
+            {
+              "name": "T Soliman"
+            },
+            {
+              "name": "N Laleni"
+            },
+            {
+              "name": "T Kirchner"
+            },
+            {
+              "name": "F Müller"
+            },
+            {
+              "name": "A Shrivastava"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=tsDHSph7mxQJ"
+        }
+      },
+      {
+        "position": 3,
+        "title": "FELIX: A Ferroelectric FET Based Low Power Mixed-Signal In-Memory Architecture for DNN Acceleration",
+        "result_id": "najTMUcWmD4J",
+        "type": "Citation",
+        "link": "https://biblio-ipv4.ub.rptu.de/frontdoor/index/index/year/2022/docId/4136",
+        "snippet": "FELIX: A Ferroelectric FET Based Low Power Mixed-Signal In-Memory Architecture for DNN Acceleration RPTU University Library Deutsch Home Search Browse Publish FAQ FELIX: A …",
+        "publication_info": {
+          "summary": "T Soliman, N Laleni, T Kirchner, F Müller, A Shrivastava… - 2022 - biblio-ipv4.ub.rptu.de",
+          "authors": [
+            {
+              "name": "T Soliman"
+            },
+            {
+              "name": "N Laleni"
+            },
+            {
+              "name": "T Kirchner"
+            },
+            {
+              "name": "F Müller"
+            },
+            {
+              "name": "A Shrivastava"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=najTMUcWmD4J"
+        }
+      },
+      {
+        "position": 4,
+        "title": "FELIX: A Ferroelectric FET Based Low Power Mixed-Signal In-Memory Architecture for DNN Acceleration",
+        "result_id": "Pcg7XgsqAUEJ",
+        "type": "Pdf",
+        "link": "https://www.researchgate.net/profile/Thomas-Kaempfe/publication/359852734_FELIX_A_Ferroelectric_FET_Based_Low_Power_Mixed-Signal_In-Memory_Architecture_for_DNN_Acceleration/links/635031ac12cbac6a3eda7bb5/FELIX-A-Ferroelectric-FET-Based-Low-Power-Mixed-Signal-In-Memory-Architecture-for-DNN-Acceleration.pdf",
+        "snippet": "In recent years, Deep Neural Networks (DNNs) have made a huge leap in various complex tasks such as image recognition and natural language processing. However, these networks …",
+        "publication_info": {
+          "summary": "T SOLIMAN, N LALENI, T KIRCHNER, F MÜLLER… - 2022 - researchgate.net",
+          "authors": [
+            {
+              "name": "T SOLIMAN"
+            },
+            {
+              "name": "N LALENI"
+            },
+            {
+              "name": "T KIRCHNER"
+            },
+            {
+              "name": "F MÜLLER"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "researchgate.net",
+            "file_format": "PDF",
+            "link": "https://www.researchgate.net/profile/Thomas-Kaempfe/publication/359852734_FELIX_A_Ferroelectric_FET_Based_Low_Power_Mixed-Signal_In-Memory_Architecture_for_DNN_Acceleration/links/635031ac12cbac6a3eda7bb5/FELIX-A-Ferroelectric-FET-Based-Low-Power-Mixed-Signal-In-Memory-Architecture-for-DNN-Acceleration.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Pcg7XgsqAUEJ"
+        }
+      },
+      {
+        "position": 5,
+        "title": "FELIX: A Ferroelectric FET Based Low Power Mixed-Signal In-Memory Architecture for DNN Acceleration",
+        "result_id": "9A2TUrhJGcYJ",
+        "link": "https://publica.fraunhofer.de/entities/publication/d7588afb-b330-4007-9b42-d8f39fd4cfff/details",
+        "snippet": "Today, a large number of applications depend on deep neural networks (DNN) to process data and perform complicated tasks at restricted power and latency specifications …",
+        "publication_info": {
+          "summary": "T Soliman, N Laleni, T Kirchner… - ACM transactions …, 2022 - publica.fraunhofer.de",
+          "authors": [
+            {
+              "name": "T Soliman"
+            },
+            {
+              "name": "N Laleni"
+            },
+            {
+              "name": "T Kirchner"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=9A2TUrhJGcYJ"
+        }
+      }
+    ]
+  }
+}

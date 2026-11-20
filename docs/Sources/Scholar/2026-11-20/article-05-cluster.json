@@ -1,0 +1,236 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cluster": "8710219284475667501",
+    "hl": "en",
+    "no_cache": "true"
+  },
+  "accessed_at_utc": "2026-11-20T12:58:45.037049+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6b004404b69cbeab499e53d3",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/VEGbctSbr7AkXwNiu405KHecDA63S0aieD8Uf97J4Jc/6b004404b69cbeab499e53d3.json",
+      "markdown_endpoint": "https://serpapi.com/searches/VEGbctSbr7AkXwNiu405KHecDA63S0aieD8Uf97J4Jc/6b004404b69cbeab499e53d3.md",
+      "created_at": "2026-11-20 12:58:44 UTC",
+      "processed_at": "2026-11-20 12:58:44 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cluster=8710219284475667501&hl=en",
+      "raw_html_file": "https://serpapi.com/searches/VEGbctSbr7AkXwNiu405KHecDA63S0aieD8Uf97J4Jc/6b004404b69cbeab499e53d3.html",
+      "total_time_taken": 0.82
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cluster": "8710219284475667501",
+      "hl": "en"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 5,
+      "time_taken_displayed": 0.02
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Understanding and overcoming the challenges of efficient transformer quantization",
+        "result_id": "LeTtXkrq4HgJ",
+        "link": "https://aclanthology.org/2021.emnlp-main.627/",
+        "snippet": "Transformer-based architectures have become the de-facto standard models for a wide range of Natural Language Processing tasks. However, their memory footprint and high …",
+        "publication_info": {
+          "summary": "Y Bondarenko, M Nagel… - Proceedings of the 2021 …, 2021 - aclanthology.org",
+          "authors": [
+            {
+              "name": "Y Bondarenko",
+              "link": "https://scholar.google.com/citations?user=4mHNa28AAAAJ&hl=en&oi=sra",
+              "author_id": "4mHNa28AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4mHNa28AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "M Nagel",
+              "link": "https://scholar.google.com/citations?user=akNuBBEAAAAJ&hl=en&oi=sra",
+              "author_id": "akNuBBEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=akNuBBEAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "aclanthology.org",
+            "file_format": "PDF",
+            "link": "https://aclanthology.org/2021.emnlp-main.627.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=LeTtXkrq4HgJ",
+          "cited_by": {
+            "total": 283,
+            "link": "https://scholar.google.com/scholar?cites=8710219284475667501&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "8710219284475667501",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=8710219284475667501&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:LeTtXkrq4HgJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=8710219284475667501&engine=google_scholar&hl=en&q=related%3ALeTtXkrq4HgJ%3Ascholar.google.com%2F",
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:LeTtXkrq4HgJ:scholar.google.com/&hl=en&as_sdt=0,5"
+        }
+      },
+      {
+        "position": 2,
+        "title": "Understanding and Overcoming the Challenges of Efficient Transformer Quantization",
+        "result_id": "GRhYkhO3FFMJ",
+        "link": "https://ui.adsabs.harvard.edu/abs/2021arXiv210912948B/abstract",
+        "snippet": "Transformer-based architectures have become the de-facto standard models for a wide range of Natural Language Processing tasks. However, their memory footprint and high …",
+        "publication_info": {
+          "summary": "Y Bondarenko, M Nagel, T Blankevoort - arXiv e-prints, 2021 - ui.adsabs.harvard.edu",
+          "authors": [
+            {
+              "name": "Y Bondarenko"
+            },
+            {
+              "name": "M Nagel"
+            },
+            {
+              "name": "T Blankevoort"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=GRhYkhO3FFMJ"
+        }
+      },
+      {
+        "position": 3,
+        "title": "Understanding and Overcoming the Challenges of Efficient Transformer Quantization",
+        "result_id": "LeTtXkrq4HgJ",
+        "type": "Pdf",
+        "link": "https://aclanthology.org/anthology-files/anthology-files/pdf/emnlp/2021.emnlp-main.627.pdf",
+        "snippet": "Transformer-based architectures have become the de-facto standard models for a wide range of Natural Language Processing tasks. However, their memory footprint and high …",
+        "publication_info": {
+          "summary": "Y Bondarenko, M Nagel, T Blankevoort - aclanthology.org",
+          "authors": [
+            {
+              "name": "Y Bondarenko",
+              "link": "https://scholar.google.com/citations?user=4mHNa28AAAAJ&hl=en&oi=sra",
+              "author_id": "4mHNa28AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4mHNa28AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "M Nagel",
+              "link": "https://scholar.google.com/citations?user=akNuBBEAAAAJ&hl=en&oi=sra",
+              "author_id": "akNuBBEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=akNuBBEAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "T Blankevoort",
+              "link": "https://scholar.google.com/citations?user=OGEyrG8AAAAJ&hl=en&oi=sra",
+              "author_id": "OGEyrG8AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OGEyrG8AAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "aclanthology.org",
+            "file_format": "PDF",
+            "link": "https://aclanthology.org/anthology-files/anthology-files/pdf/emnlp/2021.emnlp-main.627.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=LeTtXkrq4HgJ"
+        }
+      },
+      {
+        "position": 4,
+        "title": "Understanding and Overcoming the Challenges of Efficient Transformer Quantization",
+        "result_id": "LeTtXkrq4HgJ",
+        "type": "Pdf",
+        "link": "https://scholar.archive.org/work/5qxuxiyhmndlnnfwgywzd4hilu/access/wayback/https://aclanthology.org/2021.emnlp-main.627.pdf",
+        "snippet": "Transformer-based architectures have become the de-facto standard models for a wide range of Natural Language Processing tasks. However, their memory footprint and high …",
+        "publication_info": {
+          "summary": "Y Bondarenko, M Nagel, T Blankevoort - scholar.archive.org",
+          "authors": [
+            {
+              "name": "Y Bondarenko",
+              "link": "https://scholar.google.com/citations?user=4mHNa28AAAAJ&hl=en&oi=sra",
+              "author_id": "4mHNa28AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4mHNa28AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "M Nagel",
+              "link": "https://scholar.google.com/citations?user=akNuBBEAAAAJ&hl=en&oi=sra",
+              "author_id": "akNuBBEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=akNuBBEAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "T Blankevoort",
+              "link": "https://scholar.google.com/citations?user=OGEyrG8AAAAJ&hl=en&oi=sra",
+              "author_id": "OGEyrG8AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OGEyrG8AAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "archive.org",
+            "file_format": "PDF",
+            "link": "https://scholar.archive.org/work/5qxuxiyhmndlnnfwgywzd4hilu/access/wayback/https://aclanthology.org/2021.emnlp-main.627.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=LeTtXkrq4HgJ"
+        }
+      },
+      {
+        "position": 5,
+        "title": "Understanding and Overcoming the Challenges of Efficient Transformer Quantization",
+        "result_id": "HawiXlrhz7YJ",
+        "link": "https://arxiv.org/abs/2109.12948",
+        "snippet": "Transformer-based architectures have become the de-facto standard models for a wide range of Natural Language Processing tasks. However, their memory footprint and high …",
+        "publication_info": {
+          "summary": "Y Bondarenko, M Nagel, T Blankevoort - arXiv preprint arXiv:2109.12948, 2021 - arxiv.org",
+          "authors": [
+            {
+              "name": "Y Bondarenko"
+            },
+            {
+              "name": "M Nagel"
+            },
+            {
+              "name": "T Blankevoort"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2109.12948"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=HawiXlrhz7YJ"
+        }
+      }
+    ]
+  }
+}

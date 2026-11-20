@@ -1,0 +1,100 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cites": "1087022848043546642",
+    "hl": "en",
+    "num": 20,
+    "start": 0,
+    "filter": 0,
+    "as_vis": 0,
+    "as_sdt": 7
+  },
+  "accessed_at_utc": "2026-10-07T12:39:49.270714+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63d9532a8e3cc5feff664",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/p7BscZClNmeLiU6ARyBkG8MFndD8cdTBUGQKU1XZNOo/6ac63d9532a8e3cc5feff664.json",
+      "markdown_endpoint": "https://serpapi.com/searches/p7BscZClNmeLiU6ARyBkG8MFndD8cdTBUGQKU1XZNOo/6ac63d9532a8e3cc5feff664.md",
+      "created_at": "2026-10-07 12:39:49 UTC",
+      "processed_at": "2026-10-07 12:39:49 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cites=1087022848043546642&hl=en&start=0&num=21&filter=0&as_sdt=7&as_vis=0&scipsc=1",
+      "raw_html_file": "https://serpapi.com/searches/p7BscZClNmeLiU6ARyBkG8MFndD8cdTBUGQKU1XZNOo/6ac63d9532a8e3cc5feff664.html",
+      "total_time_taken": 1.85
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cites": "1087022848043546642",
+      "hl": "en",
+      "start": 0,
+      "num": "20",
+      "filter": "0",
+      "as_sdt": "7",
+      "as_vis": "0"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 1,
+      "time_taken_displayed": 0.02
+    },
+    "citations_per_year": [
+      {
+        "year": 2025,
+        "citations": 1
+      }
+    ],
+    "profiles": {
+      "link": "https://scholar.google.com/scholar?cluster=1087022848043546642&hl=en&num=20&as_sdt=2007&sciodt=2007",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Large language models utilizing element-wise operation-fusion",
+        "result_id": "zWkcHT0MLgcJ",
+        "link": "https://patents.google.com/patent/US12346673B1/en",
+        "snippet": "2025-06-03 Assigned to AMAZON TECHNOLOGIES, INC. reassignment AMAZON TECHNOLOGIES, INC. ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR …",
+        "publication_info": {
+          "summary": "SK Gonugondla, YAO Bohan, H Qian, X Wei… - US Patent …, 2025 - Google Patents",
+          "authors": [
+            {
+              "name": "SK Gonugondla",
+              "link": "https://scholar.google.com/citations?user=F_ud9E4AAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "F_ud9E4AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=F_ud9E4AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "YAO Bohan"
+            },
+            {
+              "name": "H Qian",
+              "link": "https://scholar.google.com/citations?user=8_2Zk2QAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "8_2Zk2QAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8_2Zk2QAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "X Wei",
+              "link": "https://scholar.google.com/citations?user=2WQuF4IAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "2WQuF4IAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=2WQuF4IAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=zWkcHT0MLgcJ",
+          "cited_by": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cites=517364463815125453&as_sdt=2005&sciodt=2007&hl=en&num=20",
+            "cites_id": "517364463815125453",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=517364463815125453&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:zWkcHT0MLgcJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=1087022848043546642&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AzWkcHT0MLgcJ%3Ascholar.google.com%2F&start=0",
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:zWkcHT0MLgcJ:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007"
+        }
+      }
+    ]
+  }
+}

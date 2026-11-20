@@ -1,0 +1,2220 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Imperial+College+London",
+  "http_status": 200,
+  "query": "Imperial College London",
+  "data": {
+    "number_of_results": 8559,
+    "time_taken": 15,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "imperial.ac.uk"
+        ],
+        "established": 1907,
+        "external_ids": [
+          {
+            "all": [
+              "501100000761",
+              "501100000850",
+              "501100014534",
+              "501100022211",
+              "501100024012",
+              "501100024415"
+            ],
+            "preferred": "501100000761",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.7445.2"
+            ],
+            "preferred": "grid.7445.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2113 8111"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q189022"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/041kmwe10",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.imperial.ac.uk"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Imperial_College_London"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 51.50853,
+              "lng": -0.12574,
+              "name": "London"
+            },
+            "geonames_id": 2643743
+          }
+        ],
+        "names": [
+          {
+            "lang": "cy",
+            "types": [
+              "label"
+            ],
+            "value": "Coleg Imperial Llundain"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Imperial College London"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Imperial College of Science, Technology and Medicine"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "MRC London Institute of Medical Sciences",
+            "type": "child",
+            "id": "https://ror.org/05p1n6x86"
+          },
+          {
+            "label": "MRC Centre for Environment and Health",
+            "type": "child",
+            "id": "https://ror.org/01vw4c203"
+          },
+          {
+            "label": "John Adams Institute for Accelerator Science",
+            "type": "child",
+            "id": "https://ror.org/00wgpgb78"
+          },
+          {
+            "label": "KIOS Research and Innovation Center of Excellence",
+            "type": "child",
+            "id": "https://ror.org/037ez2r19"
+          },
+          {
+            "label": "MRC Centre of Research Excellence in Restorative Neural Dynamics",
+            "type": "child",
+            "id": "https://ror.org/01fj67v51"
+          },
+          {
+            "label": "Abraham de Moivre",
+            "type": "child",
+            "id": "https://ror.org/04ed89255"
+          },
+          {
+            "label": "Ayrton- Blériot Engineering Laboratory",
+            "type": "child",
+            "id": "https://ror.org/056v5ya86"
+          },
+          {
+            "label": "\"Antoine Lavoisier\" Multiscale Metabolism International Research Laboratory",
+            "type": "child",
+            "id": "https://ror.org/05yp6fj56"
+          },
+          {
+            "label": "Charing Cross Hospital",
+            "type": "related",
+            "id": "https://ror.org/02gcp3110"
+          },
+          {
+            "label": "Ealing Hospital",
+            "type": "related",
+            "id": "https://ror.org/05a90fj07"
+          },
+          {
+            "label": "Hammersmith Hospital",
+            "type": "related",
+            "id": "https://ror.org/05jg8yp15"
+          },
+          {
+            "label": "Harefield Hospital",
+            "type": "related",
+            "id": "https://ror.org/04fwa4t58"
+          },
+          {
+            "label": "Hillingdon Hospital",
+            "type": "related",
+            "id": "https://ror.org/00jpae132"
+          },
+          {
+            "label": "Mount Vernon Hospital",
+            "type": "related",
+            "id": "https://ror.org/04am5a125"
+          },
+          {
+            "label": "Northwick Park Hospital",
+            "type": "related",
+            "id": "https://ror.org/030j6qm79"
+          },
+          {
+            "label": "Royal Marsden Hospital",
+            "type": "related",
+            "id": "https://ror.org/034vb5t35"
+          },
+          {
+            "label": "St Mark's Hospital",
+            "type": "related",
+            "id": "https://ror.org/05am5g719"
+          },
+          {
+            "label": "St Mary's Hospital",
+            "type": "related",
+            "id": "https://ror.org/01aysdw42"
+          },
+          {
+            "label": "St Peter's Hospital",
+            "type": "related",
+            "id": "https://ror.org/0159cmf83"
+          },
+          {
+            "label": "West Middlesex University Hospital",
+            "type": "related",
+            "id": "https://ror.org/05vgg2c14"
+          },
+          {
+            "label": "The George Institute for Global Health",
+            "type": "related",
+            "id": "https://ror.org/023331s46"
+          },
+          {
+            "label": "Chelsea and Westminster Hospital NHS Foundation Trust",
+            "type": "related",
+            "id": "https://ror.org/02gd18467"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "icldc.ae"
+        ],
+        "established": 2006,
+        "external_ids": [
+          {
+            "all": [
+              "100022846"
+            ],
+            "preferred": "100022846",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.488461.7"
+            ],
+            "preferred": "grid.488461.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 4689 699X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/02jgqwc20",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://icldec.ae"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "AE",
+              "country_name": "United Arab Emirates",
+              "country_subdivision_code": "AZ",
+              "country_subdivision_name": "Abu Dhabi",
+              "lat": 24.45118,
+              "lng": 54.39696,
+              "name": "Abu Dhabi"
+            },
+            "geonames_id": 292968
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ICLDC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Imperial College London Diabetes Centre"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "imperial.edu"
+        ],
+        "established": 1962,
+        "external_ids": [
+          {
+            "all": [
+              "grid.462360.5"
+            ],
+            "preferred": "grid.462360.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1937 0298"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q14682464"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/039kas258",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.imperial.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Imperial_Valley_College"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "CA",
+              "country_subdivision_name": "California",
+              "lat": 32.84755,
+              "lng": -115.56944,
+              "name": "Imperial"
+            },
+            "geonames_id": 5359052
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IVC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Imperial Valley College"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-22",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "miu.org.mm"
+        ],
+        "established": 2006,
+        "external_ids": [
+          {
+            "all": [
+              "Q114494446"
+            ],
+            "preferred": "Q114494446",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/042tabq06",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.miu.org.mm"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MM",
+              "country_name": "Myanmar",
+              "country_subdivision_code": "06",
+              "country_subdivision_name": "Yangon",
+              "lat": 16.80528,
+              "lng": 96.15611,
+              "name": "Yangon"
+            },
+            "geonames_id": 1298824
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "MIU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Myanmar Imperial College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Myanmar Imperial University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1990,
+        "external_ids": [
+          {
+            "all": [
+              "grid.474080.f"
+            ],
+            "preferred": "grid.474080.f",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/04y96wg46",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.imperialcollege.org/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "CA",
+              "country_name": "Canada",
+              "country_subdivision_code": "ON",
+              "country_subdivision_name": "Ontario",
+              "lat": 43.65421,
+              "lng": -79.56711,
+              "name": "Etobicoke"
+            },
+            "geonames_id": 5950267
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ICT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Imperial College of Toronto"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2009,
+        "external_ids": [
+          {
+            "all": [
+              "100012912",
+              "100013842"
+            ],
+            "preferred": "100013842",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.484312.8"
+            ],
+            "preferred": "grid.484312.8",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/025zmdz23",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.imperialcharity.org.uk/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 51.50853,
+              "lng": -0.12574,
+              "name": "London"
+            },
+            "geonames_id": 2643743
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Imperial College Healthcare Charity"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.469993.8"
+            ],
+            "preferred": "grid.469993.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 5900 9069"
+            ],
+            "preferred": "0000 0004 5900 9069",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/05hgy3t19",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.northlondoncollege.co.uk/index.php/en/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 51.50853,
+              "lng": -0.12574,
+              "name": "London"
+            },
+            "geonames_id": 2643743
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NLC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "North London College"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1877,
+        "external_ids": [
+          {
+            "all": [
+              "grid.464694.d"
+            ],
+            "preferred": "grid.464694.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9671 4067"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/02gcnpr25",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.trinitycollege.com/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Trinity_College_London"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 51.50853,
+              "lng": -0.12574,
+              "name": "London"
+            },
+            "geonames_id": 2643743
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TCL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Trinity College London"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-06-19",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nelsoncollege.ac.uk"
+        ],
+        "established": 2009,
+        "external_ids": [],
+        "id": "https://ror.org/055rzsa90",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://nelsoncollege.ac.uk"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 51.57403,
+              "lng": 0.05081,
+              "name": "Redbridge"
+            },
+            "geonames_id": 11550852
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "NCL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Nelson College London"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "lstonline.ac.uk"
+        ],
+        "established": 1940,
+        "external_ids": [
+          {
+            "all": [
+              "grid.462506.3"
+            ],
+            "preferred": "grid.462506.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0710 0678"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1710482"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/045y10908",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.lstonline.ac.uk"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/London_School_of_Theology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 51.50853,
+              "lng": -0.12574,
+              "name": "London"
+            },
+            "geonames_id": 2643743
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "London Bible College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "London School of Theology"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-10-28",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "lcuck.ac.uk"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.499389.6"
+            ],
+            "preferred": "grid.499389.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0375 2443"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q59535953"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0546ajs61",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.lcuck.ac.uk/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 51.50853,
+              "lng": -0.12574,
+              "name": "London"
+            },
+            "geonames_id": 2643743
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "The London College"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UCK"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "newham.ac.uk"
+        ],
+        "established": 1985,
+        "external_ids": [
+          {
+            "all": [
+              "grid.462621.5"
+            ],
+            "preferred": "grid.462621.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0422 6402"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7018113"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/042nfvn15",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://newham.ac.uk"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Newham_College_of_Further_Education"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 51.50853,
+              "lng": -0.12574,
+              "name": "London"
+            },
+            "geonames_id": 2643743
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Newham College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Newham College London"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Newham College of Further Education"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "escapestudios.ac.uk"
+        ],
+        "established": 2002,
+        "external_ids": [],
+        "id": "https://ror.org/05nfhtt82",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.escapestudios.ac.uk"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Escape_Studios"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 51.50853,
+              "lng": -0.12574,
+              "name": "London"
+            },
+            "geonames_id": 2643743
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "AAP Education Limited"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Escape Studios"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Pearson College London"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Coventry University",
+            "type": "related",
+            "id": "https://ror.org/01tgmhj36"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "kcl.ac.uk"
+        ],
+        "established": 1829,
+        "external_ids": [
+          {
+            "all": [
+              "100009360",
+              "501100004074",
+              "501100000656",
+              "501100000764",
+              "100011885",
+              "100013376",
+              "100014542"
+            ],
+            "preferred": "100009360",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.13097.3c"
+            ],
+            "preferred": "grid.13097.3c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2322 6764"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q245247"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0220mzb33",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.kcl.ac.uk/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/King's_College_London"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 51.50853,
+              "lng": -0.12574,
+              "name": "London"
+            },
+            "geonames_id": 2643743
+          }
+        ],
+        "names": [
+          {
+            "lang": "cy",
+            "types": [
+              "label"
+            ],
+            "value": "Coleg y Brenin, Llundain"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KCL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "King's College London"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Wellcome EPSRC Centre for Medical Engineering",
+            "type": "child",
+            "id": "https://ror.org/04s9kfd63"
+          },
+          {
+            "label": "Centre for Ultrastructural Imaging",
+            "type": "child",
+            "id": "https://ror.org/02sbfag17"
+          },
+          {
+            "label": "MRC Centre for Neurodevelopmental Disorders",
+            "type": "child",
+            "id": "https://ror.org/01mcnhb78"
+          },
+          {
+            "label": "University of London",
+            "type": "parent",
+            "id": "https://ror.org/04cw6st05"
+          },
+          {
+            "label": "Croydon University Hospital",
+            "type": "related",
+            "id": "https://ror.org/04e2jep17"
+          },
+          {
+            "label": "Guy's Hospital",
+            "type": "related",
+            "id": "https://ror.org/04r33pf22"
+          },
+          {
+            "label": "King's College Hospital",
+            "type": "related",
+            "id": "https://ror.org/044nptt90"
+          },
+          {
+            "label": "St Thomas' Hospital",
+            "type": "related",
+            "id": "https://ror.org/054gk2851"
+          },
+          {
+            "label": "King's College Hospital NHS Foundation Trust",
+            "type": "related",
+            "id": "https://ror.org/01n0k5m85"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ucl.ac.uk"
+        ],
+        "established": 1826,
+        "external_ids": [
+          {
+            "all": [
+              "501100000765",
+              "501100000685",
+              "501100008538",
+              "501100001285",
+              "501100006154",
+              "501100001299",
+              "501100001283",
+              "501100006637",
+              "501100001281",
+              "501100001282",
+              "501100000845",
+              "501100013915",
+              "501100013270",
+              "501100013818",
+              "501100014052",
+              "501100019910",
+              "501100020810",
+              "501100022596"
+            ],
+            "preferred": "501100000765",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.83440.3b"
+            ],
+            "preferred": "grid.83440.3b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2190 1201"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q193196"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02jx3x895",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ucl.ac.uk/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_College_London"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 51.50853,
+              "lng": -0.12574,
+              "name": "London"
+            },
+            "geonames_id": 2643743
+          }
+        ],
+        "names": [
+          {
+            "lang": "cy",
+            "types": [
+              "label"
+            ],
+            "value": "Coleg Prifysgol Llundain"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "London University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UCL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University College London"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University College, London"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Centre for the Observation and Modelling of Earthquakes, Volcanoes and Tectonics",
+            "type": "child",
+            "id": "https://ror.org/047d2d387"
+          },
+          {
+            "label": "Institute of Structural and Molecular Biology",
+            "type": "child",
+            "id": "https://ror.org/05wsetc54"
+          },
+          {
+            "label": "MRC Clinical Trials Unit at UCL",
+            "type": "child",
+            "id": "https://ror.org/001mm6w73"
+          },
+          {
+            "label": "MRC Laboratory for Molecular Cell Biology",
+            "type": "child",
+            "id": "https://ror.org/00fv61j67"
+          },
+          {
+            "label": "MRC Prion Unit",
+            "type": "child",
+            "id": "https://ror.org/043j90n04"
+          },
+          {
+            "label": "MRC Unit for Lifelong Health and Ageing",
+            "type": "child",
+            "id": "https://ror.org/03kpvby98"
+          },
+          {
+            "label": "NIHR Moorfields Biomedical Research Centre",
+            "type": "child",
+            "id": "https://ror.org/004hydx84"
+          },
+          {
+            "label": "Sierra Leone Urban Research Centre",
+            "type": "child",
+            "id": "https://ror.org/05s21y527"
+          },
+          {
+            "label": "UCL Biomedical Research Centre",
+            "type": "child",
+            "id": "https://ror.org/03r9qc142"
+          },
+          {
+            "label": "University College London Qatar",
+            "type": "child",
+            "id": "https://ror.org/0078bd381"
+          },
+          {
+            "label": "Wellcome / EPSRC Centre for Interventional and Surgical Sciences",
+            "type": "child",
+            "id": "https://ror.org/03r42r570"
+          },
+          {
+            "label": "Wellcome Centre for Human Neuroimaging",
+            "type": "child",
+            "id": "https://ror.org/02704qw51"
+          },
+          {
+            "label": "UCL Hospitals Charitable Foundation",
+            "type": "child",
+            "id": "https://ror.org/05mz0pr34"
+          },
+          {
+            "label": "Sainsbury Wellcome Centre",
+            "type": "child",
+            "id": "https://ror.org/04kjqkz56"
+          },
+          {
+            "label": "UCL Queen Square Institute of Neurology",
+            "type": "child",
+            "id": "https://ror.org/0370htr03"
+          },
+          {
+            "label": "Gatsby Computational Neuroscience Unit",
+            "type": "child",
+            "id": "https://ror.org/0269epf40"
+          },
+          {
+            "label": "UCL School of Pharmacy",
+            "type": "child",
+            "id": "https://ror.org/01zna6t55"
+          },
+          {
+            "label": "University of London",
+            "type": "parent",
+            "id": "https://ror.org/04cw6st05"
+          },
+          {
+            "label": "Great Ormond Street Hospital",
+            "type": "related",
+            "id": "https://ror.org/00zn2c847"
+          },
+          {
+            "label": "Moorfields Eye Hospital",
+            "type": "related",
+            "id": "https://ror.org/03tb37539"
+          },
+          {
+            "label": "National Hospital for Neurology and Neurosurgery",
+            "type": "related",
+            "id": "https://ror.org/048b34d51"
+          },
+          {
+            "label": "Royal National Orthopaedic Hospital",
+            "type": "related",
+            "id": "https://ror.org/043j9bc42"
+          },
+          {
+            "label": "Royal National Orthopaedic Hospital NHS Trust",
+            "type": "related",
+            "id": "https://ror.org/03dx46b94"
+          },
+          {
+            "label": "The Royal Free Hospital",
+            "type": "related",
+            "id": "https://ror.org/01ge67z96"
+          },
+          {
+            "label": "University College Hospital",
+            "type": "related",
+            "id": "https://ror.org/00wrevg56"
+          },
+          {
+            "label": "University College Hospital at Westmoreland Street",
+            "type": "related",
+            "id": "https://ror.org/02pkrn365"
+          },
+          {
+            "label": "Wellcome Trust Centre for the History of Medicine",
+            "type": "related",
+            "id": "https://ror.org/05d64cx77"
+          },
+          {
+            "label": "Whittington Hospital",
+            "type": "related",
+            "id": "https://ror.org/01ckbq028"
+          },
+          {
+            "label": "Barts Health NHS Trust",
+            "type": "related",
+            "id": "https://ror.org/00b31g692"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1991,
+        "external_ids": [
+          {
+            "all": [
+              "grid.444925.a"
+            ],
+            "preferred": "grid.444925.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0608 7362"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6006497"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05jhvw838",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.imperial.edu.pk"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Imperial_College_of_Business_Studies"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "PK",
+              "country_name": "Pakistan",
+              "country_subdivision_code": "PB",
+              "country_subdivision_name": "Punjab",
+              "lat": 31.558,
+              "lng": 74.35071,
+              "name": "Lahore"
+            },
+            "geonames_id": 1172451
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ICBS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Imperial College of Business Studies"
+          },
+          {
+            "lang": "ur",
+            "types": [
+              "label"
+            ],
+            "value": "بزنس سٹڈیز کے امپیریل کالج"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2007,
+        "external_ids": [
+          {
+            "all": [
+              "501100000762"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.417895.6"
+            ],
+            "preferred": "grid.417895.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0693 2181"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q14956770"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/056ffv270",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.imperial.nhs.uk/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Imperial_College_Healthcare_NHS_Trust"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 51.50853,
+              "lng": -0.12574,
+              "name": "London"
+            },
+            "geonames_id": 2643743
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Imperial College Healthcare NHS Trust"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Charing Cross Hospital",
+            "type": "child",
+            "id": "https://ror.org/02gcp3110"
+          },
+          {
+            "label": "Hammersmith Hospital",
+            "type": "child",
+            "id": "https://ror.org/05jg8yp15"
+          },
+          {
+            "label": "Queen Charlotte's and Chelsea Hospital",
+            "type": "child",
+            "id": "https://ror.org/03af1tj71"
+          },
+          {
+            "label": "St Mary's Hospital",
+            "type": "child",
+            "id": "https://ror.org/01aysdw42"
+          },
+          {
+            "label": "Western Eye Hospital",
+            "type": "child",
+            "id": "https://ror.org/04g0t2d47"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1990,
+        "external_ids": [
+          {
+            "all": [
+              "grid.424820.8"
+            ],
+            "preferred": "grid.424820.8",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/0376hjh49",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.imperial-consultants.co.uk/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 51.50853,
+              "lng": -0.12574,
+              "name": "London"
+            },
+            "geonames_id": 2643743
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ICON"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Imperial Consultants"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1887,
+        "external_ids": [
+          {
+            "all": [
+              "100007628"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.468490.7"
+            ],
+            "preferred": "grid.468490.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0629 3107"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/03yjs4n28",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.cet1886.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Commonwealth_Institute#The_Imperial_Institute"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 51.50853,
+              "lng": -0.12574,
+              "name": "London"
+            },
+            "geonames_id": 2643743
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CET"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Commonwealth Education Trust"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Commonwealth Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Imperial Institute"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1986,
+        "external_ids": [
+          {
+            "all": [
+              "501100000768"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.420918.6"
+            ],
+            "preferred": "grid.420918.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0481 4503"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/059gk7j33",
+        "links": [
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Imperial_Innovations"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 51.50853,
+              "lng": -0.12574,
+              "name": "London"
+            },
+            "geonames_id": 2643743
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "IP2IPO Innovations Limited (United Kingdom)"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Imperial Innovations"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Imperial Innovations Limited"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company",
+          "funder"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 8053
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 642
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 223
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 117
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 67
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 43
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 35
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 12
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 10
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 2117
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 1844
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 995
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 537
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 475
+        },
+        {
+          "id": "ph",
+          "title": "Philippines",
+          "count": 454
+        },
+        {
+          "id": "my",
+          "title": "Malaysia",
+          "count": 333
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 198
+        },
+        {
+          "id": "ca",
+          "title": "Canada",
+          "count": 192
+        },
+        {
+          "id": "gh",
+          "title": "Ghana",
+          "count": 84
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 5006
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 2350
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 801
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 306
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 86
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 10
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 8559
+        }
+      ]
+    }
+  }
+}

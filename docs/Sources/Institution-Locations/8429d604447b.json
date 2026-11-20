@@ -1,0 +1,2163 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=King+Fahd+University+of+Petroleum+and+Minerals",
+  "http_status": 200,
+  "query": "King Fahd University of Petroleum and Minerals",
+  "data": {
+    "number_of_results": 43821,
+    "time_taken": 121,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "kfupm.edu.sa"
+        ],
+        "established": 1963,
+        "external_ids": [
+          {
+            "all": [
+              "501100004055",
+              "501100020361"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412135.0"
+            ],
+            "preferred": "grid.412135.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 1091 0356"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4116241"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03yez3163",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.kfupm.edu.sa"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/King_Fahd_University_of_Petroleum_and_Minerals"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "SA",
+              "country_name": "Saudi Arabia",
+              "country_subdivision_code": "04",
+              "country_subdivision_name": "Eastern Province",
+              "lat": 26.28864,
+              "lng": 50.11396,
+              "name": "Dhahran"
+            },
+            "geonames_id": 107797
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KFUPM"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "King Fahd University of Petroleum and Minerals"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "جامعة الملك فهد للبترول والمعادن"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1981,
+        "external_ids": [
+          {
+            "all": [
+              "grid.412131.4"
+            ],
+            "preferred": "grid.412131.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0607 7113"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6411563"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0230h1q47",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.iau.edu.sa/en/university-hospitals/king-fahd-hospital-of-the-university"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/King_Fahd_University_Hospital"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "SA",
+              "country_name": "Saudi Arabia",
+              "country_subdivision_code": "04",
+              "country_subdivision_name": "Eastern Province",
+              "lat": 26.27944,
+              "lng": 50.20833,
+              "name": "Khobar"
+            },
+            "geonames_id": 109323
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KFHU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "King Fahd Hospital of the University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "King Fahd University Hospital"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "مستشفى جامعة الملك فيصل"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Imam Abdulrahman Bin Faisal University",
+            "type": "related",
+            "id": "https://ror.org/038cy8j79"
+          },
+          {
+            "label": "King Faisal University",
+            "type": "related",
+            "id": "https://ror.org/00dn43547"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-02-17",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.501867.d"
+            ],
+            "preferred": "grid.501867.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0417 6097"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6411557"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01hxaqe16",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.kfsc.edu.sa/Pages/default.aspx"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/King_Fahd_Security_College"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "SA",
+              "country_name": "Saudi Arabia",
+              "country_subdivision_code": "01",
+              "country_subdivision_name": "Riyadh Region",
+              "lat": 24.68773,
+              "lng": 46.72185,
+              "name": "Riyadh"
+            },
+            "geonames_id": 108410
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KFSC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "King Fahd Security College"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "كلية الملك فهد الأمنية"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "kfmc.med.sa"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "501100011680"
+            ],
+            "preferred": "501100011680",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.415277.2"
+            ],
+            "preferred": "grid.415277.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0593 1832"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6411562"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01jgj2p89",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.kfmc.med.sa/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/King_Fahd_Medical_City"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "SA",
+              "country_name": "Saudi Arabia",
+              "country_subdivision_code": "01",
+              "country_subdivision_name": "Riyadh Region",
+              "lat": 24.68773,
+              "lng": 46.72185,
+              "name": "Riyadh"
+            },
+            "geonames_id": 108410
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KFMC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "King Fahd Medical City"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "مدينة الملك فهد الطبية"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1982,
+        "external_ids": [
+          {
+            "all": [
+              "grid.415271.4"
+            ],
+            "preferred": "grid.415271.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0573 8987"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/00z1vyk43",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.kfafh.org/en/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "SA",
+              "country_name": "Saudi Arabia",
+              "country_subdivision_code": "02",
+              "country_subdivision_name": "Mecca Region",
+              "lat": 21.49012,
+              "lng": 39.18624,
+              "name": "Jeddah"
+            },
+            "geonames_id": 105343
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KFAFH"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "King Fahd Armed Forces Hospital"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "مستشفى الملك فهد للقوات المسلحة"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1989,
+        "external_ids": [
+          {
+            "all": [
+              "grid.415298.3"
+            ],
+            "preferred": "grid.415298.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0573 8549"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/01c524129",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.kfmmc.med.sa/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "SA",
+              "country_name": "Saudi Arabia",
+              "country_subdivision_code": "04",
+              "country_subdivision_name": "Eastern Province",
+              "lat": 26.28864,
+              "lng": 50.11396,
+              "name": "Dhahran"
+            },
+            "geonames_id": 107797
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KFMMC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "King Fahd Military Medical Complex"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "up45.ac.id"
+        ],
+        "established": 1964,
+        "external_ids": [
+          {
+            "all": [
+              "grid.444665.1"
+            ],
+            "preferred": "grid.444665.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0386 8788"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30294791"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02em1tr51",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://up45.ac.id"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "ID",
+              "country_name": "Indonesia",
+              "country_subdivision_code": "YO",
+              "country_subdivision_name": "Yogyakarta",
+              "lat": -7.80139,
+              "lng": 110.36472,
+              "name": "Yogyakarta"
+            },
+            "geonames_id": 1621177
+          }
+        ],
+        "names": [
+          {
+            "lang": "id",
+            "types": [
+              "alias"
+            ],
+            "value": "Universitas Proklamasi 45 Yogyakarta"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Petroleum"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "kapsarc.org"
+        ],
+        "established": 2013,
+        "external_ids": [
+          {
+            "all": [
+              "100021030"
+            ],
+            "preferred": "100021030",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.498598.1"
+            ],
+            "preferred": "grid.498598.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0594 9418"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6411209"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00qd31w11",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.kapsarc.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/King_Abdullah_Petroleum_Studies_and_Research_Center"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "SA",
+              "country_name": "Saudi Arabia",
+              "country_subdivision_code": "01",
+              "country_subdivision_name": "Riyadh Region",
+              "lat": 24.68773,
+              "lng": 46.72185,
+              "name": "Riyadh"
+            },
+            "geonames_id": 108410
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KAPSARC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "King Abdullah Petroleum Studies and Research Center"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "مركز الملك عبدالله للدراسات والبحوث البترولية"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "king.edu"
+        ],
+        "established": 1867,
+        "external_ids": [
+          {
+            "all": [
+              "grid.258602.b"
+            ],
+            "preferred": "grid.258602.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0380 7934"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6412129"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01evb6z23",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.king.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/King_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "TN",
+              "country_subdivision_name": "Tennessee",
+              "lat": 36.59511,
+              "lng": -82.18874,
+              "name": "Bristol"
+            },
+            "geonames_id": 4608657
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "King College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "King University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2003,
+        "external_ids": [
+          {
+            "all": [
+              "grid.448719.7"
+            ],
+            "preferred": "grid.448719.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1771 1271"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5429530"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01epw0x06",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.fbsu.edu.sa/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Fahd_bin_Sultan_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "SA",
+              "country_name": "Saudi Arabia",
+              "country_subdivision_code": "07",
+              "country_subdivision_name": "Tabuk Region",
+              "lat": 28.3998,
+              "lng": 36.57151,
+              "name": "Tabuk"
+            },
+            "geonames_id": 101628
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "FBSU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Fahd bin Sultan College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Fahd bin Sultan University"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "جامعة الأمير فهد بن سلطان"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-10-28",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "upes.ac.in"
+        ],
+        "established": 2003,
+        "external_ids": [
+          {
+            "all": [
+              "100017603"
+            ],
+            "preferred": "100017603",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.444415.4"
+            ],
+            "preferred": "grid.444415.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1759 0860"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3633126"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04q2jes40",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.upes.ac.in/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Petroleum_and_Energy_Studies"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "IN",
+              "country_name": "India",
+              "country_subdivision_code": "UK",
+              "country_subdivision_name": "Uttarakhand",
+              "lat": 30.32443,
+              "lng": 78.03392,
+              "name": "Dehradun"
+            },
+            "geonames_id": 1273313
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UPES"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Petroleum and Energy Studies"
+          },
+          {
+            "lang": "hi",
+            "types": [
+              "label"
+            ],
+            "value": "पेट्रोलियम और ऊर्जा शिक्षा विश्वविद्यालय"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "put.ac.ir"
+        ],
+        "established": 1939,
+        "external_ids": [
+          {
+            "all": [
+              "grid.444962.9"
+            ],
+            "preferred": "grid.444962.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0612 3650"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7178958"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00r0xhf81",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.put.ac.ir/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Petroleum_University_of_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "IR",
+              "country_name": "Iran",
+              "country_subdivision_code": "23",
+              "country_subdivision_name": "Tehran",
+              "lat": 35.69439,
+              "lng": 51.42151,
+              "name": "Tehran"
+            },
+            "geonames_id": 112931
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Abadan Institute of Technology"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PUT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Petroleum University of Technology"
+          },
+          {
+            "lang": "fa",
+            "types": [
+              "label"
+            ],
+            "value": "دانشگاه صنعت نفت"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-05-05",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "kaust.edu.sa"
+        ],
+        "established": 2009,
+        "external_ids": [
+          {
+            "all": [
+              "501100004052",
+              "501100003422",
+              "501100020297",
+              "501100020813",
+              "501100020858"
+            ],
+            "preferred": "501100004052",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.45672.32"
+            ],
+            "preferred": "grid.45672.32",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 1926 5090"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1463036"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01q3tbs38",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.kaust.edu.sa"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/King_Abdullah_University_of_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "SA",
+              "country_name": "Saudi Arabia",
+              "country_subdivision_code": "02",
+              "country_subdivision_name": "Mecca Region",
+              "lat": 21.49012,
+              "lng": 39.18624,
+              "name": "Jeddah"
+            },
+            "geonames_id": 105343
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KAUST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "King Abdullah University of Science and Technology"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "جامعة الملك عبد الله للعلوم والتقنية"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "pmu.edu.sa"
+        ],
+        "established": 2006,
+        "external_ids": [
+          {
+            "all": [
+              "501100013781"
+            ],
+            "preferred": "501100013781",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.449337.e"
+            ],
+            "preferred": "grid.449337.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1756 6721"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7244166"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03d64na34",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.pmu.edu.sa/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Prince_Mohammad_bin_Fahd_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "SA",
+              "country_name": "Saudi Arabia",
+              "country_subdivision_code": "04",
+              "country_subdivision_name": "Eastern Province",
+              "lat": 26.27944,
+              "lng": 50.20833,
+              "name": "Khobar"
+            },
+            "geonames_id": 109323
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PMU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Prince Mohammad bin Fahd University"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "جامعة الأمير محمد بن فهد"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-07-08",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ukd.edu.ua"
+        ],
+        "established": 1997,
+        "external_ids": [
+          {
+            "all": [
+              "Q12073707"
+            ],
+            "preferred": "Q12073707",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0255jh689",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://ukd.edu.ua"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://uk.wikipedia.org/wiki/%D0%A3%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D1%8F_%D0%94%D0%B0%D0%BD%D0%B8%D0%BB%D0%B0"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "UA",
+              "country_name": "Ukraine",
+              "country_subdivision_code": "26",
+              "country_subdivision_name": "Ivano-Frankivsk",
+              "lat": 48.92312,
+              "lng": 24.71248,
+              "name": "Ivano-Frankivsk"
+            },
+            "geonames_id": 707471
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "KDU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "King Danylo University"
+          },
+          {
+            "lang": "uk",
+            "types": [
+              "acronym"
+            ],
+            "value": "UKD"
+          },
+          {
+            "lang": "uk",
+            "types": [
+              "alias"
+            ],
+            "value": "Університет Короля Данила"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-08-06",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "kcu.ac.ug"
+        ],
+        "established": 2011,
+        "external_ids": [
+          {
+            "all": [
+              "Q116486082"
+            ],
+            "preferred": "Q116486082",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02r4wr814",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.kcu.ac.ug"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://dag.wikipedia.org/wiki/King_Ceasor_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "UG",
+              "country_name": "Uganda",
+              "country_subdivision_code": "C",
+              "country_subdivision_name": "Central Region",
+              "lat": 0.31628,
+              "lng": 32.58219,
+              "name": "Kampala"
+            },
+            "geonames_id": 232422
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "KCU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "King Ceasor University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Montessori University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "St. Augustine International University"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "St. Augustine International University",
+            "type": "predecessor",
+            "id": "https://ror.org/03656je58"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-08-07",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "kfu.edu.sa"
+        ],
+        "established": 1975,
+        "external_ids": [
+          {
+            "all": [
+              "501100004686",
+              "501100020912"
+            ],
+            "preferred": "501100020912",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412140.2"
+            ],
+            "preferred": "grid.412140.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1755 9687"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3070702"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00dn43547",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.kfu.edu.sa/sites/Home/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/King_Faisal_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "SA",
+              "country_name": "Saudi Arabia",
+              "country_subdivision_code": "04",
+              "country_subdivision_name": "Eastern Province",
+              "lat": 25.36467,
+              "lng": 49.58764,
+              "name": "Hofuf"
+            },
+            "geonames_id": 109571
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KFU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "King Faisal University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Ğāmiʿat al-Malak Fayṣal"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "جامعة الملك فيصل"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "King Faisal University of N'Djamena",
+            "type": "child",
+            "id": "https://ror.org/03b1ff176"
+          },
+          {
+            "label": "King Fahd Hospital of the University",
+            "type": "related",
+            "id": "https://ror.org/0230h1q47"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-05-05",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ksu.edu.sa"
+        ],
+        "established": 1957,
+        "external_ids": [
+          {
+            "all": [
+              "501100002383",
+              "501100005725",
+              "501100002391",
+              "501100002392",
+              "501100006016",
+              "501100005328",
+              "501100004831",
+              "501100004745",
+              "501100004432",
+              "501100006566",
+              "501100011665",
+              "501100021557"
+            ],
+            "preferred": "501100002383",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.56302.32"
+            ],
+            "preferred": "grid.56302.32",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1773 5396"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1752043"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02f81g417",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ksu.edu.sa"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/King_Saud_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "SA",
+              "country_name": "Saudi Arabia",
+              "country_subdivision_code": "01",
+              "country_subdivision_name": "Riyadh Region",
+              "lat": 24.68773,
+              "lng": 46.72185,
+              "name": "Riyadh"
+            },
+            "geonames_id": 108410
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KSU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "King Saud University"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "جامعة الملك سعود"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "King Abdul Aziz University Hospital",
+            "type": "related",
+            "id": "https://ror.org/01vv03303"
+          },
+          {
+            "label": "King Khaled Hospital",
+            "type": "related",
+            "id": "https://ror.org/053vynf43"
+          },
+          {
+            "label": "King Saud Medical City",
+            "type": "related",
+            "id": "https://ror.org/03aj9rj02"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-06-02",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "kku.edu.sa"
+        ],
+        "established": 1998,
+        "external_ids": [
+          {
+            "all": [
+              "501100007446",
+              "501100023674"
+            ],
+            "preferred": "501100007446",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412144.6"
+            ],
+            "preferred": "grid.412144.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1790 7100"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6411791"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/052kwzs30",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.kku.edu.sa/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/King_Khalid_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "SA",
+              "country_name": "Saudi Arabia",
+              "country_subdivision_code": "14",
+              "country_subdivision_name": "'Asir Region",
+              "lat": 18.21639,
+              "lng": 42.50528,
+              "name": "Abhā"
+            },
+            "geonames_id": 110690
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KKU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "King Khalid University"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "جامعة الملك خالد"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "King Khalid University Hospital",
+            "type": "related",
+            "id": "https://ror.org/046gga527"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "kau.edu.sa"
+        ],
+        "established": 1967,
+        "external_ids": [
+          {
+            "all": [
+              "501100004054",
+              "501100019672"
+            ],
+            "preferred": "501100004054",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412125.1"
+            ],
+            "preferred": "grid.412125.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0619 1117"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1795928"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02ma4wv74",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.kau.edu.sa/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/King_Abdulaziz_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "SA",
+              "country_name": "Saudi Arabia",
+              "country_subdivision_code": "02",
+              "country_subdivision_name": "Mecca Region",
+              "lat": 21.49012,
+              "lng": 39.18624,
+              "name": "Jeddah"
+            },
+            "geonames_id": 105343
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KAU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "King Abdulaziz University"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "جامعة الملك عبد العزيز"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "King Abdul Aziz University Hospital",
+            "type": "related",
+            "id": "https://ror.org/01vv03303"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 18776
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 10933
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 6625
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 5463
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 4989
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 3022
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2781
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 1195
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 963
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 8017
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 4920
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 2820
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2501
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1667
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 1472
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 1367
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 1110
+        },
+        {
+          "id": "ca",
+          "title": "Canada",
+          "count": 1024
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 956
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 17540
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 12502
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 9587
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 2338
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 1043
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 812
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 43821
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2135 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Nanjing+University+of+Science+and+Technology",
+  "http_status": 200,
+  "query": "Nanjing University of Science and Technology",
+  "data": {
+    "number_of_results": 45767,
+    "time_taken": 176,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "njust.edu.cn"
+        ],
+        "established": 1953,
+        "external_ids": [
+          {
+            "all": [
+              "501100005271"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.410579.e"
+            ],
+            "preferred": "grid.410579.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9116 9901"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3953805"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00xp9wg62",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.njust.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Nanjing_University_of_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "JS",
+              "country_subdivision_name": "Jiangsu",
+              "lat": 32.06167,
+              "lng": 118.77778,
+              "name": "Nanjing"
+            },
+            "geonames_id": 1799962
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NUST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Nanjing University of Science and Technology"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Nánjīng Lǐgōng Dàxué"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Nánlǐgōng"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "南京理工大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Nanjing University of Science and Technology ZiJin College",
+            "type": "child",
+            "id": "https://ror.org/0387aje64"
+          },
+          {
+            "label": "Taizhou Institute of Science and Technology",
+            "type": "child",
+            "id": "https://ror.org/01bxcmp64"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-06-02",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "nuist.edu.cn"
+        ],
+        "established": 1960,
+        "external_ids": [
+          {
+            "all": [
+              "501100008045",
+              "501100013156"
+            ],
+            "preferred": "501100008045",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.260478.f"
+            ],
+            "preferred": "grid.260478.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9249 2313"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6963692"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02y0rxk19",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.nuist.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Nanjing_University_of_Information_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "JS",
+              "country_subdivision_name": "Jiangsu",
+              "lat": 32.06167,
+              "lng": 118.77778,
+              "name": "Nanjing"
+            },
+            "geonames_id": 1799962
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NUIST"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Nan Xin Da"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Nanjing University of Information Science and Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "南京信息工程大学"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "501100011990"
+            ],
+            "preferred": "501100011990",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.486761.a"
+            ],
+            "preferred": "grid.486761.a",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/054yt8091",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.njkj.gov.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "JS",
+              "country_subdivision_name": "Jiangsu",
+              "lat": 32.06167,
+              "lng": 118.77778,
+              "name": "Nanjing"
+            },
+            "geonames_id": 1799962
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Nanjing Science and Technology Commission"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "南京市科技局"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-10-13",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "zj.njust.edu.cn"
+        ],
+        "established": 1999,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 1762 3503"
+            ],
+            "preferred": "0000 0004 1762 3503",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q10906876"
+            ],
+            "preferred": "Q10906876",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0387aje64",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://zj.njust.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://zh.wikipedia.org/wiki/%E5%8D%97%E4%BA%AC%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E7%B4%AB%E9%87%91%E5%AD%A6%E9%99%A2"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "JS",
+              "country_subdivision_name": "Jiangsu",
+              "lat": 32.06167,
+              "lng": 118.77778,
+              "name": "Nanjing"
+            },
+            "geonames_id": 1799962
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Nanjing University of Science and Technology ZiJin College"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "南京理工大学紫金学院"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Nanjing University of Science and Technology",
+            "type": "parent",
+            "id": "https://ror.org/00xp9wg62"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "njtech.edu.cn"
+        ],
+        "established": 1902,
+        "external_ids": [
+          {
+            "all": [
+              "501100008256"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412022.7"
+            ],
+            "preferred": "grid.412022.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9389 5210"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q10906760"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03sd35x91",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.njtech.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Nanjing_Tech_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "JS",
+              "country_subdivision_name": "Jiangsu",
+              "lat": 32.06167,
+              "lng": 118.77778,
+              "name": "Nanjing"
+            },
+            "geonames_id": 1799962
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NJTech"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Nanjing Tech University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Nanjing University of Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "南京工业大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "The Synergetic Innovation Center for Advanced Materials",
+            "type": "child",
+            "id": "https://ror.org/05nzc1r88"
+          },
+          {
+            "label": "State Key Laboratory of Materials-Oriented Chemical Engineering",
+            "type": "child",
+            "id": "https://ror.org/00s0wpd42"
+          },
+          {
+            "label": "NJTU Membrane Application Institute Co., Ltd (China)",
+            "type": "child",
+            "id": "https://ror.org/05bwmbm93"
+          },
+          {
+            "label": "Pujiang Institute",
+            "type": "child",
+            "id": "https://ror.org/029vc9344"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "njpi.edu.cn"
+        ],
+        "established": 1958,
+        "external_ids": [
+          {
+            "all": [
+              "grid.495760.9"
+            ],
+            "preferred": "grid.495760.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1762 3650"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/05tt6m403",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.njpi.edu.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "JS",
+              "country_subdivision_name": "Jiangsu",
+              "lat": 32.06167,
+              "lng": 118.77778,
+              "name": "Nanjing"
+            },
+            "geonames_id": 1799962
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Nanjing College of Chemical Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Nanjing Polytechnic Institute"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Nanjing Vocational College of Science and Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "南京科技职业学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-12-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-12-15",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "cwxu.edu.cn"
+        ],
+        "established": 2002,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 9339 6744"
+            ],
+            "preferred": "0000 0004 9339 6744",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q10906657"
+            ],
+            "preferred": "Q10906657",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02yq4ac41",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.cwxu.edu.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "JS",
+              "country_subdivision_name": "Jiangsu",
+              "lat": 31.56887,
+              "lng": 120.28857,
+              "name": "Wuxi"
+            },
+            "geonames_id": 1790923
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Nanjing University of Information Science and Technology Binjiang College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Wuxi University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "无锡学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-02-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "niit.edu.cn"
+        ],
+        "established": 1918,
+        "external_ids": [
+          {
+            "all": [
+              "501100013802"
+            ],
+            "preferred": "501100013802",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.495435.a"
+            ],
+            "preferred": "grid.495435.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1757 6639"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/00qf07q44",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.niit.edu.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "JS",
+              "country_subdivision_name": "Jiangsu",
+              "lat": 32.06167,
+              "lng": 118.77778,
+              "name": "Nanjing"
+            },
+            "geonames_id": 1799962
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NIIT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Nanjing Institute of Industry Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Nanjing University of Industry Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Nanjing Vocation Institute of Industry Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "南京工业职业技术大学"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "南京工业职业技术学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ust.ac.kr"
+        ],
+        "established": 2003,
+        "external_ids": [
+          {
+            "all": [
+              "grid.412786.e"
+            ],
+            "preferred": "grid.412786.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1791 8264"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q626893"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/000qzf213",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ust.ac.kr/index.do"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Korea_University_of_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "30",
+              "country_subdivision_name": "Daejeon",
+              "lat": 36.34913,
+              "lng": 127.38493,
+              "name": "Daejeon"
+            },
+            "geonames_id": 1835235
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Korea University of Science and Technology"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University of Science and Technology"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "과학기술연합대학원대학교"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ust.edu"
+        ],
+        "established": 1994,
+        "external_ids": [
+          {
+            "all": [
+              "grid.444917.b"
+            ],
+            "preferred": "grid.444917.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0454 5294"
+            ],
+            "preferred": "0000 0004 0454 5294",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q12204441"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05bj7sh33",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ust.edu/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Science_and_Technology,_Sana%27a"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "YE",
+              "country_name": "Yemen",
+              "country_subdivision_code": "AD",
+              "country_subdivision_name": "Aden",
+              "lat": 12.77957,
+              "lng": 45.03852,
+              "name": "Aden"
+            },
+            "geonames_id": 415189
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "USTY"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Science and Technology"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "جامعة العلوم و التكنولوجيا"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-09-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "njcit.cn"
+        ],
+        "established": 1953,
+        "external_ids": [
+          {
+            "all": [
+              "Q10906658"
+            ],
+            "preferred": "Q10906658",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01dy8ct31",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.njcit.cn/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "JS",
+              "country_subdivision_name": "Jiangsu",
+              "lat": 32.06167,
+              "lng": 118.77778,
+              "name": "Nanjing"
+            },
+            "geonames_id": 1799962
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Nanjing College of Information and Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Nanjing Vocational College of Information Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "南京信息职业技术学院"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "alias"
+            ],
+            "value": "南信院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "njit.edu.cn"
+        ],
+        "established": 2000,
+        "external_ids": [
+          {
+            "all": [
+              "501100008114"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.443518.f"
+            ],
+            "preferred": "grid.443518.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9989 1878"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q20707809"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00n6txq60",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://njit.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Nanjing_Institute_of_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "JS",
+              "country_subdivision_name": "Jiangsu",
+              "lat": 32.06167,
+              "lng": 118.77778,
+              "name": "Nanjing"
+            },
+            "geonames_id": 1799962
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NJIT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Nanjing Institute of Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "南京工程学院"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1992,
+        "external_ids": [
+          {
+            "all": [
+              "grid.444911.d"
+            ],
+            "preferred": "grid.444911.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0619 1231"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6532444"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04r58gt57",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uast.ac.ir/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Applied_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "IR",
+              "country_name": "Iran",
+              "country_subdivision_code": "23",
+              "country_subdivision_name": "Tehran",
+              "lat": 35.69439,
+              "lng": 51.42151,
+              "name": "Tehran"
+            },
+            "geonames_id": 112931
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UAST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Applied Science and Technology"
+          },
+          {
+            "lang": "fa",
+            "types": [
+              "label"
+            ],
+            "value": "دانشگاه جامع علمی-کاربردی جهاد دانشگاهی ارومیه"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1969,
+        "external_ids": [
+          {
+            "all": [
+              "grid.445089.4"
+            ],
+            "preferred": "grid.445089.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0639 3159"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6704331"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/001y2wd07",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.lhu.edu.tw/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Lunghwa_University_of_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TW",
+              "country_name": "Taiwan",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Taiwan",
+              "lat": 24.99368,
+              "lng": 121.29696,
+              "name": "Taoyuan"
+            },
+            "geonames_id": 6696918
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "LHU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Lunghwa University of Science and Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "龍華科技大學"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1965,
+        "external_ids": [
+          {
+            "all": [
+              "grid.448813.2"
+            ],
+            "preferred": "grid.448813.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0639 2981"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q10888084"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04szp2m52",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.hust.edu.tw"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Hsiuping_University_of_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TW",
+              "country_name": "Taiwan",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Taiwan",
+              "lat": 24.1469,
+              "lng": 120.6839,
+              "name": "Taichung"
+            },
+            "geonames_id": 1668399
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "HUST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Hsiuping University of Science and Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Shu-Teh Junior College of Home Economics"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "修平科技大學"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1979,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449038.2"
+            ],
+            "preferred": "grid.449038.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1787 5145"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6820757"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/002dktj83",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.must.ac.ke/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Meru_University_of_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "KE",
+              "country_name": "Kenya",
+              "country_subdivision_code": "26",
+              "country_subdivision_name": "Meru County",
+              "lat": 0.04626,
+              "lng": 37.65587,
+              "name": "Meru"
+            },
+            "geonames_id": 186827
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MECOTECH"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "MUST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Meru College of Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Meru University of Science and Technology"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2011,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449364.8"
+            ],
+            "preferred": "grid.449364.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 5986 0427"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q17064749"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05brr5h08",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://just.edu.so/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Jamhuriya_University_of_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "SO",
+              "country_name": "Somalia",
+              "country_subdivision_code": "BN",
+              "country_subdivision_name": "Banaadir",
+              "lat": 2.03711,
+              "lng": 45.34375,
+              "name": "Mogadishu"
+            },
+            "geonames_id": 53654
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "JUST"
+          },
+          {
+            "lang": "so",
+            "types": [
+              "label"
+            ],
+            "value": "Jaamacada Jamhuriya"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Jamhuriya University of Science and Technology"
+          },
+          {
+            "lang": "ar",
+            "types": [
+              "label"
+            ],
+            "value": "جامعة جمهورية للعلوم والتكنولوجيا"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2010,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449384.6"
+            ],
+            "preferred": "grid.449384.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 4649 0009"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q710126"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/000vgrb22",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://pust.co/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Pyongyang_University_of_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KP",
+              "country_name": "North Korea",
+              "country_subdivision_code": "01",
+              "country_subdivision_name": "Pyongyang",
+              "lat": 39.03385,
+              "lng": 125.75432,
+              "name": "Pyongyang"
+            },
+            "geonames_id": 1871859
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PUST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Pyongyang University of Science and Technology"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "평양과학기술대학"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1990,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449431.f"
+            ],
+            "preferred": "grid.449431.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0638 8157"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q11090053"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03dr26375",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.just.edu.tw/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Jinwen_University_of_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TW",
+              "country_name": "Taiwan",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Taipei",
+              "lat": 24.96005,
+              "lng": 121.53892,
+              "name": "Xindian District"
+            },
+            "geonames_id": 1674828
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "JUST"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Jin-wen Industrial and Commercial College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Jinwen University of Science and Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "景文科技大學"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1965,
+        "external_ids": [
+          {
+            "all": [
+              "grid.449651.b"
+            ],
+            "preferred": "grid.449651.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0639 1698"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q11071713"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/002xar614",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.takming.edu.tw/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Takming_University_of_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "TW",
+              "country_name": "Taiwan",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Taiwan",
+              "lat": 25.05306,
+              "lng": 121.52639,
+              "name": "Taipei"
+            },
+            "geonames_id": 1668341
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "TMUST"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Takming College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Takming University of Science and Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "德明財經科技大學"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 18868
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 11195
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 6978
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 5823
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 5108
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 3011
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 2938
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 2041
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 1021
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 8577
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 5155
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 3137
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 2536
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 1672
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 1629
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 1404
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 1187
+        },
+        {
+          "id": "ca",
+          "title": "Canada",
+          "count": 1083
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 1001
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 18269
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 13037
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 10208
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 2362
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 1059
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 834
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 45767
+        }
+      ]
+    }
+  }
+}

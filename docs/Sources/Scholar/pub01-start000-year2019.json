@@ -1,0 +1,146 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cites": "1211587708316162333",
+    "hl": "en",
+    "num": 20,
+    "start": 0,
+    "as_ylo": 2019,
+    "as_yhi": 2019
+  },
+  "accessed_at_utc": "2026-10-07T13:03:46.025441+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac64332a973c403e3a08bfb",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/UTYJZjDL9FKbZUKdUFTXNRuSAKslwM1DzLjpB4_Bx9U/6ac64332a973c403e3a08bfb.json",
+      "markdown_endpoint": "https://serpapi.com/searches/UTYJZjDL9FKbZUKdUFTXNRuSAKslwM1DzLjpB4_Bx9U/6ac64332a973c403e3a08bfb.md",
+      "created_at": "2026-10-07 13:03:46 UTC",
+      "processed_at": "2026-10-07 13:03:46 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cites=1211587708316162333&hl=en&start=0&num=21&as_ylo=2019&as_yhi=2019&scipsc=1",
+      "raw_html_file": "https://serpapi.com/searches/UTYJZjDL9FKbZUKdUFTXNRuSAKslwM1DzLjpB4_Bx9U/6ac64332a973c403e3a08bfb.html",
+      "total_time_taken": 0.96
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cites": "1211587708316162333",
+      "hl": "en",
+      "start": 0,
+      "num": "20",
+      "as_ylo": "2019",
+      "as_yhi": "2019"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 1,
+      "time_taken_displayed": 0.04
+    },
+    "citations_per_year": [
+      {
+        "year": 2019,
+        "citations": 1
+      },
+      {
+        "year": 2020,
+        "citations": 10
+      },
+      {
+        "year": 2021,
+        "citations": 43
+      },
+      {
+        "year": 2022,
+        "citations": 55
+      },
+      {
+        "year": 2023,
+        "citations": 33
+      },
+      {
+        "year": 2024,
+        "citations": 39
+      },
+      {
+        "year": 2025,
+        "citations": 31
+      },
+      {
+        "year": 2026,
+        "citations": 14
+      }
+    ],
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Qkd: Quantization-aware knowledge distillation",
+        "result_id": "w-F-v0NHCcsJ",
+        "link": "https://arxiv.org/abs/1911.12491",
+        "snippet": "Quantization and Knowledge distillation (KD) methods are widely used to reduce memory and power consumption of deep neural networks (DNNs), especially for resource …",
+        "publication_info": {
+          "summary": "J Kim, Y Bhalgat, J Lee, C Patel, N Kwak - arXiv preprint arXiv:1911.12491, 2019 - arxiv.org",
+          "authors": [
+            {
+              "name": "J Kim",
+              "link": "https://scholar.google.com/citations?user=mzFEJVIAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "mzFEJVIAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=mzFEJVIAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "Y Bhalgat",
+              "link": "https://scholar.google.com/citations?user=q0VSEHYAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "q0VSEHYAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=q0VSEHYAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "J Lee",
+              "link": "https://scholar.google.com/citations?user=lUYLvBgAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "lUYLvBgAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=lUYLvBgAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "C Patel"
+            },
+            {
+              "name": "N Kwak",
+              "link": "https://scholar.google.com/citations?user=h_8-1M0AAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "h_8-1M0AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=h_8-1M0AAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/1911.12491"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=w-F-v0NHCcsJ",
+          "cited_by": {
+            "total": 125,
+            "link": "https://scholar.google.com/scholar?cites=14630303220790911427&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+            "cites_id": "14630303220790911427",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=14630303220790911427&engine=google_scholar&hl=en&num=20"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:w-F-v0NHCcsJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2019&as_yhi=2019",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2019&as_ylo=2019&cites=1211587708316162333&engine=google_scholar&hl=en&num=20&q=related%3Aw-F-v0NHCcsJ%3Ascholar.google.com%2F&start=0",
+          "versions": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cluster=14630303220790911427&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2019&as_yhi=2019",
+            "cluster_id": "14630303220790911427",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&as_yhi=2019&as_ylo=2019&cluster=14630303220790911427&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:w-F-v0NHCcsJ:scholar.google.com/&hl=en&num=20&as_sdt=2005&sciodt=0,5&as_ylo=2019&as_yhi=2019"
+        }
+      }
+    ]
+  }
+}

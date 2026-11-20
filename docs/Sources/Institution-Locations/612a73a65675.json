@@ -1,0 +1,1981 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Universidade+Federal+de+Minas+Gerais",
+  "http_status": 200,
+  "query": "Universidade Federal de Minas Gerais",
+  "data": {
+    "number_of_results": 12015,
+    "time_taken": 53,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ufmg.br"
+        ],
+        "established": 1927,
+        "external_ids": [
+          {
+            "all": [
+              "501100007374",
+              "501100005674",
+              "501100007375"
+            ],
+            "preferred": "501100007374",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.8430.f"
+            ],
+            "preferred": "grid.8430.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2181 4888"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q132140"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0176yjw32",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ufmg.br/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Universidade_Federal_de_Minas_Gerais"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "BR",
+              "country_name": "Brazil",
+              "country_subdivision_code": "MG",
+              "country_subdivision_name": "Minas Gerais",
+              "lat": -19.92083,
+              "lng": -43.93778,
+              "name": "Belo Horizonte"
+            },
+            "geonames_id": 3470127
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Federal University of Minas Gerais"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UFMG"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universidade Federal de Minas Gerais"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université fédérale du minas gerais"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Instituto Nacional de Ciência e Tecnologia de Medicina Molecular",
+            "type": "child",
+            "id": "https://ror.org/017vk0880"
+          },
+          {
+            "label": "Hospital das Clínicas da Universidade Federal de Minas Gerais",
+            "type": "related",
+            "id": "https://ror.org/035rpst33"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ifmg.edu.br"
+        ],
+        "established": 2008,
+        "external_ids": [
+          {
+            "all": [
+              "grid.462191.9"
+            ],
+            "preferred": "grid.462191.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0370 1822"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q10302487"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0553w5c95",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ifmg.edu.br"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Federal_Institute_of_Minas_Gerais"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "BR",
+              "country_name": "Brazil",
+              "country_subdivision_code": "MG",
+              "country_subdivision_name": "Minas Gerais",
+              "lat": -19.92083,
+              "lng": -43.93778,
+              "name": "Belo Horizonte"
+            },
+            "geonames_id": 3470127
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Federal Institute of Education, Science and Technology of Minas Gerais"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Federal Institute of Minas Gerais"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IFMG"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "alias"
+            ],
+            "value": "Instituto Federal de Minas Gerais"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Ministry of Education",
+            "type": "parent",
+            "id": "https://ror.org/04d0xx942"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "pucminas.br"
+        ],
+        "established": 1958,
+        "external_ids": [
+          {
+            "all": [
+              "100015772"
+            ],
+            "preferred": "100015772",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412520.0"
+            ],
+            "preferred": "grid.412520.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2155 6671"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q923610"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03j1rr444",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.pucminas.br/destaques/destaques.php"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Pontifical_Catholic_University_of_Minas_Gerais"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "BR",
+              "country_name": "Brazil",
+              "country_subdivision_code": "MG",
+              "country_subdivision_name": "Minas Gerais",
+              "lat": -19.92083,
+              "lng": -43.93778,
+              "name": "Belo Horizonte"
+            },
+            "geonames_id": 3470127
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "PUC-MG"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Pontifical Catholic University of Minas Gerais"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Pontifícia Universidade Católica de Minas Gerais"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Université Pontificale Catholique du Minas Gerais"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "uemg.br"
+        ],
+        "established": 1989,
+        "external_ids": [
+          {
+            "all": [
+              "100031374"
+            ],
+            "preferred": "100031374",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.442085.f"
+            ],
+            "preferred": "grid.442085.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 1897 2017"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2495760"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05c84j393",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.uemg.br"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Minas_Gerais_State_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "BR",
+              "country_name": "Brazil",
+              "country_subdivision_code": "MG",
+              "country_subdivision_name": "Minas Gerais",
+              "lat": -19.92083,
+              "lng": -43.93778,
+              "name": "Belo Horizonte"
+            },
+            "geonames_id": 3470127
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Minas Gerais State University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UEMG"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Universidade do Estado de Minas Gerais"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Editora da Universidade do Estado de Minas Gerais",
+            "type": "child",
+            "id": "https://ror.org/0504x3693"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1928,
+        "external_ids": [
+          {
+            "all": [
+              "grid.500232.6"
+            ],
+            "preferred": "grid.500232.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0481 5100"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q10298522"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/035rpst33",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ebserh.gov.br/web/hc-ufmg"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "BR",
+              "country_name": "Brazil",
+              "country_subdivision_code": "MG",
+              "country_subdivision_name": "Minas Gerais",
+              "lat": -19.92083,
+              "lng": -43.93778,
+              "name": "Belo Horizonte"
+            },
+            "geonames_id": 3470127
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "HC-UFMG"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Hospital das Clínicas da Universidade Federal de Minas Gerais"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Universidade Federal de Minas Gerais",
+            "type": "related",
+            "id": "https://ror.org/0176yjw32"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ifsudestemg.edu.br"
+        ],
+        "established": 2008,
+        "external_ids": [
+          {
+            "all": [
+              "grid.472964.a"
+            ],
+            "preferred": "grid.472964.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0466 332X"
+            ],
+            "preferred": "0000 0004 0466 332X",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/02kvg7a66",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ifsudestemg.edu.br"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "BR",
+              "country_name": "Brazil",
+              "country_subdivision_code": "MG",
+              "country_subdivision_name": "Minas Gerais",
+              "lat": -21.76417,
+              "lng": -43.35028,
+              "name": "Juiz de Fora"
+            },
+            "geonames_id": 3459505
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IFSUDESTEMG"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "label"
+            ],
+            "value": "Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Instituto Federal do Sudeste de Minas Gerais"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "cefetmg.br"
+        ],
+        "established": 1910,
+        "external_ids": [
+          {
+            "all": [
+              "501100007699",
+              "100022823"
+            ],
+            "preferred": "501100007699",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.454271.1"
+            ],
+            "preferred": "grid.454271.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2002 2854"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q159106"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04ch49185",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.cefetmg.br"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Centro_Federal_de_Educa%C3%A7%C3%A3o_Tecnol%C3%B3gica_de_Minas_Gerais"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "BR",
+              "country_name": "Brazil",
+              "country_subdivision_code": "MG",
+              "country_subdivision_name": "Minas Gerais",
+              "lat": -19.92083,
+              "lng": -43.93778,
+              "name": "Belo Horizonte"
+            },
+            "geonames_id": 3470127
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CEFET-MG"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Centre fédéral d'éducation technologique du minas gerais"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "label"
+            ],
+            "value": "Centro Federal de Educação Tecnológica de Minas Gerais"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Federal Center for Technological Education of Minas Gerais"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-04-06",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/0504x3693",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://editora.uemg.br"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "BR",
+              "country_name": "Brazil",
+              "country_subdivision_code": "MG",
+              "country_subdivision_name": "Minas Gerais",
+              "lat": -19.92083,
+              "lng": -43.93778,
+              "name": "Belo Horizonte"
+            },
+            "geonames_id": 3470127
+          }
+        ],
+        "names": [
+          {
+            "lang": "pt",
+            "types": [
+              "alias"
+            ],
+            "value": "EdUEMG"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Editora da Universidade do Estado de Minas Gerais"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Universidade do Estado de Minas Gerais",
+            "type": "parent",
+            "id": "https://ror.org/05c84j393"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "other"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1969,
+        "external_ids": [
+          {
+            "all": [
+              "grid.441679.9"
+            ],
+            "preferred": "grid.441679.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0109 8503"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q9727167"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05yq37p91",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.unileste.edu.br"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "BR",
+              "country_name": "Brazil",
+              "country_subdivision_code": "MG",
+              "country_subdivision_name": "Minas Gerais",
+              "lat": -19.51861,
+              "lng": -42.62889,
+              "name": "Coronel Fabriciano"
+            },
+            "geonames_id": 3465476
+          }
+        ],
+        "names": [
+          {
+            "lang": "pt",
+            "types": [
+              "alias"
+            ],
+            "value": "Campus da PUC-Minas"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Centro Universitário do Leste de Minas Gerais"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ICMG"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "alias"
+            ],
+            "value": "Instituto Católico de Minas Gerais"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UT"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "Unileste"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "alias"
+            ],
+            "value": "Universidade do Trabalho"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-10-29",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2026-04-14",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "faculdadepatosdeminas.edu.br"
+        ],
+        "established": 2005,
+        "external_ids": [
+          {
+            "all": [
+              "Q56841482"
+            ],
+            "preferred": "Q56841482",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00yknbj49",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://faculdadepatosdeminas.edu.br"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "BR",
+              "country_name": "Brazil",
+              "country_subdivision_code": "MG",
+              "country_subdivision_name": "Minas Gerais",
+              "lat": -18.57889,
+              "lng": -46.51806,
+              "name": "Patos de Minas"
+            },
+            "geonames_id": 3454783
+          }
+        ],
+        "names": [
+          {
+            "lang": "pt",
+            "types": [
+              "alias"
+            ],
+            "value": "Centro Universitário de Minas Gerais"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Centro Universitário de Minas Gerais - UniMG"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "acronym"
+            ],
+            "value": "FPM"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "alias"
+            ],
+            "value": "Faculdade Cidade de Patos de Minas"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "alias"
+            ],
+            "value": "Faculdade Patos de Minas"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "alias"
+            ],
+            "value": "Faculdade Patos de Minas - FPM"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "fipemig.edu.br"
+        ],
+        "established": 1999,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 0417 9925"
+            ],
+            "preferred": "0000 0004 0417 9925",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/002y5fg63",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://fipemig.edu.br"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "BR",
+              "country_name": "Brazil",
+              "country_subdivision_code": "MG",
+              "country_subdivision_name": "Minas Gerais",
+              "lat": -19.92083,
+              "lng": -43.93778,
+              "name": "Belo Horizonte"
+            },
+            "geonames_id": 3470127
+          }
+        ],
+        "names": [
+          {
+            "lang": "pt",
+            "types": [
+              "acronym"
+            ],
+            "value": "FBMG"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "acronym"
+            ],
+            "value": "FIPEMIG"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "alias"
+            ],
+            "value": "Faculdade Batista de Minas Gerais"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Faculdade Ipemig"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "alias"
+            ],
+            "value": "Instituto de Estudos em Ciências Humanas"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-10-29",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "bombeiros.mg.gov.br"
+        ],
+        "established": 1911,
+        "external_ids": [],
+        "id": "https://ror.org/0546eya52",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://bombeiros.mg.gov.br"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://pt.wikipedia.org/wiki/Corpo_de_Bombeiros_Militar_do_Estado_de_Minas_Gerais"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "BR",
+              "country_name": "Brazil",
+              "country_subdivision_code": "MG",
+              "country_subdivision_name": "Minas Gerais",
+              "lat": -19.92083,
+              "lng": -43.93778,
+              "name": "Belo Horizonte"
+            },
+            "geonames_id": 3470127
+          }
+        ],
+        "names": [
+          {
+            "lang": "pt",
+            "types": [
+              "acronym"
+            ],
+            "value": "CBMMG"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Corpo de Bombeiros Militar de Minas Gerais"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Minas Gerais Fire Department"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1952,
+        "external_ids": [
+          {
+            "all": [
+              "501100006274"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.468121.8"
+            ],
+            "preferred": "grid.468121.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0629 9312"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1121202"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02kbrsj34",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.cemig.com.br/en-us/Pages/default.aspx"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/CEMIG"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "BR",
+              "country_name": "Brazil",
+              "country_subdivision_code": "MG",
+              "country_subdivision_name": "Minas Gerais",
+              "lat": -19.92083,
+              "lng": -43.93778,
+              "name": "Belo Horizonte"
+            },
+            "geonames_id": 3470127
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CEMIG"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Companhia Energética de Minas Gerais (Brazil)"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1950,
+        "external_ids": [
+          {
+            "all": [
+              "grid.419130.e"
+            ],
+            "preferred": "grid.419130.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0413 0953"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/01p7p3890",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.cmmg.edu.br/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "BR",
+              "country_name": "Brazil",
+              "country_subdivision_code": "MG",
+              "country_subdivision_name": "Minas Gerais",
+              "lat": -19.92083,
+              "lng": -43.93778,
+              "name": "Belo Horizonte"
+            },
+            "geonames_id": 3470127
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "FCMMG"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Faculdade de Ciências Médicas de Minas Gerais"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "epamig.br"
+        ],
+        "established": 1974,
+        "external_ids": [
+          {
+            "all": [
+              "501100017000"
+            ],
+            "preferred": "501100017000",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.472924.e"
+            ],
+            "preferred": "grid.472924.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2112 4596"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/034bdyc78",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.epamig.br"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "BR",
+              "country_name": "Brazil",
+              "country_subdivision_code": "MG",
+              "country_subdivision_name": "Minas Gerais",
+              "lat": -19.92083,
+              "lng": -43.93778,
+              "name": "Belo Horizonte"
+            },
+            "geonames_id": 3470127
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "EPAMIG"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Empresa de Pesquisa Agropecuária de Minas Gerais"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-08-06",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-08-07",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "codemge.com.br"
+        ],
+        "established": 2018,
+        "external_ids": [],
+        "id": "https://ror.org/03sqj6c96",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.codemge.com.br"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://pt.wikipedia.org/wiki/Companhia_de_Desenvolvimento_Econ%C3%B4mico_de_Minas_Gerais"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "BR",
+              "country_name": "Brazil",
+              "country_subdivision_code": "MG",
+              "country_subdivision_name": "Minas Gerais",
+              "lat": -19.92083,
+              "lng": -43.93778,
+              "name": "Belo Horizonte"
+            },
+            "geonames_id": 3470127
+          }
+        ],
+        "names": [
+          {
+            "lang": "pt",
+            "types": [
+              "acronym"
+            ],
+            "value": "CODEMGE"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Companhia de Desenvolvimento Econômico de Minas Gerais"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-07-05",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "saude.mg.gov.br"
+        ],
+        "established": 1948,
+        "external_ids": [
+          {
+            "all": [
+              "501100007398"
+            ],
+            "preferred": "501100007398",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/048jpcv33",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.saude.mg.gov.br"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "BR",
+              "country_name": "Brazil",
+              "country_subdivision_code": "MG",
+              "country_subdivision_name": "Minas Gerais",
+              "lat": -19.92083,
+              "lng": -43.93778,
+              "name": "Belo Horizonte"
+            },
+            "geonames_id": 3470127
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SES-MG"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Secretaria de Estado de Saúde de Minas Gerais"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Secretary of Health of Minas Gerais"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Secretary of Health of the State of Minas Gerais"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "funder",
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-03-26",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-03-26",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "educacao.mg.gov.br"
+        ],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/030g3ew36",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.educacao.mg.gov.br"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "BR",
+              "country_name": "Brazil",
+              "country_subdivision_code": "MG",
+              "country_subdivision_name": "Minas Gerais",
+              "lat": -19.92083,
+              "lng": -43.93778,
+              "name": "Belo Horizonte"
+            },
+            "geonames_id": 3470127
+          }
+        ],
+        "names": [
+          {
+            "lang": "pt",
+            "types": [
+              "acronym"
+            ],
+            "value": "SEE-MG"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Secretaria de Estado de Educação de Minas Gerais"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "Secretaría de Estado de Educación de Minas Gerais"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "State Secretariat of Education of Minas Gerais"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1977,
+        "external_ids": [
+          {
+            "all": [
+              "grid.452464.5"
+            ],
+            "preferred": "grid.452464.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9270 1314"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q10286337"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/056r88m65",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.fhemig.mg.gov.br/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "BR",
+              "country_name": "Brazil",
+              "country_subdivision_code": "MG",
+              "country_subdivision_name": "Minas Gerais",
+              "lat": -19.92083,
+              "lng": -43.93778,
+              "name": "Belo Horizonte"
+            },
+            "geonames_id": 3470127
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "Fhemig"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Fundação Hospitalar do Estado de Minas Gerais"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "alias"
+            ],
+            "value": "Hospital Eduardo de Menezes"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2008,
+        "external_ids": [
+          {
+            "all": [
+              "grid.454346.4"
+            ],
+            "preferred": "grid.454346.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0564 3603"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/03w6rv149",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ifnmg.edu.br/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "BR",
+              "country_name": "Brazil",
+              "country_subdivision_code": "MG",
+              "country_subdivision_name": "Minas Gerais",
+              "lat": -15.47949,
+              "lng": -44.3652,
+              "name": "Januária"
+            },
+            "geonames_id": 3460148
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "IFNMG "
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 3809
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 3215
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 2205
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 1509
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 1054
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 1005
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 900
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 314
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 235
+        }
+      ],
+      "countries": [
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 2384
+        },
+        {
+          "id": "pt",
+          "title": "Portugal",
+          "count": 1299
+        },
+        {
+          "id": "es",
+          "title": "Spain",
+          "count": 1226
+        },
+        {
+          "id": "br",
+          "title": "Brazil",
+          "count": 1188
+        },
+        {
+          "id": "mx",
+          "title": "Mexico",
+          "count": 693
+        },
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 606
+        },
+        {
+          "id": "ca",
+          "title": "Canada",
+          "count": 587
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 399
+        },
+        {
+          "id": "ar",
+          "title": "Argentina",
+          "count": 377
+        },
+        {
+          "id": "co",
+          "title": "Colombia",
+          "count": 261
+        }
+      ],
+      "continents": [
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 6242
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 2427
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 2240
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 909
+        },
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 171
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 28
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 12015
+        }
+      ]
+    }
+  }
+}

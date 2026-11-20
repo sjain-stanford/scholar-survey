@@ -1,0 +1,145 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "q": "intitle:AnalogNets",
+    "hl": "en",
+    "num": 10
+  },
+  "accessed_at_utc": "2026-10-07T12:40:01.747407+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63da1936151193c39bf45",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/S90CUOI3scBGxIaEH8dvmHMmPIyQTFY36vN1KitgKM4/6ac63da1936151193c39bf45.json",
+      "markdown_endpoint": "https://serpapi.com/searches/S90CUOI3scBGxIaEH8dvmHMmPIyQTFY36vN1KitgKM4/6ac63da1936151193c39bf45.md",
+      "created_at": "2026-10-07 12:40:01 UTC",
+      "processed_at": "2026-10-07 12:40:01 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?q=intitle%3AAnalogNets&hl=en&num=10",
+      "raw_html_file": "https://serpapi.com/searches/S90CUOI3scBGxIaEH8dvmHMmPIyQTFY36vN1KitgKM4/6ac63da1936151193c39bf45.html",
+      "total_time_taken": 1.16
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "q": "intitle:AnalogNets",
+      "hl": "en",
+      "num": "10"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 2,
+      "time_taken_displayed": 0.16,
+      "query_displayed": "intitle:AnalogNets"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "AnalogNets: ML-HW co-design of noise-robust TinyML models and always-on analog compute-in-memory accelerator",
+        "result_id": "uTfdAIswgrMJ",
+        "link": "https://arxiv.org/abs/2111.06503",
+        "snippet": "… This work describes AnalogNets: TinyML models for the popular … We evaluate the AnalogNets on a calibrated simulator, as well … AnalogNets running on the 14nm AON-CiM accelerator …",
+        "publication_info": {
+          "summary": "C Zhou, FG Redondo, J Büchel, I Boybat… - arXiv preprint arXiv …, 2021 - arxiv.org",
+          "authors": [
+            {
+              "name": "C Zhou",
+              "link": "https://scholar.google.com/citations?user=IQbOdyYAAAAJ&hl=en&oi=sra",
+              "author_id": "IQbOdyYAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=IQbOdyYAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "FG Redondo",
+              "link": "https://scholar.google.com/citations?user=oUxp0E0AAAAJ&hl=en&oi=sra",
+              "author_id": "oUxp0E0AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=oUxp0E0AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "J Büchel"
+            },
+            {
+              "name": "I Boybat",
+              "link": "https://scholar.google.com/citations?user=nPA0KnIAAAAJ&hl=en&oi=sra",
+              "author_id": "nPA0KnIAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nPA0KnIAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2111.06503"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=uTfdAIswgrMJ",
+          "cited_by": {
+            "total": 32,
+            "link": "https://scholar.google.com/scholar?cites=12934954453334570937&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "12934954453334570937",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12934954453334570937&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:uTfdAIswgrMJ:scholar.google.com/&scioq=intitle:AnalogNets&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AuTfdAIswgrMJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=12934954453334570937&hl=en&as_sdt=0,5",
+            "cluster_id": "12934954453334570937",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=12934954453334570937&engine=google_scholar&hl=en"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:uTfdAIswgrMJ:scholar.google.com/+intitle:AnalogNets&hl=en&as_sdt=0,5"
+        }
+      },
+      {
+        "position": 2,
+        "title": "Shidhartha Das, Abu Sebastian, Manuel Le Gallo, and Paul N Whatmough. 2021. Analognets: ML-HW co-design of noiserobust TinyML models and …",
+        "result_id": "TgRhZ6EmGFMJ",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+          "summary": "C Zhou, FG Redondo, J Büchel, I Boybat, XT Comas… - arXiv preprint arXiv …, 2021",
+          "authors": [
+            {
+              "name": "C Zhou",
+              "link": "https://scholar.google.com/citations?user=IQbOdyYAAAAJ&hl=en&oi=sra",
+              "author_id": "IQbOdyYAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=IQbOdyYAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "FG Redondo",
+              "link": "https://scholar.google.com/citations?user=oUxp0E0AAAAJ&hl=en&oi=sra",
+              "author_id": "oUxp0E0AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=oUxp0E0AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "J Büchel"
+            },
+            {
+              "name": "I Boybat"
+            },
+            {
+              "name": "XT Comas"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=TgRhZ6EmGFMJ",
+          "cited_by": {
+            "total": 10,
+            "link": "https://scholar.google.com/scholar?cites=5987578179255075918&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "5987578179255075918",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=5987578179255075918&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:TgRhZ6EmGFMJ:scholar.google.com/&scioq=intitle:AnalogNets&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3ATgRhZ6EmGFMJ%3Ascholar.google.com%2F"
+        }
+      }
+    ]
+  }
+}

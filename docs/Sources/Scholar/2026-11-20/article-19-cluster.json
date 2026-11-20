@@ -1,0 +1,250 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cluster": "14516287917516942788",
+    "hl": "en",
+    "no_cache": "true"
+  },
+  "accessed_at_utc": "2026-11-20T12:59:40.161399+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6b00443bba7b0585315ec980",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/Dm-UaEym2THYOvqwISpDBuNuDO6GyoiK5T_n1kR7ZIg/6b00443bba7b0585315ec980.json",
+      "markdown_endpoint": "https://serpapi.com/searches/Dm-UaEym2THYOvqwISpDBuNuDO6GyoiK5T_n1kR7ZIg/6b00443bba7b0585315ec980.md",
+      "created_at": "2026-11-20 12:59:39 UTC",
+      "processed_at": "2026-11-20 12:59:39 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cluster=14516287917516942788&hl=en",
+      "raw_html_file": "https://serpapi.com/searches/Dm-UaEym2THYOvqwISpDBuNuDO6GyoiK5T_n1kR7ZIg/6b00443bba7b0585315ec980.html",
+      "total_time_taken": 1.14
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cluster": "14516287917516942788",
+      "hl": "en"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 6,
+      "time_taken_displayed": 0.02
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Bringing AI to edge: From deep learning's perspective",
+        "result_id": "xG3kTPM2dMkJ",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0925231221016428",
+        "snippet": "Edge computing and artificial intelligence (AI), especially deep learning algorithms, are gradually intersecting to build the novel system, namely edge intelligence. However, the …",
+        "publication_info": {
+          "summary": "D Liu, H Kong, X Luo, W Liu, R Subramaniam - Neurocomputing, 2022 - Elsevier",
+          "authors": [
+            {
+              "name": "D Liu",
+              "link": "https://scholar.google.com/citations?user=3e9kkccAAAAJ&hl=en&oi=sra",
+              "author_id": "3e9kkccAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3e9kkccAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "H Kong",
+              "link": "https://scholar.google.com/citations?user=CBLdvP4AAAAJ&hl=en&oi=sra",
+              "author_id": "CBLdvP4AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=CBLdvP4AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "X Luo",
+              "link": "https://scholar.google.com/citations?user=gWH7imoAAAAJ&hl=en&oi=sra",
+              "author_id": "gWH7imoAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gWH7imoAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "W Liu",
+              "link": "https://scholar.google.com/citations?user=UozjxW8AAAAJ&hl=en&oi=sra",
+              "author_id": "UozjxW8AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=UozjxW8AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "R Subramaniam"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=xG3kTPM2dMkJ",
+          "cited_by": {
+            "total": 248,
+            "link": "https://scholar.google.com/scholar?cites=14516287917516942788&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "14516287917516942788",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=14516287917516942788&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:xG3kTPM2dMkJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=14516287917516942788&engine=google_scholar&hl=en&q=related%3AxG3kTPM2dMkJ%3Ascholar.google.com%2F"
+        }
+      },
+      {
+        "position": 2,
+        "title": "Bringing AI to edge: From deep learning's perspective",
+        "result_id": "OMl3FQbNMkYJ",
+        "type": "Citation",
+        "link": "https://cir.nii.ac.jp/crid/1360868142899381248",
+        "snippet": "",
+        "publication_info": {
+          "summary": "HK Di Liu, X Luo, W Liu, R Subramaniam - Neurocomputing, 2022 - cir.nii.ac.jp",
+          "authors": [
+            {
+              "name": "HK Di Liu"
+            },
+            {
+              "name": "X Luo"
+            },
+            {
+              "name": "W Liu"
+            },
+            {
+              "name": "R Subramaniam"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=OMl3FQbNMkYJ"
+        }
+      },
+      {
+        "position": 3,
+        "title": "Bringing AI To Edge: From Deep Learning's Perspective",
+        "result_id": "U6pPb9--toAJ",
+        "type": "Pdf",
+        "link": "https://www.academia.edu/download/84998124/2011.pdf",
+        "snippet": "Edge computing and artificial intelligence (AI), especially deep learning for nowadays, are gradually intersecting to build a novel system, called edge intelligence. However, the …",
+        "publication_info": {
+          "summary": "HK Di Liu, X Luo, W Liu, R Subramaniam - academia.edu",
+          "authors": [
+            {
+              "name": "HK Di Liu"
+            },
+            {
+              "name": "X Luo"
+            },
+            {
+              "name": "W Liu"
+            },
+            {
+              "name": "R Subramaniam"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "academia.edu",
+            "file_format": "PDF",
+            "link": "https://www.academia.edu/download/84998124/2011.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=U6pPb9--toAJ"
+        }
+      },
+      {
+        "position": 4,
+        "title": "Bringing AI To Edge: From Deep Learning's Perspective",
+        "result_id": "gZdPCAbJrI4J",
+        "link": "https://arxiv.org/abs/2011.14808",
+        "snippet": "Edge computing and artificial intelligence (AI), especially deep learning for nowadays, are gradually intersecting to build a novel system, called edge intelligence. However, the …",
+        "publication_info": {
+          "summary": "D Liu, H Kong, X Luo, W Liu… - arXiv preprint arXiv …, 2020 - arxiv.org",
+          "authors": [
+            {
+              "name": "D Liu"
+            },
+            {
+              "name": "H Kong"
+            },
+            {
+              "name": "X Luo"
+            },
+            {
+              "name": "W Liu"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2011.14808"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=gZdPCAbJrI4J"
+        }
+      },
+      {
+        "position": 5,
+        "title": "Bringing AI to edge:: From deep learning's perspective",
+        "result_id": "ZjIjCEVcVscJ",
+        "link": "https://dl.acm.org/doi/abs/10.1016/J.NEUCOM.2021.04.141",
+        "snippet": "Edge computing and artificial intelligence (AI), especially deep learning algorithms, are gradually intersecting to build the novel system, namely edge intelligence. However, the …",
+        "publication_info": {
+          "summary": "D Liu, H Kong, X Luo, W Liu, R Subramaniam - 2022 - dl.acm.org",
+          "authors": [
+            {
+              "name": "D Liu"
+            },
+            {
+              "name": "H Kong"
+            },
+            {
+              "name": "X Luo"
+            },
+            {
+              "name": "W Liu"
+            },
+            {
+              "name": "R Subramaniam"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ZjIjCEVcVscJ"
+        }
+      },
+      {
+        "position": 6,
+        "title": "Bringing AI To Edge: From Deep Learning's Perspective",
+        "result_id": "vFsOvW9An-sJ",
+        "link": "https://ui.adsabs.harvard.edu/abs/2020arXiv201114808L/abstract",
+        "snippet": "Edge computing and artificial intelligence (AI), especially deep learning for nowadays, are gradually intersecting to build a novel system, called edge intelligence. However, the …",
+        "publication_info": {
+          "summary": "D Liu, H Kong, X Luo, W Liu… - arXiv e-prints, 2020 - ui.adsabs.harvard.edu",
+          "authors": [
+            {
+              "name": "D Liu"
+            },
+            {
+              "name": "H Kong"
+            },
+            {
+              "name": "X Luo"
+            },
+            {
+              "name": "W Liu"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=vFsOvW9An-sJ"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,2139 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Hanyang+University",
+  "http_status": 200,
+  "query": "Hanyang University",
+  "data": {
+    "number_of_results": 14690,
+    "time_taken": 20,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "hanyang.ac.kr"
+        ],
+        "established": 1939,
+        "external_ids": [
+          {
+            "all": [
+              "501100007783",
+              "501100002380"
+            ],
+            "preferred": "501100002380",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.49606.3d"
+            ],
+            "preferred": "grid.49606.3d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 1364 9317"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q40006",
+              "Q39487328"
+            ],
+            "preferred": "Q40006",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/046865y68",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.hanyang.ac.kr/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Hanyang_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Hanyang University"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "한양대학교"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Hanyang University Medical Center",
+            "type": "child",
+            "id": "https://ror.org/05tn05n57"
+          },
+          {
+            "label": "Hanyang University Guri Hospital",
+            "type": "related",
+            "id": "https://ror.org/02f9avj37"
+          },
+          {
+            "label": "Hanyang University Medical Center",
+            "type": "related",
+            "id": "https://ror.org/05tn05n57"
+          },
+          {
+            "label": "Hanyang University Seoul Hospital",
+            "type": "related",
+            "id": "https://ror.org/04n76mm80"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1974,
+        "external_ids": [
+          {
+            "all": [
+              "grid.448985.c"
+            ],
+            "preferred": "grid.448985.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0647 9091"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q624831"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00qyadr13",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.hywoman.ac.kr"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Hanyang_Women%27s_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Hanyang Women's Junior College"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Hanyang Women's University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Hanyang Women's Vocational School"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "한양여자대학교"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2002,
+        "external_ids": [
+          {
+            "all": [
+              "grid.461858.6"
+            ],
+            "preferred": "grid.461858.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 6398 5484"
+            ],
+            "preferred": "0000 0004 6398 5484",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5651452"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05tkqcq07",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://en.hycu.ac.kr/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Hanyang_Cyber_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Hanyang Cyber University"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "한양사이버대학교"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "seoul.hyumc.com"
+        ],
+        "established": 1972,
+        "external_ids": [
+          {
+            "all": [
+              "grid.412147.5"
+            ],
+            "preferred": "grid.412147.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0647 539X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30254021"
+            ],
+            "preferred": "Q30254021",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04n76mm80",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://seoul.hyumc.com"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90%EB%B3%91%EC%9B%90"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Hanyang University Hospital"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Hanyang University Seoul Hospital"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "한양대학교병원"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "한양대학교서울병원"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Hanyang University International Hospital",
+            "type": "child",
+            "id": "https://ror.org/00v6w5255"
+          },
+          {
+            "label": "Hanyang University Medical Center",
+            "type": "parent",
+            "id": "https://ror.org/05tn05n57"
+          },
+          {
+            "label": "Hanyang University",
+            "type": "related",
+            "id": "https://ror.org/046865y68"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-07-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-07-15",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "seoul.hyumc.com"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 4671 5562"
+            ],
+            "preferred": "0000 0004 4671 5562",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/00v6w5255",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://seoul.hyumc.com/seoul/international.do"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Hanyang University International Hospital"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "한양대학교국제병원"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Hanyang University Medical Center",
+            "type": "parent",
+            "id": "https://ror.org/05tn05n57"
+          },
+          {
+            "label": "Hanyang University Seoul Hospital",
+            "type": "parent",
+            "id": "https://ror.org/04n76mm80"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1995,
+        "external_ids": [
+          {
+            "all": [
+              "grid.412145.7"
+            ],
+            "preferred": "grid.412145.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0647 3212"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30254020"
+            ],
+            "preferred": "Q30254020",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02f9avj37",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://guri.hyumc.com/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90%EA%B5%AC%EB%A6%AC%EB%B3%91%EC%9B%90"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "41",
+              "country_subdivision_name": "Gyeonggi-do",
+              "lat": 37.5986,
+              "lng": 127.1394,
+              "name": "Guri-si"
+            },
+            "geonames_id": 1841988
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Hanyang University Guri Hospital"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "한양대학교구리병원"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Hanyang University Medical Center",
+            "type": "parent",
+            "id": "https://ror.org/05tn05n57"
+          },
+          {
+            "label": "Hanyang University",
+            "type": "related",
+            "id": "https://ror.org/046865y68"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "hyumc.com"
+        ],
+        "established": 1972,
+        "external_ids": [
+          {
+            "all": [
+              "grid.411986.3"
+            ],
+            "preferred": "grid.411986.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 4671 5423"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q12624172"
+            ],
+            "preferred": "Q12624172",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05tn05n57",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.hyumc.com"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_%EC%9D%98%EB%A3%8C%EC%9B%90"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "HYUMC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Hanyang University Medical Center"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "한양대학교의료원"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Hanyang University Hospital for Rheumatic Disease",
+            "type": "child",
+            "id": "https://ror.org/02dd1bz43"
+          },
+          {
+            "label": "Hanyang University International Hospital",
+            "type": "child",
+            "id": "https://ror.org/00v6w5255"
+          },
+          {
+            "label": "Hanyang University Seoul Hospital",
+            "type": "child",
+            "id": "https://ror.org/04n76mm80"
+          },
+          {
+            "label": "Hanyang University Guri Hospital",
+            "type": "child",
+            "id": "https://ror.org/02f9avj37"
+          },
+          {
+            "label": "Hanyang University",
+            "type": "parent",
+            "id": "https://ror.org/046865y68"
+          },
+          {
+            "label": "Hanyang University",
+            "type": "related",
+            "id": "https://ror.org/046865y68"
+          },
+          {
+            "label": "Changwon Hanmaeum Hospital",
+            "type": "related",
+            "id": "https://ror.org/055zxjg88"
+          },
+          {
+            "label": "Hanmaeum Medical Center",
+            "type": "related",
+            "id": "https://ror.org/02rdw6h67"
+          },
+          {
+            "label": "Sangnam Hanmaeum Hospital",
+            "type": "related",
+            "id": "https://ror.org/04sf78n69"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-07-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-07-15",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "seoul.hyumc.com"
+        ],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 4671 5482"
+            ],
+            "preferred": "0000 0004 4671 5482",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/02dd1bz43",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://seoul.hyumc.com/seoul/rheumatism.do"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Hanyang University Hospital for Rheumatic Disease"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Hanyang University Rheumatics Medical Center"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "한양대학교류마티스병원"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Hanyang University Medical Center",
+            "type": "parent",
+            "id": "https://ror.org/05tn05n57"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2019-02-17",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1957,
+        "external_ids": [
+          {
+            "all": [
+              "grid.501720.1"
+            ],
+            "preferred": "grid.501720.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q10829127"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04bm3wy68",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.dhsphue.edu.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": "26",
+              "country_subdivision_name": "Thừa Thiên Huế Province",
+              "lat": 16.4619,
+              "lng": 107.59546,
+              "name": "Huế"
+            },
+            "geonames_id": 1580240
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Hue University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Hue University of Education"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Hue University's College of Education"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label"
+            ],
+            "value": "Trường Đại học Sư phạm Huế"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Education, Hue University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-03-31",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1949,
+        "external_ids": [
+          {
+            "all": [
+              "501100005695"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.265107.7"
+            ],
+            "preferred": "grid.265107.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0663 5064"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1148210"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/024yc3q36",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.tottori-u.ac.jp/english/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Tottori_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "JP",
+              "country_name": "Japan",
+              "country_subdivision_code": "31",
+              "country_subdivision_name": "Tottori",
+              "lat": 35.5,
+              "lng": 134.23333,
+              "name": "Tottori-shi"
+            },
+            "geonames_id": 1849892
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National University Corporation Tottori University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Tottori Daigaku"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Tottori University"
+          },
+          {
+            "lang": "ja",
+            "types": [
+              "label"
+            ],
+            "value": "鳥取大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Chromosome Engineering Research Center",
+            "type": "child",
+            "id": "https://ror.org/04gsg8b22"
+          },
+          {
+            "label": "Tottori University Hospital",
+            "type": "related",
+            "id": "https://ror.org/03wa1wy25"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2008,
+        "external_ids": [
+          {
+            "all": [
+              "grid.411091.c"
+            ],
+            "preferred": "grid.411091.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 4910 8020"
+            ],
+            "preferred": "0000 0004 4910 8020",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q49782"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03zcpvf19",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.uk.rub.de/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_Hospitals_of_the_Ruhr-University_of_Bochum"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "DE",
+              "country_name": "Germany",
+              "country_subdivision_code": "NW",
+              "country_subdivision_name": "North Rhine-Westphalia",
+              "lat": 51.48165,
+              "lng": 7.21648,
+              "name": "Bochum"
+            },
+            "geonames_id": 2947416
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UK RUB"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Hospital Ruhr University Bochum"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Hospital of Ruhr University Bochum"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Hospital of the Ruhr University Bochum"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University Hospital of the Ruhr-University Bochum"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University Hospitals of the Ruhr-University of Bochum"
+          },
+          {
+            "lang": "de",
+            "types": [
+              "label"
+            ],
+            "value": "Universitätsklinikum der Ruhr-Universität Bochum"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "BG University Hospital Bergmannsheil Bochum",
+            "type": "child",
+            "id": "https://ror.org/04j9bvy88"
+          },
+          {
+            "label": "Heart and Diabetes Center North Rhine-Westphalia",
+            "type": "child",
+            "id": "https://ror.org/02wndzd81"
+          },
+          {
+            "label": "Herford Hospital",
+            "type": "child",
+            "id": "https://ror.org/03p371b74"
+          },
+          {
+            "label": "Johannes Wesling Klinikum Minden",
+            "type": "child",
+            "id": "https://ror.org/05d89kr76"
+          },
+          {
+            "label": "LWL-Universitätsklinik Hamm",
+            "type": "child",
+            "id": "https://ror.org/05w1kdn42"
+          },
+          {
+            "label": "LWL-Universitätsklinikum Bochum",
+            "type": "child",
+            "id": "https://ror.org/04nkkrh90"
+          },
+          {
+            "label": "Medizinisches Zentrum für Seelische Gesundheit",
+            "type": "child",
+            "id": "https://ror.org/05vv9dr68"
+          },
+          {
+            "label": "St. Josef-Hospital",
+            "type": "child",
+            "id": "https://ror.org/046vare28"
+          },
+          {
+            "label": "Universitätsklinik Marien Hospital Herne",
+            "type": "child",
+            "id": "https://ror.org/004h6mc53"
+          },
+          {
+            "label": "Universitätsklinikum Knappschaftskrankenhaus Bochum",
+            "type": "child",
+            "id": "https://ror.org/024j3hn90"
+          },
+          {
+            "label": "Ruhr University Bochum",
+            "type": "related",
+            "id": "https://ror.org/04tsk2644"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-22",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "husc.edu.vn"
+        ],
+        "established": 1957,
+        "external_ids": [],
+        "id": "https://ror.org/00qpm2f14",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://husc.edu.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Thừa Thiên Huế Province",
+              "lat": 16.4619,
+              "lng": 107.59546,
+              "name": "Huế"
+            },
+            "geonames_id": 1580240
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "HUSC"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Trường Đại học Khoa học, Đại học Huế"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Sciences, Hue University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-08-22",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-08-25",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "hce.edu.vn"
+        ],
+        "established": 2002,
+        "external_ids": [],
+        "id": "https://ror.org/03x812s82",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://hce.edu.vn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "VN",
+              "country_name": "Vietnam",
+              "country_subdivision_code": null,
+              "country_subdivision_name": "Thừa Thiên Huế Province",
+              "lat": 16.4619,
+              "lng": 107.59546,
+              "name": "Huế"
+            },
+            "geonames_id": 1580240
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "HUE"
+          },
+          {
+            "lang": "vi",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Trường Đại học Kinh tế, Đại học Huế"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "University of Economics, Hue University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ucsiuniversity.edu.my"
+        ],
+        "established": 1986,
+        "external_ids": [
+          {
+            "all": [
+              "100031258"
+            ],
+            "preferred": "100031258",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.444472.5"
+            ],
+            "preferred": "grid.444472.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1756 3061"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7864125"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/019787q29",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ucsiuniversity.edu.my"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/UCSI_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "MY",
+              "country_name": "Malaysia",
+              "country_subdivision_code": "14",
+              "country_subdivision_name": "Kuala Lumpur",
+              "lat": 3.1412,
+              "lng": 101.68653,
+              "name": "Kuala Lumpur"
+            },
+            "geonames_id": 1735161
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "UCSI University"
+          },
+          {
+            "lang": "ms",
+            "types": [
+              "label"
+            ],
+            "value": "Universiti UCSI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University College Sedaya International"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "University College Sedaya International University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2003,
+        "external_ids": [
+          {
+            "all": [
+              "grid.448838.b"
+            ],
+            "preferred": "grid.448838.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "Q5530381"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01bjw7k75",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.gelatouniversity.com/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Gelato_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "IT",
+              "country_name": "Italy",
+              "country_subdivision_code": "45",
+              "country_subdivision_name": "Emilia-Romagna",
+              "lat": 44.54197,
+              "lng": 11.20548,
+              "name": "Anzola dell'Emilia"
+            },
+            "geonames_id": 3183002
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Gelato University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2004,
+        "external_ids": [
+          {
+            "all": [
+              "grid.448851.4"
+            ],
+            "preferred": "grid.448851.4",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1781 1037"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q16258266"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05cqafq62",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.chuka.ac.ke/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Chuka_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "KE",
+              "country_name": "Kenya",
+              "country_subdivision_code": "41",
+              "country_subdivision_name": "Tharaka - Nithi",
+              "lat": -0.33316,
+              "lng": 37.64587,
+              "name": "Chuka"
+            },
+            "geonames_id": 199284
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Chuka University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Chuka University College"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2005,
+        "external_ids": [
+          {
+            "all": [
+              "grid.448853.6"
+            ],
+            "preferred": "grid.448853.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9420 7723"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3303491"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04sdbjc29",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.kristal.edu.al/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Kristal_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "AL",
+              "country_name": "Albania",
+              "country_subdivision_code": "06",
+              "country_subdivision_name": "Korçë County",
+              "lat": 40.61861,
+              "lng": 20.78083,
+              "name": "Korçë"
+            },
+            "geonames_id": 782756
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Kristal University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UK"
+          },
+          {
+            "lang": "sq",
+            "types": [
+              "label"
+            ],
+            "value": "Universiteti Kristal"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2004,
+        "external_ids": [
+          {
+            "all": [
+              "grid.448859.c"
+            ],
+            "preferred": "grid.448859.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 6023 9283"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6443863"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05kvq4b11",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://kumiuniversity.ac.ug/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Kumi_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AF",
+              "continent_name": "Africa",
+              "country_code": "UG",
+              "country_name": "Uganda",
+              "country_subdivision_code": "E",
+              "country_subdivision_name": "Eastern Region",
+              "lat": 1.46083,
+              "lng": 33.93611,
+              "name": "Kumi"
+            },
+            "geonames_id": 230584
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "KUMU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Kumi University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1992,
+        "external_ids": [
+          {
+            "all": [
+              "grid.448861.7"
+            ],
+            "preferred": "grid.448861.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 6018 4913"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6444353"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/03r6cc113",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.kundong.ac.kr/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Kundong_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "47",
+              "country_subdivision_name": "Gyeongsangbuk-do",
+              "lat": 36.56636,
+              "lng": 128.72275,
+              "name": "Andong"
+            },
+            "geonames_id": 1846986
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "AIT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Andong Info Tech"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Kundong University"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "건동대학교"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2008,
+        "external_ids": [
+          {
+            "all": [
+              "grid.448871.6"
+            ],
+            "preferred": "grid.448871.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 7386 4766"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3918307"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0075h8406",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://gu.edu.af/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Ghazni_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "AF",
+              "country_name": "Afghanistan",
+              "country_subdivision_code": "GHA",
+              "country_subdivision_name": "Ghazni",
+              "lat": 33.55391,
+              "lng": 68.42096,
+              "name": "Ghazni"
+            },
+            "geonames_id": 1141269
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Ghazni University"
+          },
+          {
+            "lang": "fa",
+            "types": [
+              "label"
+            ],
+            "value": "دانشگاه غزنی"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 12894
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 4147
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 1227
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 310
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 122
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 75
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 32
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 30
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 12
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 1980
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 1589
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 1001
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 836
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 467
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 443
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 443
+        },
+        {
+          "id": "ph",
+          "title": "Philippines",
+          "count": 384
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 382
+        },
+        {
+          "id": "ir",
+          "title": "Iran",
+          "count": 354
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 7411
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 3011
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 2487
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1151
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 530
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 100
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 14690
+        }
+      ]
+    }
+  }
+}

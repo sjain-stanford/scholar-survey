@@ -1,0 +1,314 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cites": "1211587708316162333",
+    "hl": "en",
+    "num": 20,
+    "start": 220,
+    "filter": 0,
+    "as_vis": 0,
+    "as_sdt": 7
+  },
+  "accessed_at_utc": "2026-10-07T12:39:03.412236+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63d6750849c682f44b534",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/MZAVwwh97nAIMBeTz6j4zoHBa17x4qa0nwRGG4oGEJs/6ac63d6750849c682f44b534.json",
+      "markdown_endpoint": "https://serpapi.com/searches/MZAVwwh97nAIMBeTz6j4zoHBa17x4qa0nwRGG4oGEJs/6ac63d6750849c682f44b534.md",
+      "created_at": "2026-10-07 12:39:03 UTC",
+      "processed_at": "2026-10-07 12:39:03 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cites=1211587708316162333&hl=en&start=220&num=21&filter=0&as_sdt=7&as_vis=0&scipsc=1",
+      "raw_html_file": "https://serpapi.com/searches/MZAVwwh97nAIMBeTz6j4zoHBa17x4qa0nwRGG4oGEJs/6ac63d6750849c682f44b534.html",
+      "total_time_taken": 1.76
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cites": "1211587708316162333",
+      "hl": "en",
+      "start": 220,
+      "num": "20",
+      "filter": "0",
+      "as_sdt": "7",
+      "as_vis": "0"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 227,
+      "page_number": 12,
+      "time_taken_displayed": 0.06
+    },
+    "citations_per_year": [
+      {
+        "year": 2019,
+        "citations": 1
+      },
+      {
+        "year": 2020,
+        "citations": 10
+      },
+      {
+        "year": 2021,
+        "citations": 43
+      },
+      {
+        "year": 2022,
+        "citations": 55
+      },
+      {
+        "year": 2023,
+        "citations": 33
+      },
+      {
+        "year": 2024,
+        "citations": 39
+      },
+      {
+        "year": 2025,
+        "citations": 31
+      },
+      {
+        "year": 2026,
+        "citations": 14
+      }
+    ],
+    "profiles": {
+      "link": "https://scholar.google.com/scholar?cluster=1211587708316162333&hl=en&num=20&as_sdt=2007&sciodt=2007",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Pareto-Optimal Quantized ResNet Is Mostly 4-bit",
+        "result_id": "0xJEP_5NeCEJ",
+        "type": "Html",
+        "link": "https://www.academia.edu/download/83748559/Abdolrashidi_Pareto-Optimal_Quantized_ResNet_Is_Mostly_4-Bit_CVPRW_2021_paper.pdf",
+        "snippet": "Quantization has become a popular technique to compress neural networks and reduce compute cost, but most prior work focuses on studying quantization without changing the …",
+        "publication_info": {
+          "summary": "S Agrawal - 2021 IEEE/CVF Conference on Computer Vision and …, 2021 - academia.edu",
+          "authors": [
+            {
+              "name": "S Agrawal",
+              "link": "https://scholar.google.com/citations?user=52f5kGIAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "52f5kGIAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=52f5kGIAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "HTML",
+            "link": null
+          },
+          {
+            "title": "academia.edu",
+            "file_format": "HTML",
+            "link": "https://www.academia.edu/download/83748559/Abdolrashidi_Pareto-Optimal_Quantized_ResNet_Is_Mostly_4-Bit_CVPRW_2021_paper.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=0xJEP_5NeCEJ",
+          "html_version": "https://www.academia.edu/download/83748559/Abdolrashidi_Pareto-Optimal_Quantized_ResNet_Is_Mostly_4-Bit_CVPRW_2021_paper.pdf",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:0xJEP_5NeCEJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=1211587708316162333&engine=google_scholar&filter=0&hl=en&num=20&q=related%3A0xJEP_5NeCEJ%3Ascholar.google.com%2F&start=220",
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:0xJEP_5NeCEJ:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007"
+        }
+      },
+      {
+        "position": 2,
+        "title": "End-to-end Quantized Training via Log-Barrier Extensions",
+        "result_id": "W4p1pWu14dgJ",
+        "link": "https://openreview.net/forum?id=igkmo23BgzB",
+        "snippet": "Quantization of neural network parameters and activations has emerged as a successful approach to reducing the model size and inference time on hardware that sup-ports native …",
+        "publication_info": {
+          "summary": "JB Li, S Qu, X Li, E Strubell, F Metze - openreview.net",
+          "authors": [
+            {
+              "name": "JB Li"
+            },
+            {
+              "name": "S Qu",
+              "link": "https://scholar.google.com/citations?user=J_Ru5MgAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "J_Ru5MgAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=J_Ru5MgAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "X Li"
+            },
+            {
+              "name": "E Strubell",
+              "link": "https://scholar.google.com/citations?user=UCDMtM0AAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "UCDMtM0AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=UCDMtM0AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "F Metze",
+              "link": "https://scholar.google.com/citations?user=FsEP7AgAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "FsEP7AgAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=FsEP7AgAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "openreview.net",
+            "file_format": "PDF",
+            "link": "https://openreview.net/pdf?id=igkmo23BgzB"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=W4p1pWu14dgJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:W4p1pWu14dgJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=1211587708316162333&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AW4p1pWu14dgJ%3Ascholar.google.com%2F&start=220",
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:W4p1pWu14dgJ:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007"
+        }
+      },
+      {
+        "position": 3,
+        "title": "Implementación de redes neuronales en sistemas empotrados de altas prestaciones",
+        "result_id": "NGqKVPast8EJ",
+        "type": "Pdf",
+        "link": "https://repositorio.uam.es/server/api/core/bitstreams/dac506f8-fdf1-403a-b67e-00dc53933b5a/content",
+        "snippet": "Las redes neuronales han sido uno de los grandes protagonistas de la informática esta década. Cada año el número de artículos científicos sobre aprendizaje automático aumenta …",
+        "publication_info": {
+          "summary": "FB Esquivel - repositorio.uam.es",
+          "authors": [
+            {
+              "name": "FB Esquivel"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "uam.es",
+            "file_format": "PDF",
+            "link": "https://repositorio.uam.es/server/api/core/bitstreams/dac506f8-fdf1-403a-b67e-00dc53933b5a/content"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=NGqKVPast8EJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:NGqKVPast8EJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=1211587708316162333&engine=google_scholar&filter=0&hl=en&num=20&q=related%3ANGqKVPast8EJ%3Ascholar.google.com%2F&start=220",
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:NGqKVPast8EJ:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007"
+        }
+      },
+      {
+        "position": 4,
+        "title": "객체 탐지 네트워크를 위한 정수 연산만을 사용한하드웨어 친화적인 양자화에 대한 연구",
+        "result_id": "vUw88UPFS3wJ",
+        "link": "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12143859",
+        "snippet": "최근 하드웨어 기술의 발전으로 딥러닝 기술이 컴퓨터 비전을 비롯한 다양한 분야에서 활발하게 활용되고 있다. 특히 컴퓨터 비전 분야에서는 높은 성능을 위해 CNN 을 사용하는데 …",
+        "publication_info": {
+          "summary": "서유권， 강진구， 김용우 - Journal of The Institute of Electronics and …, 2025 - dbpia.co.kr",
+          "authors": [
+            {
+              "name": "서유권， 강진구， 김용우"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=vUw88UPFS3wJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:vUw88UPFS3wJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=1211587708316162333&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AvUw88UPFS3wJ%3Ascholar.google.com%2F&start=220"
+        }
+      },
+      {
+        "position": 5,
+        "title": "Concatenation 을 이용한 DSP 의 4-bit 병렬 Multiply-Accumulation",
+        "result_id": "tIzNmJFZnIwJ",
+        "link": "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11227774",
+        "snippet": "요 약최근 Deep Learning 에 관한 연구가 활발하면서 FPGA 가 많은 주목을 받고 있다. FPGA 가 Deep Learning 연산 속도를 향상시키기에 적절하기때문이다. 그러나 FPGA 의 Hardware …",
+        "publication_info": {
+          "summary": "문성빈， 강도경， 이성주 - 한국통신학회 학술대회논문집, 2023 - dbpia.co.kr",
+          "authors": [
+            {
+              "name": "문성빈， 강도경， 이성주"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=tIzNmJFZnIwJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:tIzNmJFZnIwJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=1211587708316162333&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AtIzNmJFZnIwJ%3Ascholar.google.com%2F&start=220"
+        }
+      },
+      {
+        "position": 6,
+        "title": "하드웨어 구현에 효율적인 Power-of-Two 균일 양자화 기법 연구",
+        "result_id": "W8XoAfRZ7TMJ",
+        "link": "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10591277",
+        "snippet": "하드웨어 구현에 효율적인 Power-of-Two 균일 양자화 기법 연구 Page 1 2021년 대한전자 공학회 하계학술대회 논문집 하드웨어 구현에 효율적인 Power-of-Two 균일 양자화 기법 연구 *김재명 …",
+        "publication_info": {
+          "summary": "김재명， 강진구， 김용우 - 대한전자공학회 학술대회, 2021 - dbpia.co.kr",
+          "authors": [
+            {
+              "name": "김재명， 강진구， 김용우"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=W8XoAfRZ7TMJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:W8XoAfRZ7TMJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=1211587708316162333&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AW8XoAfRZ7TMJ%3Ascholar.google.com%2F&start=220"
+        }
+      },
+      {
+        "position": 7,
+        "title": "Deep Learning: Systems and Responsibility",
+        "result_id": "ACJ81RsLQMQJ",
+        "type": "Html",
+        "link": "https://www.academia.edu/download/103206762/DL_Tutorial.pdf",
+        "snippet": "Deep learning enables numerous applications across diverse areas. Data systems researchers are also increasingly experimenting with deep learning to enhance data …",
+        "publication_info": {
+          "summary": "S Idreos, S Chatterjee - … of the 2021 International Conference on …, 2021 - academia.edu",
+          "authors": [
+            {
+              "name": "S Idreos",
+              "link": "https://scholar.google.com/citations?user=rg6Bl5YAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "rg6Bl5YAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=rg6Bl5YAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "S Chatterjee",
+              "link": "https://scholar.google.com/citations?user=IxKgtaAAAAAJ&hl=en&num=20&oi=sra",
+              "author_id": "IxKgtaAAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=IxKgtaAAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "HTML",
+            "link": null
+          },
+          {
+            "title": "academia.edu",
+            "file_format": "HTML",
+            "link": "https://www.academia.edu/download/103206762/DL_Tutorial.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ACJ81RsLQMQJ",
+          "html_version": "https://www.academia.edu/download/103206762/DL_Tutorial.pdf",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:ACJ81RsLQMQJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2007&sciodt=2007",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2007&as_vis=0&cites=1211587708316162333&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AACJ81RsLQMQJ%3Ascholar.google.com%2F&start=220",
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:ACJ81RsLQMQJ:scholar.google.com/&hl=en&num=20&as_sdt=2007&sciodt=2007"
+        }
+      }
+    ]
+  }
+}

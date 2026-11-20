@@ -1,0 +1,159 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cluster": "9451667418173804315",
+    "hl": "en",
+    "no_cache": "true"
+  },
+  "accessed_at_utc": "2026-11-20T12:59:42.957485+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6b00443e4a616b139692d34c",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/D3TOIDZhciMiG0v19Ct86NtB3Sj2yeDBHi4Za3JwGko/6b00443e4a616b139692d34c.json",
+      "markdown_endpoint": "https://serpapi.com/searches/D3TOIDZhciMiG0v19Ct86NtB3Sj2yeDBHi4Za3JwGko/6b00443e4a616b139692d34c.md",
+      "created_at": "2026-11-20 12:59:42 UTC",
+      "processed_at": "2026-11-20 12:59:42 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cluster=9451667418173804315&hl=en",
+      "raw_html_file": "https://serpapi.com/searches/D3TOIDZhciMiG0v19Ct86NtB3Sj2yeDBHi4Za3JwGko/6b00443e4a616b139692d34c.html",
+      "total_time_taken": 1.33
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cluster": "9451667418173804315",
+      "hl": "en"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 3,
+      "time_taken_displayed": 0.02
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Efficient SAR vessel detection for FPGA-based on-satellite sensing",
+        "result_id": "Gw9ik3ARK4MJ",
+        "link": "https://dl.acm.org/doi/abs/10.1145/3769102.3772713",
+        "snippet": "Rapid analysis of satellite imagery within minutes-to-hours of acquisition is increasingly vital for many remote sensing applications, and is an essential component for developing next …",
+        "publication_info": {
+          "summary": "C Laganier, L Fletcher, E Kwan, R Walters… - Proceedings of the …, 2025 - dl.acm.org",
+          "authors": [
+            {
+              "name": "C Laganier",
+              "link": "https://scholar.google.com/citations?user=rJOGsSwAAAAJ&hl=en&oi=sra",
+              "author_id": "rJOGsSwAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=rJOGsSwAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "L Fletcher"
+            },
+            {
+              "name": "E Kwan",
+              "link": "https://scholar.google.com/citations?user=9t5yNNMAAAAJ&hl=en&oi=sra",
+              "author_id": "9t5yNNMAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9t5yNNMAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "R Walters",
+              "link": "https://scholar.google.com/citations?user=du3DMfIAAAAJ&hl=en&oi=sra",
+              "author_id": "du3DMfIAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=du3DMfIAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "acm.org",
+            "file_format": "PDF",
+            "link": "https://dl.acm.org/doi/pdf/10.1145/3769102.3772713"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Gw9ik3ARK4MJ",
+          "cited_by": {
+            "total": 8,
+            "link": "https://scholar.google.com/scholar?cites=9451667418173804315&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "9451667418173804315",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9451667418173804315&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:Gw9ik3ARK4MJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=9451667418173804315&engine=google_scholar&hl=en&q=related%3AGw9ik3ARK4MJ%3Ascholar.google.com%2F"
+        }
+      },
+      {
+        "position": 2,
+        "title": "Efficient SAR Vessel Detection for FPGA-Based On-Satellite Sensing",
+        "result_id": "h3ZJFQfHwhEJ",
+        "link": "https://ui.adsabs.harvard.edu/abs/2025arXiv250704842L/abstract",
+        "snippet": "Rapid analysis of satellite data is vital for many remote sensing applications, from disaster response to environmental monitoring, but is becoming harder to achieve with the …",
+        "publication_info": {
+          "summary": "C Laganier, L Fletcher, E Kwan, R Walters… - arXiv e …, 2025 - ui.adsabs.harvard.edu",
+          "authors": [
+            {
+              "name": "C Laganier"
+            },
+            {
+              "name": "L Fletcher"
+            },
+            {
+              "name": "E Kwan"
+            },
+            {
+              "name": "R Walters"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=h3ZJFQfHwhEJ"
+        }
+      },
+      {
+        "position": 3,
+        "title": "Efficient SAR Vessel Detection for FPGA-Based On-Satellite Sensing",
+        "result_id": "NnAD0cOcNLoJ",
+        "type": "Pdf",
+        "link": "https://www.researchgate.net/profile/Victoria-Nockles/publication/393477211_Efficient_SAR_Vessel_Detection_for_FPGA-Based_On-Satellite_Sensing/links/688aa9f68134f02600941589/Efficient-SAR-Vessel-Detection-for-FPGA-Based-On-Satellite-Sensing.pdf",
+        "snippet": "Rapid analysis of satellite data is vital for many remote sensing applications, from disaster response to environmental monitoring, but is becoming harder to achieve with the …",
+        "publication_info": {
+          "summary": "C Laganier, L Fletcher, E Kwan, R Walters… - arXiv preprint arXiv …, 2025 - researchgate.net",
+          "authors": [
+            {
+              "name": "C Laganier"
+            },
+            {
+              "name": "L Fletcher"
+            },
+            {
+              "name": "E Kwan"
+            },
+            {
+              "name": "R Walters"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "researchgate.net",
+            "file_format": "PDF",
+            "link": "https://www.researchgate.net/profile/Victoria-Nockles/publication/393477211_Efficient_SAR_Vessel_Detection_for_FPGA-Based_On-Satellite_Sensing/links/688aa9f68134f02600941589/Efficient-SAR-Vessel-Detection-for-FPGA-Based-On-Satellite-Sensing.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=NnAD0cOcNLoJ"
+        }
+      }
+    ]
+  }
+}

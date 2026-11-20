@@ -1,0 +1,124 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "q": "\"Bayesian Bits: Unifying Quantization and Pruning\"",
+    "hl": "en",
+    "num": 10
+  },
+  "accessed_at_utc": "2026-10-07T12:39:08.741931+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63d6cf7ae8d02f8a21874",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/l4QaI_GWgP6ZWVmVtBu-nAbfG1_xO6vmED3f0YgHklo/6ac63d6cf7ae8d02f8a21874.json",
+      "markdown_endpoint": "https://serpapi.com/searches/l4QaI_GWgP6ZWVmVtBu-nAbfG1_xO6vmED3f0YgHklo/6ac63d6cf7ae8d02f8a21874.md",
+      "created_at": "2026-10-07 12:39:08 UTC",
+      "processed_at": "2026-10-07 12:39:08 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?q=%22Bayesian+Bits%3A+Unifying+Quantization+and+Pruning%22&hl=en&num=10",
+      "raw_html_file": "https://serpapi.com/searches/l4QaI_GWgP6ZWVmVtBu-nAbfG1_xO6vmED3f0YgHklo/6ac63d6cf7ae8d02f8a21874.html",
+      "total_time_taken": 0.49
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "q": "\"Bayesian Bits: Unifying Quantization and Pruning\"",
+      "hl": "en",
+      "num": "10"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "query_displayed": "\"Bayesian Bits: Unifying Quantization and Pruning\""
+    },
+    "profiles": {
+      "link": "https://scholar.google.com/scholar?lookup=0&q=%22Bayesian+Bits:+Unifying+Quantization+and+Pruning%22&hl=en&as_sdt=0,33",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=%22Bayesian+Bits%3A+Unifying+Quantization+and+Pruning%22"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Bayesian bits: Unifying quantization and pruning",
+        "result_id": "Yqph3u8tMkkJ",
+        "link": "https://proceedings.neurips.cc/paper_files/paper/2020/hash/3f13cf4ddf6fc50c0d39a1d5aeb57dd8-Abstract.html",
+        "snippet": "We introduce Bayesian Bits, a practical method for joint mixed precision quantization and pruning through gradient based optimization. Bayesian Bits employs a novel decomposition of the quantization operation, which sequentially considers doubling the bit width. At each new bit width, the residual error between the full precision value and the previously rounded value is quantized. We then decide whether or not to add this quantized residual error for a higher effective bit width and lower quantization noise. By starting with a power-of-two bit width, this decomposition will always produce hardware-friendly configurations, and through an additional 0-bit option, serves as a unified view of pruning and quantization. Bayesian Bits then introduces learnable stochastic gates, which collectively control the bit width of the given tensor. As a result, we can obtain low bit solutions by performing approximate inference over the gates, with prior distributions that encourage most of them to be switched off. We experimentally validate our proposed method on several benchmark datasets and show that we can learn pruned, mixed precision networks that provide a better trade-off between accuracy and efficiency than their static bit width equivalents.",
+        "publication_info": {
+          "summary": "M Van Baalen, C Louizos, M Nagel, RA Amjad, Y Wang, T Blankevoort, M WellingAdvances in neural information processing systems, 2020•proceedings.neurips.cc",
+          "authors": [
+            {
+              "name": "M Van Baalen",
+              "link": "https://scholar.google.com/citations?user=a-Au4JUAAAAJ&hl=en&oi=sra",
+              "author_id": "a-Au4JUAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=a-Au4JUAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "C Louizos",
+              "link": "https://scholar.google.com/citations?user=xrSUChoAAAAJ&hl=en&oi=sra",
+              "author_id": "xrSUChoAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xrSUChoAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "M Nagel",
+              "link": "https://scholar.google.com/citations?user=akNuBBEAAAAJ&hl=en&oi=sra",
+              "author_id": "akNuBBEAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=akNuBBEAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "RA Amjad",
+              "link": "https://scholar.google.com/citations?user=_51RoykAAAAJ&hl=en&oi=sra",
+              "author_id": "_51RoykAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_51RoykAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "Y Wang",
+              "link": "https://scholar.google.com/citations?user=w2Uw1sIAAAAJ&hl=en&oi=sra",
+              "author_id": "w2Uw1sIAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=w2Uw1sIAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "T Blankevoort",
+              "link": "https://scholar.google.com/citations?user=OGEyrG8AAAAJ&hl=en&oi=sra",
+              "author_id": "OGEyrG8AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OGEyrG8AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "M Welling",
+              "link": "https://scholar.google.com/citations?user=8200InoAAAAJ&hl=en&oi=sra",
+              "author_id": "8200InoAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8200InoAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "neurips.cc",
+            "file_format": "PDF",
+            "link": "https://proceedings.neurips.cc/paper_files/paper/2020/file/3f13cf4ddf6fc50c0d39a1d5aeb57dd8-Paper.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Yqph3u8tMkkJ",
+          "cited_by": {
+            "total": 207,
+            "link": "https://scholar.google.com/scholar?cites=5274328621855648354&as_sdt=5,33&sciodt=0,33&hl=en",
+            "cites_id": "5274328621855648354",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=5274328621855648354&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:Yqph3u8tMkkJ:scholar.google.com/&scioq=%22Bayesian+Bits:+Unifying+Quantization+and+Pruning%22&hl=en&as_sdt=0,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&num=10&q=related%3AYqph3u8tMkkJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cluster=5274328621855648354&hl=en&as_sdt=0,33",
+            "cluster_id": "5274328621855648354",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=5274328621855648354&engine=google_scholar&hl=en"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Yqph3u8tMkkJ:scholar.google.com/+%22Bayesian+Bits:+Unifying+Quantization+and+Pruning%22&hl=en&as_sdt=0,33"
+        }
+      }
+    ]
+  }
+}

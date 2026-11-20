@@ -1,0 +1,2216 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Los+Alamos+National+Laboratory",
+  "http_status": 200,
+  "query": "Los Alamos National Laboratory",
+  "data": {
+    "number_of_results": 6145,
+    "time_taken": 35,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "lanl.gov"
+        ],
+        "established": 1943,
+        "external_ids": [
+          {
+            "all": [
+              "100008902",
+              "100007000"
+            ],
+            "preferred": "100008902",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.148313.c"
+            ],
+            "preferred": "grid.148313.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0428 3079"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q379848"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01e41cf67",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://lanl.gov/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NM",
+              "country_subdivision_name": "New Mexico",
+              "lat": 35.88808,
+              "lng": -106.30697,
+              "name": "Los Alamos"
+            },
+            "geonames_id": 5476825
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "LANL"
+          },
+          {
+            "lang": "fr",
+            "types": [
+              "label"
+            ],
+            "value": "Laboratoire national de los alamos"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Laboratorio Nacional de Los Álamos"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Los Alamos National Laboratory"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "U.S. Department of Energy Los Alamos National Laboratory"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "U.S. Department of Energy National Nuclear Security Administration Los Alamos National Laboratory"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "United States Department of Energy Los Alamos National Laboratory"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "United States Department of Energy National Nuclear Security Administration Los Alamos National Laboratory"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Center for Integrated Nanotechnologies",
+            "type": "child",
+            "id": "https://ror.org/031yh0y38"
+          },
+          {
+            "label": "National High Magnetic Field Laboratory",
+            "type": "child",
+            "id": "https://ror.org/03s53g630"
+          },
+          {
+            "label": "Triad National Security (United States)",
+            "type": "parent",
+            "id": "https://ror.org/02tmabg35"
+          },
+          {
+            "label": "National Nuclear Security Administration",
+            "type": "parent",
+            "id": "https://ror.org/03sk1we31"
+          },
+          {
+            "label": "National Microbiome Data Collaborative",
+            "type": "related",
+            "id": "https://ror.org/05cwx3318"
+          },
+          {
+            "label": "Atmospheric Radiation Measurement User Facility",
+            "type": "related",
+            "id": "https://ror.org/01dvj3d25"
+          },
+          {
+            "label": "CICE Consortium",
+            "type": "related",
+            "id": "https://ror.org/040g91402"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2005,
+        "external_ids": [
+          {
+            "all": [
+              "grid.471055.2"
+            ],
+            "preferred": "grid.471055.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0617 2057"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6681868"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/037ddaj94",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.lansllc.com/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Los_Alamos_National_Security"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NM",
+              "country_subdivision_name": "New Mexico",
+              "lat": 35.88808,
+              "lng": -106.30697,
+              "name": "Los Alamos"
+            },
+            "geonames_id": 5476825
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "LANS"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Los Alamos National Security (United States)"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1943,
+        "external_ids": [
+          {
+            "all": [
+              "grid.416086.d"
+            ],
+            "preferred": "grid.416086.d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0454 8268"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/053dkp921",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.losalamosmedicalcenter.com/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NM",
+              "country_subdivision_name": "New Mexico",
+              "lat": 35.88808,
+              "lng": -106.30697,
+              "name": "Los Alamos"
+            },
+            "geonames_id": 5476825
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "LAMC"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Los Alamos Medical Center"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1943,
+        "external_ids": [
+          {
+            "all": [
+              "grid.435923.a"
+            ],
+            "preferred": "grid.435923.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0366 8161"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6681871"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05svz4z02",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://laschools.net/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Los_Alamos_Public_Schools"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NM",
+              "country_subdivision_name": "New Mexico",
+              "lat": 35.88808,
+              "lng": -106.30697,
+              "name": "Los Alamos"
+            },
+            "geonames_id": 5476825
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Los Alamos Public Schools"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1976,
+        "external_ids": [
+          {
+            "all": [
+              "grid.436245.2"
+            ],
+            "preferred": "grid.436245.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 6044 5538"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6681875"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0344tkb11",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.lata.com/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Los_Alamos_Technical_Associates"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "NM",
+              "country_subdivision_name": "New Mexico",
+              "lat": 35.88808,
+              "lng": -106.30697,
+              "name": "Los Alamos"
+            },
+            "geonames_id": 5476825
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "LATA"
+          },
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Los Alamos Technical Associates (United States)"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "company"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1944,
+        "external_ids": [
+          {
+            "all": [
+              "grid.419695.6"
+            ],
+            "preferred": "grid.419695.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0635 4555"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6974314"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0211zmf46",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.nmlindia.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/National_Metallurgical_Laboratory"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "IN",
+              "country_name": "India",
+              "country_subdivision_code": "JH",
+              "country_subdivision_name": "Jharkhand",
+              "lat": 22.80278,
+              "lng": 86.18545,
+              "name": "Jamshedpur"
+            },
+            "geonames_id": 1269300
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NML"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Metallurgical Laboratory"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Council of Scientific and Industrial Research",
+            "type": "parent",
+            "id": "https://ror.org/021wm7p51"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1985,
+        "external_ids": [
+          {
+            "all": [
+              "grid.472887.6"
+            ],
+            "preferred": "grid.472887.6",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0480 4831"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/055v9fh02",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://lnapadrao.lna.br/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "BR",
+              "country_name": "Brazil",
+              "country_subdivision_code": "MG",
+              "country_subdivision_name": "Minas Gerais",
+              "lat": -22.42556,
+              "lng": -45.45278,
+              "name": "Itajubá"
+            },
+            "geonames_id": 3460834
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "LNA"
+          },
+          {
+            "lang": "pt",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Laboratório Nacional de Astrofísica"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "National Astrophysics Laboratory"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Ministry of Science, Technology and Innovation",
+            "type": "parent",
+            "id": "https://ror.org/050zdnc69"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1926,
+        "external_ids": [
+          {
+            "all": [
+              "grid.496759.0"
+            ],
+            "preferred": "grid.496759.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2170 876X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/031ebne21",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://csiropedia.csiro.au/national-measurement-laboratory/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "OC",
+              "continent_name": "Oceania",
+              "country_code": "AU",
+              "country_name": "Australia",
+              "country_subdivision_code": "ACT",
+              "country_subdivision_name": "Australian Capital Territory",
+              "lat": -35.28346,
+              "lng": 149.12807,
+              "name": "Canberra"
+            },
+            "geonames_id": 2172517
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NMI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Measurement Laboratory"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Standards Laboratory"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Commonwealth Scientific and Industrial Research Organisation",
+            "type": "parent",
+            "id": "https://ror.org/03qn8fb07"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "aanl.am"
+        ],
+        "established": 1944,
+        "external_ids": [
+          {
+            "all": [
+              "grid.48507.3e"
+            ],
+            "preferred": "grid.48507.3e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0482 7128"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4176238"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00ad27c73",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.aanl.am"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Yerevan_Physics_Institute"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "AM",
+              "country_name": "Armenia",
+              "country_subdivision_code": "ER",
+              "country_subdivision_name": "Yerevan",
+              "lat": 40.18111,
+              "lng": 44.51361,
+              "name": "Yerevan"
+            },
+            "geonames_id": 616052
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "A. Alikhanyan National Laboratory"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "AANL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Alikhanyan National Laboratory"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "YerPhI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Yerevan Physics Institute"
+          },
+          {
+            "lang": "hy",
+            "types": [
+              "label"
+            ],
+            "value": "Ա. Ի. Ալիխանյանի անվան ազգային գիտական լաբորատորիա"
+          },
+          {
+            "lang": "hy",
+            "types": [
+              "alias"
+            ],
+            "value": "Երևանի ֆիզիկայի ինստիտուտ"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Yerevan State University",
+            "type": "related",
+            "id": "https://ror.org/00s8vne50"
+          },
+          {
+            "label": "MAGIC Telescopes",
+            "type": "related",
+            "id": "https://ror.org/02w0r2764"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-10-13",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1970,
+        "external_ids": [],
+        "id": "https://ror.org/04kw44c30",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.fisheries.noaa.gov/about/national-systematics-laboratory"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "DC",
+              "country_subdivision_name": "District of Columbia",
+              "lat": 38.89511,
+              "lng": -77.03637,
+              "name": "Washington"
+            },
+            "geonames_id": 4140963
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "NOAA National Systematics Laboratory"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "NSL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Systematics Lab"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Systematics Laboratory"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Systematics Laboratory of NOAA Fisheries"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "NOAA National Marine Fisheries Service Office of Science and Technology",
+            "type": "parent",
+            "id": "https://ror.org/04950b532"
+          },
+          {
+            "label": "National Museum of Natural History",
+            "type": "parent",
+            "id": "https://ror.org/00cz47042"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ameslab.gov"
+        ],
+        "established": 1947,
+        "external_ids": [
+          {
+            "all": [
+              "100011659"
+            ],
+            "preferred": "100011659",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.451319.b"
+            ],
+            "preferred": "grid.451319.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0690 157X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4745875"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/041m9xr71",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ameslab.gov/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Ames_Laboratory"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IA",
+              "country_subdivision_name": "Iowa",
+              "lat": 42.03471,
+              "lng": -93.61994,
+              "name": "Ames"
+            },
+            "geonames_id": 4846834
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Ames Laboratory"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Ames National Laboratory"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "United States Department of Energy Office of Science Ames National Laboratory"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Iowa State University",
+            "type": "parent",
+            "id": "https://ror.org/04rswrd78"
+          },
+          {
+            "label": "Office of Science",
+            "type": "parent",
+            "id": "https://ror.org/00mmn6b08"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "anl.gov"
+        ],
+        "established": 1946,
+        "external_ids": [
+          {
+            "all": [
+              "100006224"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.187073.a"
+            ],
+            "preferred": "grid.187073.a",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 1939 4845"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q649120"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05gvnxz63",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.anl.gov"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Argonne_National_Laboratory"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 41.67364,
+              "lng": -88.00173,
+              "name": "Lemont"
+            },
+            "geonames_id": 4899581
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "ANL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Argonne National Laboratory"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label"
+            ],
+            "value": "Laboratorio Nacional Argonne"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "United States Department of Energy Office of Science Argonne National Laboratory"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Center for Light Energy Activated Redox Processes",
+            "type": "child",
+            "id": "https://ror.org/004x7d471"
+          },
+          {
+            "label": "Advanced Photon Source",
+            "type": "child",
+            "id": "https://ror.org/04qxsr837"
+          },
+          {
+            "label": "Argonne Leadership Computing Facility",
+            "type": "child",
+            "id": "https://ror.org/01svjdw65"
+          },
+          {
+            "label": "Argonne Tandem Linac Accelerator System",
+            "type": "child",
+            "id": "https://ror.org/04b15va38"
+          },
+          {
+            "label": "Center for Nanoscale Materials",
+            "type": "child",
+            "id": "https://ror.org/045ybte48"
+          },
+          {
+            "label": "University of Chicago",
+            "type": "parent",
+            "id": "https://ror.org/024mw5h28"
+          },
+          {
+            "label": "Office of Science",
+            "type": "parent",
+            "id": "https://ror.org/00mmn6b08"
+          },
+          {
+            "label": "Atmospheric Radiation Measurement User Facility",
+            "type": "related",
+            "id": "https://ror.org/01dvj3d25"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1961,
+        "external_ids": [
+          {
+            "all": [
+              "grid.6078.9"
+            ],
+            "preferred": "grid.6078.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0194 8440"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2103989"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/022sw4578",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.nlr.org"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/National_Aerospace_Laboratory"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "NL",
+              "country_name": "The Netherlands",
+              "country_subdivision_code": "NH",
+              "country_subdivision_name": "North Holland",
+              "lat": 52.37403,
+              "lng": 4.88969,
+              "name": "Amsterdam"
+            },
+            "geonames_id": 2759794
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NLR"
+          },
+          {
+            "lang": "nl",
+            "types": [
+              "label"
+            ],
+            "value": "Nationaal Lucht- en Ruimtevaartlaboratorium"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Aerospace Laboratory"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Netherlands Aerospace Centre"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "nonprofit"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1950,
+        "external_ids": [
+          {
+            "all": [
+              "501100019108"
+            ],
+            "preferred": "501100019108",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.417643.3"
+            ],
+            "preferred": "grid.417643.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 4905 7788"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q3101007"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/057mn3690",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.ncl-india.org/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/National_Chemical_Laboratory"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "IN",
+              "country_name": "India",
+              "country_subdivision_code": "MH",
+              "country_subdivision_name": "Maharashtra",
+              "lat": 18.51957,
+              "lng": 73.85535,
+              "name": "Pune"
+            },
+            "geonames_id": 1259229
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NCL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Chemical Laboratory"
+          },
+          {
+            "lang": "mr",
+            "types": [
+              "label"
+            ],
+            "value": "राष्ट्रीय रासायनिक प्रयोगशाळा"
+          },
+          {
+            "lang": "hi",
+            "types": [
+              "label"
+            ],
+            "value": "राष्ट्रीय रासायनिकी प्रयोगशाला"
+          },
+          {
+            "lang": "ml",
+            "types": [
+              "label"
+            ],
+            "value": "നാഷണൽ കെമിക്കൽ ലാബറട്ടറി"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Council of Scientific and Industrial Research",
+            "type": "parent",
+            "id": "https://ror.org/021wm7p51"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2008,
+        "external_ids": [
+          {
+            "all": [
+              "100018256"
+            ],
+            "preferred": "100018256",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.270117.2"
+            ],
+            "preferred": "grid.270117.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0522 0977"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q6974595"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/051n2dc24",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.nnl.co.uk/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/National_Nuclear_Laboratory"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 54.39831,
+              "lng": -3.47961,
+              "name": "Seascale"
+            },
+            "geonames_id": 2638282
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NNL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Nuclear Laboratory"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Nexia Solutions"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2021-09-23",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": null,
+        "external_ids": [
+          {
+            "all": [
+              "grid.512852.9"
+            ],
+            "preferred": "grid.512852.9",
+            "type": "grid"
+          }
+        ],
+        "id": "https://ror.org/03x5xm327",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ars.usda.gov/southeast-area/oxford-ms/national-sedimentation-laboratory/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "MS",
+              "country_subdivision_name": "Mississippi",
+              "lat": 34.3665,
+              "lng": -89.51925,
+              "name": "Oxford"
+            },
+            "geonames_id": 4440076
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Sedimentation Laboratory"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Agricultural Research Service - Southeast Area",
+            "type": "parent",
+            "id": "https://ror.org/02pfwxe49"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-03-26",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-06-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "geoint.mx"
+        ],
+        "established": null,
+        "external_ids": [],
+        "id": "https://ror.org/022b6wh61",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://geoint.mx"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "MX",
+              "country_name": "Mexico",
+              "country_subdivision_code": "AGU",
+              "country_subdivision_name": "Aguascalientes",
+              "lat": 21.88262,
+              "lng": -102.2843,
+              "name": "Aguascalientes"
+            },
+            "geonames_id": 4019233
+          },
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "MX",
+              "country_name": "Mexico",
+              "country_subdivision_code": "CMX",
+              "country_subdivision_name": "Mexico City",
+              "lat": 19.42847,
+              "lng": -99.12766,
+              "name": "Mexico City"
+            },
+            "geonames_id": 3530597
+          },
+          {
+            "geonames_details": {
+              "continent_code": "SA",
+              "continent_name": "South America",
+              "country_code": "VE",
+              "country_name": "Venezuela",
+              "country_subdivision_code": "L",
+              "country_subdivision_name": "Mérida",
+              "lat": 8.57899,
+              "lng": -71.16922,
+              "name": "Merida"
+            },
+            "geonames_id": 3632308
+          }
+        ],
+        "names": [
+          {
+            "lang": "es",
+            "types": [
+              "alias"
+            ],
+            "value": "GeoINT"
+          },
+          {
+            "lang": "es",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Laboratorio Nacional de GeoInteligencia"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Geointelligence Laboratory"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Secretaría de Ciencia, Humanidades, Tecnología e Innovación",
+            "type": "parent",
+            "id": "https://ror.org/059ex5q34"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-03-26",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "fnal.gov"
+        ],
+        "established": 1967,
+        "external_ids": [
+          {
+            "all": [
+              "100006230"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.417851.e"
+            ],
+            "preferred": "grid.417851.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0675 0679"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q337641"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/020hgte69",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.fnal.gov"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Fermilab"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "NA",
+              "continent_name": "North America",
+              "country_code": "US",
+              "country_name": "United States",
+              "country_subdivision_code": "IL",
+              "country_subdivision_name": "Illinois",
+              "lat": 41.85003,
+              "lng": -88.31257,
+              "name": "Batavia"
+            },
+            "geonames_id": 4884192
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Fermi National Accelerator Laboratory"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Fermilab"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "National Accelerator Laboratory"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "U.S. Department of Energy Office of Science Fermi National Accelerator Laboratory"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "United States Department of Energy Office of Science Fermi National Accelerator Laboratory"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Fermilab Accelerator Complex",
+            "type": "child",
+            "id": "https://ror.org/0415p6x27"
+          },
+          {
+            "label": "Office of Science",
+            "type": "parent",
+            "id": "https://ror.org/00mmn6b08"
+          },
+          {
+            "label": "Fermi Research Alliance",
+            "type": "parent",
+            "id": "https://ror.org/02j58f715"
+          },
+          {
+            "label": "Universities Research Association",
+            "type": "related",
+            "id": "https://ror.org/009djdq91"
+          },
+          {
+            "label": "University of Chicago",
+            "type": "related",
+            "id": "https://ror.org/024mw5h28"
+          },
+          {
+            "label": "Research Infrastructure for Fermilab Experiments",
+            "type": "related",
+            "id": "https://ror.org/02mebaz96"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "npl.co.uk"
+        ],
+        "established": 1900,
+        "external_ids": [
+          {
+            "all": [
+              "grid.410351.2"
+            ],
+            "preferred": "grid.410351.2",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8991 6349"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1967606"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/015w2mp89",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.npl.co.uk"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/National_Physical_Laboratory_(United_Kingdom)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "EU",
+              "continent_name": "Europe",
+              "country_code": "GB",
+              "country_name": "United Kingdom",
+              "country_subdivision_code": "ENG",
+              "country_subdivision_name": "England",
+              "lat": 51.50853,
+              "lng": -0.12574,
+              "name": "London"
+            },
+            "geonames_id": 2643743
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NPL"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "National Physical Laboratory"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2024-12-09",
+            "schema_version": "2.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "gzlab.ac.cn"
+        ],
+        "established": 2021,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0005 0567 8125"
+            ],
+            "preferred": "0000 0005 0567 8125",
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/03ybmxt82",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.gzlab.ac.cn"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "GD",
+              "country_subdivision_name": "Guangdong",
+              "lat": 23.11667,
+              "lng": 113.25,
+              "name": "Guangzhou"
+            },
+            "geonames_id": 1809858
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Guangzhou Laboratory"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label"
+            ],
+            "value": "Guangzhou National Laboratory"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "广州实验室"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "government"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 2005
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 1703
+        },
+        {
+          "id": "education",
+          "title": "education",
+          "count": 1086
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 1015
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 707
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 423
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 407
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 351
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 192
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 1231
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 698
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 429
+        },
+        {
+          "id": "fr",
+          "title": "France",
+          "count": 408
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 294
+        },
+        {
+          "id": "ua",
+          "title": "Ukraine",
+          "count": 286
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 210
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 172
+        },
+        {
+          "id": "ca",
+          "title": "Canada",
+          "count": 118
+        },
+        {
+          "id": "it",
+          "title": "Italy",
+          "count": 92
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 2196
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 1765
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 1436
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 392
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 264
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 93
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 6145
+        }
+      ]
+    }
+  }
+}

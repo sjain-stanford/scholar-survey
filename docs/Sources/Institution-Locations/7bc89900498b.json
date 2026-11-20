@@ -1,0 +1,2155 @@
+{
+  "source": "https://api.ror.org/v2/organizations?query=Seoul+National+University",
+  "http_status": 200,
+  "query": "Seoul National University",
+  "data": {
+    "number_of_results": 18754,
+    "time_taken": 28,
+    "items": [
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "snu.ac.kr"
+        ],
+        "established": 1946,
+        "external_ids": [
+          {
+            "all": [
+              "501100002551",
+              "501100020055",
+              "100017051"
+            ],
+            "preferred": "501100002551",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.31501.36"
+            ],
+            "preferred": "grid.31501.36",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0470 5905"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q39913"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04h9pn542",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.snu.ac.kr"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Seoul_National_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SNU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Seoul Daehakgyo"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Seoul National University"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "서울대학교"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Advanced Institute of Convergence Technology",
+            "type": "child",
+            "id": "https://ror.org/01w62yz22"
+          },
+          {
+            "label": "Seoul National University Dental Hospital",
+            "type": "child",
+            "id": "https://ror.org/0494zgc81"
+          },
+          {
+            "label": "Seoul National University Hospital",
+            "type": "child",
+            "id": "https://ror.org/01z4nnt86"
+          },
+          {
+            "label": "Seoul National University Bundang Hospital",
+            "type": "related",
+            "id": "https://ror.org/00cb3km46"
+          },
+          {
+            "label": "Seoul National University Hospital",
+            "type": "related",
+            "id": "https://ror.org/01z4nnt86"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "snuh.org"
+        ],
+        "established": 1908,
+        "external_ids": [
+          {
+            "all": [
+              "501100004332",
+              "501100003651"
+            ],
+            "preferred": "501100004332",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412484.f"
+            ],
+            "preferred": "grid.412484.f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0302 820X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q4403855"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01z4nnt86",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.snuh.org"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90%EB%B3%91%EC%9B%90"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SNUH"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Seoul National University Hospital"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "서울대병원"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "서울대학교병원"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "SNUH SMG-SNU Boramae Medical Center",
+            "type": "child",
+            "id": "https://ror.org/014xqzt56"
+          },
+          {
+            "label": "Seoul National University Bundang Hospital",
+            "type": "child",
+            "id": "https://ror.org/00cb3km46"
+          },
+          {
+            "label": "Seoul National University Cancer Hospital",
+            "type": "child",
+            "id": "https://ror.org/05rwxjy27"
+          },
+          {
+            "label": "Seoul National University Hospital Institute of Convergence Medicine with Innovative Technology",
+            "type": "child",
+            "id": "https://ror.org/01j6bah27"
+          },
+          {
+            "label": "Seoul National University Hospital Biomedical Research Institute",
+            "type": "child",
+            "id": "https://ror.org/00xx85724"
+          },
+          {
+            "label": "Seoul National University Children's Hospital",
+            "type": "child",
+            "id": "https://ror.org/01ks0bt75"
+          },
+          {
+            "label": "Seoul National University",
+            "type": "parent",
+            "id": "https://ror.org/04h9pn542"
+          },
+          {
+            "label": "Seoul National University",
+            "type": "related",
+            "id": "https://ror.org/04h9pn542"
+          },
+          {
+            "label": "National Traffic injury Rehabilitation Hospital",
+            "type": "related",
+            "id": "https://ror.org/001610k88"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1946,
+        "external_ids": [
+          {
+            "all": [
+              "501100002552"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.444096.b"
+            ],
+            "preferred": "grid.444096.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0647 7512"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q487613"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01xts9v65",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.snue.ac.kr/index_intro.jsp"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Seoul_National_University_of_Education"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SNUE"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Seoul National University of Education"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "서울교육대학교"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "child.snuh.org"
+        ],
+        "established": 1985,
+        "external_ids": [
+          {
+            "all": [
+              "grid.412482.9"
+            ],
+            "preferred": "grid.412482.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0484 7305"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q30254058"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01ks0bt75",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://child.snuh.org"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "SNUCH"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Seoul National University Children's Hospital"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "서울대어린이병원"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "서울대학교 어린이병원"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "서울대학교어린이병원"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Seoul National University Hospital",
+            "type": "parent",
+            "id": "https://ror.org/01z4nnt86"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-07-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-07-15",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "cancer.snuh.org"
+        ],
+        "established": 2011,
+        "external_ids": [],
+        "id": "https://ror.org/05rwxjy27",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://cancer.snuh.org"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Seoul National University Cancer Hospital"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "서울대암병원"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "서울대학교암병원"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Seoul National University Hospital",
+            "type": "parent",
+            "id": "https://ror.org/01z4nnt86"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "snubh.org"
+        ],
+        "established": 2003,
+        "external_ids": [
+          {
+            "all": [
+              "100016275"
+            ],
+            "preferred": "100016275",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412480.b"
+            ],
+            "preferred": "grid.412480.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0647 3378"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q7451677"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00cb3km46",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.snubh.org/dh/en/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Seoul_National_University_Bundang_Hospital"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "41",
+              "country_subdivision_name": "Gyeonggi-do",
+              "lat": 37.43861,
+              "lng": 127.13778,
+              "name": "Seongnam-si"
+            },
+            "geonames_id": 1897000
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SNUBH"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Seoul National University Bundang Hospital"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "분당 서울대병원"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "분당 서울대학교병원"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "분당서울대학교병원"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Seoul National University Hospital",
+            "type": "parent",
+            "id": "https://ror.org/01z4nnt86"
+          },
+          {
+            "label": "Seoul National University",
+            "type": "related",
+            "id": "https://ror.org/04h9pn542"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "funder",
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "snudh.org"
+        ],
+        "established": 1922,
+        "external_ids": [
+          {
+            "all": [
+              "501100016149"
+            ],
+            "preferred": "501100016149",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.459982.b"
+            ],
+            "preferred": "grid.459982.b",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0647 7483"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q12601207"
+            ],
+            "preferred": "Q12601207",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0494zgc81",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.snudh.org"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90%EC%B9%98%EA%B3%BC%EB%B3%91%EC%9B%90"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "SNUDH"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Seoul National University Dental Hospital"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "서울대치과병원"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "서울대학교치과병원"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Seoul National University Gwanak Dental Hospital",
+            "type": "child",
+            "id": "https://ror.org/033vecp71"
+          },
+          {
+            "label": "Seoul National University",
+            "type": "parent",
+            "id": "https://ror.org/04h9pn542"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-07-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-07-15",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "snudhgw.org"
+        ],
+        "established": 2015,
+        "external_ids": [
+          {
+            "all": [
+              "Q31175678"
+            ],
+            "preferred": "Q31175678",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/033vecp71",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.snudhgw.org"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://ko.wikipedia.org/wiki/%EA%B4%80%EC%95%85%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90%EC%B9%98%EA%B3%BC%EB%B3%91%EC%9B%90"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "SNUDHGW"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Seoul National University Gwanak Dental Hospital"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "관악서울대학교치과병원"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Seoul National University Dental Hospital",
+            "type": "parent",
+            "id": "https://ror.org/0494zgc81"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1911,
+        "external_ids": [
+          {
+            "all": [
+              "501100002554"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.449635.9"
+            ],
+            "preferred": "grid.449635.9",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0533 2987"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q11250404"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00m4aws33",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.stu.ac.kr/homepage/en/main_en.jsp"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Seoul_Theological_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Seoul Theological University"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "서울신학대학교"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1918,
+        "external_ids": [
+          {
+            "all": [
+              "501100002611"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.267134.5"
+            ],
+            "preferred": "grid.267134.5",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8597 6969"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q488334"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/05en5nh73",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://english.uos.ac.kr/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_Seoul"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "University of Seoul"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "UoS"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "서울시립대학교"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1954,
+        "external_ids": [
+          {
+            "all": [
+              "501100002625"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.443805.e"
+            ],
+            "preferred": "grid.443805.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1808 111X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q12601315"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/02a7kg544",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.sjs.ac.kr/ht_ml_eng/main/index.php"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "41",
+              "country_subdivision_name": "Gyeonggi-do",
+              "lat": 37.41,
+              "lng": 127.25722,
+              "name": "Gwangju"
+            },
+            "geonames_id": 1841810
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Seoul Jangsin University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1937,
+        "external_ids": [
+          {
+            "all": [
+              "501100002550"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.444095.8"
+            ],
+            "preferred": "grid.444095.8",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0622 5999"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/02hngjw26",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.scu.ac.kr/Eng/"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "SCU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Seoul Christian University"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-03-26",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2025-03-26",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "sdu.ac.kr"
+        ],
+        "established": 2001,
+        "external_ids": [
+          {
+            "all": [
+              "Q12601220"
+            ],
+            "preferred": "Q12601220",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01e666568",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.sdu.ac.kr"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "SDU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Seoul Digital University"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "alias"
+            ],
+            "value": "서울디지털대학교"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-10-06",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "iscu.ac.kr"
+        ],
+        "established": 2000,
+        "external_ids": [
+          {
+            "all": [
+              "0000 0004 0592 0981"
+            ],
+            "preferred": "0000 0004 0592 0981",
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q12601244"
+            ],
+            "preferred": "Q12601244",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/053xggp65",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.iscu.ac.kr/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EC%82%AC%EC%9D%B4%EB%B2%84%EB%8C%80%ED%95%99%EA%B5%90"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "SCU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Seoul Cyber University"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "서울사이버대학교"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "swu.ac.kr"
+        ],
+        "established": 1960,
+        "external_ids": [
+          {
+            "all": [
+              "501100002555"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412487.c"
+            ],
+            "preferred": "grid.412487.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0533 3082"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q484230"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04b2fhx54",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.swu.ac.kr/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Seoul_Women's_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Seoul Women's University"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "서울여자대학교"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2026-06-14",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-06-23",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ioer.snu.ac.kr"
+        ],
+        "established": 2015,
+        "external_ids": [
+          {
+            "all": [
+              "501100019211"
+            ],
+            "preferred": "501100019211",
+            "type": "fundref"
+          }
+        ],
+        "id": "https://ror.org/04scsat82",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://ioer.snu.ac.kr"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "IOER"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Institute of Engineering Research"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Institute of Engineering Research, Seoul National University"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "서울대학교 공학연구원"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "facility",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2025-07-15",
+            "schema_version": "2.1"
+          },
+          "last_modified": {
+            "date": "2026-06-23",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "bri.snuh.org"
+        ],
+        "established": 1991,
+        "external_ids": [
+          {
+            "all": [
+              "100016988"
+            ],
+            "preferred": "100016988",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "Q135398379"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00xx85724",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://bri.snuh.org"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "acronym"
+            ],
+            "value": "SNUH BRI"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "label",
+              "ror_display"
+            ],
+            "value": "Seoul National University Hospital Biomedical Research Institute"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "서울대학교병원 의생명연구원"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Seoul National University Hospital",
+            "type": "parent",
+            "id": "https://ror.org/01z4nnt86"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "healthcare"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-09-22",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "seoultech.ac.kr"
+        ],
+        "established": 1910,
+        "external_ids": [
+          {
+            "all": [
+              "501100002553"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.412485.e"
+            ],
+            "preferred": "grid.412485.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9760 4919"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q482678"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00chfja07",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.seoultech.ac.kr/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Seoul_National_University_of_Science_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Seoul National University of Science and Technology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "SeoulTech"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "서울과학기술대학교"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1994,
+        "external_ids": [
+          {
+            "all": [
+              "501100002540"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.443736.1"
+            ],
+            "preferred": "grid.443736.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0647 1428"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q10856070"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/0509ndt57",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://eng.nsu.ac.kr/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Namseoul_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "44",
+              "country_subdivision_name": "Chungcheongnam-do",
+              "lat": 36.8065,
+              "lng": 127.1522,
+              "name": "Cheonan"
+            },
+            "geonames_id": 1845759
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "NSU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Namseoul University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Southern Seoul Industrial University"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "남서울대학교"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 2002,
+        "external_ids": [
+          {
+            "all": [
+              "grid.496500.e"
+            ],
+            "preferred": "grid.496500.e",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1792 965X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/02an5qv02",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://sub.ac.kr/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Seoul_University_of_Buddhism"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "KR",
+              "country_name": "South Korea",
+              "country_subdivision_code": "11",
+              "country_subdivision_name": "Seoul",
+              "lat": 37.566,
+              "lng": 126.9784,
+              "name": "Seoul"
+            },
+            "geonames_id": 1835848
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Seoul University of Buddhism"
+          },
+          {
+            "lang": "ko",
+            "types": [
+              "label"
+            ],
+            "value": "서울불교대학원대학교"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      }
+    ],
+    "meta": {
+      "types": [
+        {
+          "id": "education",
+          "title": "education",
+          "count": 13363
+        },
+        {
+          "id": "funder",
+          "title": "funder",
+          "count": 5211
+        },
+        {
+          "id": "healthcare",
+          "title": "healthcare",
+          "count": 1570
+        },
+        {
+          "id": "facility",
+          "title": "facility",
+          "count": 1206
+        },
+        {
+          "id": "government",
+          "title": "government",
+          "count": 941
+        },
+        {
+          "id": "nonprofit",
+          "title": "nonprofit",
+          "count": 758
+        },
+        {
+          "id": "archive",
+          "title": "archive",
+          "count": 436
+        },
+        {
+          "id": "other",
+          "title": "other",
+          "count": 402
+        },
+        {
+          "id": "company",
+          "title": "company",
+          "count": 108
+        }
+      ],
+      "countries": [
+        {
+          "id": "us",
+          "title": "United States",
+          "count": 2905
+        },
+        {
+          "id": "cn",
+          "title": "China",
+          "count": 1769
+        },
+        {
+          "id": "jp",
+          "title": "Japan",
+          "count": 1344
+        },
+        {
+          "id": "in",
+          "title": "India",
+          "count": 1064
+        },
+        {
+          "id": "kr",
+          "title": "South Korea",
+          "count": 578
+        },
+        {
+          "id": "ru",
+          "title": "Russia",
+          "count": 489
+        },
+        {
+          "id": "id",
+          "title": "Indonesia",
+          "count": 457
+        },
+        {
+          "id": "gb",
+          "title": "United Kingdom",
+          "count": 450
+        },
+        {
+          "id": "de",
+          "title": "Germany",
+          "count": 403
+        },
+        {
+          "id": "ph",
+          "title": "Philippines",
+          "count": 402
+        }
+      ],
+      "continents": [
+        {
+          "id": "as",
+          "title": "Asia",
+          "count": 8683
+        },
+        {
+          "id": "eu",
+          "title": "Europe",
+          "count": 4179
+        },
+        {
+          "id": "na",
+          "title": "North America",
+          "count": 3563
+        },
+        {
+          "id": "af",
+          "title": "Africa",
+          "count": 1499
+        },
+        {
+          "id": "sa",
+          "title": "South America",
+          "count": 654
+        },
+        {
+          "id": "oc",
+          "title": "Oceania",
+          "count": 177
+        }
+      ],
+      "statuses": [
+        {
+          "id": "active",
+          "title": "active",
+          "count": 18754
+        }
+      ]
+    }
+  }
+}

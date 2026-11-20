@@ -1,0 +1,94 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "q": "\"Understanding How Orthogonality of Parameters Improves Quantization of Neural Networks\"",
+    "hl": "en",
+    "num": 10,
+    "no_cache": "true"
+  },
+  "accessed_at_utc": "2026-11-20T13:00:18.001514+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6b00446160cbefa64d36337b",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/zUXK5vJbwaMVX6viQ6YBHwhuUWhGQQ_xuGLRweHOtOw/6b00446160cbefa64d36337b.json",
+      "markdown_endpoint": "https://serpapi.com/searches/zUXK5vJbwaMVX6viQ6YBHwhuUWhGQQ_xuGLRweHOtOw/6b00446160cbefa64d36337b.md",
+      "created_at": "2026-11-20 13:00:17 UTC",
+      "processed_at": "2026-11-20 13:00:17 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?q=%22Understanding+How+Orthogonality+of+Parameters+Improves+Quantization+of+Neural+Networks%22&hl=en&num=10",
+      "raw_html_file": "https://serpapi.com/searches/zUXK5vJbwaMVX6viQ6YBHwhuUWhGQQ_xuGLRweHOtOw/6b00446160cbefa64d36337b.html",
+      "total_time_taken": 2.02
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "q": "\"Understanding How Orthogonality of Parameters Improves Quantization of Neural Networks\"",
+      "hl": "en",
+      "num": "10"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "query_displayed": "\"Understanding How Orthogonality of Parameters Improves Quantization of Neural Networks\""
+    },
+    "profiles": {
+      "link": "https://scholar.google.com/scholar?lookup=0&q=%22Understanding+How+Orthogonality+of+Parameters+Improves+Quantization+of+Neural+Networks%22&hl=en&as_sdt=0,5",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=%22Understanding+How+Orthogonality+of+Parameters+Improves+Quantization+of+Neural+Networks%22"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Understanding how orthogonality of parameters improves quantization of neural networks",
+        "result_id": "GxAibCeHbVIJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/9772057/",
+        "snippet": "We analyze why the orthogonality penalty improves quantization in deep neural networks. Using results from perturbation theory as well as through extensive experiments with Resnet50, Resnet101, and VGG19 models, we mathematically and experimentally show that improved quantization accuracy resulting from orthogonality constraint stems primarily from reduced condition numbers, which is the ratio of largest to smallest singular values of weight matrices, more so than reduced spectral norms, in contrast to the explanations in previous literature. We also show that the orthogonality penalty improves quantization even in the presence of a state-of-the-art quantized retraining method. Our results show that, when the orthogonality penalty is used with quantized retraining, ImageNet Top5 accuracy loss from 4- to 8-bit quantization is reduced by up to 7% for Resnet50, and up to 10% for Resnet101, compared to quantized retraining with no orthogonality penalty.",
+        "publication_info": {
+          "summary": "SB Eryilmaz, A DundarIEEE Transactions on Neural Networks and Learning Systems, 2022•ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "SB Eryilmaz",
+              "link": "https://scholar.google.com/citations?user=Zxhxfn8AAAAJ&hl=en&oi=sra",
+              "author_id": "Zxhxfn8AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Zxhxfn8AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "A Dundar",
+              "link": "https://scholar.google.com/citations?user=pvu770UAAAAJ&hl=en&oi=sra",
+              "author_id": "pvu770UAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pvu770UAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "bilkent.edu.tr",
+            "file_format": "PDF",
+            "link": "https://repository.bilkent.edu.tr/bitstreams/22d7da4c-4e45-4d72-b55b-fb078da82b59/download"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=GxAibCeHbVIJ",
+          "cited_by": {
+            "total": 11,
+            "link": "https://scholar.google.com/scholar?cites=5939552086959198235&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "5939552086959198235",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=5939552086959198235&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:GxAibCeHbVIJ:scholar.google.com/&scioq=%22Understanding+How+Orthogonality+of+Parameters+Improves+Quantization+of+Neural+Networks%22&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AGxAibCeHbVIJ%3Ascholar.google.com%2F",
+          "versions": {
+            "total": 7,
+            "link": "https://scholar.google.com/scholar?cluster=5939552086959198235&hl=en&as_sdt=0,5",
+            "cluster_id": "5939552086959198235",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=5939552086959198235&engine=google_scholar&hl=en"
+          }
+        }
+      }
+    ]
+  }
+}

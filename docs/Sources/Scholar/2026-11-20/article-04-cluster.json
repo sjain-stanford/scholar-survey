@@ -1,0 +1,375 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cluster": "8176222627957634598",
+    "hl": "en",
+    "no_cache": "true"
+  },
+  "accessed_at_utc": "2026-11-20T12:58:44.166353+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6b004403b747aadcdc4d026d",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/hqPxpYvYAW1WHTgXVbs6eZ4Dks9z6FKisFo3hEnlbEk/6b004403b747aadcdc4d026d.json",
+      "markdown_endpoint": "https://serpapi.com/searches/hqPxpYvYAW1WHTgXVbs6eZ4Dks9z6FKisFo3hEnlbEk/6b004403b747aadcdc4d026d.md",
+      "created_at": "2026-11-20 12:58:43 UTC",
+      "processed_at": "2026-11-20 12:58:43 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cluster=8176222627957634598&hl=en",
+      "raw_html_file": "https://serpapi.com/searches/hqPxpYvYAW1WHTgXVbs6eZ4Dks9z6FKisFo3hEnlbEk/6b004403b747aadcdc4d026d.html",
+      "total_time_taken": 0.61
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cluster": "8176222627957634598",
+      "hl": "en"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 11,
+      "time_taken_displayed": 0.03
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Optimizing the deployment of tiny transformers on low-power MCUs",
+        "result_id": "JvbsHynHd3EJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10755971/",
+        "snippet": "Transformer networks are rapidly becoming State of the Art (SotA) in many fields, such as Natural Language Processing (NLP) and Computer Vision (CV). Similarly to Convolutional …",
+        "publication_info": {
+          "summary": "VJB Jung, A Burrello, M Scherer… - IEEE Transactions on …, 2024 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "VJB Jung",
+              "link": "https://scholar.google.com/citations?user=TiaXdIkAAAAJ&hl=en&oi=sra",
+              "author_id": "TiaXdIkAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=TiaXdIkAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "A Burrello",
+              "link": "https://scholar.google.com/citations?user=QKdYwY4AAAAJ&hl=en&oi=sra",
+              "author_id": "QKdYwY4AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=QKdYwY4AAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "M Scherer",
+              "link": "https://scholar.google.com/citations?user=PqOdtJ4AAAAJ&hl=en&oi=sra",
+              "author_id": "PqOdtJ4AAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PqOdtJ4AAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=JvbsHynHd3EJ",
+          "cited_by": {
+            "total": 54,
+            "link": "https://scholar.google.com/scholar?cites=8176222627957634598&as_sdt=2005&sciodt=0,5&hl=en",
+            "cites_id": "8176222627957634598",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=8176222627957634598&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:JvbsHynHd3EJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,5",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=8176222627957634598&engine=google_scholar&hl=en&q=related%3AJvbsHynHd3EJ%3Ascholar.google.com%2F"
+        }
+      },
+      {
+        "position": 2,
+        "title": "Optimizing the Deployment of Tiny Transformers on Low-Power MCUs",
+        "result_id": "c6Lw3GGYs0AJ",
+        "link": "https://ui.adsabs.harvard.edu/abs/2025ITCmp..74..526J/abstract",
+        "snippet": "Transformer networks are rapidly becoming State of the Art (SotA) in many fields, such as Natural Language Processing (NLP) and Computer Vision (CV). Similarly to Convolutional …",
+        "publication_info": {
+          "summary": "VJB Jung, A Burrello, M Scherer… - IEEE Transactions …, 2025 - ui.adsabs.harvard.edu",
+          "authors": [
+            {
+              "name": "VJB Jung"
+            },
+            {
+              "name": "A Burrello"
+            },
+            {
+              "name": "M Scherer"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=c6Lw3GGYs0AJ"
+        }
+      },
+      {
+        "position": 3,
+        "title": "Optimizing the Deployment of Tiny Transformers on Low-Power MCUs",
+        "result_id": "uVcnqJR0jX4J",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+          "summary": "VJB Jung, A Burrello, M Scherer, F Conti, L Benini",
+          "authors": [
+            {
+              "name": "VJB Jung"
+            },
+            {
+              "name": "A Burrello"
+            },
+            {
+              "name": "M Scherer"
+            },
+            {
+              "name": "F Conti"
+            },
+            {
+              "name": "L Benini"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=uVcnqJR0jX4J"
+        }
+      },
+      {
+        "position": 4,
+        "title": "Optimizing the Deployment of Tiny Transformers on Low-Power MCUs",
+        "result_id": "uVcnqJR0jX4J",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+          "summary": "VJB Jung, A Burrello, M Scherer, F Conti, L Benini",
+          "authors": [
+            {
+              "name": "VJB Jung"
+            },
+            {
+              "name": "A Burrello"
+            },
+            {
+              "name": "M Scherer"
+            },
+            {
+              "name": "F Conti"
+            },
+            {
+              "name": "L Benini"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=uVcnqJR0jX4J"
+        }
+      },
+      {
+        "position": 5,
+        "title": "Optimizing the Deployment of Tiny Transformers on Low-Power MCUs",
+        "result_id": "WiLx387snYAJ",
+        "link": "https://www.research-collection.ethz.ch/entities/publication/70da3dc2-5da0-4f4a-8046-4b006d325bd8",
+        "snippet": "Transformer networks are rapidly becoming State of the Art (SotA) in many fields, such as Natural Language Processing (NLP) and Computer Vision (CV). Similarly to Convolutional …",
+        "publication_info": {
+          "summary": "VJB Jung, A Burrello, M Scherer… - IEEE Transactions …, 2025 - research-collection.ethz.ch",
+          "authors": [
+            {
+              "name": "VJB Jung"
+            },
+            {
+              "name": "A Burrello"
+            },
+            {
+              "name": "M Scherer"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "ethz.ch",
+            "file_format": "PDF",
+            "link": "https://www.research-collection.ethz.ch/bitstreams/bc3c4e25-0325-4e05-8a12-837e02cf3691/download"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=WiLx387snYAJ"
+        }
+      },
+      {
+        "position": 6,
+        "title": "Optimizing the Deployment of Tiny Transformers on Low-Power MCUs",
+        "result_id": "5AOcJxC_EpMJ",
+        "link": "https://cris.unibo.it/handle/11585/1038557",
+        "snippet": "Transformer networks are rapidly becoming State of the Art (SotA) in many fields, such as Natural Language Processing (NLP) and Computer Vision (CV). Similarly to Convolutional …",
+        "publication_info": {
+          "summary": "VJB Jung, A Burrello, M Scherer, F Conti… - IEEE TRANSACTIONS …, 2025 - cris.unibo.it",
+          "authors": [
+            {
+              "name": "VJB Jung"
+            },
+            {
+              "name": "A Burrello"
+            },
+            {
+              "name": "M Scherer"
+            },
+            {
+              "name": "F Conti"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=5AOcJxC_EpMJ"
+        }
+      },
+      {
+        "position": 7,
+        "title": "Optimizing the Deployment of Tiny Transformers on Low-Power MCUs",
+        "result_id": "1szb1eUnkaEJ",
+        "link": "https://ui.adsabs.harvard.edu/abs/2024arXiv240402945J/abstract",
+        "snippet": "Transformer networks are rapidly becoming SotA in many fields, such as NLP and CV. Similarly to CNN, there is a strong push for deploying Transformer models at the extreme …",
+        "publication_info": {
+          "summary": "VJB Jung, A Burrello, M Scherer, F Conti… - arXiv e …, 2024 - ui.adsabs.harvard.edu",
+          "authors": [
+            {
+              "name": "VJB Jung"
+            },
+            {
+              "name": "A Burrello"
+            },
+            {
+              "name": "M Scherer"
+            },
+            {
+              "name": "F Conti"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=1szb1eUnkaEJ"
+        }
+      },
+      {
+        "position": 8,
+        "title": "Optimizing the Deployment of Tiny Transformers on Low-Power MCUs",
+        "result_id": "mqZIePmqe64J",
+        "link": "https://arxiv.org/abs/2404.02945",
+        "snippet": "Transformer networks are rapidly becoming SotA in many fields, such as NLP and CV. Similarly to CNN, there is a strong push for deploying Transformer models at the extreme …",
+        "publication_info": {
+          "summary": "VJB Jung, A Burrello, M Scherer, F Conti… - arXiv preprint arXiv …, 2024 - arxiv.org",
+          "authors": [
+            {
+              "name": "VJB Jung"
+            },
+            {
+              "name": "A Burrello"
+            },
+            {
+              "name": "M Scherer"
+            },
+            {
+              "name": "F Conti"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "arxiv.org",
+            "file_format": "PDF",
+            "link": "https://arxiv.org/pdf/2404.02945?"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=mqZIePmqe64J"
+        }
+      },
+      {
+        "position": 9,
+        "title": "Optimizing the Deployment of Tiny Transformers on Low-Power MCUs",
+        "result_id": "7vZRyKoHdMUJ",
+        "link": "https://iris.polito.it/handle/11583/2996571",
+        "snippet": "Transformer networks are rapidly becoming State of the Art (SotA) in many fields, such as Natural Language Processing (NLP) and Computer Vision (CV). Similarly to Convolutional …",
+        "publication_info": {
+          "summary": "VJB Jung, A Burrello, M Scherer, F Conti… - IEEE TRANSACTIONS …, 2025 - iris.polito.it",
+          "authors": [
+            {
+              "name": "VJB Jung"
+            },
+            {
+              "name": "A Burrello"
+            },
+            {
+              "name": "M Scherer"
+            },
+            {
+              "name": "F Conti"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=7vZRyKoHdMUJ"
+        }
+      },
+      {
+        "position": 10,
+        "title": "Optimizing the Deployment of Tiny Transformers on Low-Power MCUs",
+        "result_id": "OwR7pAMXbckJ",
+        "type": "Pdf",
+        "link": "https://www.research-collection.ethz.ch/server/api/core/bitstreams/bc3c4e25-0325-4e05-8a12-837e02cf3691/content",
+        "snippet": "Transformer networks are rapidly becoming State of the Art (SotA) in many fields, such as Natural Language Processing (NLP) and Computer Vision (CV). Similarly to Convolutional …",
+        "publication_info": {
+          "summary": "VJB Jung, A Burrello, M Scherer, F Conti, L Benini - 2024 - research-collection.ethz.ch",
+          "authors": [
+            {
+              "name": "VJB Jung"
+            },
+            {
+              "name": "A Burrello"
+            },
+            {
+              "name": "M Scherer"
+            },
+            {
+              "name": "F Conti"
+            },
+            {
+              "name": "L Benini"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "ethz.ch",
+            "file_format": "PDF",
+            "link": "https://www.research-collection.ethz.ch/server/api/core/bitstreams/bc3c4e25-0325-4e05-8a12-837e02cf3691/content"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=OwR7pAMXbckJ"
+        }
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=0,5&cluster=8176222627957634598",
+      "other_pages": {
+        "2": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=0,5&cluster=8176222627957634598"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=8176222627957634598&engine=google_scholar&hl=en&start=10",
+      "next": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=8176222627957634598&engine=google_scholar&hl=en&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=8176222627957634598&engine=google_scholar&hl=en&start=10"
+      }
+    }
+  }
+}

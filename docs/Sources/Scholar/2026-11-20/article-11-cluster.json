@@ -1,0 +1,152 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cluster": "8210545444854681605",
+    "hl": "en",
+    "no_cache": "true"
+  },
+  "accessed_at_utc": "2026-11-20T12:58:56.230311+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6b00440f3ee5dfc4391e9e93",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/IOBsJ7-80jMx4YY-JVEi0OO-9SNvSHPUExuWkOtfAyc/6b00440f3ee5dfc4391e9e93.json",
+      "markdown_endpoint": "https://serpapi.com/searches/IOBsJ7-80jMx4YY-JVEi0OO-9SNvSHPUExuWkOtfAyc/6b00440f3ee5dfc4391e9e93.md",
+      "created_at": "2026-11-20 12:58:55 UTC",
+      "processed_at": "2026-11-20 12:58:55 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cluster=8210545444854681605&hl=en",
+      "raw_html_file": "https://serpapi.com/searches/IOBsJ7-80jMx4YY-JVEi0OO-9SNvSHPUExuWkOtfAyc/6b00440f3ee5dfc4391e9e93.html",
+      "total_time_taken": 1.38
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cluster": "8210545444854681605",
+      "hl": "en"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 3,
+      "time_taken_displayed": 0.02
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Improving low-precision network quantization via bin regularization",
+        "result_id": "BdDDrJS38XEJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/9711384/",
+        "snippet": "Model quantization is an important mechanism for energy-efficient deployment of deep neural networks on resource-constrained devices by reducing the bit precision of weights …",
+        "publication_info": {
+          "summary": "T Han, D Li, J Liu, L Tian, Y Shan - 2021 IEEE/CVF …, 2021 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "T Han"
+            },
+            {
+              "name": "D Li",
+              "link": "https://scholar.google.com/citations?user=I9s_CWwAAAAJ&hl=en&oi=sra",
+              "author_id": "I9s_CWwAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=I9s_CWwAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "J Liu",
+              "link": "https://scholar.google.com/citations?user=CZQyReoAAAAJ&hl=en&oi=sra",
+              "author_id": "CZQyReoAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=CZQyReoAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "L Tian",
+              "link": "https://scholar.google.com/citations?user=edbuKpcAAAAJ&hl=en&oi=sra",
+              "author_id": "edbuKpcAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=edbuKpcAAAAJ&engine=google_scholar_author&hl=en"
+            },
+            {
+              "name": "Y Shan",
+              "link": "https://scholar.google.com/citations?user=4gI2kWIAAAAJ&hl=en&oi=sra",
+              "author_id": "4gI2kWIAAAAJ",
+              "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4gI2kWIAAAAJ&engine=google_scholar_author&hl=en"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=BdDDrJS38XEJ",
+          "cited_by": {
+            "total": 65,
+            "link": "https://scholar.google.com/scholar?cites=8210545444854681605&as_sdt=5,26&sciodt=0,26&hl=en",
+            "cites_id": "8210545444854681605",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C26&cites=8210545444854681605&engine=google_scholar&hl=en"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:BdDDrJS38XEJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,26",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C26&cluster=8210545444854681605&engine=google_scholar&hl=en&q=related%3ABdDDrJS38XEJ%3Ascholar.google.com%2F"
+        }
+      },
+      {
+        "position": 2,
+        "title": "Improving Low-Precision Network Quantization via Bin Regularization",
+        "result_id": "3KyxBzh74QUJ",
+        "link": "https://openaccess.thecvf.com/content/ICCV2021/html/Han_Improving_Low-Precision_Network_Quantization_via_Bin_Regularization_ICCV_2021_paper.html",
+        "snippet": "Abstract Model quantization is an important mechanism for energy-efficient deployment of deep neural networks on resource-constrained devices by reducing the bit precision of …",
+        "publication_info": {
+          "summary": "T Han, D Li, J Liu, L Tian… - Proceedings of the IEEE …, 2021 - openaccess.thecvf.com",
+          "authors": [
+            {
+              "name": "T Han"
+            },
+            {
+              "name": "D Li"
+            },
+            {
+              "name": "J Liu"
+            },
+            {
+              "name": "L Tian"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "thecvf.com",
+            "file_format": "PDF",
+            "link": "https://openaccess.thecvf.com/content/ICCV2021/papers/Han_Improving_Low-Precision_Network_Quantization_via_Bin_Regularization_ICCV_2021_paper.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=3KyxBzh74QUJ"
+        }
+      },
+      {
+        "position": 3,
+        "title": "Improving Low-Precision Network Quantization via Bin Regularization",
+        "result_id": "_EAo5xvFNIoJ",
+        "link": "https://ui.adsabs.harvard.edu/abs/2021iccv.conf..521H/abstract",
+        "snippet": "Abstract Model quantization is an important mechanism for energy-efficient deployment of deep neural networks on resource-constrained devices by reducing the bit precision of …",
+        "publication_info": {
+          "summary": "T Han, D Li, J Liu, L Tian… - 2021 IEEE/CVF …, 2021 - ui.adsabs.harvard.edu",
+          "authors": [
+            {
+              "name": "T Han"
+            },
+            {
+              "name": "D Li"
+            },
+            {
+              "name": "J Liu"
+            },
+            {
+              "name": "L Tian"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=_EAo5xvFNIoJ"
+        }
+      }
+    ]
+  }
+}

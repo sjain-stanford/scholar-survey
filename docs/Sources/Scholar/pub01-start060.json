@@ -1,0 +1,434 @@
+{
+  "source": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "google_scholar",
+    "cites": "1211587708316162333",
+    "hl": "en",
+    "num": 20,
+    "start": 60,
+    "filter": 0,
+    "as_vis": 0,
+    "as_sdt": 7
+  },
+  "accessed_at_utc": "2026-10-07T12:38:47.518376+00:00",
+  "http_status": 200,
+  "data": {
+    "search_metadata": {
+      "id": "6ac63d5771ff8c428dbf4f04",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/jLc_A6Md73AzcPLNTLWzPlD0iYUVxrxesy84rfUjOCk/6ac63d5771ff8c428dbf4f04.json",
+      "markdown_endpoint": "https://serpapi.com/searches/jLc_A6Md73AzcPLNTLWzPlD0iYUVxrxesy84rfUjOCk/6ac63d5771ff8c428dbf4f04.md",
+      "created_at": "2026-10-07 12:38:47 UTC",
+      "processed_at": "2026-10-07 12:38:47 UTC",
+      "google_scholar_url": "https://scholar.google.com/scholar?cites=1211587708316162333&hl=en&start=60&num=21&filter=0&as_sdt=7&as_vis=0&scipsc=1",
+      "raw_html_file": "https://serpapi.com/searches/jLc_A6Md73AzcPLNTLWzPlD0iYUVxrxesy84rfUjOCk/6ac63d5771ff8c428dbf4f04.html",
+      "total_time_taken": 0.45
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "cites": "1211587708316162333",
+      "hl": "en",
+      "start": 60,
+      "num": "20",
+      "filter": "0",
+      "as_sdt": "7",
+      "as_vis": "0"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 69,
+      "page_number": 4,
+      "time_taken_displayed": 0.08
+    },
+    "citations_per_year": [
+      {
+        "year": 2019,
+        "citations": 1
+      },
+      {
+        "year": 2020,
+        "citations": 10
+      },
+      {
+        "year": 2021,
+        "citations": 43
+      },
+      {
+        "year": 2022,
+        "citations": 55
+      },
+      {
+        "year": 2023,
+        "citations": 33
+      },
+      {
+        "year": 2024,
+        "citations": 39
+      },
+      {
+        "year": 2025,
+        "citations": 31
+      },
+      {
+        "year": 2026,
+        "citations": 14
+      }
+    ],
+    "profiles": {
+      "link": "https://scholar.google.com/scholar?cluster=1211587708316162333&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "FPGA‐Based Real‐Time Embedded Fish Embryo Detection System",
+        "result_id": "V7ISI0LspOoJ",
+        "link": "https://onlinelibrary.wiley.com/doi/abs/10.1155/2022/8021288",
+        "snippet": "In today's aquaculture industry, the period of fish embryos needs to be detected in real time because different periods of fish embryos require different environments for their cultivation …",
+        "publication_info": {
+          "summary": "M Wang, G Feng, M Chen, R Ye… - Mobile Information …, 2022 - Wiley Online Library",
+          "authors": [
+            {
+              "name": "M Wang"
+            },
+            {
+              "name": "G Feng"
+            },
+            {
+              "name": "M Chen"
+            },
+            {
+              "name": "R Ye"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "wiley.com",
+            "file_format": "PDF",
+            "link": "https://onlinelibrary.wiley.com/doi/pdf/10.1155/2022/8021288"
+          },
+          {
+            "title": "Full View",
+            "link": "https://scholar.google.com/scholar?output=instlink&q=info:V7ISI0LspOoJ:scholar.google.com/&hl=en&num=20&as_sdt=7,33&sciodt=7,33&scillfp=5528336813479335037&oi=lle"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=V7ISI0LspOoJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:V7ISI0LspOoJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=7%2C33&as_vis=0&cites=1211587708316162333&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AV7ISI0LspOoJ%3Ascholar.google.com%2F&start=60",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=16907898669856109143&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+            "cluster_id": "16907898669856109143",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=7%2C33&cluster=16907898669856109143&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 2,
+        "title": "End-to-End Inference Optimization for Deep Learning-based Image Upsampling Networks",
+        "result_id": "G2MGuCYj2eAJ",
+        "type": "Book",
+        "link": "https://search.proquest.com/openview/8ea043fb3d810d58607d2759b290f592/1?pq-origsite=gscholar&cbl=18750&diss=y",
+        "snippet": "Many computer vision problems require image upsampling, where the number of pixels per unit area is increased by inferring values in high-dimensional image space from …",
+        "publication_info": {
+          "summary": "I Colbert - 2023 - search.proquest.com",
+          "authors": [
+            {
+              "name": "I Colbert"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "escholarship.org",
+            "file_format": "PDF",
+            "link": "https://escholarship.org/content/qt21q014c9/qt21q014c9_noSplash_91f3f013a62c5ad3d56e208f8702e707.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=G2MGuCYj2eAJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:G2MGuCYj2eAJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=7%2C33&as_vis=0&cites=1211587708316162333&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AG2MGuCYj2eAJ%3Ascholar.google.com%2F&start=60",
+          "versions": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?cluster=16202019783645225755&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+            "cluster_id": "16202019783645225755",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=7%2C33&cluster=16202019783645225755&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 3,
+        "title": "Adaptive Rounding Compensation for Post-training Quantization",
+        "result_id": "mf8ymGRrzRwJ",
+        "link": "https://link.springer.com/chapter/10.1007/978-981-99-1642-9_7",
+        "snippet": "Network quantization can compress and accelerate deep neural networks by reducing the bit-width of network parameters so that the quantized networks can be deployed to resource …",
+        "publication_info": {
+          "summary": "J Lin, H Wang, Y Liu, SL Chen, R Zhang… - … Conference on Neural …, 2022 - Springer",
+          "authors": [
+            {
+              "name": "J Lin"
+            },
+            {
+              "name": "H Wang"
+            },
+            {
+              "name": "Y Liu"
+            },
+            {
+              "name": "SL Chen"
+            },
+            {
+              "name": "R Zhang"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=mf8ymGRrzRwJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:mf8ymGRrzRwJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=7%2C33&as_vis=0&cites=1211587708316162333&engine=google_scholar&filter=0&hl=en&num=20&q=related%3Amf8ymGRrzRwJ%3Ascholar.google.com%2F&start=60"
+        }
+      },
+      {
+        "position": 4,
+        "title": "Department of Computing",
+        "result_id": "3dopgi5F7ywJ",
+        "type": "Pdf",
+        "link": "https://scholar.archive.org/work/5nzip3j2ebc7tg5oxvpjpv7xru/access/wayback/https://spiral.imperial.ac.uk/bitstream/10044/1/101687/1/FAN-H-2023-PhD-Thesis.pdf",
+        "snippet": "This thesis proposes novel algorithm and hardware optimisation approaches to accelerate Deep Neural Networks (DNNs), including both Convolutional Neural Networks (CNNs) and …",
+        "publication_info": {
+          "summary": "H Fan - 2022 - scholar.archive.org",
+          "authors": [
+            {
+              "name": "H Fan"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "archive.org",
+            "file_format": "PDF",
+            "link": "https://scholar.archive.org/work/5nzip3j2ebc7tg5oxvpjpv7xru/access/wayback/https://spiral.imperial.ac.uk/bitstream/10044/1/101687/1/FAN-H-2023-PhD-Thesis.pdf"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=3dopgi5F7ywJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:3dopgi5F7ywJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=7%2C33&as_vis=0&cites=1211587708316162333&engine=google_scholar&filter=0&hl=en&num=20&q=related%3A3dopgi5F7ywJ%3Ascholar.google.com%2F&start=60",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=3237882723157269213&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+            "cluster_id": "3237882723157269213",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=7%2C33&cluster=3237882723157269213&engine=google_scholar&hl=en&num=20"
+          },
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:3dopgi5F7ywJ:scholar.google.com/&hl=en&num=20&as_sdt=7,33&sciodt=7,33"
+        }
+      },
+      {
+        "position": 5,
+        "title": "Efficient Hardware Approximation for Bit-Decomposition Based Deep Neural Network Accelerators",
+        "result_id": "XKjmI9CRJWAJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/9908072/",
+        "snippet": "Recently, an increasing number of embedded devices for neural network acceleration have adopted hardware approximations as they enable an efficient trade-off between …",
+        "publication_info": {
+          "summary": "T Soliman, A Eldebiky, C De La Parra… - 2022 IEEE 35th …, 2022 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "T Soliman"
+            },
+            {
+              "name": "A Eldebiky"
+            },
+            {
+              "name": "C De La Parra"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=XKjmI9CRJWAJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:XKjmI9CRJWAJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=7%2C33&as_vis=0&cites=1211587708316162333&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AXKjmI9CRJWAJ%3Ascholar.google.com%2F&start=60",
+          "versions": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cluster=6928103924920920156&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+            "cluster_id": "6928103924920920156",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=7%2C33&cluster=6928103924920920156&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 6,
+        "title": "Efficient and Quantization-Friendly Ternary Fourier Convolution Algorithms",
+        "result_id": "nce20mZP0FkJ",
+        "link": "https://openreview.net/forum?id=XXrUarMM20",
+        "snippet": "Fast convolution algorithms like Winograd and the Fourier transform are well-known for their substantial reduction in the multiplication complexity of Convolutional Neural Networks …",
+        "publication_info": {
+          "summary": "L He, L Du, Y Du - openreview.net",
+          "authors": [
+            {
+              "name": "L He"
+            },
+            {
+              "name": "L Du"
+            },
+            {
+              "name": "Y Du"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "openreview.net",
+            "file_format": "PDF",
+            "link": "https://openreview.net/pdf?id=XXrUarMM20"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=nce20mZP0FkJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:nce20mZP0FkJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=7%2C33&as_vis=0&cites=1211587708316162333&engine=google_scholar&filter=0&hl=en&num=20&q=related%3Ance20mZP0FkJ%3Ascholar.google.com%2F&start=60",
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:nce20mZP0FkJ:scholar.google.com/&hl=en&num=20&as_sdt=7,33&sciodt=7,33"
+        }
+      },
+      {
+        "position": 7,
+        "title": "An FPGA Implementation of CNN-based Compression Artifact Reduction",
+        "result_id": "ySJCosCV4pEJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10031558/",
+        "snippet": "This paper proposes a convolutional neural network (CNN) based compression artifact reduction hardware. The proposed CNN architecture is applied to re-parameterization and …",
+        "publication_info": {
+          "summary": "J Kim, JK Kang, Y Kim - 2022 19th International SoC Design …, 2022 - ieeexplore.ieee.org",
+          "authors": [
+            {
+              "name": "J Kim"
+            },
+            {
+              "name": "JK Kang"
+            },
+            {
+              "name": "Y Kim"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ySJCosCV4pEJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:ySJCosCV4pEJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=7%2C33&as_vis=0&cites=1211587708316162333&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AySJCosCV4pEJ%3Ascholar.google.com%2F&start=60",
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?cluster=10512129134824661705&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+            "cluster_id": "10512129134824661705",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=7%2C33&cluster=10512129134824661705&engine=google_scholar&hl=en&num=20"
+          }
+        }
+      },
+      {
+        "position": 8,
+        "title": "End-to-end Quantized Training via Log-Barrier Extensions",
+        "result_id": "W4p1pWu14dgJ",
+        "link": "https://openreview.net/forum?id=igkmo23BgzB",
+        "snippet": "Quantization of neural network parameters and activations has emerged as a successful approach to reducing the model size and inference time on hardware that sup-ports native …",
+        "publication_info": {
+          "summary": "JB Li, S Qu, X Li, E Strubell, F Metze - openreview.net",
+          "authors": [
+            {
+              "name": "JB Li"
+            },
+            {
+              "name": "S Qu"
+            },
+            {
+              "name": "X Li"
+            },
+            {
+              "name": "E Strubell"
+            },
+            {
+              "name": "F Metze"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "",
+            "file_format": "PDF",
+            "link": null
+          },
+          {
+            "title": "openreview.net",
+            "file_format": "PDF",
+            "link": "https://openreview.net/pdf?id=igkmo23BgzB"
+          }
+        ],
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=W4p1pWu14dgJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:W4p1pWu14dgJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=7%2C33&as_vis=0&cites=1211587708316162333&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AW4p1pWu14dgJ%3Ascholar.google.com%2F&start=60",
+          "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:W4p1pWu14dgJ:scholar.google.com/&hl=en&num=20&as_sdt=7,33&sciodt=7,33"
+        }
+      },
+      {
+        "position": 9,
+        "title": "Concatenation 을 이용한 DSP 의 4-bit 병렬 Multiply-Accumulation",
+        "result_id": "tIzNmJFZnIwJ",
+        "link": "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11227774",
+        "snippet": "요 약최근 Deep Learning 에 관한 연구가 활발하면서 FPGA 가 많은 주목을 받고 있다. FPGA 가 Deep Learning 연산 속도를 향상시키기에 적절하기때문이다. 그러나 FPGA 의 Hardware …",
+        "publication_info": {
+          "summary": "문성빈， 강도경， 이성주 - 한국통신학회 학술대회논문집, 2023 - dbpia.co.kr",
+          "authors": [
+            {
+              "name": "문성빈， 강도경， 이성주"
+            }
+          ]
+        },
+        "inline_links": {
+          "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=tIzNmJFZnIwJ",
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:tIzNmJFZnIwJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=7,33&sciodt=7,33",
+          "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=7%2C33&as_vis=0&cites=1211587708316162333&engine=google_scholar&filter=0&hl=en&num=20&q=related%3AtIzNmJFZnIwJ%3Ascholar.google.com%2F&start=60"
+        }
+      }
+    ],
+    "pagination": {
+      "current": 4,
+      "previous": "https://scholar.google.com/scholar?start=40&hl=en&num=20&as_sdt=7,33&sciodt=7,33&cites=1211587708316162333&scipsc=1",
+      "next": null,
+      "other_pages": {
+        "1": "https://scholar.google.com/scholar?start=0&hl=en&num=20&as_sdt=7,33&sciodt=7,33&cites=1211587708316162333&scipsc=1",
+        "2": "https://scholar.google.com/scholar?start=20&hl=en&num=20&as_sdt=7,33&sciodt=7,33&cites=1211587708316162333&scipsc=1",
+        "3": "https://scholar.google.com/scholar?start=40&hl=en&num=20&as_sdt=7,33&sciodt=7,33&cites=1211587708316162333&scipsc=1"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 4,
+      "previous_link": "https://serpapi.com/search.json?as_sdt=7%2C33&as_vis=0&cites=1211587708316162333&engine=google_scholar&filter=0&hl=en&num=20&start=40",
+      "previous": "https://serpapi.com/search.json?as_sdt=7%2C33&as_vis=0&cites=1211587708316162333&engine=google_scholar&filter=0&hl=en&num=20&start=40",
+      "other_pages": {
+        "1": "https://serpapi.com/search.json?as_sdt=7%2C33&as_vis=0&cites=1211587708316162333&engine=google_scholar&filter=0&hl=en&num=20&start=0",
+        "2": "https://serpapi.com/search.json?as_sdt=7%2C33&as_vis=0&cites=1211587708316162333&engine=google_scholar&filter=0&hl=en&num=20&start=20",
+        "3": "https://serpapi.com/search.json?as_sdt=7%2C33&as_vis=0&cites=1211587708316162333&engine=google_scholar&filter=0&hl=en&num=20&start=40"
+      }
+    }
+  }
+}
